@@ -10,4 +10,4 @@
 
 [Brouwerij 't IJ]()
 
-[Brouwerij Kleiburg]()
+[Brouwerij Kleiburg](breweries/NL/NH/Amsterdam/Brouwerij_Kleiburg.md)
