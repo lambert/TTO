@@ -6,7 +6,7 @@
 
 #### Amsterdam
 
-[Brouwerij Homeland](breweries/Homeland.md)
+[Brouwerij Homeland](breweries/Brouwerij_Homeland.md)
 
 [Brouwerij 't IJ]()
 
