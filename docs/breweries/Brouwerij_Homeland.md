@@ -1,4 +1,4 @@
-# [Brouwerij Homeland](https://untappd.com/Homelandbrouwerij) ![icon](icons/Brouwerij_Homeland.jpeg)
+# ![icon](icons/Brouwerij_Homeland.jpeg) [Brouwerij Homeland](https://untappd.com/Homelandbrouwerij)
 
 Amsterdam, Noord-Holland Netherlands
 
