@@ -6,4 +6,4 @@ Amsterdam, Noord-Holland Netherlands
 
 Microbrouwerij
 
-Brewery located at a former naval base.
+The brewery located at a former naval base.
