@@ -1,31 +1,31 @@
 # ![icon](../../../icons/Brouwerij_t_IJ.jpeg) [Brouwerij 't IJ]()
 
-Taproom De Molen:
+## Taproom De Molen
 
-   Funenkade 7,
+Funenkade 7,
 
-   1018 BL Amsterdam,
+1018 BL Amsterdam,
 
-   Noord-Holland,
+Noord-Holland,
 
-   Netherlands
+Netherlands
 
-   T: +31 (0)20 261 9801
+T: +31 (0)20 261 9801
 
-   E: demolen@brouwerijhetij.nl
+E: demolen@brouwerijhetij.nl
 
 
-Taproom 't Blauwe Theehuis:
+## Taproom 't Blauwe Theehuis
 
-   Vondelpark 5,
+Vondelpark 5,
 
-   1017 AA Amsterdam,
+1017 AA Amsterdam,
 
-   Noord-Holland,
+Noord-Holland,
 
-   Netherlands
+Netherlands
 
-   T: +31 (0)20 235 7170
+T: +31 (0)20 235 7170
 
-   E: blauwetheehuis@brouwerijhetij.nl
+E: blauwetheehuis@brouwerijhetij.nl
 
