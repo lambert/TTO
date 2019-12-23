@@ -10,6 +10,8 @@ Kattenburgerstraat 5,
 
 Noord-Holland,
 
-Netherlands
+Netherlands.
+
+T: +31 (0) 20 723 2555
 
 The brewery is located at a former naval base.
