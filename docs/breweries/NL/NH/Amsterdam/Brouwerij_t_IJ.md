@@ -1,5 +1,17 @@
 # ![icon](../../../icons/Brouwerij_t_IJ.jpeg) [Brouwerij 't IJ](https://untappd.com/Brouwerijhetij)
 
+## Brewery
+
+Funenkade 7,
+
+1018 BL Amsterdam,
+
+Noord-Holland,
+
+Netherlands
+
+T: +31 (0)20 261 9801
+
 ## Taproom De Molen
 
 Funenkade 7,
