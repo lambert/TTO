@@ -38,7 +38,7 @@
 
 #### Brugge
 
-- [x] (Brouwerij De Halve Maan]()
+- [x] [Brouwerij De Halve Maan]()
 
 ## United Kingdom
 
@@ -47,6 +47,10 @@
 #### Eastry
 
 - [x] [Time & Tide]()
+
+#### St Nicholas At Wade
+
+- [x] [Wantsum Brewery & Taproom]()
 
 ### North Yorkshire
 
