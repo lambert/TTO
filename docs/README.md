@@ -20,7 +20,7 @@
 
 - [ ] [Oedipus Brewing]()
 
-- [ ] [Walhalla Craft Beer]()
+- [ ] [Walhalla Craft Beer](breweries/NL/NH/Amsterdam/Walhalla_Craft_Beer.md)
 
 #### Badhoevedorp
 
