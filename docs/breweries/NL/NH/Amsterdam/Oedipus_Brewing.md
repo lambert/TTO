@@ -1,4 +1,4 @@
-# ![icon](../../../icons/Oedipus_Brewing.jpeg) [Oedipus Brewing](https://untappd.com/Oedipus)
+# ![icon](../../../icons/default.jpeg) [Oedipus Brewing](https://untappd.com/Oedipus)
 
 ## Brewery & Taproom
 
