@@ -18,7 +18,7 @@
 
 - [ ] [Bruut Bier]()
 
-- [ ] [Oedipus Brewing]()
+- [ ] [Oedipus Brewing](breweries/NL/NH/Amsterdam/Oedipus_Brewing.md)
 
 - [ ] [Walhalla Craft Beer](breweries/NL/NH/Amsterdam/Walhalla_Craft_Beer.md)
 
