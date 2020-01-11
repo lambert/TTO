@@ -46,7 +46,7 @@
 
 #### Eastry
 
-- [x] [Time & Tide]()
+- [x] [Time & Tide Brewing]()
 
 #### St Nicholas At Wade
 
