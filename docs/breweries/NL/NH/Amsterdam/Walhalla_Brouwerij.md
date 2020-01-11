@@ -1,21 +1,13 @@
 # ![icon](../../../icons/Walhalla_Brouwerij.jpeg) [Walhalla Brouwerij]()
 
-## Brewery
+## Brewery & Taproom
 
- Amsterdam,
+Spijkerkade 10,
 
-Noord-Holland,
-
-Netherlands
-
-T: +31 (0) 20
-
-## Taproom
-
- Amsterdam,
+1021 JS Amsterdam,
 
 Noord-Holland,
 
 Netherlands
 
-T: +31 (0) 20
+T: +31 (0) 6 11391675
