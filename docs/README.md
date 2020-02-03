@@ -50,7 +50,7 @@
 
 #### Brugge
 
-- [x] [Brouwerij De Halve Maan]()
+- [x] [Brouwerij De Halve Maan](breweries/B/WVL/Brugge/Brouwerij_De_Halve_Maan.md)
 
 ## United Kingdom
 
