@@ -44,7 +44,7 @@
 
 - [x] [Brouwerij De Arend](breweries/B/ANT/Antwerpen/Brouwerij_De_Arend.md)
 
-- [x] [Brouwerij De Koninck]()
+- [x] [Brouwerij De Koninck](breweries/B/ANT/Antwerpen/Brouwerij_De_Koninck.md)
 
 ### West-Vlaanderen
 
