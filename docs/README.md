@@ -12,7 +12,7 @@
 
 #### Amsterdam
 
-- [x] [Brouwerij De 7 Deugden]()
+- [x] [Brouwerij De 7 Deugden](breweries/NL/NH/Amsterdam/Brouwerij_De_7_Deugden.md)
 
 - [ ] [Brouwerij Homeland](breweries/NL/NH/Amsterdam/Brouwerij_Homeland.md)
 
