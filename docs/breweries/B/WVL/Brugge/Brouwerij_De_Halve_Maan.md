@@ -1,4 +1,4 @@
-# ![icon](../../../icons/Brouwerij_De_halve_maan.jpeg) [Brouwerij De Halve Maan](https://untappd.com/w/brouwerij-de-halve-maan/430)
+# ![icon](../../../icons/Brouwerij_De_Halve_Maan.jpeg) [Brouwerij De Halve Maan](https://untappd.com/w/brouwerij-de-halve-maan/430)
 
 ## Brewery
 
