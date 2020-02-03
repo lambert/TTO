@@ -1,4 +1,4 @@
-# ![icon](../../../../icons/default.png) [Brouwerij De Arend](https://untappd.com/w/brouwerij-de-arend/11738)
+# ![icon](../../../icons/default.png) [Brouwerij De Arend](https://untappd.com/w/brouwerij-de-arend/11738)
 
 ## Brewery
 
