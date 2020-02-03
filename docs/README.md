@@ -6,9 +6,9 @@
 
 #### Amstelveen
 
--[ ] [Naeckte Brouwers](breweries/NL/NH/Amstelveen/Naeckte_Brouwers.md)
+- [ ] [Naeckte Brouwers](breweries/NL/NH/Amstelveen/Naeckte_Brouwers.md)
 
--[ ] [Pontus Brewing](breweries/NL/NH/Amstelveen/Pontus_Brewing.md)
+- [ ] [Pontus Brewing](breweries/NL/NH/Amstelveen/Pontus_Brewing.md)
 
 #### Amsterdam
 
@@ -34,7 +34,7 @@
 
 #### Uithoorn
 
--[x] [Brouwerij De Schans](breweries/NL/NH/Uithoorn/Brouwerij_De_Schans.md)
+- [x] [Brouwerij De Schans](breweries/NL/NH/Uithoorn/Brouwerij_De_Schans.md)
 
 ## Belgium
 
