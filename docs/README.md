@@ -4,6 +4,12 @@
 
 ### North Holland
 
+#### Amstelveen
+
+-[ ] [Naeckte Brouwers](breweries/NL/NH/Amstelveen/Naeckte_Brouwers.md)
+
+-[ ] [Pontus Brewing](breweries/NL/NH/Amstelveen/Pontus_Brewing.md)
+
 #### Amsterdam
 
 - [x] [Brouwerij De 7 Deugden]()
@@ -24,7 +30,11 @@
 
 #### Badhoevedorp
 
-- [x] [Brouwerij De School]()
+- [x] [Brouwerij De School](breweries/NL/NH/Badhoevedorp/Brouwerij_De_School.md)
+
+#### Uithoorn
+
+-[x] [Brouwerij De Schans](breweries/NL/NH/Uithoorn/Brouwerij_De_Schans.md)
 
 ## Belgium
 
