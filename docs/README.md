@@ -32,6 +32,8 @@
 
 #### Antwerpen
 
+- [x] [Brouwerij De Arend](breweries/B/ANT/Brouwerij_De_Arend.md)
+
 - [x] [Brouwerij De Koninck]()
 
 ### West-Vlaanderen
