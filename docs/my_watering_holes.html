@@ -1,0 +1,391 @@
+<!DOCTYPE html>
+<html xmlns="https://www.w3.org/1999/xhtml">
+	<head>
+		<title>GPS data</title>
+		<base target="_top"></base>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<meta name="viewport" content="initial-scale=1.0, user-scalable=no">
+		<meta name="geo.position" content="9.7807998; 14.8593695" />
+		<meta name="ICBM" content="9.7807998, 14.8593695" />
+	</head>
+	<body style="margin:0px;">
+		
+		<script type="text/javascript">
+			API = 'google'; // can be either 'leaflet' or 'google'
+			if (self.API && API.match(/^g/i)) {
+				google_api_key = ''; // Your project's Google Maps API key goes here (https://code.google.com/apis/console)
+				language_code = '';
+				document.writeln('<script src="https://maps.googleapis.com/maps/api/js?v=3&amp;libraries=geometry&amp;language='+(self.language_code?self.language_code:'')+'&amp;key='+(self.google_api_key?self.google_api_key:'')+'" type="text/javascript"><'+'/script>');
+			} else {
+				document.writeln('<link href="https://unpkg.com/leaflet/dist/leaflet.css" rel="stylesheet" />');
+				document.writeln('<script src="https://unpkg.com/leaflet/dist/leaflet.js" type="text/javascript"><'+'/script>');
+			}
+			thunderforest_api_key = ''; // To display OpenStreetMap tiles from ThunderForest, you need a key (https://www.thunderforest.com/docs/apikeys/)
+			ign_api_key = ''; // To display topo tiles from IGN.fr, you need a key (https://api.ign.fr/)
+		</script>
+
+		
+		<!--
+			If you want to transplant this map into another Web page, by far the best method is to
+			simply include it in a IFRAME tag (see https://www.gpsvisualizer.com/faq.html#google_html).
+			But, if you must paste the code into another page, be sure to include all of these parts:
+			   1. The "div" tags that contain the map and its widgets, below
+			   2. Three sections of JavaScript code:
+			      a. The API code (from googleapis.com or unpkg.com/leaflet), above
+			      b. "gv_options" and the code that calls a .js file on gpsvisualizer.com
+			      c. The "GV_Map" function, which contains all the geographic info for the map
+		-->
+		<div style="margin-left:0px; margin-right:0px; margin-top:0px; margin-bottom:0px;">
+			<div id="gmap_div" style="width:700px; height:350px; margin:0px; margin-right:12px; background-color:#f0f0f0; float:left; overflow:hidden;">
+				<p style="text-align:center; font:10px Arial;">This map was created using <a target="_blank" href="https://www.gpsvisualizer.com/">GPS Visualizer</a>'s do-it-yourself geographic utilities.<br /><br />Please wait while the map data loads...</p>
+			</div>
+				
+			<div id="gv_infobox" class="gv_infobox" style="font:11px Arial; border:solid #666666 1px; background-color:#ffffff; padding:4px; overflow:auto; display:none; max-width:400px;">
+				<!-- Although GPS Visualizer didn't create an legend/info box with your map, you can use this space for something else if you'd like; enable it by setting gv_options.infobox_options.enabled to true -->
+			</div>
+
+
+
+			<div id="gv_marker_list" class="gv_marker_list" style="background-color:#ffffff; overflow:auto; display:none;"><!-- --></div>
+
+			<div id="gv_clear_margins" style="height:0px; clear:both;"><!-- clear the "float" --></div>
+		</div>
+
+		
+		<!-- begin GPS Visualizer setup script (must come after loading of API code) -->
+		<script type="text/javascript">
+			/* Global variables used by the GPS Visualizer functions (20200419074714): */
+			gv_options = {};
+			
+			// basic map parameters:
+			gv_options.center = [9.780799805,14.8593695];  // [latitude,longitude] - be sure to keep the square brackets
+			gv_options.zoom = 1;  // higher number means closer view; can also be 'auto' for automatic zoom/center based on map elements
+			gv_options.map_type = 'GV_OSM';  // popular map_type choices are 'GV_STREET', 'GV_SATELLITE', 'GV_HYBRID', 'GV_TERRAIN', 'GV_OSM', 'GV_TOPO_US', 'GV_TOPO_WORLD' (https://www.gpsvisualizer.com/misc/google_map_types.html)
+			gv_options.map_opacity = 1.00;  // number from 0 to 1
+			gv_options.full_screen = true;  // true|false: should the map fill the entire page (or frame)?
+			gv_options.width = 700;  // width of the map, in pixels
+			gv_options.height = 350;  // height of the map, in pixels
+			
+			gv_options.map_div = 'gmap_div';  // the name of the HTML "div" tag containing the map itself; usually 'gmap_div'
+			gv_options.doubleclick_zoom = true;  // true|false: zoom in when mouse is double-clicked?
+			gv_options.doubleclick_center = true;  // true|false: re-center the map on the point that was double-clicked?
+			gv_options.scroll_zoom = true; // true|false; or 'reverse' for down=in and up=out
+			gv_options.page_scrolling = true; // true|false; does the map relenquish control of the scroll wheel when embedded in scrollable pages?
+			gv_options.autozoom_adjustment = 0;
+			gv_options.centering_options = { 'open_info_window':true, 'partial_match':true, 'center_key':'center', 'default_zoom':null } // URL-based centering (e.g., ?center=name_of_marker&zoom=14)
+			gv_options.street_view = false; // true|false: allow Google Street View on the map (Google Maps only)
+			gv_options.tilt = false; // true|false: allow Google Maps to show 45-degree tilted aerial imagery?
+			gv_options.disable_google_pois = false;  // true|false: if you disable clickable POIs on Google Maps, you also lose the labels on parks, airports, etc.
+			gv_options.animated_zoom = true; // true|false: only affects Leaflet maps
+			
+			// widgets on the map:
+			gv_options.zoom_control = 'large'; // 'large'|'small'|'none'
+			gv_options.recenter_button = true; // true|false: is there a 'click to recenter' button above the zoom control?
+			gv_options.geolocation_control = false; // true|false; only works on secure servers
+			gv_options.scale_control = true; // true|false
+			gv_options.map_opacity_control = 'utilities';  // 'map'|'utilities'|'both'|false: where does the opacity control appear?
+			gv_options.map_type_control = {};  // widget to change the background map
+			  gv_options.map_type_control.placement = 'both'; // 'map'|'utilities'|'both'|false: where does the map type control appear?
+			  gv_options.map_type_control.filter = false;  // true|false: when map loads, are irrelevant maps ignored?
+			  gv_options.map_type_control.excluded = [];  // comma-separated list of quoted map IDs that will never show in the list ('included' also works)
+			gv_options.center_coordinates = true;  // true|false: show a "center coordinates" box and crosshair?
+			gv_options.measurement_tools = 'both'; // 'map'|'utilities'|'both'|false: where does the measurement ruler appear?
+			gv_options.measurement_options = { visible:false, distance_color:'', area_color:'' };
+			gv_options.crosshair_hidden = true;  // true|false: hide the crosshair initially?
+			gv_options.mouse_coordinates = false;  // true|false: show a "mouse coordinates" box?
+			gv_options.utilities_menu = { 'maptype':true, 'opacity':true, 'measure':true, 'geolocate':true, 'profile':false, 'export':true };
+			gv_options.allow_export = false;  // true|false
+			
+			gv_options.infobox_options = {}; // options for a floating info box (id="gv_infobox"), which can contain anything
+			  gv_options.infobox_options.enabled = true;  // true|false: enable or disable the info box altogether
+			  gv_options.infobox_options.position = ['LEFT_TOP',52,6];  // [Google anchor name, relative x, relative y]
+			  gv_options.infobox_options.draggable = true;  // true|false: can it be moved around the screen?
+			  gv_options.infobox_options.collapsible = true;  // true|false: can it be collapsed by double-clicking its top bar?
+
+			// marker-related options:
+			gv_options.default_marker = { color:'red',icon:'googlemini',scale:1 }; // icon can be a URL, but be sure to also include size:[w,h] and optionally anchor:[x,y]
+			gv_options.vector_markers = false; // are the icons on the map in embedded SVG format?
+			gv_options.marker_tooltips = true; // do the names of the markers show up when you mouse-over them?
+			gv_options.marker_shadows = true; // true|false: do the standard markers have "shadows" behind them?
+			gv_options.marker_link_target = '_blank'; // the name of the window or frame into which markers' URLs will load
+			gv_options.info_window_width = 0;  // in pixels, the width of the markers' pop-up info "bubbles" (can be overridden by 'window_width' in individual markers)
+			gv_options.thumbnail_width = 0;  // in pixels, the width of the markers' thumbnails (can be overridden by 'thumbnail_width' in individual markers)
+			gv_options.photo_size = [0,0];  // in pixels, the size of the photos in info windows (can be overridden by 'photo_width' or 'photo_size' in individual markers)
+			gv_options.hide_labels = false;  // true|false: hide labels when map first loads?
+			gv_options.labels_behind_markers = false; // true|false: are the labels behind other markers (true) or in front of them (false)?
+			gv_options.label_offset = [0,0];  // [x,y]: shift all markers' labels (positive numbers are right and down)
+			gv_options.label_centered = false;  // true|false: center labels with respect to their markers?  (label_left is also a valid option.)
+			gv_options.driving_directions = false;  // put a small "driving directions" form in each marker's pop-up window? (override with dd:true or dd:false in a marker's options)
+			gv_options.garmin_icon_set = 'gpsmap'; // 'gpsmap' are the small 16x16 icons; change it to '24x24' for larger icons
+			gv_options.marker_list_options = {};  // options for a dynamically-created list of markers
+			  gv_options.marker_list_options.enabled = false;  // true|false: enable or disable the marker list altogether
+			  gv_options.marker_list_options.floating = true;  // is the list a floating box inside the map itself?
+			  gv_options.marker_list_options.position = ['RIGHT_BOTTOM',6,38];  // floating list only: position within map
+			  gv_options.marker_list_options.min_width = 160; // minimum width, in pixels, of the floating list
+			  gv_options.marker_list_options.max_width = 160;  // maximum width
+			  gv_options.marker_list_options.min_height = 0;  // minimum height, in pixels, of the floating list
+			  gv_options.marker_list_options.max_height = 135;  // maximum height
+			  gv_options.marker_list_options.draggable = true;  // true|false, floating list only: can it be moved around the screen?
+			  gv_options.marker_list_options.collapsible = true;  // true|false, floating list only: can it be collapsed by double-clicking its top bar?
+			  gv_options.marker_list_options.include_tickmarks = false;  // true|false: are distance/time tickmarks included in the list?
+			  gv_options.marker_list_options.include_trackpoints = false;  // true|false: are "trackpoint" markers included in the list?
+			  gv_options.marker_list_options.dividers = false;  // true|false: will a thin line be drawn between each item in the list?
+			  gv_options.marker_list_options.desc = false;  // true|false: will the markers' descriptions be shown below their names in the list?
+			  gv_options.marker_list_options.icons = true;  // true|false: should the markers' icons appear to the left of their names in the list?
+			  gv_options.marker_list_options.thumbnails = false;  // true|false: should markers' thumbnails be shown in the list?
+			  gv_options.marker_list_options.folders_collapsed = false;  // true|false: do folders in the list start out in a collapsed state?
+			  gv_options.marker_list_options.folders_hidden = false;  // true|false: do folders in the list start out in a hidden state?
+			  gv_options.marker_list_options.collapsed_folders = []; // an array of folder names
+			  gv_options.marker_list_options.hidden_folders = []; // an array of folder names
+			  gv_options.marker_list_options.count_folder_items = false;  // true|false: list the number of items in each folder?
+			  gv_options.marker_list_options.wrap_names = true;  // true|false: should marker's names be allowed to wrap onto more than one line?
+			  gv_options.marker_list_options.unnamed = '[unnamed]';  // what 'name' should be assigned to  unnamed markers in the list?
+			  gv_options.marker_list_options.colors = false;  // true|false: should the names/descs of the points in the list be colorized the same as their markers?
+			  gv_options.marker_list_options.default_color = '';  // default HTML color code for the names/descs in the list
+			  gv_options.marker_list_options.limit = 0;  // how many markers to show in the list; 0 for no limit
+			  gv_options.marker_list_options.center = false;  // true|false: does the map center upon a marker when you click its name in the list?
+			  gv_options.marker_list_options.zoom = false;  // true|false: does the map zoom to a certain level when you click on a marker's name in the list?
+			  gv_options.marker_list_options.zoom_level = 10;  // if 'zoom' is true, what level should the map zoom to?
+			  gv_options.marker_list_options.info_window = true;  // true|false: do info windows pop up when the markers' names are clicked in the list?
+			  gv_options.marker_list_options.url_links = false;  // true|false: do the names in the list become instant links to the markers' URLs?
+			  gv_options.marker_list_options.toggle = false;  // true|false: does a marker disappear if you click on its name in the list?
+			  gv_options.marker_list_options.help_tooltips = false;  // true|false: do "tooltips" appear on marker names that tell you what happens when you click?
+			  gv_options.marker_list_options.id = 'gv_marker_list';  // id of a DIV tag that holds the list
+			  gv_options.marker_list_options.header = ''; // HTML code; be sure to put backslashes in front of any single quotes, and don't include any line breaks
+			  gv_options.marker_list_options.footer = ''; // HTML code
+			gv_options.marker_filter_options = {};  // options for removing waypoints that are out of the current view
+			  gv_options.marker_filter_options.enabled = false;  // true|false: should out-of-range markers be removed?
+			  gv_options.marker_filter_options.movement_threshold = 8;  // in pixels, how far the map has to move to trigger filtering
+			  gv_options.marker_filter_options.limit = 0;  // maximum number of markers to display on the map; 0 for no limit
+			  gv_options.marker_filter_options.update_list = true;  // true|false: should the marker list be updated with only the filtered markers?
+			  gv_options.marker_filter_options.sort_list_by_distance = false;  // true|false: should the marker list be sorted by distance from the center of the map?
+			  gv_options.marker_filter_options.min_zoom = 0;  // below this zoom level, don't show any markers at all
+			  gv_options.marker_filter_options.zoom_message = '';  // message to put in the marker list if the map is below the min_zoom threshold
+			gv_options.synthesize_fields = {}; // for example: {label:'{name}'} would cause all markers' names to become visible labels
+				
+
+			
+			// Load GPS Visualizer's mapping functions (this must be loaded AFTER gv_options are set):
+			var script_file = (self.API && API == 'google') ? 'google_maps/functions3.js' : 'leaflet/functions.js';
+			if (document.location.protocol == 'https:') { // secure pages require secure scripts
+				document.writeln('<script src="https://www.gpsvisualizer.com/'+script_file+'" type="text/javascript"><'+'/script>');
+			} else {
+				document.writeln('<script src="http://maps.gpsvisualizer.com/'+script_file+'" type="text/javascript"><'+'/script>');
+			}
+		</script>
+		<style type="text/css">
+			/* Put any custom style definitions here (e.g., .gv_marker_info_window, .gv_marker_info_window_name, .gv_marker_list_item, .gv_tooltip, .gv_label, etc.) */
+			#gmap_div .gv_marker_info_window {
+				font-size:11px !important;
+			}
+			#gmap_div .gv_label {
+				opacity:0.90; filter:alpha(opacity=90);
+				color:white; background:#333333; border:1px solid black; padding:1px;
+				font:9px Verdana !important;
+				font-weight:normal !important;
+			}
+			.legend_block {
+				display:inline-block; border:solid 1px black; width:9px; height:9px; margin:0px 2px 0px 0px;
+			}
+			
+		</style>
+		
+		<!-- end GPSV setup script and styles; begin map-drawing script (they must be separate) -->
+		<script type="text/javascript">
+			function GV_Map() {
+				GV_Setup_Map();
+				
+				
+				
+				GV_Draw_Marker({lat:-37.8093108,lon:145.0029949,name:'Foster\'s Group',desc:'macro brewery',color:'green',icon:'circle'});
+				GV_Draw_Marker({lat:50.1510207,lon:5.7458485,name:'Brasserie d\'Achouffe',desc:'',color:'green',icon:'circle'});
+				GV_Draw_Marker({lat:52.2560386,lon:-1.8514326,name:'Purity Brewing Co. (England)',desc:'',color:'green',icon:'circle'});
+				GV_Draw_Marker({lat:50.8778917,lon:5.3070512,name:'Brouwerij Alken-Maes',desc:'',color:'green',icon:'circle'});
+				GV_Draw_Marker({lat:56.5505226,lon:14.1286686,name:'IKEA',desc:'retail',color:'green',icon:'circle'});
+				GV_Draw_Marker({lat:52.3046538,lon:4.8470246,name:'Naeckte Brouwers',desc:'',color:'green',icon:'circle'});
+				GV_Draw_Marker({lat:52.2900559,lon:4.8400924,name:'Urban Colors Brewery',desc:'micro brewery',color:'green',icon:'cross'});
+				GV_Draw_Marker({lat:52.3701706,lon:4.8952545,name:'Apple Bandit Cider',desc:'',color:'green',icon:'circle'});
+				GV_Draw_Marker({lat:52.3419387,lon:4.7924684,name:'Brouwerij De 7 Deugden',desc:'',color:'green',icon:'star'});
+				GV_Draw_Marker({lat:52.3729841,lon:4.9166745,name:'Brouwerij Homeland',desc:'micro brewery',color:'green',icon:'circle'});
+				GV_Draw_Marker({lat:52.3034590,lon:4.9513796,name:'Brouwerij Kleiburg',desc:'',color:'green',icon:'circle'});
+				GV_Draw_Marker({lat:52.3667339,lon:4.9264731,name:'Brouwerij \'t IJ',desc:'micro brewery',color:'green',icon:'star'});
+				GV_Draw_Marker({lat:52.3588466,lon:4.8725705,name:'Brouwerij \'t IJ - Taproom \'t Blauwe Theehuis',desc:'taproom',color:'green',icon:'star'});
+				GV_Draw_Marker({lat:52.3631220,lon:4.9287783,name:'Brouwerij Zeeburg',desc:'micro brewery',color:'red',icon:'circle'});
+				GV_Draw_Marker({lat:52.3634753,lon:4.9402711,name:'Bruut Bier - Taproom Amsterdam Oost',desc:'taproom',color:'green',icon:'circle'});
+				GV_Draw_Marker({lat:52.3683828,lon:4.9526911,name:'Bruut Brouwcafe',desc:'brewpub',color:'red',icon:'circle'});
+				GV_Draw_Marker({lat:52.3945277,lon:4.8669619,name:'Gebrouwen Door Vrouwen',desc:'',color:'green',icon:'square'});
+				GV_Draw_Marker({lat:52.3625305,lon:4.8643324,name:'Gebrouwen Door Vrouwen - Taproom',desc:'taproom',color:'green',icon:'circle'});
+				GV_Draw_Marker({lat:52.3547825,lon:4.8936352,name:'Launitas Brewing Company - Amsterdam Taproom',desc:'taproom',color:'green',icon:'circle'});
+				GV_Draw_Marker({lat:52.3961203,lon:4.8676881,name:'Lowlander Beer',desc:'micro brewery',color:'green',icon:'square'});
+				GV_Draw_Marker({lat:52.3432854,lon:4.8256047,name:'Pontus Brewing',desc:'',color:'green',icon:'circle'});
+				GV_Draw_Marker({lat:52.3851847,lon:4.9206229,name:'Walhalla Craft Beer',desc:'micro brewery',color:'green',icon:'circle'});
+				GV_Draw_Marker({lat:51.1835672,lon:4.3654218,name:'Brouwerij De Arend',desc:'',color:'green',icon:'star'});
+				GV_Draw_Marker({lat:51.4861037,lon:6.1733572,name:'Hertog Jan',desc:'',color:'green',icon:'circle'});
+				GV_Draw_Marker({lat:38.0939549,lon:23.7937751,name:'Olympic Brewery',desc:'',color:'green',icon:'circle'});
+				GV_Draw_Marker({lat:52.5857223,lon:-1.5594884,name:'ALDI Stores UK',desc:'retail',color:'green',icon:'circle'});
+				GV_Draw_Marker({lat:52.5331043,lon:1.0496947,name:'Wolf Brewery',desc:'',color:'green',icon:'circle'});
+				GV_Draw_Marker({lat:50.6976927,lon:5.8050116,name:'Brasserie de l\'Abbaye du Val Dieu',desc:'',color:'green',icon:'circle'});
+				GV_Draw_Marker({lat:52.3272274,lon:4.8143856,name:'Brouwerij De School',desc:'',color:'green',icon:'star'});
+				GV_Draw_Marker({lat:53.2200780,lon:-1.6858584,name:'Thornbridge Brewery',desc:'',color:'green',icon:'circle'});
+				GV_Draw_Marker({lat:13.7917600,lon:100.5156602,name:'Boon Rawd Brewing',desc:'',color:'green',icon:'circle'});
+				GV_Draw_Marker({lat:50.8628302,lon:3.2988107,name:'Brouwerij De Brabandere',desc:'',color:'green',icon:'circle'});
+				GV_Draw_Marker({lat:52.1319221,lon:-0.4816156,name:'Eagle Brewery (formerly Charles Wells)',desc:'',color:'green',icon:'circle'});
+				GV_Draw_Marker({lat:51.1993454,lon:4.4152327,name:'Brouwerij De Koninck',desc:'',color:'green',icon:'star'});
+				GV_Draw_Marker({lat:51.5435423,lon:5.1287456,name:'Bierbrouwerij De Koningshoeve',desc:'macro brewery',color:'green',icon:'circle'});
+				GV_Draw_Marker({lat:52.5160587,lon:-1.8714660,name:'Aston Manor Ciders',desc:'',color:'green',icon:'circle'});
+				GV_Draw_Marker({lat:50.8519596,lon:-2.1640122,name:'Badger Beers (Hall & Woodhouse)',desc:'',color:'green',icon:'circle'});
+				GV_Draw_Marker({lat:38.4360867,lon:27.2382621,name:'Türk Tuborg',desc:'',color:'green',icon:'circle'});
+				GV_Draw_Marker({lat:51.5976199,lon:4.7832570,name:'Brouwerij Frontaal',desc:'micro brewery',color:'green',icon:'circle'});
+				GV_Draw_Marker({lat:51.4513131,lon:-2.4637738,name:'Bath Ales',desc:'',color:'green',icon:'circle'});
+				GV_Draw_Marker({lat:51.3567251,lon:1.4129574,name:'Gadds\' The Ramsgate Brewery',desc:'',color:'green',icon:'circle'});
+				GV_Draw_Marker({lat:51.2024339,lon:3.2242294,name:'Brouwerij De Halve Maan',desc:'',color:'green',icon:'circle'});
+				GV_Draw_Marker({lat:51.2103827,lon:3.2336744,name:'De Gouden Boom',desc:'',color:'green',icon:'circle'});
+				GV_Draw_Marker({lat:50.8459350,lon:4.3568548,name:'Brewdog - Taproom Bruxelles',desc:'taproom',color:'green',icon:'star'});
+				GV_Draw_Marker({lat:51.0232491,lon:4.1581928,name:'Brouwerij Malheur',desc:'',color:'green',icon:'circle'});
+				GV_Draw_Marker({lat:-24.8522432,lon:152.3814157,name:'Bundaberg Brewed Drinks Pty Ltd',desc:'',color:'green',icon:'circle'});
+				GV_Draw_Marker({lat:52.8058652,lon:-1.6590144,name:'Marston\'s Brewery',desc:'',color:'green',icon:'circle'});
+				GV_Draw_Marker({lat:52.8047149,lon:-1.6269036,name:'Molson Coors (UK)',desc:'',color:'green',icon:'circle'});
+				GV_Draw_Marker({lat:52.2409071,lon:0.7174163,name:'Greene King',desc:'',color:'green',icon:'circle'});
+				GV_Draw_Marker({lat:53.2451818,lon:-1.8969949,name:'Buxton Brewery',desc:'brewery',color:'green',icon:'circle'});
+				GV_Draw_Marker({lat:53.2590665,lon:-1.9152644,name:'Buxton Brewery - Taproom',desc:'taproom',color:'green',icon:'diamond'});
+				GV_Draw_Marker({lat:35.7767444,lon:-78.8022923,name:'Fortnight Brewing and Pub',desc:'brewery',color:'green',icon:'circle'});
+				GV_Draw_Marker({lat:53.3409580,lon:-6.2211462,name:'Rye River Brewing Company',desc:'',color:'green',icon:'circle'});
+				GV_Draw_Marker({lat:51.2581665,lon:1.0155369,name:'The Canterbury Ales',desc:'',color:'green',icon:'circle'});
+				GV_Draw_Marker({lat:41.8869364,lon:-87.6733911,name:'Goose Island Beer Co. - Fulton St Brewery',desc:'brewery',color:'green',icon:'circle'});
+				GV_Draw_Marker({lat:41.8870157,lon:-87.6722188,name:'Goose Island Beer Co. - Fulton St Taproom',desc:'taproom',color:'green',icon:'circle'});
+				GV_Draw_Marker({lat:41.9769204,lon:-87.8973950,name:'Goose Island Beer Co. - O\'Hare International Airport Taproom',desc:'taproom',color:'green',icon:'circle'});
+				GV_Draw_Marker({lat:39.7233088,lon:-121.8160860,name:'Sierra Nevada Brewing Co.',desc:'brewery',color:'green',icon:'square'});
+				GV_Draw_Marker({lat:39.7245637,lon:-121.8148841,name:'Sierra Nevada Brewing Co. - Chico Taproom',desc:'taproom',color:'green',icon:'circle'});
+				GV_Draw_Marker({lat:52.3608027,lon:-7.6507021,name:'Magners Irish Cider',desc:'',color:'green',icon:'circle'});
+				GV_Draw_Marker({lat:53.1491738,lon:-0.8077457,name:'Milestone Brewery',desc:'',color:'green',icon:'circle'});
+				GV_Draw_Marker({lat:51.2303981,lon:1.4041906,name:'Deal Angling Club 1919',desc:'club',color:'green',icon:'triangle'});
+				GV_Draw_Marker({lat:51.2229365,lon:1.4003301,name:'Queen Street Tap',desc:'pub',color:'green',icon:'triangle'});
+				GV_Draw_Marker({lat:51.1861885,lon:1.4047311,name:'The Zetland Arms',desc:'pub',color:'red',icon:'triangle'});
+				GV_Draw_Marker({lat:51.2253279,lon:1.4043540,name:'The Boathouse Bar & Restaurant',desc:'bar & restaurant',color:'red',icon:'triangle'});
+				GV_Draw_Marker({lat:51.2230833,lon:1.4016161,name:'The Sir Norman Wisdom',desc:'pub',color:'green',icon:'triangle'});
+				GV_Draw_Marker({lat:51.2223909,lon:1.4034254,name:'The Taphouse Beer Cafe',desc:'pub',color:'green',icon:'triangle'});
+				GV_Draw_Marker({lat:52.0667745,lon:4.3466790,name:'Kompaan Bier / Brouwerij Kompaan',desc:'',color:'green',icon:'circle'});
+				GV_Draw_Marker({lat:39.7736519,lon:-104.9769660,name:'Blue Moon Brewing Company',desc:'brewery',color:'green',icon:'circle'});
+				GV_Draw_Marker({lat:39.7537585,lon:-104.9885047,name:'Great Divide Brewing Co.',desc:'brewery',color:'red',icon:'circle'});
+				GV_Draw_Marker({lat:39.7713337,lon:-104.9797811,name:'Mockery Brewing',desc:'brewery',color:'red',icon:'circle'});
+				GV_Draw_Marker({lat:50.7344581,lon:3.2995294,name:'Brouwerij De Ranke',desc:'',color:'green',icon:'circle'});
+				GV_Draw_Marker({lat:51.1351790,lon:1.2998135,name:'Breakwater Brewery & Taproom',desc:'brewpub',color:'red',icon:'circle'});
+				GV_Draw_Marker({lat:51.1262634,lon:1.3178025,name:'The White Horse',desc:'pub',color:'red',icon:'triangle'});
+				GV_Draw_Marker({lat:51.1250669,lon:1.3211842,name:'Marine Court',desc:'bar & restaurant',color:'red',icon:'triangle'});
+				GV_Draw_Marker({lat:51.1252158,lon:1.3207513,name:'Premier Inn Dover Central',desc:'hotel',color:'red',icon:'triangle'});
+				GV_Draw_Marker({lat:53.3450265,lon:-6.2882468,name:'Guinness Brewery - Diageo',desc:'',color:'green',icon:'circle'});
+				GV_Draw_Marker({lat:51.2534193,lon:1.3198246,name:'Time and Tide Brewing',desc:'',color:'green',icon:'star'});
+				GV_Draw_Marker({lat:51.4369631,lon:5.4772500,name:'Van Moll',desc:'',color:'green',icon:'circle'});
+				GV_Draw_Marker({lat:57.3709104,lon:-2.0546344,name:'Brewdog - Ellon Brewery',desc:'brewery',color:'green',icon:'circle'});
+				GV_Draw_Marker({lat:52.2062316,lon:6.8168042,name:'Koninklijke Grolsch',desc:'',color:'green',icon:'circle'});
+				GV_Draw_Marker({lat:51.4628072,lon:7.0712312,name:'ALDI Stores Germany North',desc:'retail',color:'green',icon:'circle'});
+				GV_Draw_Marker({lat:51.3166743,lon:0.8917081,name:'Shepherd Neame',desc:'',color:'green',icon:'circle'});
+				GV_Draw_Marker({lat:55.2595509,lon:12.1152611,name:'Royal Unibrew',desc:'',color:'green',icon:'circle'});
+				GV_Draw_Marker({lat:42.2841524,lon:-85.4554051,name:'Bell\'s Brewery - Comstock Brewery',desc:'brewery',color:'green',icon:'circle'});
+				GV_Draw_Marker({lat:50.5578265,lon:4.6411650,name:'Bertinchamps',desc:'',color:'green',icon:'circle'});
+				GV_Draw_Marker({lat:42.9583796,lon:-85.6741052,name:'Founders Brewing Co.',desc:'brewery',color:'green',icon:'circle'});
+				GV_Draw_Marker({lat:50.8146382,lon:5.8906166,name:'Gulpener Bierbrouwerij',desc:'',color:'green',icon:'circle'});
+				GV_Draw_Marker({lat:52.3958333,lon:4.6636322,name:'Jopen',desc:'micro brewery',color:'green',icon:'circle'});
+				GV_Draw_Marker({lat:52.3973879,lon:4.6646864,name:'Uiltje Brewery & Bottleshop',desc:'micro brewery',color:'green',icon:'circle'});
+				GV_Draw_Marker({lat:52.3828799,lon:4.6306383,name:'Uiltje Brewing Company - Uiltje Craft Beer bar',desc:'Taproom',color:'green',icon:'circle'});
+				GV_Draw_Marker({lat:56.6764819,lon:12.8557456,name:'Krönleins Bryggeri',desc:'brewery',color:'green',icon:'circle'});
+				GV_Draw_Marker({lat:52.5182239,lon:4.6833804,name:'Tiecelijn',desc:'',color:'green',icon:'circle'});
+				GV_Draw_Marker({lat:52.0613973,lon:-2.7261913,name:'Bulmers Cider',desc:'',color:'green',icon:'circle'});
+				GV_Draw_Marker({lat:54.9799868,lon:-2.0840609,name:'Fentimans',desc:'',color:'green',icon:'circle'});
+				GV_Draw_Marker({lat:10.7586460,lon:106.6633560,name:'Saigon Brewery - NCT',desc:'',color:'green',icon:'circle'});
+				GV_Draw_Marker({lat:50.7778284,lon:4.8863356,name:'Brouwerij Hoegaarden',desc:'',color:'green',icon:'circle'});
+				GV_Draw_Marker({lat:53.5701391,lon:-1.7871137,name:'Magic Rock Brewing - Taproom Holmfirth',desc:'taproom',color:'green',icon:'diamond'});
+				GV_Draw_Marker({lat:53.6558112,lon:-1.7868121,name:'Magic Rock Brewing',desc:'brewery',color:'green',icon:'circle'});
+				GV_Draw_Marker({lat:52.3053562,lon:5.2390236,name:'Lidl Nederland',desc:'retail',color:'green',icon:'circle'});
+				GV_Draw_Marker({lat:53.7320036,lon:-0.3619738,name:'Yorkshire Brewhouse',desc:'',color:'yellow',icon:'star'});
+				GV_Draw_Marker({lat:54.1641042,lon:-0.3607977,name:'Wold Top Brewery',desc:'',color:'green',icon:'circle'});
+				GV_Draw_Marker({lat:51.0671920,lon:1.0331668,name:'Hop Fuzz Brewery',desc:'',color:'red',icon:'circle'});
+				GV_Draw_Marker({lat:51.0675966,lon:1.0327254,name:'Unit Number 1 Brewery',desc:'',color:'red',icon:'circle'});
+				GV_Draw_Marker({lat:50.6202939,lon:3.7590732,name:'Brasserie des Légendes',desc:'',color:'green',icon:'circle'});
+				GV_Draw_Marker({lat:42.2947701,lon:-85.5790102,name:'Bell\'s Brewery - Kalamazoo Taproom',desc:'taproom',color:'green',icon:'circle'});
+				GV_Draw_Marker({lat:53.7419980,lon:-0.3336576,name:'Atom Beers',desc:'',color:'green',icon:'star'});
+				GV_Draw_Marker({lat:50.9103532,lon:4.2498819,name:'Brouwerij Mort Subite',desc:'',color:'green',icon:'circle'});
+				GV_Draw_Marker({lat:51.1361905,lon:4.4472158,name:'Brouwerij Mokke',desc:'',color:'green',icon:'circle'});
+				GV_Draw_Marker({lat:50.5022081,lon:4.1098919,name:'Brasserie St-Feuillien',desc:'',color:'green',icon:'circle'});
+				GV_Draw_Marker({lat:53.7890306,lon:-1.5662472,name:'Nothern Monk - Sydenham Road',desc:'brewery',color:'green',icon:'circle'});
+				GV_Draw_Marker({lat:53.7906991,lon:-1.5541767,name:'Nothern Monk - The Old Flax Store',desc:'brewery',color:'green',icon:'circle'});
+				GV_Draw_Marker({lat:50.8865810,lon:4.7067685,name:'Abbaye de Leffe',desc:'',color:'green',icon:'circle'});
+				GV_Draw_Marker({lat:50.8865810,lon:4.7067685,name:'Stella Artois',desc:'macro brewery',color:'green',icon:'circle'});
+				GV_Draw_Marker({lat:51.5171881,lon:5.6078073,name:'Royal Swinkels Family Brewers',desc:'',color:'green',icon:'circle'});
+				GV_Draw_Marker({lat:52.5680664,lon:4.6989744,name:'Dampegheest',desc:'nano brewery',color:'green',icon:'circle'});
+				GV_Draw_Marker({lat:38.8826774,lon:-9.0569943,name:'Sociedade Central de Cervejas e Bebidas SA',desc:'brewery',color:'green',icon:'circle'});
+				GV_Draw_Marker({lat:53.4008732,lon:-2.8171541,name:'Halewood International Ltd (John Crabbie & Co)',desc:'',color:'green',icon:'circle'});
+				GV_Draw_Marker({lat:51.5907428,lon:-0.0567680,name:'Beavertown',desc:'',color:'green',icon:'circle'});
+				GV_Draw_Marker({lat:51.4888389,lon:-0.0535129,name:'Fourpure Brewing Co.',desc:'',color:'green',icon:'circle'});
+				GV_Draw_Marker({lat:51.4876965,lon:-0.2492896,name:'Fuller\'s Brewery',desc:'',color:'green',icon:'circle'});
+				GV_Draw_Marker({lat:51.4214764,lon:-0.2094265,name:'Lidl UK',desc:'retail',color:'green',icon:'circle'});
+				GV_Draw_Marker({lat:51.4286652,lon:-0.0893797,name:'London Beer Factory',desc:'',color:'green',icon:'circle'});
+				GV_Draw_Marker({lat:51.5047154,lon:-0.1003755,name:'Toast Ale Ltd',desc:'brewery',color:'green',icon:'circle'});
+				GV_Draw_Marker({lat:51.5839006,lon:-0.0086978,name:'Wild Card Brewery',desc:'',color:'green',icon:'circle'});
+				GV_Draw_Marker({lat:50.8501017,lon:5.6974002,name:'Stadsbrouwerij De Ridder (Wieckse)',desc:'',color:'green',icon:'circle'});
+				GV_Draw_Marker({lat:49.4960582,lon:8.4903772,name:'Privatbrauerei Eichbaum',desc:'',color:'green',icon:'circle'});
+				GV_Draw_Marker({lat:51.0006697,lon:3.8054088,name:'Brouwerij Huyghe - Main Brewery',desc:'',color:'green',icon:'circle'});
+				GV_Draw_Marker({lat:40.7513534,lon:-74.0064441,name:'Toast Ale USA',desc:'',color:'green',icon:'circle'});
+				GV_Draw_Marker({lat:50.9708675,lon:4.1914139,name:'Affligem Brouwerij',desc:'',color:'green',icon:'circle'});
+				GV_Draw_Marker({lat:51.7599668,lon:5.5579424,name:'Muifelbrouwerij',desc:'',color:'green',icon:'circle'});
+				GV_Draw_Marker({lat:50.8462097,lon:3.6165992,name:'Brouwerij Liefmans',desc:'',color:'green',icon:'circle'});
+				GV_Draw_Marker({lat:53.0446722,lon:4.8279734,name:'Texelse Bierbrouwerij',desc:'micro brewery',color:'green',icon:'circle'});
+				GV_Draw_Marker({lat:38.2726941,lon:-122.6619637,name:'Lagunitas Brewing Company - Brewery',desc:'brewery',color:'green',icon:'square'});
+				GV_Draw_Marker({lat:38.2720658,lon:-122.6626767,name:'Lagunitas Brewing Company - Petaluma Taproom',desc:'taproom',color:'green',icon:'circle'});
+				GV_Draw_Marker({lat:52.5560990,lon:-0.2601788,name:'Oakham Ales',desc:'',color:'green',icon:'circle'});
+				GV_Draw_Marker({lat:51.3317548,lon:-1.7758801,name:'Three Castles Brewery',desc:'',color:'green',icon:'circle'});
+				GV_Draw_Marker({lat:-34.8445687,lon:138.5095842,name:'Pirate Life Brewing',desc:'',color:'green',icon:'circle'});
+				GV_Draw_Marker({lat:43.6616883,lon:-70.2486274,name:'Shipyard Brewing Company',desc:'brewery',color:'green',icon:'circle'});
+				GV_Draw_Marker({lat:41.2115386,lon:-8.6264295,name:'Unicer Bebidas',desc:'brewery',color:'green',icon:'circle'});
+				GV_Draw_Marker({lat:50.0682890,lon:14.4067034,name:'Pivovary Staropramen',desc:'',color:'green',icon:'circle'});
+				GV_Draw_Marker({lat:52.5040254,lon:4.9457494,name:'Berging Brouwerij',desc:'micro brewery',color:'green',icon:'square'});
+				GV_Draw_Marker({lat:51.0427538,lon:4.3262133,name:'Duvel Moortgat',desc:'',color:'green',icon:'circle'});
+				GV_Draw_Marker({lat:36.0811363,lon:120.3430151,name:'Tsingtao (青岛啤酒) Brewery',desc:'macro brewery',color:'green',icon:'circle'});
+				GV_Draw_Marker({lat:54.3532323,lon:13.2007874,name:'Rügener Insel Brauerei',desc:'',color:'green',icon:'circle'});
+				GV_Draw_Marker({lat:50.8408895,lon:-1.7871724,name:'Ringwood Brewery',desc:'',color:'green',icon:'circle'});
+				GV_Draw_Marker({lat:50.5515867,lon:-4.8916164,name:'Sharp\'s Brewery',desc:'',color:'green',icon:'circle'});
+				GV_Draw_Marker({lat:54.2902739,lon:-0.4055765,name:'North Riding Brewpub',desc:'',color:'red',icon:'circle'});
+				GV_Draw_Marker({lat:54.2665506,lon:-0.4211673,name:'Scarborough Brewery',desc:'',color:'green',icon:'star'});
+				GV_Draw_Marker({lat:51.6852981,lon:5.2889844,name:'Bossche Stadsbrouwerij Jongens van De Wit',desc:'brewpub',color:'red',icon:'circle'});
+				GV_Draw_Marker({lat:51.6900515,lon:5.2880579,name:'iKi beer',desc:'',color:'green',icon:'circle'});
+				GV_Draw_Marker({lat:51.1449361,lon:4.1827475,name:'Den Ouden Advokaat',desc:'',color:'green',icon:'circle'});
+				GV_Draw_Marker({lat:50.3418838,lon:-4.7879462,name:'St Austell Brewery',desc:'',color:'green',icon:'circle'});
+				GV_Draw_Marker({lat:51.1502813,lon:1.3843487,name:'The Coastguard',desc:'pub',color:'red',icon:'triangle'});
+				GV_Draw_Marker({lat:51.3568097,lon:1.2435914,name:'Wantsum Brewery',desc:'',color:'green',icon:'star'});
+				GV_Draw_Marker({lat:50.9964662,lon:4.2689701,name:'Brouwerij Palm',desc:'',color:'green',icon:'circle'});
+				GV_Draw_Marker({lat:51.1959734,lon:1.3420752,name:'Ripple Steam Brewery',desc:'',color:'red',icon:'cross'});
+				GV_Draw_Marker({lat:27.9590208,lon:-82.5092231,name:'Cigar City Brewing',desc:'brewery',color:'green',icon:'circle'});
+				GV_Draw_Marker({lat:-6.1618419,lon:106.6842537,name:'PT Multi Bintang Indonesia Tbk.',desc:'',color:'green',icon:'circle'});
+				GV_Draw_Marker({lat:36.4209511,lon:25.4347749,name:'Volkan Santorini Beer',desc:'',color:'green',icon:'circle'});
+				GV_Draw_Marker({lat:35.7097976,lon:139.8002940,name:'Asahi Breweries',desc:'',color:'green',icon:'circle'});
+				GV_Draw_Marker({lat:35.6431989,lon:139.7146003,name:'Sapporo Breweries',desc:'',color:'green',icon:'circle'});
+				GV_Draw_Marker({lat:50.5706388,lon:3.6518807,name:'Brasserie Dupont',desc:'',color:'green',icon:'circle'});
+				GV_Draw_Marker({lat:50.3119843,lon:-5.1332669,name:'Healey\'s Cornish Cider Farm',desc:'',color:'green',icon:'circle'});
+				GV_Draw_Marker({lat:52.2316888,lon:4.8294005,name:'Brouwerij De Schans',desc:'micro brewery',color:'green',icon:'star'});
+				GV_Draw_Marker({lat:50.8154896,lon:4.2127617,name:'Brouwerij Lindemans',desc:'',color:'green',icon:'circle'});
+				GV_Draw_Marker({lat:50.8306712,lon:5.8940556,name:'Koninklijke Brand Bierbrouwerij',desc:'',color:'green',icon:'circle'});
+				GV_Draw_Marker({lat:53.7191653,lon:-0.0184635,name:'Great Newsome Brewery',desc:'',color:'green',icon:'star'});
+				GV_Draw_Marker({lat:51.7831883,lon:-1.4882199,name:'Wychwood Brewery',desc:'',color:'green',icon:'circle'});
+				GV_Draw_Marker({lat:51.3760057,lon:-0.8945308,name:'Siren Craft Brew',desc:'',color:'green',icon:'circle'});
+				GV_Draw_Marker({lat:52.5851295,lon:-2.1357423,name:'Bank\'s Beer',desc:'',color:'green',icon:'circle'});
+				GV_Draw_Marker({lat:35.4907596,lon:139.6633892,name:'Kirin Brewery Company - Yokohama',desc:'',color:'green',icon:'circle'});
+				GV_Draw_Marker({lat:52.4352802,lon:4.8162269,name:'Brouwers',desc:'',color:'green',icon:'square'});
+				GV_Draw_Marker({lat:52.4763254,lon:4.8113795,name:'Brouwerij Breugem',desc:'micro brewery',color:'green',icon:'square'});
+				GV_Draw_Marker({lat:52.4761390,lon:4.8110204,name:'Brouwerij Hoop',desc:'micro brewery',color:'green',icon:'circle'});
+				GV_Draw_Marker({lat:52.1375202,lon:4.5346863,name:'Heineken',desc:'',color:'green',icon:'circle'});
+				GV_Draw_Marker({lat:51.3278871,lon:0.4099805,name:'Kent Brewery',desc:'',color:'green',icon:'circle'});
+				GV_Draw_Marker({lat:38.5200535,lon:24.1072757,name:'Septem Microbrewery',desc:'micro brewery',color:'green',icon:'circle'});
+				GV_Draw_Marker({lat:14.3736110,lon:100.4855560,name:'Thai Beverage PLC',desc:'',color:'green',icon:'circle'});
+				
+				GV_Finish_Map();
+					
+			}
+			GV_Map(); // execute the above code
+			// https://www.gpsvisualizer.com/map_input?bg_map=google_openstreetmap&form=google&format=google&trk_opacity=100&units=metric
+		</script>
+		
+		
+		
+	</body>
+
+</html>
