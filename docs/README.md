@@ -1,3 +1,7 @@
+# Watering Holes
+
+![my watering holes](my_watering_holes.html)
+
 # Breweries
 
 ## Netherlands
