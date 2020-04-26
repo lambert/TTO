@@ -69,7 +69,3 @@
 #### Scarbourough
 
 - [x] [Scarborough Brewery]()
-
-# Watering Holes
-
-[my watering holes](my_watering_holes.html)
