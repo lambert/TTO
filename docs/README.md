@@ -58,7 +58,7 @@
 
 #### Eastry
 
-- [x] [Time & Tide Brewing]()
+- [x] [Time & Tide Brewing](breweries/UK/Kent/Eastry/Time_and_Tide_Brewing.md)
 
 #### St Nicholas At Wade
 
