@@ -1,3 +1,3 @@
-# Bert's Brewery Book
+# Bert's Beer Book
 
-Let's put all this beer brewery stuff in a book.
+Let's put all this beer stuff in a book.
