@@ -1,4 +1,4 @@
-# ![icon](../../../icons/Time_and_Tide_Brewing.jpeg) [Brouwerij De Schans](https://untappd.com/TimeAndTide)
+# ![icon](../../../icons/Time_and_Tide_Brewing.jpeg) [Time and Tide Brewing](https://untappd.com/TimeAndTide)
 
 Statenborough Farm,
 
