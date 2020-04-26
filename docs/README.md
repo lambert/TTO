@@ -62,7 +62,7 @@
 
 #### St Nicholas At Wade
 
-- [x] [Wantsum Brewery & Taproom]()
+- [x] [Wantsum Brewery & Taproom](breweries/UK/Kent/St_Nicholas_At_Wade/Wantsum_Brewery_and_Taproom.md)
 
 ### North Yorkshire
 
