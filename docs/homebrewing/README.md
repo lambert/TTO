@@ -2,4 +2,4 @@
 
 ## [Recipes](recipes/README.md)
 
-## Batches
+## [Batches](batches/README.md)
