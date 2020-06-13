@@ -2,11 +2,11 @@
 
 ## Preparation
 
-[Brew day sheet](./Batch#1_01_Brouwpunt_Witbier_brew_day_sheet.pdf)
+[Brew day sheet](./Batch_1_01_Brouwpunt_Witbier_brew_day_sheet.pdf)
 
-[Checklist](./Batch#1_01_Brouwpunt_Witbier_checklist.pdf)
+[Checklist](./Batch_1_01_Brouwpunt_Witbier_checklist.pdf)
 
-[Results](./Batch#1_01_Brouwpunt_Witbier_results.pdf)
+[Results](./Batch_1_01_Brouwpunt_Witbier_results.pdf)
 
 ## Brew day
 
