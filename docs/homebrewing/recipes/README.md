@@ -3,9 +3,11 @@
 ## Brew kits (to get started)
 
 ![01](logo/01_Brouwpunt_Witbier.jpeg)
+
 [01 Brouwpunt - Witbier](01_Brouwpunt_Witbier.pdf)
 
 ![02](logo/02_Brouwpunt_Kruidig_Wit.jpeg)
+
 [02 Brouwpunt - Kruidig Wit](02_Brouwpunt_Kruidig_Wit.pdf)
 
 ## Single Malt and Single Hop (SMaSH) experiments
