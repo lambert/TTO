@@ -1,4 +1,4 @@
-# Batch #1 - 01 Brouwpunt Witbier
+# Batch #1 - 01 Brouwpunt - Witbier
 
 ## Preparation
 
