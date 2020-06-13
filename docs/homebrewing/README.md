@@ -1,5 +1,5 @@
 # My Homebrewing
 
-## Recipes
+## [Recipes](recipes/README.md)
 
 ## Batches
