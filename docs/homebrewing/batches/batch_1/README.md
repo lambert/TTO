@@ -1,5 +1,13 @@
 # Batch #1 - 01 Brouwpunt Witbier
 
+## Preparation
+
+[Brew day sheet](./Batch#1_01_Brouwpunt_Witbier_brew_day_sheet.pdf)
+
+[Checklist](./Batch#1_01_Brouwpunt_Witbier_checklist.pdf)
+
+[Results](./Batch#1_01_Brouwpunt_Witbier_results.pdf)
+
 ## Brew day
 
 21.05.2020 11.00: 5L water to 72 C. 
