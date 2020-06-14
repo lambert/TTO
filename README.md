@@ -1,3 +1,3 @@
 # Bert's Beer Book
 
-Let's put all this beer stuff in a book.
+Let's put all this beer stuff in a [book](docs/README.md).
