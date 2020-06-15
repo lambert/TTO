@@ -50,6 +50,4 @@
 
 ## German
 
-![11](logo/11_Ich_Weiss_Es_Nicht.jpeg)
-
 [11 Ich Weiss Es Nicht Mehr](11_Ich_Weiss_Es_Nicht_Mehr.pdf)
