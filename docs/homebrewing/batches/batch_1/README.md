@@ -8,6 +8,26 @@
 
 [Results](./Batch_1_01_Brouwpunt_Witbier_results.pdf)
 
+## Milestones
+
+21.05.2020 11.00: Brewing.
+
+21.05.2020 17.01: Fermenting.
+
+01.06.2020 12.27: Conditioning.
+
+16.07.2020 21.05: Completed.
+
+18.07.2020 18.58: Archived.
+
+## Tasting notes
+
+14.06.2020 16.25: opened a half filled bottle, gave a small puff, poured hazy with some small bubbles and no foamy head, no lagging, slightly darker color than expected, tasted sour and boozy, very light carbonation.
+
+05.07.2020: light foam which dissolves quickly, very light carbonation, little hint of orange, sour.
+
+18.07.2020: cooled and served @ 7 C, light carbonation, no foam, sour taste.
+
 ## Brew day
 
 21.05.2020 11.00: 5L water to 72 C. 
@@ -535,13 +555,3 @@
 16.07.2020 12.52: @ 19.2 C.
 
 16.07.2020 16.43: @ 19.4 C.
-
-16.07.2020 21.05: Completed.
-
-## Tasting notes
-
-14.06.2020 16.25: opened a half filled bottle, gave a small puff, poured hazy with some small bubbles and no foamy head, no lagging, slightly darker color than expected, tasted sour and boozy, very light carbonation.
-
-05.07.2020: light foam which dissolves quickly, very light carbonation, little hint of orange, sour.
-
-18.07.2020: cooled and served @ 7 C, light carbonation, no foam, sour taste.
