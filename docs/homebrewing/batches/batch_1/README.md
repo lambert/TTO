@@ -464,7 +464,7 @@
 
 01.07.2020 23.21: @ 20.1 C.
 
-## Day 30 in conditioning
+## Day 31 in conditioning
 
 02.07.2020 07.43: @ 20.0 C.
 
@@ -472,7 +472,7 @@
 
 02.07.2020 23.49: @ 20.7 C.
 
-## Day 31 in conditioning
+## Day 32 in conditioning
 
 03.07.2020 07.54: @ 20.2 C.
 
@@ -480,7 +480,7 @@
 
 03.07.2020 23.22: @ 20.5 C.
 
-## Day 32 in conditioning
+## Day 33 in conditioning
 
 04.07.2020 08.47: @ 20.9 C.
 
@@ -490,6 +490,50 @@
 
 04.07.2020 11.16: @ 21.6 C.
 
-## Day 33 in conditioning
+## Day 34 in conditioning
 
 05.07.2020 07.41: @ 21.9 C.
+
+05.07.2020 15.10: very light carbonation, little hint of orange, sour, 
+
+05.07.2020 15.23: @ 22.2 C.
+
+## Day 35 in conditioning
+
+06.07.2020 16.24: @ 18.8 C.
+
+## Day 36 in conditioning
+
+07.07.2020 13.17: @ 17.6 C.
+
+## Day 37 in conditioning
+
+08.07.2020 22.15: @ 17.9 C.
+
+## Day 38 in conditioning
+
+09.07.2020 21.44: @ 19.0 C.
+
+## Day 41 in conditioning
+
+12.07.2020 17.03: @ 18.3 C.
+
+## Day 43 in conditioning
+
+14.07.2020 19.44: @ 20.0 C.
+
+## Day 44 in conditioning
+
+15.07.2020 12.30: @ 18.0 C.
+
+15.07.2020 16.28: @ 18.4 C.
+
+15.07.2020 21.14: @ 19.7 C.
+
+## Day 45 in conditioning
+
+16.07.2020 12.52: @ 19.2 C.
+
+16.07.2020 16.43: @ 19.4 C.
+
+16.07.2020 21.05: Completed.
