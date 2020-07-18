@@ -537,3 +537,11 @@
 16.07.2020 16.43: @ 19.4 C.
 
 16.07.2020 21.05: Completed.
+
+## Tasting notes
+
+14.06.2020 16.25: opened a half filled bottle, gave a small puff, poured hazy with some small bubbles and no foamy head, no lagging, slightly darker color than expected, tasted sour and boozy, very light carbonation.
+
+05.07.2020: light foam which dissolves quickly, very light carbonation, little hint of orange, sour.
+
+18.07.2020: cooled and served @ 7 C, light carbonation, no foam, sour taste.
