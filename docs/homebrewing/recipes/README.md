@@ -42,7 +42,7 @@
 
 [09 09_American Wheat Beer](09_09_American_Wheat_Beer/README.md)
 
-## Kentish/English
+## British
 
 ![10](10_Brexit_ESB/10_Brexit_ESB.jpeg)
 
@@ -50,6 +50,6 @@
 
 ## German
 
-![11])(11_Ich_Weiss_Es_Nicht/11_Ich_Weiss_Es_Nicht.jpeg)
+![11](11_Ich_Weiss_Es_Nicht/11_Ich_Weiss_Es_Nicht.jpeg)
 
 [11 Ich Weiss Es Nicht](11_Ich_Weiss_Es_Nicht/README.md)
