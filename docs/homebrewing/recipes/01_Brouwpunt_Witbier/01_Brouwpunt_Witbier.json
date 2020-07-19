@@ -1,0 +1,820 @@
+{
+  "_version": "2.3.0",
+  "fermentablesTotalAmount": 1.29,
+  "styleCarb": false,
+  "path": "",
+  "style": {
+    "category": "Belgian Ale",
+    "buGuMax": 0.42,
+    "styleLetter": "A",
+    "name": "Witbier",
+    "carbonationStyle": "24A",
+    "fgMin": 1.008,
+    "ogMax": 1.052,
+    "_id": "default-82",
+    "lovibondMin": 2,
+    "ibuMin": 8,
+    "colorMin": 2,
+    "lovibondMax": 4,
+    "carbMax": null,
+    "abvMax": 5.5,
+    "categoryNumber": "24",
+    "ibuMax": 20,
+    "styleGuide": "BJCP 2015",
+    "abvMin": 4.5,
+    "rbrMin": 0.17,
+    "buGuMin": 0.17,
+    "fgMax": 1.012,
+    "type": "Wheat Beer",
+    "colorMax": 4,
+    "ogMin": 1.044,
+    "rbrMax": 0.43,
+    "carbMin": null
+  },
+  "avgWeightedHopstandTemp": 80,
+  "mashEfficiency": 84,
+  "fgFormula": "normal",
+  "miscs": [
+    {
+      "type": "Spice",
+      "userNotes": "",
+      "use": "Boil",
+      "amountPerL": null,
+      "amount": 5,
+      "unit": "g",
+      "notes": "",
+      "timeIsDays": false,
+      "substitutes": "",
+      "name": "Orange Peel, Bitter",
+      "_id": "default-3a51cd",
+      "time": 5
+    }
+  ],
+  "ogPlato": 14.5,
+  "fermentableIbu": 0,
+  "styleBuGu": true,
+  "ibuFormula": "tinseth",
+  "ibu": 18.3,
+  "sumDryHopPerLiter": 0,
+  "carbonationStyle": {
+    "carbMin": 2.6,
+    "carbMax": 3.4,
+    "name": "Witbier",
+    "_id": "24A"
+  },
+  "batchSize": 5,
+  "hops": [
+    {
+      "type": "Pellet",
+      "name": "Saaz",
+      "_created": {
+        "seconds": 1588941618,
+        "nanoseconds": 727000000
+      },
+      "year": null,
+      "usedIn": "",
+      "amount": 10,
+      "use": "Boil",
+      "timeUnit": null,
+      "_timestamp": {
+        "seconds": 1591012449,
+        "nanoseconds": 230000000
+      },
+      "usage": "Aroma",
+      "alpha": 5.5,
+      "userNotes": "Brouwpunt (NL)",
+      "_id": "default-9414e938",
+      "time": 30,
+      "origin": "",
+      "_timestamp_ms": 1591012449230,
+      "inventory": 10,
+      "_version": "2.2.1",
+      "ibu": 18.3,
+      "temp": null,
+      "substitutes": "",
+      "notes": ""
+    }
+  ],
+  "thumb": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABIAEgDASIAAhEBAxEB/8QAGwABAAIDAQEAAAAAAAAAAAAAAAcIBAUGAgP/xAAxEAABBAECBAUCBQUBAAAAAAABAAIDBBEFIQYHEjETFCJBUWGBFRcycZEIIyRicqH/xAAXAQEBAQEAAAAAAAAAAAAAAAAAAQMC/8QAHREBAQEAAgIDAAAAAAAAAAAAAAERAxITMSEiYf/aAAwDAQACEQMRAD8AtSiIgIiICIiAiIgIiICLlKvE75+I59PFZ7Wshjk8Un0HqcRgfXtv74PwtfzN5hDgaXTYxo9nU33I7EvTBK1hjZCwPefV39JJ+yT7ekl307tFF35wUjxbS0lmj3XUrTqcbb4ezpY61H1xBzO/yDjOMFYDOeNN0OtznQbrIKNWW3We6Zn+XHFMIX7D9B6j2PwuutVMCKLxzeq/irKkmkWGRO1Cxp5nMzcB8UAmzj/YHH2Wv/PCm7SJL8OiWpI4tIh1WRonaOnxZhE2Pt3yc5+idaJgRRHJzrqxUvEm0G7FajZf8xXfMzMMlVrXOZkZDs9QwR2WZZ5wafBbsVnabP48Mmmt6fFb6m3GtIcP+C4A/PsnWiUEXB8Kce3Ne401bh+Xhq7R/DSRPaknY5rc7x7Df1t3H/qKWYOB4epyu17TempN5KO+Ht6roNBh6h6o3d3O+G5z2+V8f6p3V22uGvN3JKkZq6mGyRu6S5/gt6Wfs52Gke4cQt5pfBWsV+MIXnR6UTYbXmDcEhMHR1d2RZ2ft9tthsVKt2OaS/UArwy1x1GRz2glp2xjKz4r1+ay4pkuqwQteebuhT6o11fTGSaK2zXjHhtjsGqfAJHsA8EY+uFz0BNnRuIqsDXyWaOhajHaja09ULjqAcA4ex6d/wBlbd7Lzqkr31a7rJl2w0HLR+k7nvn+N1kCKZtqz4dWBrZGZLw0et2BgH3O+e/thbeT8a6qzrrvOcs+JOINLcJYq/FIsQWGg9L2PgbC4g/GXj+FhaFpFihyo5km+MT0XU9Ia74EU4cR/LwrZ6VBKdNbFeq1ojk/2Y2joAztt2+q8wR2BXYLVeB5llzK1jRgDGxOe5zhO5qt/N3h2nwNV06KS9Zs+eo6vJLct46p7U0bMD0gAE4AAC57inSLTuNTqLC9jaU+gVrMR2wJIIy3I+j4wPurX2WWZq9kS14pHtlHgBzGuAGRh257jc/K93I7GLhhrxOcRGWFzR6iDvnffHtlJyYajbQNZ07QeZ3M29q9qOrVE2mRGR+cdT4i1o2+SQikvwpXag4PghNR8bS5xaOpzwds/si52UZ6IigIiICIiAiIgIiICIiAiIgIiICIiAiIg//Z",
+  "boilTime": 60,
+  "data": {
+    "mashFermentablesAmount": 1.26,
+    "mashFermentables": [
+      {
+        "type": "Grain",
+        "notes": "BEST Pilsen Malt gives beer a fresh and rounded taste. It is used for all types of beers based on basically berley malt. It forms an excellent “light” and enzyme-rich foundation for almost all beer styles.  Malt characteristics: low protein levels, high extract content, light color and high enzymatic activity. BEST Pilsen Malt is also available in organic quality.",
+        "inventory": 0.63,
+        "ibuPerAmount": null,
+        "_timestamp": {
+          "seconds": 1591012348,
+          "nanoseconds": 558000000
+        },
+        "protein": null,
+        "_timestamp_ms": 1591012348558,
+        "supplier": "Brouwpunt (NL)",
+        "origin": "Germany",
+        "notFermentable": false,
+        "percentage": 48.84,
+        "grainCategory": "Base (Pilsner)",
+        "color": 1.77665,
+        "substitutes": "",
+        "usedIn": "",
+        "attenuation": null,
+        "moisture": null,
+        "_version": "2.2.1",
+        "name": "Pilsen Malt",
+        "_created": {
+          "seconds": 1590069058,
+          "nanoseconds": 619000000
+        },
+        "diastaticPower": null,
+        "potential": 1.038088,
+        "amount": 0.63,
+        "userNotes": "Brouwpunt (NL)",
+        "_id": "default-724b650",
+        "costPerAmount": null,
+        "potentialPercentage": 82.8
+      },
+      {
+        "supplier": "Brouwpunt (NL)",
+        "_created": {
+          "seconds": 1590069060,
+          "nanoseconds": 737000000
+        },
+        "type": "Grain",
+        "origin": "Germany",
+        "notes": "BEST Wheat Malt emphasises the effervescent freshness and the typical top-fermented flavor of wheat beer. It is produced from high quality brewing wheat. Malting processes adapted to the raw material highlight the particular qualities of this malt.",
+        "userNotes": "Brouwpunt (NL)",
+        "costPerAmount": 3.1,
+        "_id": "default-bfaf755",
+        "potentialPercentage": 83.5,
+        "_timestamp_ms": 1593618504231,
+        "diastaticPower": null,
+        "grainCategory": "Base (Wheat)",
+        "notFermentable": false,
+        "potential": 1.03841,
+        "moisture": null,
+        "color": 2.436548,
+        "_version": "2.3.0",
+        "protein": null,
+        "amount": 0.63,
+        "substitutes": "",
+        "ibuPerAmount": null,
+        "attenuation": 0.74,
+        "usedIn": "",
+        "inventory": 0.63,
+        "_timestamp": {
+          "seconds": 1593618504,
+          "nanoseconds": 231000000
+        },
+        "percentage": 48.84,
+        "name": "Wheat Flaked"
+      }
+    ],
+    "otherFermentablesAmount": 0.03,
+    "otherFermentables": [
+      {
+        "amount": 0.03,
+        "notFermentable": false,
+        "ibuPerAmount": null,
+        "name": "Sugar, Table (Sucrose)",
+        "potentialPercentage": 100,
+        "supplier": "",
+        "attenuation": 1.22,
+        "origin": "",
+        "potential": 1.046,
+        "moisture": null,
+        "notes": "",
+        "usedIn": "",
+        "protein": null,
+        "substitutes": "",
+        "costPerAmount": null,
+        "time": null,
+        "use": "Bottling",
+        "userNotes": "",
+        "type": "Sugar",
+        "percentage": 2.33,
+        "diastaticPower": null,
+        "_id": "default-132c22b",
+        "inventory": null,
+        "color": 1.015228
+      }
+    ],
+    "mashWaterAmount": 4.28,
+    "spargeWaterAmount": 4.48,
+    "mashVolumeSurplus": 0,
+    "topUpWater": 0,
+    "hltWaterAmount": 4.48,
+    "totalWaterAmount": 8.76,
+    "hopsAmount": 10,
+    "strikeTemp": null,
+    "mashVolume": 5.1242
+  },
+  "buGuRatio": 0.31,
+  "nutrition": {
+    "calories": {
+      "alcohol": 31.56154436021258,
+      "carbs": 24.598708471420725,
+      "total": 56.16025283163331,
+      "kJ": 234.97449784755378
+    },
+    "carbs": {
+      "total": 6.1712586503490705
+    }
+  },
+  "rbRatio": 0.29,
+  "yeasts": [
+    {
+      "amount": 0.5,
+      "manufacturingDate": null,
+      "flocculation": "Medium",
+      "description": "General purpose ale yeast with neutral flavor profiles. Its low attenuation gives beers with a very good length on the palate. Particularly recommended for specialty ales and trappist type beers. Yeast with a medium sedimentation: forms no clumps but a powdery haze when resuspended in the beer.",
+      "attenuation": 70,
+      "userNotes": "",
+      "minTemp": 15,
+      "unit": "pkg",
+      "form": "Dry",
+      "laboratory": "Fermentis",
+      "type": "Wheat",
+      "starter": null,
+      "maxAbv": null,
+      "name": "SafBrew Ale",
+      "fermentsAll": false,
+      "_id": "default-32f790",
+      "productId": "S-33",
+      "maxTemp": 20,
+      "starterSize": null
+    }
+  ],
+  "_type": "recipe",
+  "styleOg": false,
+  "fgEstimated": 1.017,
+  "_timestamp_ms": 1595153449662,
+  "mash": {
+    "_version": "2.3.0",
+    "_timestamp": {
+      "seconds": 1594912240,
+      "nanoseconds": 922000000
+    },
+    "_timestamp_ms": 1594912240922,
+    "name": "01 One Step Mash (60 min)",
+    "steps": [
+      {
+        "stepTemp": 67,
+        "type": "Temperature",
+        "stepTime": 60,
+        "rampTime": null,
+        "displayStepTemp": 67
+      }
+    ],
+    "_created": {
+      "seconds": 1592329902,
+      "nanoseconds": 204000000
+    },
+    "_id": "6jpuQsHCfaiAn3GQJSrfqHXEFQtXW2"
+  },
+  "styleFg": false,
+  "_timestamp": "2020-07-19T10:10:49.662Z",
+  "color": 3.7,
+  "fg": 1.017,
+  "hopStandMinutes": 0,
+  "tags": null,
+  "postBoilGravity": 1.056304746,
+  "firstWortGravity": null,
+  "preBoilGravity": 1.047,
+  "searchTags": [
+    "Witbier",
+    "Pilsen Malt",
+    "Wheat Malt",
+    "Saaz",
+    "Orange Peel",
+    "Fermentis S-33"
+  ],
+  "yeastToleranceExceededBy": null,
+  "primaryTemp": 20,
+  "fermentables": [
+    {
+      "type": "Grain",
+      "notes": "BEST Pilsen Malt gives beer a fresh and rounded taste. It is used for all types of beers based on basically berley malt. It forms an excellent “light” and enzyme-rich foundation for almost all beer styles.  Malt characteristics: low protein levels, high extract content, light color and high enzymatic activity. BEST Pilsen Malt is also available in organic quality.",
+      "inventory": 0.63,
+      "ibuPerAmount": null,
+      "_timestamp": {
+        "seconds": 1591012348,
+        "nanoseconds": 558000000
+      },
+      "protein": null,
+      "_timestamp_ms": 1591012348558,
+      "supplier": "Brouwpunt (NL)",
+      "origin": "Germany",
+      "notFermentable": false,
+      "percentage": 48.84,
+      "grainCategory": "Base (Pilsner)",
+      "color": 1.77665,
+      "substitutes": "",
+      "usedIn": "",
+      "attenuation": null,
+      "moisture": null,
+      "_version": "2.2.1",
+      "name": "Pilsen Malt",
+      "_created": {
+        "seconds": 1590069058,
+        "nanoseconds": 619000000
+      },
+      "diastaticPower": null,
+      "potential": 1.038088,
+      "amount": 0.63,
+      "userNotes": "Brouwpunt (NL)",
+      "_id": "default-724b650",
+      "costPerAmount": null,
+      "potentialPercentage": 82.8
+    },
+    {
+      "supplier": "Brouwpunt (NL)",
+      "_created": {
+        "seconds": 1590069060,
+        "nanoseconds": 737000000
+      },
+      "type": "Grain",
+      "origin": "Germany",
+      "notes": "BEST Wheat Malt emphasises the effervescent freshness and the typical top-fermented flavor of wheat beer. It is produced from high quality brewing wheat. Malting processes adapted to the raw material highlight the particular qualities of this malt.",
+      "userNotes": "Brouwpunt (NL)",
+      "costPerAmount": 3.1,
+      "_id": "default-bfaf755",
+      "potentialPercentage": 83.5,
+      "_timestamp_ms": 1593618504231,
+      "diastaticPower": null,
+      "grainCategory": "Base (Wheat)",
+      "notFermentable": false,
+      "potential": 1.03841,
+      "moisture": null,
+      "color": 2.436548,
+      "_version": "2.3.0",
+      "protein": null,
+      "amount": 0.63,
+      "substitutes": "",
+      "ibuPerAmount": null,
+      "attenuation": 0.74,
+      "usedIn": "",
+      "inventory": 0.63,
+      "_timestamp": {
+        "seconds": 1593618504,
+        "nanoseconds": 231000000
+      },
+      "percentage": 48.84,
+      "name": "Wheat Flaked"
+    },
+    {
+      "amount": 0.03,
+      "notFermentable": false,
+      "ibuPerAmount": null,
+      "name": "Sugar, Table (Sucrose)",
+      "potentialPercentage": 100,
+      "supplier": "",
+      "attenuation": 1.22,
+      "origin": "",
+      "potential": 1.046,
+      "moisture": null,
+      "notes": "",
+      "usedIn": "",
+      "protein": null,
+      "substitutes": "",
+      "costPerAmount": null,
+      "time": null,
+      "use": "Bottling",
+      "userNotes": "",
+      "type": "Sugar",
+      "percentage": 2.33,
+      "diastaticPower": null,
+      "_id": "default-132c22b",
+      "inventory": null,
+      "color": 1.015228
+    }
+  ],
+  "carbonation": 2.4,
+  "_id": "1vQxcsozDeH7lIVTmvBx3KY0X6uVxE",
+  "styleConformity": false,
+  "fermentation": {
+    "name": "Ale",
+    "_id": "default",
+    "steps": [
+      {
+        "pressure": null,
+        "ramp": null,
+        "displayStepTemp": 20,
+        "type": "Primary",
+        "stepTime": 14,
+        "displayPressure": null,
+        "stepTemp": 20
+      },
+      {
+        "pressure": null,
+        "stepTime": 45,
+        "ramp": null,
+        "type": "Conditioning",
+        "displayPressure": null,
+        "stepTemp": 20,
+        "displayStepTemp": 20
+      }
+    ]
+  },
+  "_created": {
+    "seconds": 1588429900,
+    "nanoseconds": 171000000
+  },
+  "notes": "https://brouwpunt.nl/product/brouwpunt-wit-2/",
+  "author": "Brouwpunt",
+  "styleColor": true,
+  "attenuation": 0.702,
+  "name": "01 Brouwpunt Witbier ",
+  "equipment": {
+    "calcBoilVolume": true,
+    "mashEfficiency": 84,
+    "fermenterLossEstimate": 0,
+    "evaporationRate": 0.17218543046357618,
+    "_created": {
+      "seconds": 1588432108,
+      "nanoseconds": 111000000
+    },
+    "mashWaterFormula": "(GrainAmountKg * WaterGrainRatio) + MashTunDeadSpaceL",
+    "fermenterVolume": 5,
+    "name": "01 Brouwpunt 5L",
+    "waterCalculation": "Default",
+    "spargeWaterFormula": "BoilVolumeL - MashWaterL + (GrainAmountKg * GrainAbsorptionRate) + MashTunLossL",
+    "spargeWaterOverflow": "Top-Up",
+    "_version": "2.1.6",
+    "hopUtilization": 1,
+    "boilSize": 7.55,
+    "mashTunLoss": 0,
+    "_id": "m1b7oyoxL8XctJGVDMvcSTgnq8lDEm",
+    "waterGrainRatio": 3,
+    "_timestamp": {
+      "seconds": 1588432108,
+      "nanoseconds": 111000000
+    },
+    "bottlingVolume": 4.4,
+    "efficiencyType": "Fermenter",
+    "_timestamp_ms": 1588432108111,
+    "boilOffPerHr": 1.3,
+    "calcAromaHopUtilization": true,
+    "trubChillerLoss": 1,
+    "grainAbsorptionRate": 0.96,
+    "fermenterLoss": 0.6,
+    "mashTunDeadSpace": 0.5,
+    "aromaHopUtilization": 0.23,
+    "fermenterVolumeBeforeTopUp": 5,
+    "postBoilKettleVol": 6.25,
+    "boilTime": 60,
+    "notes": "01 Brouwpunt 5L",
+    "hopstandTemperature": 80,
+    "efficiency": 70,
+    "batchSize": 5,
+    "calcMashEfficiency": true
+  },
+  "img": "users/f8vzySfCNzOXgK7PVc1TpOuM5m22/images/recipes/1vQxcsozDeH7lIVTmvBx3KY0X6uVxE/1vQxcsozDeH7lIVTmvBx3KY0X6uVxE.jpeg",
+  "styleIbu": true,
+  "boilSize": 7.55,
+  "water": {
+    "spargeWaterAmount": null,
+    "acidPhAdjustment": 0,
+    "mashPh": 6.03,
+    "totalTargetDiff": {
+      "calcium": 0.024,
+      "magnesium": 9,
+      "sodium": 47,
+      "chloride": -49.033,
+      "sulfate": 4,
+      "bicarbonate": 133,
+      "bicarbonateMeqL": 2.179756129539793,
+      "cations": 2.786,
+      "anions": 0.88,
+      "ionBalance": 26,
+      "ionBalanceOff": true,
+      "soClRatio": -0.08,
+      "hardness": 37,
+      "alkalinity": 108.9885,
+      "residualAlkalinity": 103.68026,
+      "residualAlkalinityMeqLCalc": 2.04708
+    },
+    "sourceTargetDiff": {
+      "calcium": -9,
+      "magnesium": 9,
+      "sodium": 47,
+      "chloride": -65,
+      "sulfate": 4,
+      "bicarbonate": 133,
+      "bicarbonateMeqL": 2.179756129539793,
+      "cations": 2.336,
+      "anions": 0.43,
+      "ionBalance": 34,
+      "ionBalanceOff": true,
+      "soClRatio": -0.06,
+      "hardness": 15,
+      "alkalinity": 108.9885,
+      "residualAlkalinity": 110.1261,
+      "residualAlkalinityMeqLCalc": 2.20791
+    },
+    "mashAdjustments": {
+      "calcium": 18.471,
+      "acids": [
+        {
+          "alkalinityMeqL": 0,
+          "type": "lactic",
+          "amount": 0,
+          "concentration": 80
+        }
+      ],
+      "calciumSulfate": null,
+      "sodiumBicarbonate": null,
+      "magnesiumSulfate": null,
+      "sulfate": 0,
+      "volume": 4.28,
+      "calciumCarbonate": 0,
+      "magnesiumChloride": 0,
+      "bicarbonate": 0,
+      "sodiumChloride": 0,
+      "calciumHydroxide": null,
+      "chloride": 32.679,
+      "sodium": 0,
+      "magnesium": 0,
+      "calciumChloride": 0.29
+    },
+    "mashWaterAmount": null,
+    "spargeAdjustments": {
+      "volume": 4.48,
+      "acids": [
+        {
+          "amount": 0,
+          "concentration": 80,
+          "type": "lactic"
+        }
+      ],
+      "calcium": 0,
+      "magnesium": 0,
+      "sodium": 0,
+      "chloride": 0,
+      "sulfate": 0,
+      "bicarbonate": 0
+    },
+    "mashPhDistilled": 5.88,
+    "source": {
+      "hardness": 139,
+      "calcium": 41,
+      "type": "source",
+      "ph": 8.1,
+      "residualAlkalinity": 111.2869,
+      "_id": "c6KMkaP0m0ZNr1CaOm93XMahQcxWJI",
+      "cations": 5.701,
+      "bicarbonateMeqL": 2.9172676019404746,
+      "name": "NL Hoofddorp Rein Tap Water (2020-Q1 WQR)",
+      "alkalinity": 145.8643,
+      "_timestamp_ms": 1591890017623,
+      "ionBalance": 10,
+      "bicarbonate": 178,
+      "_timestamp": {
+        "seconds": 1591890017,
+        "nanoseconds": 623000000
+      },
+      "magnesium": 9,
+      "ionBalanceOff": true,
+      "_created": {
+        "seconds": 1590236754,
+        "nanoseconds": 620000000
+      },
+      "sodium": 67,
+      "_version": "2.2.1",
+      "anions": 3.833,
+      "soClRatio": null,
+      "residualAlkalinityMeqLCalc": 2.0543,
+      "sulfate": 44
+    },
+    "mashTargetDiff": {
+      "calcium": 9.471,
+      "magnesium": 9,
+      "sodium": 47,
+      "chloride": -32.321,
+      "sulfate": 4,
+      "bicarbonate": 133,
+      "bicarbonateMeqL": 2.179756129539793,
+      "cations": 3.258,
+      "anions": 1.351,
+      "ionBalance": 21,
+      "ionBalanceOff": true,
+      "soClRatio": -0.12,
+      "hardness": 61,
+      "alkalinity": 108.9885,
+      "residualAlkalinity": 96.93226,
+      "residualAlkalinityMeqLCalc": 1.87871
+    },
+    "spargeTargetDiff": {
+      "calcium": -9,
+      "magnesium": 9,
+      "sodium": 47,
+      "chloride": -65,
+      "sulfate": 4,
+      "bicarbonate": 133,
+      "bicarbonateMeqL": 2.179756129539793,
+      "cations": 2.336,
+      "anions": 0.43,
+      "ionBalance": 34,
+      "ionBalanceOff": true,
+      "soClRatio": -0.06,
+      "hardness": 15,
+      "alkalinity": 108.9885,
+      "residualAlkalinity": 110.1261,
+      "residualAlkalinityMeqLCalc": 2.20791
+    },
+    "totalAdjustments": {
+      "calcium": 9.024,
+      "acids": [
+        {
+          "alkalinityMeqL": 0,
+          "type": "lactic",
+          "amount": 0,
+          "concentration": 80
+        }
+      ],
+      "calciumSulfate": null,
+      "sodiumBicarbonate": null,
+      "magnesiumSulfate": null,
+      "sulfate": 0,
+      "volume": 8.760000000000002,
+      "calciumCarbonate": 0,
+      "magnesiumChloride": 0,
+      "bicarbonate": 0,
+      "sodiumChloride": 0,
+      "calciumHydroxide": null,
+      "chloride": 15.967,
+      "sodium": 0,
+      "magnesium": 0,
+      "calciumChloride": 0.29
+    },
+    "total": {
+      "hardness": 162,
+      "calcium": 50.024,
+      "type": "source",
+      "ph": 8.1,
+      "residualAlkalinity": 104.84106,
+      "_id": "c6KMkaP0m0ZNr1CaOm93XMahQcxWJI",
+      "cations": 6.151,
+      "bicarbonateMeqL": 2.9172676019404746,
+      "name": "NL Hoofddorp Rein Tap Water (2020-Q1 WQR)",
+      "alkalinity": 145.8643,
+      "_timestamp_ms": 1591890017623,
+      "ionBalance": 9,
+      "bicarbonate": 178,
+      "_timestamp": {
+        "seconds": 1591890017,
+        "nanoseconds": 623000000
+      },
+      "magnesium": 9,
+      "ionBalanceOff": true,
+      "_created": {
+        "seconds": 1590236754,
+        "nanoseconds": 620000000
+      },
+      "sodium": 67,
+      "_version": "2.2.1",
+      "anions": 4.284,
+      "soClRatio": 2.76,
+      "residualAlkalinityMeqLCalc": 1.89347,
+      "sulfate": 44,
+      "chloride": 15.967
+    },
+    "style": "default-55",
+    "mash": {
+      "hardness": 185,
+      "calcium": 59.471,
+      "type": "source",
+      "ph": 8.1,
+      "residualAlkalinity": 98.09306,
+      "_id": "c6KMkaP0m0ZNr1CaOm93XMahQcxWJI",
+      "cations": 6.623,
+      "bicarbonateMeqL": 2.9172676019404746,
+      "name": "NL Hoofddorp Rein Tap Water (2020-Q1 WQR)",
+      "alkalinity": 145.8643,
+      "_timestamp_ms": 1591890017623,
+      "ionBalance": 8,
+      "bicarbonate": 178,
+      "_timestamp": {
+        "seconds": 1591890017,
+        "nanoseconds": 623000000
+      },
+      "magnesium": 9,
+      "ionBalanceOff": true,
+      "_created": {
+        "seconds": 1590236754,
+        "nanoseconds": 620000000
+      },
+      "sodium": 67,
+      "_version": "2.2.1",
+      "anions": 4.755,
+      "soClRatio": 1.35,
+      "residualAlkalinityMeqLCalc": 1.7251,
+      "sulfate": 44,
+      "chloride": 32.679
+    },
+    "target": {
+      "type": "target",
+      "soClRatio": 0.62,
+      "residualAlkalinity": 1.1608,
+      "sulfate": 40,
+      "_id": "default-967660bee4a27399",
+      "hardness": 125,
+      "calcium": 50,
+      "ionBalanceOff": false,
+      "sodium": 20,
+      "ionBalance": 0,
+      "_created": {
+        "seconds": 1590849394,
+        "nanoseconds": 614000000
+      },
+      "magnesium": 0,
+      "residualAlkalinityMeqLCalc": -0.15361,
+      "bicarbonate": 45,
+      "_timestamp_ms": 1590849394614,
+      "chloride": 65,
+      "name": "Mild Ale Profile",
+      "_timestamp": {
+        "seconds": 1590849394,
+        "nanoseconds": 614000000
+      },
+      "_version": "2.2.1",
+      "cations": 3.365,
+      "bicarbonateMeqL": 0.7375114724006818,
+      "alkalinity": 36.8758,
+      "anions": 3.404
+    },
+    "spargeAcidPhAdjustment": 0,
+    "settings": {
+      "calciumChloride": {
+        "mash": true,
+        "form": "dihydrate",
+        "sparge": true,
+        "auto": true
+      },
+      "calciumSulfate": {
+        "mash": true,
+        "auto": true,
+        "sparge": true
+      },
+      "adjustSparge": true,
+      "calciumHydroxide": {
+        "sparge": false,
+        "mash": true,
+        "auto": false
+      },
+      "sodiumBicarbonate": {
+        "mash": true,
+        "auto": false,
+        "sparge": false
+      },
+      "magnesiumSulfate": {
+        "sparge": true,
+        "auto": true,
+        "mash": true
+      }
+    },
+    "sparge": {
+      "hardness": 139,
+      "calcium": 41,
+      "type": "source",
+      "ph": 8.1,
+      "residualAlkalinity": 111.2869,
+      "_id": "c6KMkaP0m0ZNr1CaOm93XMahQcxWJI",
+      "cations": 5.701,
+      "bicarbonateMeqL": 2.9172676019404746,
+      "name": "NL Hoofddorp Rein Tap Water (2020-Q1 WQR)",
+      "alkalinity": 145.8643,
+      "_timestamp_ms": 1591890017623,
+      "ionBalance": 10,
+      "bicarbonate": 178,
+      "_timestamp": {
+        "seconds": 1591890017,
+        "nanoseconds": 623000000
+      },
+      "magnesium": 9,
+      "ionBalanceOff": true,
+      "_created": {
+        "seconds": 1590236754,
+        "nanoseconds": 620000000
+      },
+      "sodium": 67,
+      "_version": "2.2.1",
+      "anions": 3.833,
+      "soClRatio": null,
+      "residualAlkalinityMeqLCalc": 2.0543,
+      "sulfate": 44,
+      "chloride": 0
+    },
+    "enableAcidAdjustments": false,
+    "enableSpargeAdjustments": false
+  },
+  "og": 1.058922041,
+  "abv": 5.51,
+  "_public": false,
+  "type": "All Grain",
+  "styleAbv": true,
+  "efficiency": 70,
+  "hopsTotalAmount": 10,
+  "styleRbr": true
+}
