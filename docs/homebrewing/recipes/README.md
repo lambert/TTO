@@ -18,7 +18,7 @@
 
 ![04](04_SMaSH_Fuggle/04_SMaSH_Fuggle.jpeg)
 
-[04 SMaSH Fuggle](04_SMaSH_Fuggle/REAME.md)
+[04 SMaSH Fuggle](04_SMaSH_Fuggle/README.md)
 
 ![05](05_SMaSH_Centennial/05_SMaSH_Centennial.jpeg)
 
