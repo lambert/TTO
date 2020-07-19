@@ -4,7 +4,7 @@
 
 [Brew day sheet](./Batch_3_03_SMaSH_Godiva_brew_day_sheet.pdf)
 
-[Checklist](./Batch_3_01_SMaSH_Godiva_checklist.pdf)
+[Checklist](./Batch_3_03_SMaSH_Godiva_checklist.pdf)
 
 [Results](./Batch_3_03_BSMaSH_Godiva_results.pdf)
 
