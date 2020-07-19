@@ -2,8 +2,14 @@
 
 # 01 Brouwpunt Witbier
 
-Brew kit from Brouwpunt [link](https://brouwpunt.nl/product/starterspakket-wit/)
+Ingredients kit for a 5 L batch from Brouwpunt [link](https://brouwpunt.nl/product/brouwpunt-wit-2/)
+
+## Recipe
 
 [pdf](./01_Brouwpunt_Witbier.pdf)
 
 [xml](./01_Brouwpunt_Witbier.xml)
+
+## Batches
+
+[Batch #1](../../batches/batch_1/README.md)
