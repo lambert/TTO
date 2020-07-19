@@ -14,7 +14,7 @@
 
 ![03](03_SMaSH_Godiva/03_SMaSH_Godiva.jpeg)
 
-[03 SMaSH Godiva](03_SMaSH_Godiva/REAME.md)
+[03 SMaSH Godiva](03_SMaSH_Godiva/README.md)
 
 ![04](04_SMaSH_Fuggle/04_SMaSH_Fuggle.jpeg)
 
