@@ -10,6 +10,8 @@ Ingredients kit for a 5 L batch from Brouwpunt [link](https://brouwpunt.nl/produ
 
 [xml](./01_Brouwpunt_Witbier.xml)
 
+[json](./01_Brouwpunt_Witbier.json)
+
 ## Batches
 
 [Batch #1](../../batches/batch_1/README.md)
