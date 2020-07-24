@@ -8,7 +8,7 @@ Single Mash and Single Hop exBEERiment for a 5 L batch size.
 
 [pdf](./04_SMaSH_Fuggle.pdf)
 
-[xml](./04_SMaSH_Fuggle.xml)
+[BeerXML](./04_SMaSH_Fuggle.xml)
 
 [json](./04_SMaSH_Fuggle.json)
 
