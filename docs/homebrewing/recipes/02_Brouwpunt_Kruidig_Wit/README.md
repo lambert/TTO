@@ -8,7 +8,7 @@ Ingredients kit for a 5 L batch from Brouwpunt [link](https://brouwpunt.nl/produ
 
 [pdf](./02_Brouwpunt_Kruidig_Wit.pdf)
 
-[xml](./02_Brouwpunt_Kruidig_Wit.xml)
+[BeerXML](./02_Brouwpunt_Kruidig_Wit.xml)
 
 [json](./02_Brouwpunt_Kruidig_Wit.json)
 
