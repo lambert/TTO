@@ -8,7 +8,7 @@ Single Mash and Single Hop exBEERiment for a 5 L batch size.
 
 [pdf](./03_SMaSH_Godiva.pdf)
 
-[xml](./03_SMaSH_Godiva.xml)
+[BeerXML](./03_SMaSH_Godiva.xml)
 
 [json](./03_SMaSH_Godiva.json)
 
