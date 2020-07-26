@@ -1,4 +1,4 @@
-![logo](./03_SMaSH_Godiva.jpeg)
+![logo](./03_SMaSH_Godiva.jpg)
 
 # 03 SMaSH Godiva
 
