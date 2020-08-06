@@ -12,7 +12,7 @@
 
 ## Single Malt and Single Hop (SMaSH) exBEERiments
 
-![03](03_SMaSH_Godiva/03_SMaSH_Godiva.jpg)
+![03](03_SMaSH_Godiva/03_SMaSH_Godiva.jpeg)
 
 [03 SMaSH Godiva](03_SMaSH_Godiva/README.md)
 
