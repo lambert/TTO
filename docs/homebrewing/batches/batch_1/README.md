@@ -10,15 +10,15 @@
 
 ## Milestones
 
-21.05.2020 11.00: Start Brewing.
+21-05-2020 11:00 Start brewing
 
-21.05.2020 17.01: Start Fermenting.
+21-05-2020 17:01 Start fermenting
 
-01.06.2020 12.27: Start Conditioning.
+01-06-2020 12:27 Start conditioning
 
-16.07.2020 21.05: Conditioning Completed.
+16-07-2020 21:05 Completed conditioning
 
-18.07.2020 18.58: Archived.
+18-07-2020 18:58 Archived
 
 ## Tasting notes
 
