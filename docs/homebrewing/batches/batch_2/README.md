@@ -24,9 +24,11 @@
 
 [Evaluation]()
 
-## Tasting notes
+### Tasting notes
 
-## Brew day
+## Batch notes
+
+### Brew day
 
 04.07.2020 10.35: 5L water to 72 C.
 
@@ -54,7 +56,9 @@
 
 04.07.2020 22.14: @ 20.3 C, fermentation has started.
 
-## Day 1 in fermentation
+### Fermentation
+
+#### Day 1 in fermentation
 
 05.07.2020 07.38: @ 21.8 C, lots of bubbles, very active fermentation.
 
@@ -66,7 +70,7 @@
 
 05.07.2020 23.24: @ 20.8 C, dp = 8 mm H2O, no bubbles..
 
-## Day 2 in fermentation
+#### Day 2 in fermentation
 
 06.07.2020 07.21: @ 19.5 C, dp = 2 mm H2O, no bubbles.
 
@@ -76,7 +80,7 @@
 
 06.07.2020 21.38: @ 19.5 C, dp = 1 mm H2O, no bubbles.
 
-## Day 3 in fermentation
+#### Day 3 in fermentation
 
 07.07.2020 09.00: @ 19.9 C, dp = 1 mm H2O, no bubbles.
 
@@ -86,7 +90,7 @@
 
 07.07.2020 21.14: @ 19.7 C, dp = 0 mm H2O, no bubbles.
 
-## Day 4 in fermentation
+#### Day 4 in fermentation
 
 08.07.2020 08.38: @ 19.3 C, dp = 0 mm H2O, no bubbles.
 
@@ -94,7 +98,7 @@
 
 08.07.2020 20.13: @ 19.5 C, dp = 0 mm H2O, no bubbles.
 
-## Day 5 in fermentation
+#### Day 5 in fermentation
 
 09.07.2020 08.55: @ 19.3 C, dp = 0 mm H2O, no bubbles.
 
@@ -104,7 +108,7 @@
 
 09.07.2020 23.32: @ 19.4 C, dp = 0 mm H2O, no bubbles.
 
-# Day 6 in fermentation
+#### Day 6 in fermentation
 
 10.07.2020 06.36: @ 19.3 C, dp - 0 mm H2O, no bubbles.
 
@@ -114,13 +118,13 @@
 
 10.07.2020 22.41: @ 19.3 C, dp = 0 mm H2O, no bubbles.
 
-## Day 7 in fermentation
+#### Day 7 in fermentation
 
 11.07.2020 06.05: @ 19.7 C, dp = 0 mm H2O, no bubbles.
 
 11.07.2020 21.50: @ 19.2, C, dp = 0 mm H2O, no bubbles.
 
-## Day 8 in fermentation
+#### Day 8 in fermentation
 
 12.07.2020 12.01: @ 19.6 C, dp = 0 mm H2O, no bubbles.
 
@@ -128,7 +132,7 @@
 
 12.07.2020 21.02: @ 19.9 C, dp = 0 mm H2O, no bubbles.
 
-## Day 9 in fermentation
+#### Day 9 in fermentation
 
 13.07.2020 11.35: @ 19.7 C, dp = 0 mm H2O, no bubbles.
 
@@ -136,7 +140,7 @@
 
 13.07.2020 23.02: @ 19.9 C, dp = 0 mm H2O, no bubbles.
 
-## Day 10 in fermentation
+#### Day 10 in fermentation
 
 14.07.2020 07.18: @ 19.2 C, dp = 0 mm H2O, no bubbles.
 
@@ -144,7 +148,7 @@
 
 14.07.2020 19.35: @ 19.8 C, dp = 0 mm H2O, no bubbles.
 
-## Bottling Day
+### Bottling Day
 
 14.07.2020 19.35:FG = 1.012.
 
@@ -152,7 +156,9 @@
 
 14.07.2020 20.30: Bottled 12 Steinies (33 cl) with FG = 1.010. Very pale yellow (straw) and boozy taste, a little sweeter than the fiirst batch, slight hint of carbonation.
 
-## Day 1 in conditioning
+### Conditioning
+
+#### Day 1 in conditioning
 
 15.07.2020 12.30: @ 18.0 C.
 
@@ -160,17 +166,17 @@
 
 15.07.2020 21.14: @ 19.7 C.
 
-## Day 2 in conditioning
+#### Day 2 in conditioning
 
 16.07.2020 12.52: @ 19.2 C.
 
 16.07.2020 16.43: @ 19.4 C.
 
-## Day 3 in conditioning
+#### Day 3 in conditioning
 
 17.07.2020 20.40: @ 21.1 C.
 
-## Day 4 in conditioning
+#### Day 4 in conditioning
 
 18.07.2020 10.30: @ 20.4 C.
 
