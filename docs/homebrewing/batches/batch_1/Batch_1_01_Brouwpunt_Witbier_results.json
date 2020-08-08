@@ -1,0 +1,1246 @@
+{
+  "_version": "2.3.5",
+  "measuredBottlingTemp": 22.7,
+  "name": "Batch",
+  "measuredAttenuation": 62.1,
+  "measurements": [],
+  "mashStepsCount": 1,
+  "measuredKettleSize": 4.5,
+  "bottlingDateSet": true,
+  "batchYeasts": [
+    {
+      "description": "General purpose ale yeast with neutral flavor profiles. Its low attenuation gives beers with a very good length on the palate. Particularly recommended for specialty ales and trappist type beers. Yeast with a medium sedimentation: forms no clumps but a powdery haze when resuspended in the beer.",
+      "_timestamp_ms": 1588437051806,
+      "inventory": 0.1,
+      "costPerAmount": 1.75,
+      "removedFromInventory": false,
+      "_timestamp": {
+        "seconds": 1588437051,
+        "nanoseconds": 806000000
+      },
+      "userNotes": "",
+      "attenuation": 70,
+      "removedAmount": 0,
+      "displayAmount": 0.5,
+      "starter": null,
+      "notInRecipe": false,
+      "name": "SafBrew Ale",
+      "type": "Ale",
+      "form": "Dry",
+      "flocculation": "Medium",
+      "minTemp": 15,
+      "productId": "S-33",
+      "totalCost": 0.875,
+      "laboratory": "Fermentis",
+      "inventoryUnit": "pkg",
+      "_id": "default-32f790",
+      "_created": {
+        "seconds": 1588435044,
+        "nanoseconds": 137000000
+      },
+      "maxAbv": null,
+      "starterSize": null,
+      "amount": 0.5,
+      "fermentsAll": false,
+      "manufacturingDate": null,
+      "_version": "2.1.6",
+      "maxTemp": 20,
+      "unit": "pkg",
+      "checked": false
+    }
+  ],
+  "recipe": {
+    "author": "Brouwpunt",
+    "mashEfficiency": 84,
+    "tags": null,
+    "abv": 5.51,
+    "miscs": [
+      {
+        "_id": "default-3a51cd",
+        "name": "Orange Peel, Bitter",
+        "type": "Spice",
+        "time": 5,
+        "userNotes": "",
+        "substitutes": "",
+        "notes": "",
+        "amount": 5,
+        "timeIsDays": false,
+        "amountPerL": null,
+        "use": "Boil",
+        "unit": "g"
+      }
+    ],
+    "primaryTemp": 20,
+    "avgWeightedHopstandTemp": 80,
+    "searchTags": [
+      "Witbier",
+      "Pilsen Malt",
+      "Wheat Malt",
+      "Saaz",
+      "Orange Peel",
+      "Fermentis S-33"
+    ],
+    "_created": {
+      "seconds": 1588429900,
+      "nanoseconds": 171000000
+    },
+    "name": "01 Brouwpunt Witbier ",
+    "hopsTotalAmount": 10,
+    "equipment": {
+      "evaporationRate": 0.17218543046357618,
+      "calcAromaHopUtilization": true,
+      "efficiencyType": "Fermenter",
+      "efficiency": 70,
+      "calcMashEfficiency": true,
+      "_timestamp_ms": 1588432108111,
+      "waterGrainRatio": 3,
+      "mashTunDeadSpace": 0.5,
+      "spargeWaterFormula": "BoilVolumeL - MashWaterL + (GrainAmountKg * GrainAbsorptionRate) + MashTunLossL",
+      "_timestamp": {
+        "seconds": 1588432108,
+        "nanoseconds": 111000000
+      },
+      "grainAbsorptionRate": 0.96,
+      "_version": "2.1.6",
+      "aromaHopUtilization": 0.23,
+      "hopUtilization": 1,
+      "waterCalculation": "Default",
+      "boilOffPerHr": 1.3,
+      "_id": "m1b7oyoxL8XctJGVDMvcSTgnq8lDEm",
+      "fermenterLoss": 0.6,
+      "calcBoilVolume": true,
+      "postBoilKettleVol": 6.25,
+      "fermenterVolume": 5,
+      "fermenterLossEstimate": 0,
+      "spargeWaterOverflow": "Top-Up",
+      "boilTime": 60,
+      "mashWaterFormula": "(GrainAmountKg * WaterGrainRatio) + MashTunDeadSpaceL",
+      "hopstandTemperature": 80,
+      "name": "01 Brouwpunt 5L",
+      "fermenterVolumeBeforeTopUp": 5,
+      "batchSize": 5,
+      "mashTunLoss": 0,
+      "notes": "01 Brouwpunt 5L",
+      "boilSize": 7.55,
+      "mashEfficiency": 84,
+      "_created": {
+        "seconds": 1588432108,
+        "nanoseconds": 111000000
+      },
+      "trubChillerLoss": 1,
+      "bottlingVolume": 4.4
+    },
+    "_public": false,
+    "_version": "2.3.0",
+    "color": 3.7,
+    "type": "All Grain",
+    "defaults": {
+      "preferred": "metric",
+      "abv": "simple",
+      "attenuation": "normal",
+      "color": "ebc",
+      "grainColor": "default",
+      "gravity": "sg",
+      "ibu": "tinseth",
+      "temp": "c",
+      "volume": "l",
+      "weight": "kg",
+      "hop": "g",
+      "pressure": "bar",
+      "carbonation": "vol",
+      "altitude": "m"
+    },
+    "hops": [
+      {
+        "amount": 10,
+        "timeUnit": null,
+        "_created": {
+          "seconds": 1588941618,
+          "nanoseconds": 727000000
+        },
+        "origin": "",
+        "year": null,
+        "_timestamp_ms": 1591012449230,
+        "_timestamp": {
+          "seconds": 1591012449,
+          "nanoseconds": 230000000
+        },
+        "inventory": 10,
+        "time": 30,
+        "substitutes": "",
+        "userNotes": "Brouwpunt (NL)",
+        "type": "Pellet",
+        "temp": null,
+        "usedIn": "",
+        "_version": "2.2.1",
+        "name": "Saaz",
+        "ibu": 18.3,
+        "alpha": 5.5,
+        "usage": "Aroma",
+        "use": "Boil",
+        "_id": "default-9414e938",
+        "notes": ""
+      }
+    ],
+    "rbRatio": 0.29,
+    "sumDryHopPerLiter": 0,
+    "ibu": 18.3,
+    "notes": "Mashing:\n60 min @ 67 °C\n5 L mash water\n2.5 L sparge water\n\nBoil:\nSG 1.044\n6.2 L before boil\n60 min rolling boil\n@30 min hop with hopbag\n@55 min orange peel\n5 L after boil\nCool to 20 °C\n\nFermentation:\n18...22 C\nSG 1.052\nFG 1.016\nABV 4.9%\n\nCarbonation:\n30 gram table sugar / 5 L --> 2.4 % @ 23 °C maximum temperature",
+    "firstWortGravity": null,
+    "fermentablesTotalAmount": 1.29,
+    "boilTime": 60,
+    "styleCarb": false,
+    "nutrition": {
+      "calories": {
+        "alcohol": 31.56154436021258,
+        "carbs": 24.598708471420725,
+        "total": 56.16025283163331,
+        "kJ": 234.97449784755378
+      },
+      "carbs": {
+        "total": 6.1712586503490705
+      }
+    },
+    "_type": "recipe",
+    "batchSize": 5,
+    "yeasts": [
+      {
+        "flocculation": "Medium",
+        "name": "SafBrew Ale",
+        "type": "Wheat",
+        "starter": null,
+        "fermentsAll": false,
+        "laboratory": "Fermentis",
+        "userNotes": "",
+        "form": "Dry",
+        "manufacturingDate": null,
+        "maxTemp": 20,
+        "unit": "pkg",
+        "attenuation": 70,
+        "description": "General purpose ale yeast with neutral flavor profiles. Its low attenuation gives beers with a very good length on the palate. Particularly recommended for specialty ales and trappist type beers. Yeast with a medium sedimentation: forms no clumps but a powdery haze when resuspended in the beer.",
+        "amount": 0.5,
+        "minTemp": 15,
+        "maxAbv": null,
+        "_id": "default-32f790",
+        "productId": "S-33",
+        "starterSize": null
+      }
+    ],
+    "fermentables": [
+      {
+        "protein": null,
+        "_timestamp_ms": 1591012348558,
+        "_version": "2.2.1",
+        "inventory": 0.63,
+        "color": 1.77665,
+        "costPerAmount": null,
+        "usedIn": "",
+        "notFermentable": false,
+        "substitutes": "",
+        "notes": "BEST Pilsen Malt gives beer a fresh and rounded taste. It is used for all types of beers based on basically berley malt. It forms an excellent “light” and enzyme-rich foundation for almost all beer styles.  Malt characteristics: low protein levels, high extract content, light color and high enzymatic activity. BEST Pilsen Malt is also available in organic quality.",
+        "type": "Grain",
+        "amount": 0.63,
+        "potentialPercentage": 82.8,
+        "origin": "Germany",
+        "diastaticPower": null,
+        "_created": {
+          "seconds": 1590069058,
+          "nanoseconds": 619000000
+        },
+        "userNotes": "Brouwpunt (NL)",
+        "grainCategory": "Base (Pilsner)",
+        "supplier": "Brouwpunt (NL)",
+        "name": "Pilsen Malt",
+        "_id": "default-724b650",
+        "percentage": 48.84,
+        "ibuPerAmount": null,
+        "attenuation": null,
+        "moisture": null,
+        "_timestamp": {
+          "seconds": 1591012348,
+          "nanoseconds": 558000000
+        },
+        "potential": 1.038088
+      },
+      {
+        "supplier": "Brouwpunt (NL)",
+        "diastaticPower": null,
+        "notFermentable": false,
+        "moisture": null,
+        "name": "Wheat Flaked",
+        "amount": 0.63,
+        "protein": null,
+        "inventory": 0.63,
+        "usedIn": "",
+        "origin": "Germany",
+        "type": "Grain",
+        "_created": {
+          "seconds": 1590069060,
+          "nanoseconds": 737000000
+        },
+        "notes": "BEST Wheat Malt emphasises the effervescent freshness and the typical top-fermented flavor of wheat beer. It is produced from high quality brewing wheat. Malting processes adapted to the raw material highlight the particular qualities of this malt.",
+        "_timestamp": {
+          "seconds": 1593618504,
+          "nanoseconds": 231000000
+        },
+        "substitutes": "",
+        "potential": 1.03841,
+        "ibuPerAmount": null,
+        "_timestamp_ms": 1593618504231,
+        "userNotes": "Brouwpunt (NL)",
+        "potentialPercentage": 83.5,
+        "grainCategory": "Base (Wheat)",
+        "color": 2.436548,
+        "_id": "default-bfaf755",
+        "attenuation": 0.74,
+        "costPerAmount": 3.1,
+        "percentage": 48.84,
+        "_version": "2.3.0"
+      },
+      {
+        "name": "Sugar, Table (Sucrose)",
+        "costPerAmount": null,
+        "percentage": 2.33,
+        "protein": null,
+        "potentialPercentage": 100,
+        "origin": "",
+        "supplier": "",
+        "diastaticPower": null,
+        "usedIn": "",
+        "amount": 0.03,
+        "use": "Bottling",
+        "notFermentable": false,
+        "attenuation": 1.22,
+        "substitutes": "",
+        "potential": 1.046,
+        "inventory": null,
+        "_id": "default-132c22b",
+        "time": null,
+        "ibuPerAmount": null,
+        "notes": "",
+        "color": 1.015228,
+        "userNotes": "",
+        "moisture": null,
+        "type": "Sugar"
+      }
+    ],
+    "carbonation": 2.4,
+    "fgFormula": "normal",
+    "fg": 1.017,
+    "preBoilGravity": 1.047,
+    "fgEstimated": 1.017,
+    "styleColor": true,
+    "buGuRatio": 0.31,
+    "attenuation": 0.702,
+    "_timestamp_ms": 1594912265650,
+    "styleAbv": true,
+    "thumb": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABIAEgDASIAAhEBAxEB/8QAGwABAAIDAQEAAAAAAAAAAAAAAAcIBAUGAgP/xAAxEAABBAECBAUCBQUBAAAAAAABAAIDBBEFIQYHEjETFCJBUWGBFRcycZEIIyRicqH/xAAXAQEBAQEAAAAAAAAAAAAAAAAAAQMC/8QAHREBAQEAAgIDAAAAAAAAAAAAAAERAxITMSEiYf/aAAwDAQACEQMRAD8AtSiIgIiICIiAiIgIiICLlKvE75+I59PFZ7Wshjk8Un0HqcRgfXtv74PwtfzN5hDgaXTYxo9nU33I7EvTBK1hjZCwPefV39JJ+yT7ekl307tFF35wUjxbS0lmj3XUrTqcbb4ezpY61H1xBzO/yDjOMFYDOeNN0OtznQbrIKNWW3We6Zn+XHFMIX7D9B6j2PwuutVMCKLxzeq/irKkmkWGRO1Cxp5nMzcB8UAmzj/YHH2Wv/PCm7SJL8OiWpI4tIh1WRonaOnxZhE2Pt3yc5+idaJgRRHJzrqxUvEm0G7FajZf8xXfMzMMlVrXOZkZDs9QwR2WZZ5wafBbsVnabP48Mmmt6fFb6m3GtIcP+C4A/PsnWiUEXB8Kce3Ne401bh+Xhq7R/DSRPaknY5rc7x7Df1t3H/qKWYOB4epyu17TempN5KO+Ht6roNBh6h6o3d3O+G5z2+V8f6p3V22uGvN3JKkZq6mGyRu6S5/gt6Wfs52Gke4cQt5pfBWsV+MIXnR6UTYbXmDcEhMHR1d2RZ2ft9tthsVKt2OaS/UArwy1x1GRz2glp2xjKz4r1+ay4pkuqwQteebuhT6o11fTGSaK2zXjHhtjsGqfAJHsA8EY+uFz0BNnRuIqsDXyWaOhajHaja09ULjqAcA4ex6d/wBlbd7Lzqkr31a7rJl2w0HLR+k7nvn+N1kCKZtqz4dWBrZGZLw0et2BgH3O+e/thbeT8a6qzrrvOcs+JOINLcJYq/FIsQWGg9L2PgbC4g/GXj+FhaFpFihyo5km+MT0XU9Ia74EU4cR/LwrZ6VBKdNbFeq1ojk/2Y2joAztt2+q8wR2BXYLVeB5llzK1jRgDGxOe5zhO5qt/N3h2nwNV06KS9Zs+eo6vJLct46p7U0bMD0gAE4AAC57inSLTuNTqLC9jaU+gVrMR2wJIIy3I+j4wPurX2WWZq9kS14pHtlHgBzGuAGRh257jc/K93I7GLhhrxOcRGWFzR6iDvnffHtlJyYajbQNZ07QeZ3M29q9qOrVE2mRGR+cdT4i1o2+SQikvwpXag4PghNR8bS5xaOpzwds/si52UZ6IigIiICIiAiIgIiICIiAiIgIiICIiAiIg//Z",
+    "yeastToleranceExceededBy": null,
+    "styleBuGu": true,
+    "styleRbr": true,
+    "_id": "1vQxcsozDeH7lIVTmvBx3KY0X6uVxE",
+    "data": {
+      "mashFermentablesAmount": 1.26,
+      "mashFermentables": [
+        {
+          "protein": null,
+          "_timestamp_ms": 1591012348558,
+          "_version": "2.2.1",
+          "inventory": 0.63,
+          "color": 1.77665,
+          "costPerAmount": null,
+          "usedIn": "",
+          "notFermentable": false,
+          "substitutes": "",
+          "notes": "BEST Pilsen Malt gives beer a fresh and rounded taste. It is used for all types of beers based on basically berley malt. It forms an excellent “light” and enzyme-rich foundation for almost all beer styles.  Malt characteristics: low protein levels, high extract content, light color and high enzymatic activity. BEST Pilsen Malt is also available in organic quality.",
+          "type": "Grain",
+          "amount": 0.63,
+          "potentialPercentage": 82.8,
+          "origin": "Germany",
+          "diastaticPower": null,
+          "_created": {
+            "seconds": 1590069058,
+            "nanoseconds": 619000000
+          },
+          "userNotes": "Brouwpunt (NL)",
+          "grainCategory": "Base (Pilsner)",
+          "supplier": "Brouwpunt (NL)",
+          "name": "Pilsen Malt",
+          "_id": "default-724b650",
+          "percentage": 48.84,
+          "ibuPerAmount": null,
+          "attenuation": null,
+          "moisture": null,
+          "_timestamp": {
+            "seconds": 1591012348,
+            "nanoseconds": 558000000
+          },
+          "potential": 1.038088
+        },
+        {
+          "supplier": "Brouwpunt (NL)",
+          "diastaticPower": null,
+          "notFermentable": false,
+          "moisture": null,
+          "name": "Wheat Flaked",
+          "amount": 0.63,
+          "protein": null,
+          "inventory": 0.63,
+          "usedIn": "",
+          "origin": "Germany",
+          "type": "Grain",
+          "_created": {
+            "seconds": 1590069060,
+            "nanoseconds": 737000000
+          },
+          "notes": "BEST Wheat Malt emphasises the effervescent freshness and the typical top-fermented flavor of wheat beer. It is produced from high quality brewing wheat. Malting processes adapted to the raw material highlight the particular qualities of this malt.",
+          "_timestamp": {
+            "seconds": 1593618504,
+            "nanoseconds": 231000000
+          },
+          "substitutes": "",
+          "potential": 1.03841,
+          "ibuPerAmount": null,
+          "_timestamp_ms": 1593618504231,
+          "userNotes": "Brouwpunt (NL)",
+          "potentialPercentage": 83.5,
+          "grainCategory": "Base (Wheat)",
+          "color": 2.436548,
+          "_id": "default-bfaf755",
+          "attenuation": 0.74,
+          "costPerAmount": 3.1,
+          "percentage": 48.84,
+          "_version": "2.3.0"
+        }
+      ],
+      "otherFermentablesAmount": 0.03,
+      "otherFermentables": [
+        {
+          "name": "Sugar, Table (Sucrose)",
+          "costPerAmount": null,
+          "percentage": 2.33,
+          "protein": null,
+          "potentialPercentage": 100,
+          "origin": "",
+          "supplier": "",
+          "diastaticPower": null,
+          "usedIn": "",
+          "amount": 0.03,
+          "use": "Bottling",
+          "notFermentable": false,
+          "attenuation": 1.22,
+          "substitutes": "",
+          "potential": 1.046,
+          "inventory": null,
+          "_id": "default-132c22b",
+          "time": null,
+          "ibuPerAmount": null,
+          "notes": "",
+          "color": 1.015228,
+          "userNotes": "",
+          "moisture": null,
+          "type": "Sugar"
+        }
+      ],
+      "mashWaterAmount": 4.28,
+      "spargeWaterAmount": 4.48,
+      "mashVolumeSurplus": 0,
+      "topUpWater": 0,
+      "hltWaterAmount": 4.48,
+      "totalWaterAmount": 8.76,
+      "hopsAmount": 10,
+      "strikeTemp": null,
+      "mashVolume": 5.1242
+    },
+    "hopStandMinutes": 0,
+    "styleIbu": true,
+    "postBoilGravity": 1.056304746,
+    "boilSize": 7.55,
+    "path": "",
+    "_timestamp": {
+      "seconds": 1594912265,
+      "nanoseconds": 650000000
+    },
+    "ogPlato": 14.5,
+    "efficiency": 70,
+    "styleConformity": false,
+    "water": {
+      "sourceTargetDiff": {
+        "magnesium": 9,
+        "hardness": 15,
+        "chloride": -65,
+        "sodium": 47,
+        "soClRatio": -0.06,
+        "calcium": -9,
+        "cations": 2.336,
+        "bicarbonateMeqL": 2.179756129539793,
+        "anions": 0.43,
+        "bicarbonate": 133,
+        "sulfate": 4,
+        "residualAlkalinityMeqLCalc": 2.20791,
+        "alkalinity": 108.9885,
+        "ionBalanceOff": true,
+        "ionBalance": 34,
+        "residualAlkalinity": 110.1261
+      },
+      "mashAdjustments": {
+        "calcium": 18.471,
+        "acids": [
+          {
+            "type": "lactic",
+            "amount": 0,
+            "concentration": 80,
+            "alkalinityMeqL": 0
+          }
+        ],
+        "magnesium": 0,
+        "magnesiumSulfate": null,
+        "magnesiumChloride": 0,
+        "sodium": 0,
+        "chloride": 32.679,
+        "volume": 4.28,
+        "sodiumChloride": 0,
+        "bicarbonate": 0,
+        "calciumChloride": 0.29,
+        "calciumCarbonate": 0,
+        "sodiumBicarbonate": null,
+        "calciumSulfate": null,
+        "sulfate": 0,
+        "calciumHydroxide": null
+      },
+      "mashWaterAmount": null,
+      "mashPh": 6.03,
+      "spargeTargetDiff": {
+        "magnesium": 9,
+        "alkalinity": 108.9885,
+        "soClRatio": -0.06,
+        "sulfate": 4,
+        "anions": 0.43,
+        "ionBalanceOff": true,
+        "cations": 2.336,
+        "ionBalance": 34,
+        "residualAlkalinity": 110.1261,
+        "residualAlkalinityMeqLCalc": 2.20791,
+        "hardness": 15,
+        "calcium": -9,
+        "bicarbonateMeqL": 2.179756129539793,
+        "sodium": 47,
+        "bicarbonate": 133,
+        "chloride": -65
+      },
+      "mashTargetDiff": {
+        "residualAlkalinityMeqLCalc": 1.87871,
+        "hardness": 61,
+        "cations": 3.258,
+        "residualAlkalinity": 96.93226,
+        "magnesium": 9,
+        "ionBalance": 21,
+        "soClRatio": -0.12,
+        "anions": 1.351,
+        "ionBalanceOff": true,
+        "calcium": 9.471,
+        "alkalinity": 108.9885,
+        "sulfate": 4,
+        "sodium": 47,
+        "chloride": -32.321,
+        "bicarbonate": 133,
+        "bicarbonateMeqL": 2.179756129539793
+      },
+      "sparge": {
+        "bicarbonateMeqL": 2.9172676019404746,
+        "magnesium": 9,
+        "ph": 8.1,
+        "cations": 5.701,
+        "calcium": 41,
+        "bicarbonate": 178,
+        "hardness": 139,
+        "_timestamp_ms": 1591890017623,
+        "ionBalanceOff": true,
+        "_created": {
+          "seconds": 1590236754,
+          "nanoseconds": 620000000
+        },
+        "name": "NL Hoofddorp Rein Tap Water (2020-Q1 WQR)",
+        "soClRatio": null,
+        "anions": 3.833,
+        "sodium": 67,
+        "_id": "c6KMkaP0m0ZNr1CaOm93XMahQcxWJI",
+        "_version": "2.2.1",
+        "sulfate": 44,
+        "alkalinity": 145.8643,
+        "type": "source",
+        "ionBalance": 10,
+        "_timestamp": {
+          "seconds": 1591890017,
+          "nanoseconds": 623000000
+        },
+        "residualAlkalinity": 111.2869,
+        "chloride": 0,
+        "residualAlkalinityMeqLCalc": 2.0543
+      },
+      "spargeWaterAmount": null,
+      "total": {
+        "hardness": 162,
+        "chloride": 15.967,
+        "_timestamp_ms": 1591890017623,
+        "soClRatio": 2.76,
+        "anions": 4.284,
+        "sodium": 67,
+        "bicarbonate": 178,
+        "type": "source",
+        "sulfate": 44,
+        "ionBalance": 9,
+        "magnesium": 9,
+        "alkalinity": 145.8643,
+        "ionBalanceOff": true,
+        "residualAlkalinityMeqLCalc": 1.89347,
+        "bicarbonateMeqL": 2.9172676019404746,
+        "ph": 8.1,
+        "_timestamp": {
+          "seconds": 1591890017,
+          "nanoseconds": 623000000
+        },
+        "_created": {
+          "seconds": 1590236754,
+          "nanoseconds": 620000000
+        },
+        "residualAlkalinity": 104.84106,
+        "calcium": 50.024,
+        "name": "NL Hoofddorp Rein Tap Water (2020-Q1 WQR)",
+        "cations": 6.151,
+        "_id": "c6KMkaP0m0ZNr1CaOm93XMahQcxWJI",
+        "_version": "2.2.1"
+      },
+      "enableSpargeAdjustments": false,
+      "settings": {
+        "calciumSulfate": {
+          "sparge": true,
+          "mash": true,
+          "auto": true
+        },
+        "adjustSparge": true,
+        "calciumChloride": {
+          "form": "dihydrate",
+          "auto": true,
+          "sparge": true,
+          "mash": true
+        },
+        "sodiumBicarbonate": {
+          "mash": true,
+          "auto": false,
+          "sparge": false
+        },
+        "calciumHydroxide": {
+          "sparge": false,
+          "mash": true,
+          "auto": false
+        },
+        "magnesiumSulfate": {
+          "mash": true,
+          "sparge": true,
+          "auto": true
+        }
+      },
+      "totalTargetDiff": {
+        "residualAlkalinityMeqLCalc": 2.04708,
+        "calcium": 0.024,
+        "ionBalance": 26,
+        "chloride": -49.033,
+        "alkalinity": 108.9885,
+        "bicarbonate": 133,
+        "anions": 0.88,
+        "hardness": 37,
+        "ionBalanceOff": true,
+        "bicarbonateMeqL": 2.179756129539793,
+        "residualAlkalinity": 103.68026,
+        "magnesium": 9,
+        "sodium": 47,
+        "sulfate": 4,
+        "soClRatio": -0.08,
+        "cations": 2.786
+      },
+      "spargeAcidPhAdjustment": 0,
+      "enableAcidAdjustments": false,
+      "target": {
+        "soClRatio": 0.62,
+        "hardness": 125,
+        "bicarbonateMeqL": 0.7375114724006818,
+        "name": "Mild Ale Profile",
+        "_timestamp_ms": 1590849394614,
+        "_timestamp": {
+          "seconds": 1590849394,
+          "nanoseconds": 614000000
+        },
+        "residualAlkalinity": 1.1608,
+        "chloride": 65,
+        "sulfate": 40,
+        "_created": {
+          "seconds": 1590849394,
+          "nanoseconds": 614000000
+        },
+        "bicarbonate": 45,
+        "calcium": 50,
+        "ionBalanceOff": false,
+        "alkalinity": 36.8758,
+        "ionBalance": 0,
+        "_id": "default-967660bee4a27399",
+        "cations": 3.365,
+        "anions": 3.404,
+        "sodium": 20,
+        "residualAlkalinityMeqLCalc": -0.15361,
+        "magnesium": 0,
+        "type": "target",
+        "_version": "2.2.1"
+      },
+      "mash": {
+        "residualAlkalinityMeqLCalc": 1.7251,
+        "hardness": 185,
+        "name": "NL Hoofddorp Rein Tap Water (2020-Q1 WQR)",
+        "_timestamp": {
+          "seconds": 1591890017,
+          "nanoseconds": 623000000
+        },
+        "bicarbonate": 178,
+        "ph": 8.1,
+        "chloride": 32.679,
+        "_timestamp_ms": 1591890017623,
+        "_created": {
+          "seconds": 1590236754,
+          "nanoseconds": 620000000
+        },
+        "bicarbonateMeqL": 2.9172676019404746,
+        "anions": 4.755,
+        "soClRatio": 1.35,
+        "calcium": 59.471,
+        "ionBalance": 8,
+        "_id": "c6KMkaP0m0ZNr1CaOm93XMahQcxWJI",
+        "cations": 6.623,
+        "magnesium": 9,
+        "sulfate": 44,
+        "residualAlkalinity": 98.09306,
+        "ionBalanceOff": true,
+        "alkalinity": 145.8643,
+        "sodium": 67,
+        "_version": "2.2.1",
+        "type": "source"
+      },
+      "mashPhDistilled": 5.88,
+      "source": {
+        "_id": "c6KMkaP0m0ZNr1CaOm93XMahQcxWJI",
+        "magnesium": 9,
+        "cations": 5.701,
+        "anions": 3.833,
+        "sulfate": 44,
+        "bicarbonate": 178,
+        "hardness": 139,
+        "_timestamp": {
+          "seconds": 1591890017,
+          "nanoseconds": 623000000
+        },
+        "residualAlkalinityMeqLCalc": 2.0543,
+        "sodium": 67,
+        "alkalinity": 145.8643,
+        "calcium": 41,
+        "_timestamp_ms": 1591890017623,
+        "_version": "2.2.1",
+        "name": "NL Hoofddorp Rein Tap Water (2020-Q1 WQR)",
+        "bicarbonateMeqL": 2.9172676019404746,
+        "type": "source",
+        "ph": 8.1,
+        "_created": {
+          "seconds": 1590236754,
+          "nanoseconds": 620000000
+        },
+        "ionBalanceOff": true,
+        "soClRatio": null,
+        "ionBalance": 10,
+        "residualAlkalinity": 111.2869
+      },
+      "totalAdjustments": {
+        "calciumHydroxide": null,
+        "calciumChloride": 0.29,
+        "acids": [
+          {
+            "concentration": 80,
+            "type": "lactic",
+            "alkalinityMeqL": 0,
+            "amount": 0
+          }
+        ],
+        "magnesiumSulfate": null,
+        "magnesiumChloride": 0,
+        "calcium": 9.024,
+        "sulfate": 0,
+        "chloride": 15.967,
+        "calciumCarbonate": 0,
+        "calciumSulfate": null,
+        "magnesium": 0,
+        "sodium": 0,
+        "sodiumBicarbonate": null,
+        "bicarbonate": 0,
+        "volume": 8.760000000000002,
+        "sodiumChloride": 0
+      },
+      "spargeAdjustments": {
+        "sulfate": 0,
+        "acids": [
+          {
+            "type": "lactic",
+            "concentration": 80,
+            "amount": 0
+          }
+        ],
+        "volume": 4.48,
+        "magnesium": 0,
+        "chloride": 0,
+        "calcium": 0,
+        "sodium": 0,
+        "bicarbonate": 0
+      },
+      "acidPhAdjustment": 0,
+      "style": "default-55"
+    },
+    "style": {
+      "colorMax": 4,
+      "fgMin": 1.008,
+      "type": "Wheat Beer",
+      "ibuMin": 8,
+      "_id": "default-82",
+      "buGuMin": 0.17,
+      "category": "Belgian Ale",
+      "carbMax": null,
+      "abvMin": 4.5,
+      "carbonationStyle": "24A",
+      "lovibondMin": 2,
+      "carbMin": null,
+      "ogMin": 1.044,
+      "lovibondMax": 4,
+      "ogMax": 1.052,
+      "abvMax": 5.5,
+      "name": "Witbier",
+      "buGuMax": 0.42,
+      "styleGuide": "BJCP 2015",
+      "rbrMin": 0.17,
+      "categoryNumber": "24",
+      "styleLetter": "A",
+      "fgMax": 1.012,
+      "rbrMax": 0.43,
+      "ibuMax": 20,
+      "colorMin": 2
+    },
+    "img": "users/f8vzySfCNzOXgK7PVc1TpOuM5m22/images/recipes/1vQxcsozDeH7lIVTmvBx3KY0X6uVxE/1vQxcsozDeH7lIVTmvBx3KY0X6uVxE.jpeg",
+    "styleFg": false,
+    "carbonationStyle": {
+      "_id": "24A",
+      "carbMax": 3.4,
+      "name": "Witbier",
+      "carbMin": 2.6
+    },
+    "mash": {
+      "steps": [
+        {
+          "stepTemp": 67,
+          "stepTime": 60,
+          "rampTime": null,
+          "type": "Temperature",
+          "displayStepTemp": 67
+        }
+      ],
+      "name": "01 One Step Mash (60 min)",
+      "_created": {
+        "seconds": 1592329902,
+        "nanoseconds": 204000000
+      },
+      "_timestamp_ms": 1594912240922,
+      "_version": "2.3.0",
+      "_id": "6jpuQsHCfaiAn3GQJSrfqHXEFQtXW2",
+      "_timestamp": {
+        "seconds": 1594912240,
+        "nanoseconds": 922000000
+      }
+    },
+    "ibuFormula": "tinseth",
+    "styleOg": false,
+    "og": 1.058922041,
+    "fermentation": {
+      "name": "Ale",
+      "_id": "default",
+      "steps": [
+        {
+          "ramp": null,
+          "displayStepTemp": 20,
+          "stepTime": 14,
+          "stepTemp": 20,
+          "displayPressure": null,
+          "type": "Primary",
+          "pressure": null
+        },
+        {
+          "type": "Conditioning",
+          "stepTime": 45,
+          "displayPressure": null,
+          "stepTemp": 20,
+          "ramp": null,
+          "displayStepTemp": 20,
+          "pressure": null
+        }
+      ]
+    },
+    "fermentableIbu": 0
+  },
+  "fermentationControllerEnabled": false,
+  "primingSugarEquiv": 26.509014353359582,
+  "measuredBatchSize": 4.5,
+  "_timestamp_ms": 1596898825966,
+  "boilStepsCount": 2,
+  "estimatedBuGuRatio": 0.47,
+  "batchMiscs": [
+    {
+      "removedUnit": "g",
+      "use": "Boil",
+      "totalCost": 0.1575,
+      "notInRecipe": false,
+      "checked": true,
+      "time": 5,
+      "_id": "default-3a51cd",
+      "costPerAmount": 0.0315,
+      "inventoryUnit": "g",
+      "removedAmount": 5,
+      "displayAmount": 0,
+      "timeIsDays": false,
+      "inventory": 0,
+      "removedFromInventory": true,
+      "type": "Spice",
+      "amount": 5,
+      "unit": "g",
+      "name": "Orange Peel, Bitter"
+    }
+  ],
+  "estimatedIbu": 28,
+  "notes": [
+    {
+      "timestamp": 1595091510964,
+      "status": "Archived",
+      "note": "",
+      "type": "statusChanged"
+    },
+    {
+      "type": "statusChanged",
+      "note": "",
+      "timestamp": 1594926318880,
+      "status": "Completed"
+    },
+    {
+      "type": "statusChanged",
+      "note": "",
+      "hidden": true,
+      "timestamp": 1591011083605,
+      "status": "Conditioning"
+    },
+    {
+      "status": "Fermenting",
+      "type": "statusChanged",
+      "hidden": true,
+      "timestamp": 1591011070157,
+      "note": ""
+    },
+    {
+      "note": "",
+      "hidden": true,
+      "type": "statusChanged",
+      "status": "Conditioning",
+      "timestamp": 1591007618724
+    },
+    {
+      "status": "Fermenting",
+      "hidden": true,
+      "type": "statusChanged",
+      "timestamp": 1591007606668,
+      "note": ""
+    },
+    {
+      "hidden": true,
+      "type": "statusChanged",
+      "status": "Completed",
+      "timestamp": 1591007559390,
+      "note": ""
+    },
+    {
+      "type": "statusChanged",
+      "note": "12 Steinie bottles (33 cl)  filled",
+      "status": "Conditioning",
+      "timestamp": 1591007274136
+    },
+    {
+      "type": "statusChanged",
+      "note": "",
+      "status": "Fermenting",
+      "timestamp": 1590073319413
+    },
+    {
+      "hidden": true,
+      "timestamp": 1590069360455,
+      "note": "",
+      "status": "Planning"
+    },
+    {
+      "hidden": true,
+      "status": "Fermenting",
+      "timestamp": 1590055500487,
+      "note": "Start sparging with 1.7 L water @ 72 C"
+    },
+    {
+      "timestamp": 1590051952460,
+      "status": "Fermenting",
+      "hidden": true,
+      "note": "Start mashing @ 63 ... 68 C"
+    },
+    {
+      "hidden": true,
+      "status": "Planning",
+      "note": "5 L water to 72 C.",
+      "timestamp": 1590051651073
+    },
+    {
+      "status": "Brewing",
+      "note": "",
+      "timestamp": 1590051627488,
+      "type": "statusChanged"
+    },
+    {
+      "timestamp": 1590051615401,
+      "note": "5 L water to 72 C",
+      "status": "Fermenting",
+      "hidden": true
+    }
+  ],
+  "tasteNotes": "14.06.2020 16.25: opened a half filled bottle, gave a small puff, poured hazy with some small bubbles and no foamy head, no lagging, slightly darker color than expected, tasted sour and boozy, very light carbonation.\n05.07.2020: light foam which dissolves quickly, very light carbonation, little hint of orange, sour.\n18.07.2020: cooled and served  @ 7 C, light carbonation, no foam, sour taste.",
+  "batchNotes": "Brew day\n\n21.05.2020 11.00: 5L water to 72 C. \n21.05.2020 11.05: Start mashing @ 63 ... 68 C. \n21.05.2020 12.05: Start sparging with 1.7 L water @ 72 C.\n21.05.2020 12.07: Added 0.5 L make up water @ 25 C.\n21.05.2020 12.07: Total added 2.2 L water. \n21.05.2020 12.35: Start boil. Specific Gravity = 1.036 @ ~60 C. \n21.05.2020 12.55: Rolling boil. \n21.05.2020 13.25: Added hop pellets in a bag. Refreshed wort in hop bag 5x.  \n21.05.2020 13.50: Added Orange peel. \n21.05.2020 13.55: Hop out, brewpot in the cooler (sink filled with tapwater). \n21.05.2020 14.25: Wort transferred to fermenter, and strained the orange peel out. \n21.05.2020 15.59: Specific Gravity = 1.060 @ 35 C, normalized to 1.064 @ 20 C.\n21.05.2020 17.00: Wort @ 22 C, added yeast.\n\nDay 1 in fermentation\n22.05.2020 10.00: Moderate fermenting activity.\n22.05.2020 23.30: no bubbles, +1 cm delta height (pressure) in water lock, a little bit of condensate in leg leading from fermenter. Tamb = 21 C.\n\nDay 2 in fermentation\n23.05.2020 08.26: No bubbles @ 21 c, dp = 3 mm H2O.\n23.05.2020 09.55: No bubbles @ 20.5 C, dp = 3 mm H2O.\n23.05.2020 10.26: No bubbles @ 20.6 C, dp = 3 mm H2O.\n23.05.2020 13.03: No bubbles @ 20.4 C, dp = 3 mm H2O.\n23.05.2020 14:00: No bubbles @ 20.4 C, dp = 3 mm H2O.\n23.05.2020 16.04: No bubbles @ 20.6 C, dp = 3 mm H2O.\n23.05.2020 17.28: No bubbles @ 20.6 C, dp = 3 mm H2O.\n23.05.2020 19.55: No bubbles @ 20.7 C, dp = 0 mm H2O.\n23.05.2020 22:52: No bubbles @ 21.5 C, dp = 10 mm H2O.\n\n\nDay 3 in fermentation\n24.05.2020 08.09: No bubbles @ 21.2 C, dp = 3 mm H2O.\n24.05.2020 10.17: No bubbles @ 20.1 C, dp = 2 mm H2O.\n24.05.2020 14.03: No bubbles @ 20.0 C, dp = 2 mm H2O.\n24.05.2020 15.26: No bubbles @ 20.0 C, dp = 2 mm H2O.\n24.05.2020 16.57: No bubbles @ 20.1 C, dp = 3 mm H2O.\n24.05.2020 21.31: No bubbles @ 20.1 C, dp = 2 mm H2O.\n\nDay 4 in fermentation\n25.05.2020 07.54: No bubbles @ 20.8 C, dp = 3 mm H2O.\n25.05.2020 12.02: No bubbles @ 19.9 C, dp = 2 mm H2O.\n25.05.2020 15.05: No bubbles @ 19.9 C, dp= 2 mm H2O.\n25.05.2020 22.55: No bubbles @ 20.1 C, dp = 2 mm H2O.\n\nDay 5 in fermentation\n26.05.2020 06.54: No bubbles @ 20.8 C, dp = 2 mm H2O.\n26.05.2020 11.01: No bubbles @ 20.0 C, dp = 3 mm H2O.\n26.05.2020 16.08: No bubbles @ 20.1 C, dp = 2 mm H2O.\n26.05.2020 20.12: No bubbles @ 20.2 C, dp = 3 mm H2O.\n26.05.2020 22.45: No bubbles @ 20.2 C, dp = 2 mm H2O.\n\nDay 6 in fermentation\n27.05.2020 09.30: No bubbles @ 21.6 C, dp = 0 mm H2O.\n27.05.2020 14.53: No bubbles @ 20.3 C, dp = 0 mm H2O.\n27.05.2020 19.34: No bubbles. Cloudy, Witbier taste, a bit sour, no bubbles @ 20.3 C, dp = 0 mm H2O, Specific Gravity = 1.024.\n27.05.2020 22.09: No bubbles @ 20.3 C, dp = 10 mm.\n\nDay 7 in fermentation\n28.05.2020 08.33: No bubbles @ 20.1 C, dp = 0 mm H2O.\n28.05.2020 14.36: No bubbles @ 20.1 C, dp = 1 mm H2O.\n28.05.2020 19.01: No bubbles @ 20.2 C, dp = 1 mm H2O.\n28.05.2020 22.58: No bubbles @ 20.3 C, dp = 1 mm H2O.\n\nDay 8 in fermentation\n29.05.2020 07.19: No bubbles @ 20.2 C, dp = 1 mm H2O.\n29.05.2020 12.24: No bubbles @ 20.2 C, dp = 1 mm H2O.\n29.05.2020 19.56: No bubbles @ 20.3 C, dp = 1 mm H2O.\n29.05.2020 23.28: No bubbles @ 20.3 C, dp = 1 mm H2O.\n\nDay 9 in fermentation\n30.05.2020 12.06: No bubbles @ 20.8 C, dp = 1 mm H2O.\n30.05.2020 15.08: No bubbles @ 20.1 C, dp = 2 mm H2O.\n30.05.2020 18.19: No bubbles @ 20.1 C, dp = 1 mm H2O.\n\nDay 10 in fermentation\n31.05.2020 00.14: No bubbles @ 20.3 C, dp = 1 mm H2O.\n31.05.2020 09.49: No bubbles @ 21.2 C, dp = 1 mm H2O.\n31.05.2020 12.33: No bubbles @ 20.3 C, dp = 1 mm H2O.\n31.05.2020 12.43: Moved from box to shelve @ 21.6 C, dp = 0 mm H2O.\n31.05.2020 14.15: No bubbles @ 21.9 C, dp = 0 mm H2O.\n31.05.2020 17.06: No bubbles @ 22.6 C, dp = 0 mm H2O.\n31.05.2020 21.05: No bubbles @ 22.5 C, dp = 1 mm H2O.\n31.05.2020 23.36: No bubbles @ 22.7 C, dp = 1 mm H2O.\n\nBottling day\n01.06.2030 09.26: No bubbles @ 22.1 C, dp = 1 mm H2O.\n01.06.2020 11.31: 22.6 C, Specific Gravity = 1.024 after fermenting.\n01.06.2020 11.45: Added 0.6 L water with 30 g sugar dissolved.\n01.06.2020 12.15: Specific Gravity = 1.022 after adding sugar for carbonation and before bottling.\n01.06.2020 12.30: finished bottling, filled 12 Steinies (33 cl),  stored in cardboard box in the cellar.\n01.06.2020 17.53: @ 20.8 C.\n01.06.2020 19.47: @ 20.5 C.\n\nDay 1 in conditioning\n02.06.2020 00.21: @ 20.9 C.\n02.06.2020 08.21: @ 20.7 C.\n02.06.2020 14.58: @ 20.9 C.\n02.06.2020 20.01: @ 20.5 C.\n02.06.2020 22.58: @ 20.7C.\n\nDay 2 in conditioning\n03.06.2020 07.33: @ 20.7 C.\n03.06.2020 14.06: @ 20.3 C.\n03.06.2020 22.14: @ 20.0 C.\n\nDay 3 in conditioning\n04.06.2020 09.16: @ 20.7 C.\n04.06.2020 14.45: @ 20.5 C.\n04.06.2020 18.33: @ 20.4 C.\n04.06.2020 23.14: @ 19.2 C.\n\nDay 4 in conditioning\n05.06.2020 08.08: @ 19.0 C.\n05.06.2020 11.57: @ 19.0 C.\n05.06.2020 19.02: @ 19.5 C.\n\nDay 5 in conditioning\n06.06.2020 00.28: @ 19.9 C.\n06.06.2020 08.16: @ 19.6 C.\n06.06.2020 13.11: @ 19.5 C.\n06.06.2020 15.36: @ 19.4 C.\n06.06.2020 18.57: @ 19.8 C.\n06.06.2020 23.13: @ 19.7 C.\n\nDay 6 in conditioning\n07.06.2020 09.41: @ 19.2 C.\n07.06.2020 14.51: @ 19.0 C.\n07.06.2020 19.51: @ 19.9 C.\n07.06.2020 23.37: @ 19.4 C.\n\nDay 7 in conditioning\n08.06.2020 08.55: @ 19.8 C.\n08.06.2020 13.41: @ 19.1 C.\n08.06.2020 18.55: @ 19.5 C.\n08.06.2020 22.23: @ 19.5 C.\n\nDay 8 in conditioning\n09.06.2020 07.46: @ 19.5 C.\n09.06.2020 12.41: @ 19.9 C.\n09.06.2020 20.30: @ 19.9 C.\n09.06.2020 23.54: @ 19.1 C.\n\nDay 9 in conditioning\n10.06.2020 09.50: @ 19.6 C.\n10.06.2020 15.00: @ 19.2 C.\n10.06.2020 17.27: @ 19.2 C.\n10.06.2020 23.07: @ 19.5 C.\n\nDay 10 in conditioning\n11.06.2020 11.00: @ 19.5 C.\n11.06.2020 15.04: @ 19.8 C.\n11.06.2020 22.16: @ 19.5 C.\n\nDay 11 in conditioning\n12.06.2020 07.31: @ 19.8 C.\n12.06.2020 13.11: @ 19.4 C.\n12.06.2020 19.21: @ 19.9 C.\n12.06.2020 22.27: @ 19.4 C.\n\nDay 12 in conditioning\n13.06.2020 09.02: @ 19.1 C\n13.06.2020 14.12: @ 20.2 C.\n13.06.2020 20.07: @ 20.4 C.\n13.06.2020 23.13: @ 20.7 C.\n\nDay 13 in conditioning\n14.06.2020 10.12: @ 20.0 C.\n14.06.2020 14.52: @ 20.7 C.\n14.06.2020 16.25: opened a half filled bottle, gave a small puff, poured hazy with some small bubbles and no foamy head, no lagging, slightly darker color than expected, tasted sour and boozy, very light carbonation.\n14.06.2020 22.21: @ 20.4 C.\n\nDay 14 in conditioning\n15.06.2020 08.41: @ 20.9 C.\n15.06.2020 13.32: @ 20.7 C.\n15.06.2020 16.45: @ 20.4 C.\n15.06.2020 23.07: @ 20.0 C.\n\nDay 15 in conditioning\n16.06.2020 08.42: @ 20.0 C.\n16.06.2020 11.42: @ 20.4 C.\n16.06.2020 21.14: @ 20.6 C.\n\nDay 16 in conditioning\n17.06.2020 08.26: @ 20.0 C.\n17.06.2020 12.23: @ 20.2 C.\n17.06.2020 15.48: @ 20.4 C.\n17.06.2020 21.34: @ 20.2 C.\n\nDay 17 in conditioning\n18.06.2020 07.54: @ 20.6 C.\n18.06.2020 13.11: @ 20.6 C.\n18.06.2020 18.08: @ 20.9 C.\n18.06.2020 22.51: @ 20.2 C.\n\nDay 18 in conditioning\n19.06.2020 07.33: @ 20.3 C.\n19.06.2020 15.25: @ 20.6 C.\n19.06.2020 18.36: @ 20.7 C.\n19.06.2020 23.03: @ 20.6 C.\n\nDay 19 in conditioning\n20.06.2020 08.26: @ 20.9 C.\n20.06.2020 19.16: @ 20.5 C.\n20.06.2020 22.17: @ 20.5 C.\n\nDay 20 in conditioning\n21.06.2020 10.35: @ 20.4 C.\n21.06.2020 15.41: @ 20.7 C.\n21.06.2020 20.47: @ 20.1 C.\n\nDay 21 in conditioning\n22.06.2020 00.08: @ 20.7 C.\n22.06.2020 06.45: @ 20.1 C.\n22.06.2020 15.24: @ 20.9 C.\n22.06.2020 18.09: @ 20.9 C.\n22.06.2020 22.02: @ 20.7 C.\n\nDay 22 in conditioning\n23.06.2020 08.09: @ 20.4 C.\n23.06.2020 12.02: @ 20.4 C.\n23.06.2020 17.54: @ 20.7 C.\n23.06.2020 22.09: @ 20.6 C.\n\nDay 23 in conditioning\n24.06.2020 08.11: @ 20.3 C.\n24.06.2020 12.47: @ 20.5 C.\n24.06.2020 18.12: @ 20.7 C.\n24.06.2020 23.07: @ 20.8 C.\n\nDay 24 in conditioning\n25.06.2020 09.05: @ 21.2 C.\n25.06.2020 12.26: @ 21.6 C.\n25.06.2020 20.42: @ 21.6 C.\n25.05.2020 23.11: @ 21.0 C.\n\nDay 25 in conditioning\n26.06.2020 08.27: @ 21.5 C.\n26.06.2020 14.14: @ 21.2 C.\n26.06.2020 18:58: @ 21.2 C.\n26.06.2020 22.37: @ 22.0 C.\n\nDay 26 in conditioning\n27.06.2020 09.15: @ 22.5 C.\n27.06.2020 13.11: @ 22.5 C.\n27.06.2020 16.24: @ 22.7 C.\n27.06.2020 22.09: @ 21.7 C.\n\nDay 27 in conditioning\n28.06.2020 07.37: @ 21.5 C.\n28.06.2020 11.20: @ 21.5 C.\n28.06.2020 19.40: @ 21.2 C.\n28.06.2020 23.12: @ 21.8 C.\n\nDay 28 in conditioning\n29.06.2020 08.25: @ 21.0 C.\n29.06.2020 12.51: @ 20.8 C.\n29.06.2020 18.17: @ 20.5 C.\n29.06.2020 22.59: @ 20.0 C.\n\nDay 29 in conditioning\n30.06.2020 08.33: @ 20.1 C.\n30.06.2020 15.32: @ 20.4 C.\n30.06.2020 21.25: @ 20.5 C.\n\nDay 30 in conditioning\n01.07.2020 07.46: @ 20.7 C.\n01.07.2020 12.47: @ 20.8 C.\n01.07.2020 20.00: @ 20.0 C.\n01.07.2020 23.21: @ 20.1 C.\n\nDay 31 in conditioning\n02.07.2020 07.43: @ 20.0 C.\n02.07.2020 18.30: @ 20.1 C.\n02.07.2020 23.49: @ 20.7 C.\n\nDay 32 in conditioning\n03.07.2020 07.54: @ 20.2 C.\n03.07.2020 15.59: @ 20.9 C.\n03.07.2020 23.22: @ 20.5 C.\n\nDay 33 in conditioning\n04.07.2020 08.47: @ 20.9 C.\n04.07.2020 14.43: @ 20.2 C.\n04.07.2020 17.25: @ 21.5 C.\n04.07.2020 11.16: @ 21.6 C.\n\nDay 34 in conditioning\n05.07.2020 07.41: @ 21.9 C.\n05.07.2020 15.10: very light carbonation, little hint of orange, sour, \n05.07.2020 15.23: @ 22.2 C.\n\nDay 35 in conditioning\n06.07.2020 16.24: @ 18.8 C.\n\nDay 36 in conditioning\n07.07.2020 13.17: @ 17.6 C.\n\nDay 37 in conditioning\n08.07.2020 22.15: @ 17.9 C.\n\nDay 38 in conditioning\n09.07.2020 21.44: @ 19.0 C.\n\nDay 41 in conditioning\n12.07.2020 17.03: @ 18.3 C.\n\nDay 43 in conditioning\n14.07.2020 19.44: @ 20.0 C.\n\nDay 44 in conditioning\n15.07.2020 12.30: @ 18.0 C.\n15.07.2020 16.28: @ 18.4 C.\n15.07.2020 21.14: @ 19.7 C.\n\nDay 45 in conditioning\n16.07.2020 12.52: @ 19.2 C.\n16.07.2020 16.43: @ 19.4 C.\n16.07.2020 21.05: Completed.",
+  "measuredBoilSize": 5,
+  "batchHopsLocal": [],
+  "measuredAbv": 5,
+  "fermentationStartDateSet": false,
+  "measuredKettleEfficiency": 59.98,
+  "batchNo": 1,
+  "_type": "batch",
+  "measuredOg": 1.06,
+  "estimatedColor": 4.6,
+  "measuredMashEfficiency": 42.61,
+  "batchFermentablesLocal": [],
+  "fermentationStartDate": 1590069268200,
+  "measuredConversionEfficiency": null,
+  "tasteRating": 55,
+  "bottlingDate": 1591019668200,
+  "batchYeastsLocal": [],
+  "brewer": "Bert Timmerman",
+  "status": "Archived",
+  "_timestamp": "2020-08-08T15:00:25.966Z",
+  "batchMiscsLocal": [],
+  "brewControllerEnabled": false,
+  "boilSteps": [
+    {
+      "time": 30,
+      "name": "Saaz"
+    },
+    {
+      "time": 5,
+      "name": "Orange Peel, Bitter"
+    }
+  ],
+  "batchHops": [
+    {
+      "_id": "default-9414e938",
+      "temp": null,
+      "substitutes": "",
+      "ibu": 0,
+      "checked": true,
+      "costPerAmount": 0.0695,
+      "_created": {
+        "seconds": 1588941618,
+        "nanoseconds": 727000000
+      },
+      "totalCost": 0.6950000000000001,
+      "origin": "Australia",
+      "timeUnit": null,
+      "notes": "",
+      "year": 2019,
+      "inventory": 0.1,
+      "time": 60,
+      "type": "Pellet",
+      "name": "Saaz",
+      "userNotes": "Brouwpunt",
+      "use": "Boil",
+      "usedIn": "",
+      "notInRecipe": false,
+      "_timestamp_ms": 1590069078025,
+      "removedAmount": 10,
+      "_timestamp": {
+        "seconds": 1590069078,
+        "nanoseconds": 25000000
+      },
+      "removedFromInventory": true,
+      "usage": "Aroma",
+      "displayAmount": 0,
+      "alpha": 5.5,
+      "amount": 10,
+      "_version": "2.2.1"
+    }
+  ],
+  "measuredEfficiency": 63,
+  "_created": {
+    "seconds": 1591012658,
+    "nanoseconds": 515000000
+  },
+  "estimatedOg": 1.06,
+  "measuredBottlingSize": 4.2,
+  "_id": "xhUqmFKNl50AWM4pNQTRuqd8jAheZw",
+  "carbonationType": "Sugar",
+  "estimatedFg": 1.022,
+  "brewDate": 1590069268200,
+  "carbonationForce": null,
+  "estimatedRbRatio": 0.4,
+  "batchFermentables": [
+    {
+      "_timestamp_ms": 1590069075613,
+      "checked": true,
+      "name": "Pilsen Malt",
+      "displayAmount": 0,
+      "amount": 0.63,
+      "type": "Grain",
+      "potential": 1.038088,
+      "costPerAmount": 2.17,
+      "supplier": "Brouwpunt (NL)",
+      "inventory": 0,
+      "_timestamp": {
+        "seconds": 1590069075,
+        "nanoseconds": 613000000
+      },
+      "removedAmount": 0.63,
+      "notes": "BEST Pilsen Malt gives beer a fresh and rounded taste. It is used for all types of beers based on basically berley malt. It forms an excellent “light” and enzyme-rich foundation for almost all beer styles.  Malt characteristics: low protein levels, high extract content, light color and high enzymatic activity. BEST Pilsen Malt is also available in organic quality.",
+      "_created": {
+        "seconds": 1590069058,
+        "nanoseconds": 619000000
+      },
+      "notInRecipe": false,
+      "_id": "default-724b650",
+      "potentialPercentage": 82.8,
+      "ibuPerAmount": null,
+      "notFermentable": null,
+      "origin": "Germany",
+      "_version": "2.2.1",
+      "removedFromInventory": true,
+      "totalCost": 1.3671,
+      "attenuation": null,
+      "color": 1.7766497
+    },
+    {
+      "_created": {
+        "seconds": 1590069060,
+        "nanoseconds": 737000000
+      },
+      "amount": 0.63,
+      "attenuation": 0.74,
+      "supplier": "Brouwpunt (NL)",
+      "name": "Wheat Flaked",
+      "inventory": 0,
+      "_version": "2.2.1",
+      "notFermentable": null,
+      "potentialPercentage": 83.5,
+      "_timestamp": {
+        "seconds": 1590069077,
+        "nanoseconds": 463000000
+      },
+      "notes": "BEST Wheat Malt emphasises the effervescent freshness and the typical top-fermented flavor of wheat beer. It is produced from high quality brewing wheat. Malting processes adapted to the raw material highlight the particular qualities of this malt.",
+      "color": 2.4365482,
+      "potential": 1.03841,
+      "_timestamp_ms": 1590069077463,
+      "ibuPerAmount": null,
+      "displayAmount": 0,
+      "removedAmount": 0.63,
+      "_id": "default-bfaf755",
+      "costPerAmount": 3.1,
+      "origin": "Germany",
+      "removedFromInventory": true,
+      "notInRecipe": false,
+      "totalCost": 1.953,
+      "type": "Grain",
+      "checked": true
+    },
+    {
+      "attenuation": 1.22,
+      "inventory": 1,
+      "_id": "default-132c22b",
+      "totalCost": 0.0225,
+      "notInRecipe": false,
+      "removedFromInventory": true,
+      "type": "Sugar",
+      "checked": true,
+      "notes": "",
+      "displayAmount": 0,
+      "amount": 0.03,
+      "supplier": "",
+      "costPerAmount": 0.75,
+      "ibuPerAmount": null,
+      "removedAmount": 0.03,
+      "name": "Sugar, Table (Sucrose)",
+      "potentialPercentage": 100,
+      "notFermentable": null,
+      "color": 1,
+      "potential": 1.046,
+      "origin": ""
+    }
+  ],
+  "devices": {
+    "plaatoKeg": {
+      "enabled": true,
+      "items": []
+    },
+    "plaatoAirlock": {
+      "enabled": true,
+      "items": []
+    },
+    "iSpindel": {
+      "items": [],
+      "enabled": true
+    },
+    "myBrewbot": {
+      "enabled": true,
+      "items": []
+    },
+    "smartPid": {
+      "enabled": false,
+      "items": [],
+      "brewDeviceId": null
+    },
+    "stream": {
+      "enabled": true,
+      "items": []
+    },
+    "tilt": {
+      "items": [],
+      "gravity": true,
+      "mode": "default",
+      "enabled": true,
+      "temp": true
+    },
+    "brewPiLess": {
+      "items": [],
+      "enabled": true
+    }
+  },
+  "_archived": true,
+  "measuredPreBoilGravity": 1.036,
+  "cost": {
+    "fermentables": 3.34,
+    "hops": 0.7,
+    "miscs": 0.16,
+    "yeasts": 0.88,
+    "total": 5.07,
+    "perBottlingLiter": 1.21,
+    "fermentablesShare": 0.6588,
+    "hopsShare": 0.1381,
+    "miscsShare": 0.0316,
+    "yeastsShare": 0.1736
+  },
+  "measuredFg": 1.022
+}
