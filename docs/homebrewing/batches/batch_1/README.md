@@ -1,5 +1,17 @@
 # Batch #1 - 01 Brouwpunt - Witbier
 
+## Milestones
+
+21-05-2020 11:00 Start brewing
+
+21-05-2020 17:01 Start fermenting
+
+01-06-2020 12:27 Start conditioning
+
+16-07-2020 21:05 Completed conditioning
+
+18-07-2020 18:58 Archived
+
 ## Preparation
 
 [Brew day sheet](./Batch_1_01_Brouwpunt_Witbier_brew_day_sheet.pdf)
@@ -15,18 +27,6 @@
 [Results](./Batch_1_01_Brouwpunt_Witbier_results.pdf)
 
 [Evaluation](./Batch_1_01_Brouwpunt_Witbier_evaluation.md)
-
-## Milestones
-
-21-05-2020 11:00 Start brewing
-
-21-05-2020 17:01 Start fermenting
-
-01-06-2020 12:27 Start conditioning
-
-16-07-2020 21:05 Completed conditioning
-
-18-07-2020 18:58 Archived
 
 ## Tasting notes
 
