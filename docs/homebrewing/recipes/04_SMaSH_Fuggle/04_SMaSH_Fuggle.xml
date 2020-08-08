@@ -21,7 +21,7 @@
             <COLOR_MIN>2</COLOR_MIN>
             <COLOR_MAX>6</COLOR_MAX>
         </STYLE>
-        <BREWER>Bert&#32;Timmerman</BREWER>
+        <BREWER>Plonk&#32;Beer</BREWER>
         <BATCH_SIZE>5.6</BATCH_SIZE>
         <BOIL_SIZE>7.99</BOIL_SIZE>
         <BOIL_TIME>60</BOIL_TIME>
@@ -107,8 +107,8 @@
                 <TYPE>Water&#32;Agent</TYPE>
                 <USE>Mash</USE>
                 <TIME>0</TIME>
-                <AMOUNT>0.00004</AMOUNT>
-                <DISPLAY_AMOUNT>0.04 ml</DISPLAY_AMOUNT>
+                <AMOUNT>0.00041</AMOUNT>
+                <DISPLAY_AMOUNT>0.41 ml</DISPLAY_AMOUNT>
                 <AMOUNT_IS_WEIGHT>false</AMOUNT_IS_WEIGHT>
             </MISC>
             <MISC>
@@ -117,53 +117,9 @@
                 <VERSION>1</VERSION>
                 <TYPE>Water&#32;Agent</TYPE>
                 <USE>Mash</USE>
-                <TIME>0</TIME>
-                <AMOUNT>0.00003</AMOUNT>
-                <DISPLAY_AMOUNT>0.03 g</DISPLAY_AMOUNT>
-                <AMOUNT_IS_WEIGHT>true</AMOUNT_IS_WEIGHT>
-            </MISC>
-            <MISC>
-                <BF_ID>default-1f88df</BF_ID>
-                <NAME>Gypsum&#32;&#40;CaSO&#52;&#41;</NAME>
-                <VERSION>1</VERSION>
-                <TYPE>Water&#32;Agent</TYPE>
-                <USE>Mash</USE>
-                <TIME>0</TIME>
-                <AMOUNT>0.00007</AMOUNT>
-                <DISPLAY_AMOUNT>0.07 g</DISPLAY_AMOUNT>
-                <AMOUNT_IS_WEIGHT>true</AMOUNT_IS_WEIGHT>
-            </MISC>
-            <MISC>
-                <BF_ID>default-3b1827</BF_ID>
-                <NAME>Calcium&#32;Chloride&#32;&#40;CaCl&#50;&#41;&#32;&#51;&#51;&#32;&#37;</NAME>
-                <VERSION>1</VERSION>
-                <TYPE>Water&#32;Agent</TYPE>
-                <USE>Sparge</USE>
                 <TIME>0</TIME>
                 <AMOUNT>0.00009</AMOUNT>
-                <DISPLAY_AMOUNT>0.09 ml</DISPLAY_AMOUNT>
-                <AMOUNT_IS_WEIGHT>false</AMOUNT_IS_WEIGHT>
-            </MISC>
-            <MISC>
-                <BF_ID>default-4e9d62</BF_ID>
-                <NAME>Epsom&#32;Salt&#32;&#40;MgSO&#52;&#41;</NAME>
-                <VERSION>1</VERSION>
-                <TYPE>Water&#32;Agent</TYPE>
-                <USE>Sparge</USE>
-                <TIME>0</TIME>
-                <AMOUNT>0.00006</AMOUNT>
-                <DISPLAY_AMOUNT>0.06 g</DISPLAY_AMOUNT>
-                <AMOUNT_IS_WEIGHT>true</AMOUNT_IS_WEIGHT>
-            </MISC>
-            <MISC>
-                <BF_ID>default-1f88df</BF_ID>
-                <NAME>Gypsum&#32;&#40;CaSO&#52;&#41;</NAME>
-                <VERSION>1</VERSION>
-                <TYPE>Water&#32;Agent</TYPE>
-                <USE>Sparge</USE>
-                <TIME>0</TIME>
-                <AMOUNT>0.00015</AMOUNT>
-                <DISPLAY_AMOUNT>0.15 g</DISPLAY_AMOUNT>
+                <DISPLAY_AMOUNT>0.09 g</DISPLAY_AMOUNT>
                 <AMOUNT_IS_WEIGHT>true</AMOUNT_IS_WEIGHT>
             </MISC>
             <MISC>
@@ -187,6 +143,28 @@
                 <AMOUNT>0.001</AMOUNT>
                 <DISPLAY_AMOUNT>1 g</DISPLAY_AMOUNT>
                 <AMOUNT_IS_WEIGHT>true</AMOUNT_IS_WEIGHT>
+            </MISC>
+            <MISC>
+                <BF_ID>default-9mb13</BF_ID>
+                <NAME>Lallemand&#32;Servomyces</NAME>
+                <VERSION>1</VERSION>
+                <TYPE>Other</TYPE>
+                <USE>Boil</USE>
+                <TIME>10</TIME>
+                <AMOUNT>0.00005</AMOUNT>
+                <DISPLAY_AMOUNT>0.05 g</DISPLAY_AMOUNT>
+                <AMOUNT_IS_WEIGHT>true</AMOUNT_IS_WEIGHT>
+            </MISC>
+            <MISC>
+                <BF_ID>j5Wgp9yHbnuLdRtAX0djJN6uWQpJ0F</BF_ID>
+                <NAME>Wort&#32;Chiller</NAME>
+                <VERSION>1</VERSION>
+                <TYPE>Other</TYPE>
+                <USE>Boil</USE>
+                <TIME>10</TIME>
+                <AMOUNT>1</AMOUNT>
+                <DISPLAY_AMOUNT>1 items</DISPLAY_AMOUNT>
+                <AMOUNT_IS_WEIGHT>false</AMOUNT_IS_WEIGHT>
             </MISC>
         </MISCS>
         <YEASTS>
