@@ -1,25 +1,39 @@
 # Batch #3 - SMaSH Godiva
 
+## Milestones
+
+16-08-2020 : Start brewing.
+
+16-08-2020 : Start fermentation.
+
+: Start conditioning.
+
+: Completed conditioning.
+
+: Archived.
+
 ## Preparation
 
 [Brew day sheet](./Batch_3_03_SMaSH_Godiva_brew_day_sheet.pdf)
 
 [Checklist](./Batch_3_03_SMaSH_Godiva_checklist.pdf)
 
+## Process
+
+![fermentation]()
+
+![conditioning]()
+
 [Results](./Batch_3_03_BSMaSH_Godiva_results.pdf)
 
-## Milestones
+[Evaluation]()
 
-16.08.2020 : Start Brewing.
+### Tasting notes
 
-: Start Fermenting.
+## Batch notes
 
-: Start Conditioning.
+### Brew day
 
-: Conditioning Completed.
+### Fermentation
 
-: Archived.
-
-## Tasting notes
-
-## Brew day
+### Conditioning
