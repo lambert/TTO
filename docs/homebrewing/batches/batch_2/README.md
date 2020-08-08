@@ -1,24 +1,28 @@
 # Batch #2 - 02 Brouwpunt - Kruidig Wit
 
+## Milestones
+
+04-07-2020 10:35 Start Brewing.
+
+04-07-2020 16:34 Start Fermentation.
+
+14-07-2020 20:30 Start conditioning.
+
+ Completed conditioning.
+
+ Archived.
+
 ## Preparation
 
 [Brew day sheet](./Batch_2_02_Brouwpunt_Kruidig_Wit_brew_day_sheet.pdf)
 
 [Checklist](./Batch_2_02_Brouwpunt_Kruidig_Wit_checklist.pdf)
 
+## Process
+
 [Results](./Batch_2_02_Brouwpunt_Kruidig_Wit_results.pdf)
 
-## Milestones
-
-04.07.2020 10.35: Start Brewing.
-
-04.07.2020 16.34: Start Fermenting.
-
-14.07.2020 20.30: Start Conditioning.
-
-: Conditioning Completed.
-
-: Archived.
+[Evaluation]()
 
 ## Tasting notes
 
