@@ -28,7 +28,7 @@
 
 [Evaluation](./Batch_1_01_Brouwpunt_Witbier_evaluation.md)
 
-## Tasting notes
+### Tasting notes
 
 14-06-2020 16:25 opened a half filled bottle, gave a small puff, poured hazy with some small bubbles and no foamy head, no lagging, slightly darker color than expected, tasted sour and boozy, very light carbonation.
 
@@ -65,6 +65,8 @@
 21-05-2020 15:59 Specific Gravity = 1.060 @ 35 C.
 
 21-05-2020 17:00 Wort @ 22 C, added yeast.
+
+### Fermentation
 
 #### Day 1 in fermentation
 
@@ -184,7 +186,7 @@
 
 31-05-2020 23:36 No bubbles @ 22.7 C, dp = 1 mm H2O.
 
-## Bottling day
+### Bottling day
 
 01-06-2030 09:26 No bubbles @ 22.1 C, dp = 1 mm H2O.
 
@@ -199,6 +201,8 @@
 01-06-2020 17:53 @ 20.8 C.
 
 01-06-2020 19:47 @ 20.5 C.
+
+### Conditioning
 
 #### Day 1 in conditioning
 
