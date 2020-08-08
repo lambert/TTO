@@ -6,7 +6,15 @@
 
 [Checklist](./Batch_1_01_Brouwpunt_Witbier_checklist.pdf)
 
+## Process
+
+![fermentation](fermentation.png)
+
+![conditioning](conditioning.png)
+
 [Results](./Batch_1_01_Brouwpunt_Witbier_results.pdf)
+
+[Evaluation](./Batch_1_01_Brouwpunt_Witbier_evaluation.md)
 
 ## Milestones
 
@@ -57,10 +65,6 @@
 21-05-2020 15:59 Specific Gravity = 1.060 @ 35 C.
 
 21-05-2020 17:00 Wort @ 22 C, added yeast.
-
-### Fermentation
-
-![fermentation](fermentation.png)
 
 #### Day 1 in fermentation
 
@@ -195,10 +199,6 @@
 01-06-2020 17:53 @ 20.8 C.
 
 01-06-2020 19:47 @ 20.5 C.
-
-### Conditioning
-
-![conditioning](conditioning.png)
 
 #### Day 1 in conditioning
 
