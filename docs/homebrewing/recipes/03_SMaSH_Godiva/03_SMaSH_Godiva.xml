@@ -27,12 +27,12 @@
         <BOIL_TIME>60</BOIL_TIME>
         <EFFICIENCY>71.8</EFFICIENCY>
         <OG>1.047</OG>
-        <FG>1.012</FG>
-        <ABV>4.59 %</ABV>
-        <EST_ABV>4.59 %</EST_ABV>
+        <FG>1.011</FG>
+        <ABV>4.73 %</ABV>
+        <EST_ABV>4.73 %</EST_ABV>
         <IBU>36.1</IBU>
         <EST_OG>1.047 SG</EST_OG>
-        <EST_FG>1.012 SG</EST_FG>
+        <EST_FG>1.011 SG</EST_FG>
         <EST_COLOR>4.4 SRM</EST_COLOR>
         <CARBONATION>2.3</CARBONATION>
         <HOPS>
@@ -107,8 +107,8 @@
                 <TYPE>Water&#32;Agent</TYPE>
                 <USE>Mash</USE>
                 <TIME>0</TIME>
-                <AMOUNT>0.00177</AMOUNT>
-                <DISPLAY_AMOUNT>1.77 ml</DISPLAY_AMOUNT>
+                <AMOUNT>0.00238</AMOUNT>
+                <DISPLAY_AMOUNT>2.38 ml</DISPLAY_AMOUNT>
                 <AMOUNT_IS_WEIGHT>false</AMOUNT_IS_WEIGHT>
             </MISC>
             <MISC>
@@ -118,20 +118,9 @@
                 <TYPE>Water&#32;Agent</TYPE>
                 <USE>Mash</USE>
                 <TIME>0</TIME>
-                <AMOUNT>0.00039</AMOUNT>
-                <DISPLAY_AMOUNT>0.39 g</DISPLAY_AMOUNT>
+                <AMOUNT>0.00083</AMOUNT>
+                <DISPLAY_AMOUNT>0.83 g</DISPLAY_AMOUNT>
                 <AMOUNT_IS_WEIGHT>true</AMOUNT_IS_WEIGHT>
-            </MISC>
-            <MISC>
-                <BF_ID>default-07adb1</BF_ID>
-                <NAME>Lactic&#32;Acid&#32;&#56;&#48;&#37;</NAME>
-                <VERSION>1</VERSION>
-                <TYPE>Water&#32;Agent</TYPE>
-                <USE>Sparge</USE>
-                <TIME>0</TIME>
-                <AMOUNT>0.00113</AMOUNT>
-                <DISPLAY_AMOUNT>1.13 ml</DISPLAY_AMOUNT>
-                <AMOUNT_IS_WEIGHT>false</AMOUNT_IS_WEIGHT>
             </MISC>
             <MISC>
                 <BF_ID>oYnlpgCXfleOJsh6lgnGaajdDcWylQ</BF_ID>
