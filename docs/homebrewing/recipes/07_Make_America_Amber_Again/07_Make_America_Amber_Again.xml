@@ -27,12 +27,12 @@
         <BOIL_TIME>60</BOIL_TIME>
         <EFFICIENCY>71.4</EFFICIENCY>
         <OG>1.05</OG>
-        <FG>1.012</FG>
-        <ABV>4.99 %</ABV>
-        <EST_ABV>4.99 %</EST_ABV>
+        <FG>1.01</FG>
+        <ABV>5.25 %</ABV>
+        <EST_ABV>5.25 %</EST_ABV>
         <IBU>31</IBU>
         <EST_OG>1.05 SG</EST_OG>
-        <EST_FG>1.012 SG</EST_FG>
+        <EST_FG>1.01 SG</EST_FG>
         <EST_COLOR>13.8 SRM</EST_COLOR>
         <CARBONATION>2.3</CARBONATION>
         <HOPS>
@@ -178,8 +178,8 @@
                 <TYPE>Water&#32;Agent</TYPE>
                 <USE>Mash</USE>
                 <TIME>0</TIME>
-                <AMOUNT>0.00598</AMOUNT>
-                <DISPLAY_AMOUNT>5.98 ml</DISPLAY_AMOUNT>
+                <AMOUNT>0.00609</AMOUNT>
+                <DISPLAY_AMOUNT>6.09 ml</DISPLAY_AMOUNT>
                 <AMOUNT_IS_WEIGHT>false</AMOUNT_IS_WEIGHT>
             </MISC>
             <MISC>
@@ -200,19 +200,8 @@
                 <TYPE>Water&#32;Agent</TYPE>
                 <USE>Mash</USE>
                 <TIME>0</TIME>
-                <AMOUNT>0.00005</AMOUNT>
-                <DISPLAY_AMOUNT>0.05 g</DISPLAY_AMOUNT>
-                <AMOUNT_IS_WEIGHT>true</AMOUNT_IS_WEIGHT>
-            </MISC>
-            <MISC>
-                <BF_ID>default-mv8127</BF_ID>
-                <NAME>Magnesium&#32;Chloride&#32;&#40;MgCl&#50;&#41;</NAME>
-                <VERSION>1</VERSION>
-                <TYPE>Water&#32;Agent</TYPE>
-                <USE>Mash</USE>
-                <TIME>0</TIME>
-                <AMOUNT>0.00004</AMOUNT>
-                <DISPLAY_AMOUNT>0.04 g</DISPLAY_AMOUNT>
+                <AMOUNT>0.00009</AMOUNT>
+                <DISPLAY_AMOUNT>0.09 g</DISPLAY_AMOUNT>
                 <AMOUNT_IS_WEIGHT>true</AMOUNT_IS_WEIGHT>
             </MISC>
             <MISC>
@@ -225,17 +214,6 @@
                 <AMOUNT>0.00015</AMOUNT>
                 <DISPLAY_AMOUNT>0.15 g</DISPLAY_AMOUNT>
                 <AMOUNT_IS_WEIGHT>true</AMOUNT_IS_WEIGHT>
-            </MISC>
-            <MISC>
-                <BF_ID>j5Wgp9yHbnuLdRtAX0djJN6uWQpJ0F</BF_ID>
-                <NAME>Wort&#32;Chiller</NAME>
-                <VERSION>1</VERSION>
-                <TYPE>Other</TYPE>
-                <USE>Boil</USE>
-                <TIME>15</TIME>
-                <AMOUNT>1</AMOUNT>
-                <DISPLAY_AMOUNT>1 items</DISPLAY_AMOUNT>
-                <AMOUNT_IS_WEIGHT>false</AMOUNT_IS_WEIGHT>
             </MISC>
             <MISC>
                 <BF_ID>default-5adf6e</BF_ID>
@@ -258,6 +236,17 @@
                 <AMOUNT>0.00005</AMOUNT>
                 <DISPLAY_AMOUNT>0.05 g</DISPLAY_AMOUNT>
                 <AMOUNT_IS_WEIGHT>true</AMOUNT_IS_WEIGHT>
+            </MISC>
+            <MISC>
+                <BF_ID>j5Wgp9yHbnuLdRtAX0djJN6uWQpJ0F</BF_ID>
+                <NAME>Wort&#32;Chiller</NAME>
+                <VERSION>1</VERSION>
+                <TYPE>Other</TYPE>
+                <USE>Boil</USE>
+                <TIME>10</TIME>
+                <AMOUNT>1</AMOUNT>
+                <DISPLAY_AMOUNT>1 items</DISPLAY_AMOUNT>
+                <AMOUNT_IS_WEIGHT>false</AMOUNT_IS_WEIGHT>
             </MISC>
         </MISCS>
         <YEASTS>
