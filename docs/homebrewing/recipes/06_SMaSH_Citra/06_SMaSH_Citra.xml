@@ -27,12 +27,12 @@
         <BOIL_TIME>60</BOIL_TIME>
         <EFFICIENCY>71.4</EFFICIENCY>
         <OG>1.055</OG>
-        <FG>1.012</FG>
-        <ABV>5.64 %</ABV>
-        <EST_ABV>5.64 %</EST_ABV>
+        <FG>1.01</FG>
+        <ABV>5.91 %</ABV>
+        <EST_ABV>5.91 %</EST_ABV>
         <IBU>40.9</IBU>
         <EST_OG>1.055 SG</EST_OG>
-        <EST_FG>1.012 SG</EST_FG>
+        <EST_FG>1.01 SG</EST_FG>
         <EST_COLOR>4.9 SRM</EST_COLOR>
         <CARBONATION>2.3</CARBONATION>
         <HOPS>
