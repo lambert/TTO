@@ -2,9 +2,9 @@
 
 ## Milestones
 
-16-08-2020 : Start brewing.
+12-09-2020 : Start brewing.
 
-16-08-2020 : Start fermentation.
+12-09-2020 : Start fermentation.
 
 : Start conditioning.
 
