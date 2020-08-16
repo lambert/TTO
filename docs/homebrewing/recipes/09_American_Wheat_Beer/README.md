@@ -1,4 +1,4 @@
-![logo](./09_American_Wheat_Beer.png)
+![logo](./09_American_Wheat_Beer.jpeg)
 
 # 09 American Wheat Beer
 
