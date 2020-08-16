@@ -2,7 +2,7 @@
 
 # 08 Orange Wheat IPA
 
-Single Mash and Single Hop exBEERiment for a 5 L batch size.
+American Wheat Beer (5 L batch size).
 
 ## Recipe
 
