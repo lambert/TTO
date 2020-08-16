@@ -40,7 +40,7 @@
 
 ![09](09_American_Wheat_Beer/09_American_Wheat_Beer.jpeg)
 
-[09 09_American Wheat Beer](09_09_American_Wheat_Beer/README.md)
+[09_American Wheat Beer](09_09_American_Wheat_Beer/README.md)
 
 ## British
 
