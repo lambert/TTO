@@ -38,7 +38,7 @@
 
 [08 Orange Wheat IPA](08_Orange_Wheat_IPA/README.md)
 
-![09](09_American_Wheat_Beer/09_American_Wheat_Beer.png)
+![09](09_American_Wheat_Beer/09_American_Wheat_Beer.jpeg)
 
 [09_American Wheat Beer](09_09_American_Wheat_Beer/README.md)
 
