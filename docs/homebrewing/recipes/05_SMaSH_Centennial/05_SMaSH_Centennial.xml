@@ -21,7 +21,7 @@
             <COLOR_MIN>5</COLOR_MIN>
             <COLOR_MAX>10</COLOR_MAX>
         </STYLE>
-        <BREWER>Plonk&#32;Beer</BREWER>
+        <BREWER>My&#32;Plonk&#32;Beer</BREWER>
         <BATCH_SIZE>5.6</BATCH_SIZE>
         <BOIL_SIZE>7.99</BOIL_SIZE>
         <BOIL_TIME>60</BOIL_TIME>
@@ -133,6 +133,17 @@
                 <AMOUNT>0.00085</AMOUNT>
                 <DISPLAY_AMOUNT>0.85 g</DISPLAY_AMOUNT>
                 <AMOUNT_IS_WEIGHT>true</AMOUNT_IS_WEIGHT>
+            </MISC>
+            <MISC>
+                <BF_ID>default-07adb1</BF_ID>
+                <NAME>Lactic&#32;Acid&#32;&#56;&#48;&#37;</NAME>
+                <VERSION>1</VERSION>
+                <TYPE>Water&#32;Agent</TYPE>
+                <USE>Mash</USE>
+                <TIME>0</TIME>
+                <AMOUNT>0.0008</AMOUNT>
+                <DISPLAY_AMOUNT>0.8 ml</DISPLAY_AMOUNT>
+                <AMOUNT_IS_WEIGHT>false</AMOUNT_IS_WEIGHT>
             </MISC>
             <MISC>
                 <BF_ID>oYnlpgCXfleOJsh6lgnGaajdDcWylQ</BF_ID>
