@@ -2,6 +2,8 @@
 
 # 07 Make America Amber Again
 
+American Amber Ale (5 L batch size).
+
 ## Recipe
 
 [pdf](./07_Make_America_Amber_Again.pdf)
