@@ -20,6 +20,8 @@
 
 ## Process
 
+![temperature](temperature.png)
+
 ![fermentation](fermentation.png)
 
 ![conditioning](conditioning.png)
