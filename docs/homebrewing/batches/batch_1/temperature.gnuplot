@@ -5,21 +5,22 @@ set output output_file
 set title "Temperature"
 set style data lines
 set ylabel "Temperature [°C]"
-set yrange [15:23.8]
+set yrange [15:25]
 set grid y
+set ytics 1
 set mytics 5
 set xlabel "Date"
 set grid x
+set xtic rotate by 90 scale 0 offset 0.5,0
 set autoscale x
-#set xtics 7200
 set xdata time
 set timefmt "%d-%m-%Y  %H:%M"
-set format x "%d-%m"
+set format x "%d-%m-%Y"
 plot "-" using 1:3 title ""
 # Date  Temperature (in degrees C)
-21-05-2020  17:00  22.0
-22-05-2020  23:30  21.0
-23-05-2020  08:26  21.0
+21-05-2020  17:00  22
+22-05-2020  23:30  21
+23-05-2020  08:26  21
 23-05-2020  09:55  20.5
 23-05-2020  10:26  20.6
 23-05-2020  13:03  20.4
@@ -175,7 +176,7 @@ plot "-" using 1:3 title ""
 28-06-2020  11:20  21.5
 28-06-2020  19:40  21.2
 28-06-2020  23:12  21.8
-29-06-2020  08:25: 21.0
+29-06-2020  08:25  21.0
 29-06-2020  12:51  20.8
 29-06-2020  18:17  20.5
 29-06-2020  22:59  20.0
