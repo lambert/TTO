@@ -14,7 +14,7 @@ set grid x
 set xtic rotate by 90 scale 0 offset 0.5,0
 set autoscale x
 set xdata time
-set timefmt "%d-%m-%Y %H:%M"
+set timefmt "%d-%m-%Y  %H:%M"
 set format x "%d-%m-%Y"
 plot "-" using 1:3 title ""
 # Date Time Temperature (in degrees C)
