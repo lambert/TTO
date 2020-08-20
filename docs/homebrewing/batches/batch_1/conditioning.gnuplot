@@ -1,20 +1,21 @@
 # setup graph
 set term png
-output_file   = "conditioning.png"
+output_file = "conditioning.png"
 set output output_file
 set title "Conditioning"
 set style data lines
 set ylabel "Temperature [°C]"
-set yrange [15:23.8]
+set yrange [15:25]
 set grid y
+set ytics 1
 set mytics 5
 set xlabel "Date"
 set grid x
+set xtic rotate by 90 scale 0 offset 0.5,0
 set autoscale x
-#set xtics 7200
 set xdata time
 set timefmt "%d-%m-%Y  %H:%M"
-set format x "%d-%m"
+set format x "%d-%m-%Y"
 plot "-" using 1:3 title ""
 # Date  Temperature (in degrees C)
 01-06-2020  17:53  20.8
