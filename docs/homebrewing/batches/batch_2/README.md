@@ -30,43 +30,55 @@
 
 ### Brew day
 
-04-07-2020 10:35 5L water to 72 C. 
-04-07-2020 10:39 Start mashing @ 63 ... 68 C. 
+04-07-2020 10:35 5L water to 72 C.
+
+04-07-2020 10:39 Start mashing @ 63 ... 68 C.
+
 04-07-2020 11:40 Start sparging with 2.5 L water @ 72 C.
-04-07-2020 12:00 Start boil. Specific Gravity = 1.035 @ ~30 C. 
-04-07-2020 12:30 Added hop (whole) in a bag. Refreshed wort in hop bag 5x.  
-04-07-2020 12:55 Added Orange Peel and Coriander Seeds. 
-04-07-2020 13:00 Hop out, brewpot in the cooler (sink filled with tapwater). 
-04-07-2020 14:00 Wort transferred to fermenter, and strained the Orange Peel and Coriander Seeds out. 
+
+04-07-2020 12:00 Start boil. Specific Gravity = 1.035 @ ~30 C.
+
+04-07-2020 12:30 Added hop (whole) in a bag. Refreshed wort in hop bag 5x.
+
+04-07-2020 12:55 Added Orange Peel and Coriander Seeds.
+
+04-07-2020 13:00 Hop out, brewpot in the cooler (sink filled with tapwater).
+
+04-07-2020 14:00 Wort transferred to fermenter, and strained the Orange Peel and Coriander Seeds out.
+
 04-07-2020 14:15 Specific Gravity = 1.060 @ 35 C, normalized to 1.064 @ 20 C.
+
 04-07-2020 16:34 Wort @ 22 C, added 5 grams yeast.
+
 04-07-2020 16:35 @ 21.9 C.
+
 04-07-2020 18:52 @ 21.9 C.
+
 04-07-2020 22:14 @ 20.3 C, fermentation has started.
 
 ### Fermentation
 
 #### Day 1 in fermentation
 
-05.07.2020 07.38: @ 21.8 C, lots of bubbles, very active fermentation.
+05-07-2020 07:38 @ 21.8 C, lots of bubbles, very active fermentation.
 
-05.07.2020 10.49: @ 21.0 C, lots of bubbles, very active fermentation.
+05-07-2020 10:49 @ 21.0 C, lots of bubbles, very active fermentation.
 
-05.07.2020 15.24: @ 20.9 C, dp = 10 mm H2O, no bubbles.
+05-07-2020 15:24 @ 20.9 C, dp = 10 mm H2O, no bubbles.
 
-05.07.2020 20.03: @ 20.0 C, dp = 10 mm H2O, no bubbles.
+05-07-2020 20:03 @ 20.0 C, dp = 10 mm H2O, no bubbles.
 
-05.07.2020 23.24: @ 20.8 C, dp = 8 mm H2O, no bubbles..
+05-07-2020 23:24 @ 20.8 C, dp = 8 mm H2O, no bubbles.
 
 #### Day 2 in fermentation
 
-06.07.2020 07.21: @ 19.5 C, dp = 2 mm H2O, no bubbles.
+06-07-2020 07:21 @ 19.5 C, dp = 2 mm H2O, no bubbles.
 
-06.07.2020 12.24: @ 19.8 C, dp= 1 mm H2O, no bubbles.
+06-07-2020 12:24 @ 19.8 C, dp= 1 mm H2O, no bubbles.
 
-06.07.2020 14.55: @ 19.0 C, dp = 2 mm H2O, no bubbles.
+06-07-2020 14:55 @ 19.0 C, dp = 2 mm H2O, no bubbles.
 
-06.07.2020 21.38: @ 19.5 C, dp = 1 mm H2O, no bubbles.
+06-07-2020 21:38 @ 19.5 C, dp = 1 mm H2O, no bubbles.
 
 #### Day 3 in fermentation
 
