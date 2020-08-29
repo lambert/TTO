@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <RECIPES>
     <RECIPE>
-        <NAME>&#48;&#50;&#32;Brouwpunt&#32;&#45;&#32;Kruidig&#32;Wit</NAME>
+        <NAME>&#48;&#50;&#32;Brouwpunt&#32;&#45;&#32;Kruidig&#32;Wit&#32;&#40;rev&#32;&#49;&#41;</NAME>
         <VERSION>1</VERSION>
         <TYPE>All&#32;Grain</TYPE>
         <STYLE>
@@ -26,14 +26,14 @@
         <BOIL_SIZE>8.94</BOIL_SIZE>
         <BOIL_TIME>60</BOIL_TIME>
         <EFFICIENCY>72</EFFICIENCY>
-        <OG>1.054</OG>
-        <FG>1.016</FG>
+        <OG>1.053</OG>
+        <FG>1.015</FG>
         <ABV>4.99 %</ABV>
         <EST_ABV>4.99 %</EST_ABV>
         <IBU>20.1</IBU>
-        <EST_OG>1.054 SG</EST_OG>
-        <EST_FG>1.016 SG</EST_FG>
-        <EST_COLOR>3.8 SRM</EST_COLOR>
+        <EST_OG>1.053 SG</EST_OG>
+        <EST_FG>1.015 SG</EST_FG>
+        <EST_COLOR>3.3 SRM</EST_COLOR>
         <CARBONATION>2.4</CARBONATION>
         <HOPS>
             <HOP>
@@ -51,27 +51,27 @@
         </HOPS>
         <FERMENTABLES>
             <FERMENTABLE>
-                <BF_ID>default-724b650</BF_ID>
-                <NAME>Pilsen&#32;Malt</NAME>
-                <SUPPLIER>Brouwpunt&#32;&#40;NL&#41;</SUPPLIER>
-                <ORIGIN>Germany</ORIGIN>
+                <BF_ID>default-2dcc02b</BF_ID>
+                <NAME>Pale&#32;Wheat&#32;Malt</NAME>
+                <SUPPLIER>Dingemans</SUPPLIER>
+                <ORIGIN>Belgium</ORIGIN>
                 <VERSION>1</VERSION>
                 <TYPE>Grain</TYPE>
                 <AMOUNT>0.63</AMOUNT>
-                <YIELD>82.8</YIELD>
-                <COLOR>1.77665</COLOR>
+                <YIELD>83</YIELD>
+                <COLOR>2.030457</COLOR>
                 <ADD_AFTER_BOIL>false</ADD_AFTER_BOIL>
             </FERMENTABLE>
             <FERMENTABLE>
-                <BF_ID>default-bfaf755</BF_ID>
-                <NAME>Wheat&#32;Flaked</NAME>
-                <SUPPLIER>Brouwpunt&#32;&#40;NL&#41;</SUPPLIER>
-                <ORIGIN>Germany</ORIGIN>
+                <BF_ID>default-fc95e0f</BF_ID>
+                <NAME>Pilsen&#32;Malt</NAME>
+                <SUPPLIER>Dingemans</SUPPLIER>
+                <ORIGIN>Belgium</ORIGIN>
                 <VERSION>1</VERSION>
                 <TYPE>Grain</TYPE>
                 <AMOUNT>0.63</AMOUNT>
-                <YIELD>83.5</YIELD>
-                <COLOR>2.436548</COLOR>
+                <YIELD>81</YIELD>
+                <COLOR>1.370558</COLOR>
                 <ADD_AFTER_BOIL>false</ADD_AFTER_BOIL>
             </FERMENTABLE>
             <FERMENTABLE>
@@ -88,6 +88,50 @@
             </FERMENTABLE>
         </FERMENTABLES>
         <MISCS>
+            <MISC>
+                <BF_ID>default-3b1827</BF_ID>
+                <NAME>Calcium&#32;Chloride&#32;&#40;CaCl&#50;&#41;&#32;&#51;&#51;&#32;&#37;</NAME>
+                <VERSION>1</VERSION>
+                <TYPE>Water&#32;Agent</TYPE>
+                <USE>Mash</USE>
+                <TIME>0</TIME>
+                <AMOUNT>0.00077</AMOUNT>
+                <DISPLAY_AMOUNT>0.77 ml</DISPLAY_AMOUNT>
+                <AMOUNT_IS_WEIGHT>false</AMOUNT_IS_WEIGHT>
+            </MISC>
+            <MISC>
+                <BF_ID>default-07adb1</BF_ID>
+                <NAME>Lactic&#32;Acid&#32;&#56;&#48;&#37;</NAME>
+                <VERSION>1</VERSION>
+                <TYPE>Water&#32;Agent</TYPE>
+                <USE>Mash</USE>
+                <TIME>0</TIME>
+                <AMOUNT>0.002</AMOUNT>
+                <DISPLAY_AMOUNT>2 ml</DISPLAY_AMOUNT>
+                <AMOUNT_IS_WEIGHT>false</AMOUNT_IS_WEIGHT>
+            </MISC>
+            <MISC>
+                <BF_ID>oYnlpgCXfleOJsh6lgnGaajdDcWylQ</BF_ID>
+                <NAME>Lipohop&#32;K</NAME>
+                <VERSION>1</VERSION>
+                <TYPE>Other</TYPE>
+                <USE>Boil</USE>
+                <TIME>60</TIME>
+                <AMOUNT>0.00015</AMOUNT>
+                <DISPLAY_AMOUNT>0.15 g</DISPLAY_AMOUNT>
+                <AMOUNT_IS_WEIGHT>true</AMOUNT_IS_WEIGHT>
+            </MISC>
+            <MISC>
+                <BF_ID>j5Wgp9yHbnuLdRtAX0djJN6uWQpJ0F</BF_ID>
+                <NAME>Wort&#32;Chiller</NAME>
+                <VERSION>1</VERSION>
+                <TYPE>Other</TYPE>
+                <USE>Boil</USE>
+                <TIME>10</TIME>
+                <AMOUNT>1</AMOUNT>
+                <DISPLAY_AMOUNT>1 items</DISPLAY_AMOUNT>
+                <AMOUNT_IS_WEIGHT>false</AMOUNT_IS_WEIGHT>
+            </MISC>
             <MISC>
                 <BF_ID>default-8c2f24</BF_ID>
                 <NAME>Coriander&#32;Seed</NAME>
