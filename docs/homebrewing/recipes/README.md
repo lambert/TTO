@@ -68,3 +68,7 @@
 
 [17 SMaSH Sabro](17_SMaSH_Sabro/README.md)
 
+![18](18_SMaSH_East_Kent_Golding/18_SMaSH_EKG.jpeg)
+
+[18 SMaSH East Kent Golding](18_SMaSH_East_Kent_Golding/README.md)
+
