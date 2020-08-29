@@ -10,7 +10,7 @@
 
 16-07-2020 21:05 Completed conditioning
 
-18-07-2020 18:58 Archived
+Archived
 
 ## Preparation
 
