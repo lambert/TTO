@@ -47,3 +47,12 @@
 ![12](12_SMaSH_Simcoe/12_SMaSH_Simcoe.jpeg)
 
 [12 SMaSH Simcoe](12_SMaSH_Simcoe/README.md)
+
+![13](13_Isengrim/13_Isengrim.jpeg)
+
+[13 Isengrim](13_Isengrim/README.md)
+
+![14](14_Reynard/14_Reynard.jpeg)
+
+[14 Reynard](14_Reynard/README.md)
+
