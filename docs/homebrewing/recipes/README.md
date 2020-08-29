@@ -46,4 +46,4 @@
 
 ![12](12_SMaSH_Simcoe/12_SMaSH_Simcoe.jpeg)
 
-[12_SMaSH_Simcoe](12_SMaSH_Simce/README.md)
+[12_SMaSH_Simcoe](12_SMaSH_Simcoe/README.md)
