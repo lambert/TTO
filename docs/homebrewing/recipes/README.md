@@ -72,3 +72,7 @@
 
 [18 SMaSH East Kent Golding](18_SMaSH_East_Kent_Golding/README.md)
 
+![19](19_Five_Points_Brewing_Best_Fuggles_clone/19_Five_Points_Brewing_Best_Fuggles_clone.jpeg)
+
+[19 Five Points Brewing - Best Fuggles (clone)](19_Five_Points_Brewing_Best_Fuggles_clone/README.md)
+
