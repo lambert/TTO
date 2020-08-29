@@ -56,3 +56,15 @@
 
 [14 Reynard](14_Reynard/README.md)
 
+![15](15_Never_Give_Up/15_Never_Give_Up.jpeg)
+
+[15 Never Give Up](15_Never_Give_Up/README.md)
+
+![16](16_SMaSH_Magnum/16_SMaSH_Magnum.jpeg)
+
+[16 SMaSH Magnum](16_SMaSH_Magnum/README.md)
+
+![17](17_SMaSH_Sabro/17_SMaSH_Sabro.jpeg)
+
+[17 SMaSH Sabro](17_SMaSH_Sabro/README.md)
+
