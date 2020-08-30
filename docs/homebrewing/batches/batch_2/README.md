@@ -28,7 +28,7 @@
 
 [Results](./Batch_2_02_Brouwpunt_Kruidig_Wit_results.pdf)
 
-[Evaluation]()
+[Evaluation](./Batch_2_02_Brouwpunt_Kruidig_Wit_evaluation.md)
 
 ### Tasting notes
 
