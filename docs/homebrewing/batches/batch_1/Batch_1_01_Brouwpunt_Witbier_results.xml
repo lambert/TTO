@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <RECIPES>
     <RECIPE>
-        <NAME>&#48;&#49;&#32;Brouwpunt&#32;Witbier</NAME>
+        <NAME>&#48;&#49;&#32;Brouwpunt&#32;&#45;&#32;Witbier</NAME>
         <VERSION>1</VERSION>
         <TYPE>All&#32;Grain</TYPE>
         <STYLE>
@@ -98,6 +98,17 @@
                 <AMOUNT>0.005</AMOUNT>
                 <DISPLAY_AMOUNT>5 g</DISPLAY_AMOUNT>
                 <AMOUNT_IS_WEIGHT>true</AMOUNT_IS_WEIGHT>
+            </MISC>
+            <MISC>
+                <BF_ID>PPrvXTYJNeXNRwSwkecHJuUsWwFODg</BF_ID>
+                <NAME>Steinie&#32;bottle&#32;&#51;&#51;&#32;cl&#32;&#40;swing&#45;top&#41;</NAME>
+                <VERSION>1</VERSION>
+                <TYPE>Other</TYPE>
+                <USE>Bottling</USE>
+                <TIME>0</TIME>
+                <AMOUNT>15</AMOUNT>
+                <DISPLAY_AMOUNT>15 items</DISPLAY_AMOUNT>
+                <AMOUNT_IS_WEIGHT>false</AMOUNT_IS_WEIGHT>
             </MISC>
         </MISCS>
         <YEASTS>
