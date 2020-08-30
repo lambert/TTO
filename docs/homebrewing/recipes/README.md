@@ -80,3 +80,11 @@
 
 [20 Five Points Brewing - Best Goldings (clone)](20_Five_Points_Brewing_Best_Goldings_clone/README.md)
 
+![21](21_St_Austell_Tribute_clone/21_St_Austell_Tribute_clone.jpeg)
+
+[21 St Austell - Tribute (clone)](21_St_Austell_Tribute_clone/README.md)
+
+![22](22_Fullers_Brewery_London_Pride_clone/22_Fullers_Brewery_London_Pride_clone.jpeg)
+
+[22 Fuller's Brewery - London Pride (clone)](22_Fullers_Brewery_London_Pride_clone/README.md)
+
