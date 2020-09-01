@@ -88,3 +88,7 @@
 
 [22 Fuller's Brewery - London Pride (clone)](22_Fullers_Brewery_London_Pride_clone/README.md)
 
+![23](23_Shepherd_Neame_Spitfire_Amber_Kentish_Ale_clone/23_Shepherd_Neame_Spitfire_Amber_Kentish_Ale_clone.jpeg)
+
+[23 Shepherd Neame - Spitfire Amber Kentish Ale (clone)](23_Shepherd_Neame_Spitfire_Amber_Kentish_Ale_clone/README.md)
+
