@@ -92,3 +92,7 @@
 
 [23 Shepherd Neame - Spitfire Amber Kentish Ale (clone)](23_Shepherd_Neame_Spitfire_Amber_Kentish_Ale_clone/README.md)
 
+![24](24_Shepherd_Neame_Master_Brew_clone/24_Shepherd_Neame_Master_Brew_clone.jpeg)
+
+[24 Shepherd Neame - Master Brew (clone)](24_Shepherd_Neame_Master_Brew_clone/README.md)
+
