@@ -96,3 +96,7 @@
 
 [24 Shepherd Neame - Master Brew (clone)](24_Shepherd_Neame_Master_Brew_clone/README.md)
 
+![25](25_Harveys_Sussex_Best_Bitter_clone/25_Harveys_Sussex_Best_Bitter_clone.jpeg)
+
+[25 Harvey's - Sussex Best Bitter (clone)](25_Harveys_Sussex_Best_Bitter_clone/README.md)
+
