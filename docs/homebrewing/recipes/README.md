@@ -100,3 +100,7 @@
 
 [25 Harvey's - Sussex Best Bitter (clone)](25_Harveys_Sussex_Best_Bitter_clone/README.md)
 
+![26](26_Greene_King_Morland_Old_Speckled_Hen_clone/26_Greene_King_Morland_Old_Speckled_Hen_clone.jpeg)
+
+[26 Greene King - Morland Old Speckled Hen (clone)](26_Greene_King_Morland_Old_Speckled_Hen_clone/README.md)
+
