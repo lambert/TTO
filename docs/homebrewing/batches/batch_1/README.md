@@ -42,7 +42,7 @@ Archived
 
 07-08-2020 16:46 cooled and served @ 7 C, light carbonation, no foam, sour taste.
 
-03-09-2020 18:xx cooled and served @ 7 C, light carbonation, no foam, sour taste.
+03-09-2020 18:xx cooled and served @ 7 C, light carbonation, light foam which dissolved quickly, sour taste.
 
 ## Batch notes
 
