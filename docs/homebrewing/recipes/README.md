@@ -22,10 +22,10 @@
 | ![18](18_SMaSH_East_Kent_Golding/18_SMaSH_EKG.jpeg) | [18 SMaSH East Kent Golding](18_SMaSH_East_Kent_Golding/README.md) | British Golden Ale (AG) | 4.5 % | 29 |
 | ![19](19_Five_Points_Brewing_Best_Fuggles_clone/19_Five_Points_Brewing_Best_Fuggles_clone.jpeg) | [19 Five Points Brewing - Best Fuggles (clone)](19_Five_Points_Brewing_Best_Fuggles_clone/README.md) | Best Bitter (AG) | 4.3 % | 33 |
 | ![20](20_Five_Points_Brewing_Best_Goldings_clone/20_Five_Points_Brewing_Best_Goldings_clone.jpeg) | [20 Five Points Brewing - Best Goldings (clone)](20_Five_Points_Brewing_Best_Goldings_clone/README.md) | Best Bitter (AG) | 4.2 % | 36 |
-| ![21](21_St_Austell_Tribute_clone/21_St_Austell_Tribute_clone.jpeg) | [21 St Austell - Tribute (clone)](21_St_Austell_Tribute_clone/README.md) | | | |
-| ![22](22_Fullers_Brewery_London_Pride_clone/22_Fullers_Brewery_London_Pride_clone.jpeg) | [22 Fuller's Brewery - London Pride (clone)](22_Fullers_Brewery_London_Pride_clone/README.md) | | | |
-| ![23](23_Shepherd_Neame_Spitfire_Amber_Kentish_Ale_clone/23_Shepherd_Neame_Spitfire_Amber_Kentish_Ale_clone.jpeg) | [23 Shepherd Neame - Spitfire Amber Kentish Ale (clone)](23_Shepherd_Neame_Spitfire_Amber_Kentish_Ale_clone/README.md) | | | |
-| ![24](24_Shepherd_Neame_Master_Brew_clone/24_Shepherd_Neame_Master_Brew_clone.jpeg) | [24 Shepherd Neame - Master Brew (clone)](24_Shepherd_Neame_Master_Brew_clone/README.md) | | | |
-| ![25](25_Harveys_Sussex_Best_Bitter_clone/25_Harveys_Sussex_Best_Bitter_clone.jpeg) | [25 Harvey's - Sussex Best Bitter (clone)](25_Harveys_Sussex_Best_Bitter_clone/README.md) | | | |
-| ![26](26_Greene_King_Morland_Old_Speckled_Hen_clone/26_Greene_King_Morland_Old_Speckled_Hen_clone.jpeg) | [26 Greene King - Morland Old Speckled Hen (clone)](26_Greene_King_Morland_Old_Speckled_Hen_clone/README.md) | | | |
+| ![21](21_St_Austell_Tribute_clone/21_St_Austell_Tribute_clone.jpeg) | [21 St Austell - Tribute (clone)](21_St_Austell_Tribute_clone/README.md) | British Golden Ale (AG) | 4.5 % | 30 |
+| ![22](22_Fullers_Brewery_London_Pride_clone/22_Fullers_Brewery_London_Pride_clone.jpeg) | [22 Fuller's Brewery - London Pride (clone)](22_Fullers_Brewery_London_Pride_clone/README.md) | Best Bitter (AG) | 4.3 % | 31 |
+| ![23](23_Shepherd_Neame_Spitfire_Amber_Kentish_Ale_clone/23_Shepherd_Neame_Spitfire_Amber_Kentish_Ale_clone.jpeg) | [23 Shepherd Neame - Spitfire Amber Kentish Ale (clone)](23_Shepherd_Neame_Spitfire_Amber_Kentish_Ale_clone/README.md) | Best Bitter (AG) | 4.6 % | 36 |
+| ![24](24_Shepherd_Neame_Master_Brew_clone/24_Shepherd_Neame_Master_Brew_clone.jpeg) | [24 Shepherd Neame - Master Brew (clone)](24_Shepherd_Neame_Master_Brew_clone/README.md) | Best Bitter (AG) | 4.2 % | 26 |
+| ![25](25_Harveys_Sussex_Best_Bitter_clone/25_Harveys_Sussex_Best_Bitter_clone.jpeg) | [25 Harvey's - Sussex Best Bitter (clone)](25_Harveys_Sussex_Best_Bitter_clone/README.md) | Best Bitter (AG) | 4.1 % | 35 |
+| ![26](26_Greene_King_Morland_Old_Speckled_Hen_clone/26_Greene_King_Morland_Old_Speckled_Hen_clone.jpeg) | [26 Greene King - Morland Old Speckled Hen (clone)](26_Greene_King_Morland_Old_Speckled_Hen_clone/README.md) | Strong Bitter (AG) | 5.1 % | 40 |
 
