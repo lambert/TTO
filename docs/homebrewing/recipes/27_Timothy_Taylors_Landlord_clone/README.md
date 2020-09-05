@@ -4,12 +4,20 @@
 
 5 L batch size.
 
-## Recipe
+## Recipe v1
 
-[pdf](./27_Timothy_Taylors_Landlord_clone.pdf)
+[pdf](./27_Timothy_Taylors_Landlord_clone_v1.pdf)
 
-[BeerXML](./27_Timothy_Taylors_Landlord_clone.xml)
+[BeerXML](./27_Timothy_Taylors_Landlord_clone_v1.xml)
 
-[json](./27_Timothy_Taylors_Landlord_clone.json)
+[json](./27_Timothy_Taylors_Landlord_clone_v1.json)
+
+## Recipe v2
+
+[pdf](./27_Timothy_Taylors_Landlord_clone_v2.pdf)
+
+[BeerXML](./27_Timothy_Taylors_Landlord_clone_v2.xml)
+
+[json](./27_Timothy_Taylors_Landlord_clone_v2.json)
 
 ## Batches
