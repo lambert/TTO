@@ -2,7 +2,7 @@
 
 |                     |             | Style | ABV | IBU |
 |---------------------|-------------|-------|-----|-----|
-| ![01](01_Brouwpunt_Witbier/01_Brouwpunt_Witbier.jpeg) | [01 Brouwpunt - Witbier](01_Brouwpunt_Witbier/README.md) | Witbier (AG) | 5.9 % | 18 | 
+| ![01](01_Brouwpunt_Witbier/01_Brouwpunt_Witbier_48x48.jpeg) | [01 Brouwpunt - Witbier](01_Brouwpunt_Witbier/README.md) | Witbier (AG) | 5.9 % | 18 | 
 | ![02](02_Brouwpunt_Kruidig_Wit/02_Brouwpunt_Kruidig_Wit.jpeg) | [02 Brouwpunt - Kruidig Wit](02_Brouwpunt_Kruidig_Wit/README.md) | Witbier (AG) | 5.0 % | 20 |
 | ![03](03_SMaSH_Godiva/03_SMaSH_Godiva.jpeg) | [03 SMaSH Godiva](03_SMaSH_Godiva/README.md) | British Golden Ale (AG) | 4.7 % | 37 |
 | ![04](04_SMaSH_Fuggle/04_SMaSH_Fuggle.jpeg) | [04 SMaSH Fuggle](04_SMaSH_Fuggle/README.md) | British Golden Ale (AG) | 4.2 % | 33 |
