@@ -3,15 +3,15 @@
 |                     |             | Style | ABV | IBU |
 |---------------------|-------------|-------|-----|-----|
 | ![01](01_Brouwpunt_Witbier/01_Brouwpunt_Witbier_48x48.jpeg) | [01 Brouwpunt - Witbier](01_Brouwpunt_Witbier/README.md) | Witbier (AG) | 5.9 % | 18 | 
-| ![02](02_Brouwpunt_Kruidig_Wit/02_Brouwpunt_Kruidig_Wit.jpeg) | [02 Brouwpunt - Kruidig Wit](02_Brouwpunt_Kruidig_Wit/README.md) | Witbier (AG) | 5.0 % | 20 |
-| ![03](03_SMaSH_Godiva/03_SMaSH_Godiva.jpeg) | [03 SMaSH Godiva](03_SMaSH_Godiva/README.md) | British Golden Ale (AG) | 4.7 % | 37 |
-| ![04](04_SMaSH_Fuggle/04_SMaSH_Fuggle.jpeg) | [04 SMaSH Fuggle](04_SMaSH_Fuggle/README.md) | British Golden Ale (AG) | 4.2 % | 33 |
-| ![05](05_SMaSH_Centennial/05_SMaSH_Centennial.jpeg) | [05 SMaSH Centennial](05_SMaSH_Centennial/README.md) | American Pale Ale (AG) | 5.3 % | 39 |
-| ![06](06_SMaSH_Citra/06_SMaSH_Citra.jpeg) | [06 SMaSH Citra](06_SMaSH_Citra/README.md) | American Pale Ale (AG) | 5.9 % | 43 |
-| ![07](07_Make_America_Amber_Again/07_Make_America_Amber_Again.jpeg) | [07 Make America Amber Again](07_Make_America_Amber_Again/README.md) | American Amber Ale (AG) | 5.3 % | 32 |
-| ![08](08_Orange_Wheat_IPA/08_Orange_Wheat_IPA.jpeg) | [08 Orange Wheat IPA](08_Orange_Wheat_IPA/README.md) | American Wheat Beer (AG) | 5.1 % | 32 |
-| ![09](09_American_Wheat_Beer/09_American_Wheat_Beer.jpeg) | [09_American Wheat Beer](09_09_American_Wheat_Beer/README.md) | American Wheat Beer (AG) | 4.7 % | 24 |
-| ![10](10_Brexit_ESB/10_Brexit_ESB.jpeg) | [10 Brexit ESB](10_10_Brexit_ESB/README.md) | Strong Bitter (AG) | 5.4 % | 44 |
+| ![02](02_Brouwpunt_Kruidig_Wit/02_Brouwpunt_Kruidig_Wit_48x48.jpeg) | [02 Brouwpunt - Kruidig Wit](02_Brouwpunt_Kruidig_Wit/README.md) | Witbier (AG) | 5.0 % | 20 |
+| ![03](03_SMaSH_Godiva/03_SMaSH_Godiva_48x48.jpeg) | [03 SMaSH Godiva](03_SMaSH_Godiva/README.md) | British Golden Ale (AG) | 4.7 % | 37 |
+| ![04](04_SMaSH_Fuggle/04_SMaSH_Fuggle_48x48.jpeg) | [04 SMaSH Fuggle](04_SMaSH_Fuggle/README.md) | British Golden Ale (AG) | 4.2 % | 33 |
+| ![05](05_SMaSH_Centennial/05_SMaSH_Centennial_48x48.jpeg) | [05 SMaSH Centennial](05_SMaSH_Centennial/README.md) | American Pale Ale (AG) | 5.3 % | 39 |
+| ![06](06_SMaSH_Citra/06_SMaSH_Citra_48x48.jpeg) | [06 SMaSH Citra](06_SMaSH_Citra/README.md) | American Pale Ale (AG) | 5.9 % | 43 |
+| ![07](07_Make_America_Amber_Again/07_Make_America_Amber_Again_48x48.jpeg) | [07 Make America Amber Again](07_Make_America_Amber_Again/README.md) | American Amber Ale (AG) | 5.3 % | 32 |
+| ![08](08_Orange_Wheat_IPA/08_Orange_Wheat_IPA_48x48.jpeg) | [08 Orange Wheat IPA](08_Orange_Wheat_IPA/README.md) | American Wheat Beer (AG) | 5.1 % | 32 |
+| ![09](09_American_Wheat_Beer/09_American_Wheat_Beer_48x48.jpeg) | [09_American Wheat Beer](09_09_American_Wheat_Beer/README.md) | American Wheat Beer (AG) | 4.7 % | 24 |
+| ![10](10_Brexit_ESB/10_Brexit_ESB_48x48.jpeg) | [10 Brexit ESB](10_10_Brexit_ESB/README.md) | Strong Bitter (AG) | 5.4 % | 44 |
 | ![11](11_Ich_Weiss_Es_Nicht/11_Ich_Weiss_Es_Nicht.jpeg) | [11 Ich Weiss Es Nicht](11_Ich_Weiss_Es_Nicht/README.md) | Weissbier (AG) | 5.5 % | 13 |
 | ![12](12_SMaSH_Simcoe/12_SMaSH_Simcoe.jpeg) | [12 SMaSH Simcoe](12_SMaSH_Simcoe/README.md) | American Pale Ale (AG) | 6.0 % | 41 |
 | ![13](13_Isengrim/13_Isengrim.jpeg) | [13 Isengrim](13_Isengrim/README.md) | Oatmeal Stout (AG) | 5.5 % | 28 |
