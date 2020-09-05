@@ -28,4 +28,5 @@
 | ![24](24_Shepherd_Neame_Master_Brew_clone/24_Shepherd_Neame_Master_Brew_clone.jpeg) | [24 Shepherd Neame - Master Brew (clone)](24_Shepherd_Neame_Master_Brew_clone/README.md) | Best Bitter (AG) | 4.2 % | 26 |
 | ![25](25_Harveys_Sussex_Best_Bitter_clone/25_Harveys_Sussex_Best_Bitter_clone.jpeg) | [25 Harvey's - Sussex Best Bitter (clone)](25_Harveys_Sussex_Best_Bitter_clone/README.md) | Best Bitter (AG) | 4.1 % | 35 |
 | ![26](26_Greene_King_Morland_Old_Speckled_Hen_clone/26_Greene_King_Morland_Old_Speckled_Hen_clone.jpeg) | [26 Greene King - Morland Old Speckled Hen (clone)](26_Greene_King_Morland_Old_Speckled_Hen_clone/README.md) | Strong Bitter (AG) | 5.1 % | 40 |
+| ![27](27_Timothy_Taylors_Landlord_clone/27_Timothy_Taylors_Landlord_clone.jpeg) | [27_Timothy_Taylors_Landlord_clone](27_Timothy_Taylors_Landlord_clone/README.md) | Classic English-style Pale Ale (AG) | 4.1/4.3 % | 36 |
 
