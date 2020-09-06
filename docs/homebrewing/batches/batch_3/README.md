@@ -62,12 +62,12 @@ Fermenter volume = 5.3 L.
 
 06-09-2020 13:25 pitched 5 grams of yeast.
 
+### Fermentation
+
 06-09-2020 13:35 @ 20.7 C.
 
 06-09-2020 14:46 @ 24.0 C.
 
 06-09-2020 16:01 @ 22.2 C, dp = 10 mm H2O.
-
-### Fermentation
 
 ### Conditioning
