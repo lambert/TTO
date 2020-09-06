@@ -32,9 +32,13 @@
 
 ## Batch notes
 
+05-09-2020
+
+Boiled 4.7 L of water the night before.
+
 ### Brew day
 
-09:30 siphoned 4 L, heated  4 L mash water.
+06-09-2020 09:30 siphoned 4 L, heated  4 L mash water.
 
 Added 0,14 g Epsom salt, 0,5 mL Calcium chloride 33 % and 1,2 mL Lactic acid 80 %.
 
