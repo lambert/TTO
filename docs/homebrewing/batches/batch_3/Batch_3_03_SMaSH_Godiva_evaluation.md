@@ -12,7 +12,7 @@ Date: 06-09-2020
 | Post-Boil Volume (HOT): | 5.96   | 5.3   | -0.66  | L    |
 | Boil Off per Hour:      | 1.8    | 1.8   |  0.0   | L    |
 | Batch Volume:           | 5.6    | 5.3   | -0.3   | L    |
-| Trub/Chiller Loss:      | 0.12   | -0.21v| -0.33  | L    |
+| Trub/Chiller Loss:      | 0.12   | -0.21 | -0.33  | L    |
 | Bottling Volume:        | 5.0    | 4.7   | -0.3   | L    |
 | Pre-Boil Gravity:       | 1.034  | 1.028 | -0.006 |      |
 | Post-Boil Gravity:      | 1.045  | 1.041 | -0.004 |      |
