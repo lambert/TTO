@@ -26,7 +26,7 @@
 
 [Results](./Batch_3_03_BSMaSH_Godiva_results.pdf)
 
-[Evaluation]()
+[Evaluation](./Batch_3_03_SMaSH_Godiva_evaluation.md)
 
 ### Tasting notes
 
