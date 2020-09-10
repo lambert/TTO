@@ -2,9 +2,17 @@
 
 # 02 Brouwpunt Kruidig Wit
 
-Ingredients kit for a 5 L batch from Brouwpunt [link](https://brouwpunt.nl/product/kruidig-wit/)
+Ingredients kit from Brouwpunt [link](https://brouwpunt.nl/product/kruidig-wit/)
 
-## Recipe
+## Recipe for a 5 L batch size.
+
+Vitals:
+
+ABV: 4.9 %
+
+IBU: 11
+
+EBC: 8
 
 [pdf](./02_Brouwpunt_Kruidig_Wit.pdf)
 

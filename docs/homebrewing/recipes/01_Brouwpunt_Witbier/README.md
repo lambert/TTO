@@ -8,9 +8,11 @@ Ingredients kit from Brouwpunt [link](https://brouwpunt.nl/product/brouwpunt-wit
 
 Vitals:
 
-ABV: 5.0 %
+ABV: 4.9 %
 
-IBU: 18
+IBU: 11
+
+EBC: 8
 
 [pdf](./01_Brouwpunt_Witbier.pdf)
 
