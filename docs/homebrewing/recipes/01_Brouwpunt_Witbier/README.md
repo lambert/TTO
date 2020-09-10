@@ -2,9 +2,15 @@
 
 # 01 Brouwpunt Witbier
 
-Ingredients kit for a 5 L batch from Brouwpunt [link](https://brouwpunt.nl/product/brouwpunt-wit-2/)
+Ingredients kit from Brouwpunt [link](https://brouwpunt.nl/product/brouwpunt-wit-2/)
 
-## Recipe
+## Recipe for a 5 L batch size.
+
+Vitals:
+
+ABV: 5.0 %
+
+IBU: 18
 
 [pdf](./01_Brouwpunt_Witbier.pdf)
 
