@@ -2,9 +2,19 @@
 
 # 03 SMaSH Godiva
 
-Single Mash and Single Hop exBEERiment for a 5 L batch size.
+Single Mash and Single Hop exBEERiment.
 
-## Recipe
+## Recipe for a 5 L batch size.
+
+Vitals:
+
+Style: British Golden Ale.
+
+ABV: 4.7 %
+
+IBU: 37
+
+EBC: 9
 
 [pdf](./03_SMaSH_Godiva.pdf)
 

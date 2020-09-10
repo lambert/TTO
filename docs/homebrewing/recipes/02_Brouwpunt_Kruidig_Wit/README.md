@@ -8,6 +8,8 @@ Ingredients kit from Brouwpunt [link](https://brouwpunt.nl/product/kruidig-wit/)
 
 Vitals:
 
+Style: Witbier.
+
 ABV: 4.9 %
 
 IBU: 11
