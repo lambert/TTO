@@ -20,13 +20,13 @@
 
 ## Process
 
-![temperature](temperature.png()
+![temperature](temperature.png)
 
-![fermentation](fermentation.png()
+![fermentation](fermentation.png)
 
-![specific gravity](gravity.png()
+![specific gravity](gravity.png)
 
-![pressure](pressure.png()
+![pressure](pressure.png)
 
 ![conditioning](conditioning.png)
 
