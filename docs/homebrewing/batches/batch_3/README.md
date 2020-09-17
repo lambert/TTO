@@ -6,7 +6,7 @@
 
 06-09-2020 13:25 Start fermentation.
 
-: Start conditioning.
+16-09-2020 21:17 Start conditioning.
 
 : Completed conditioning.
 
@@ -20,9 +20,15 @@
 
 ## Process
 
-![fermentation]()
+![temperature](temperature.png()
 
-![conditioning]()
+![fermentation](fermentation.png()
+
+![specific gravity](gravity.png()
+
+![pressure](pressure.png()
+
+![conditioning](conditioning.png)
 
 [Results](./Batch_3_03_BSMaSH_Godiva_results.pdf)
 
