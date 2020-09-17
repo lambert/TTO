@@ -30,7 +30,7 @@
 
 ![conditioning](conditioning.png)
 
-[Results](./Batch_3_03_BSMaSH_Godiva_results.pdf)
+[Results](./Batch_3_03_SMaSH_Godiva_results.pdf)
 
 [Evaluation](./Batch_3_03_SMaSH_Godiva_evaluation.md)
 
