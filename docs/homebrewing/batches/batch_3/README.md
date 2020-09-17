@@ -202,7 +202,7 @@ Fermenter volume = 5.3 L.
 
 16-09-2020 19:24 @ 21.1 C. dp = 0.1 mm H2O, no bubbles.
 
-### Bottling Day
+### Bottling day
 
 16-09-2020 20:55 Final Gravity = 1.002 @ 22 C --> 1.002 @ 20 C.
 
