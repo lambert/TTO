@@ -56,7 +56,7 @@ Archived
 
 27-05-2020 20:05 A bit sour, still cloudy and fruity. Day 6 of fermenting. Gravity from 1.060 to 1.024. Just a couple of days before bottling.
 
-14-06-2020 16:25 opened a half filled bottle, gave a small puff, poured hazy with some small bubbles and no foamy head, no lagging, slightly darker color than expected, tasted sour and boozy, very light carbonation.
+14-06-2020 16:25 opened a half filled bottle, gave a small puff, poured hazy with some small bubbles and no foamy head, no lacing, slightly darker color than expected, tasted sour and boozy, very light carbonation.
 
 05-07-2020 15:10 light foam which dissolves quickly, very light carbonation, little hint of orange, sour.
 
