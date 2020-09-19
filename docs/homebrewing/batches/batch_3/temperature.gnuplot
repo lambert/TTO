@@ -1,6 +1,6 @@
 # setup graph
 set term png
-output_file   = "temperature.png"
+output_file = "temperature.png"
 set key left bottom nobox
 set output output_file
 set title "Temperature"

@@ -1,6 +1,6 @@
 # setup graph
 set term png
-output_file   = "gravity.png"
+output_file = "gravity.png"
 set output output_file
 set title "Fermentation"
 set style data lines
