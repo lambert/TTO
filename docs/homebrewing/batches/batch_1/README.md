@@ -24,6 +24,10 @@ Archived
 
 ![fermentation](fermentation.png)
 
+![specific gravity](gravity.png)
+
+![pressure](pressure.png)
+
 ![conditioning](conditioning.png)
 
 [Results](./Batch_1_01_Brouwpunt_Witbier_results.pdf)

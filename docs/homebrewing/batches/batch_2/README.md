@@ -24,6 +24,10 @@
 
 ![fermentation](fermentation.png)
 
+![specific gravity](gravity.png)
+
+![pressure](pressure.png)
+
 ![conditioning](conditioning.png)
 
 [Results](./Batch_2_02_Brouwpunt_Kruidig_Wit_results.pdf)
