@@ -54,6 +54,10 @@
 
 ### Tasting notes
 
+12-08-2020 18:32 more carbonation and foam, slightly harsh and slightly spicy taste. I give myself a 3 out of 5 score.
+
+21-08-2020 18:36 hazy and more hints coriander flavor, still boozy.
+
 ## Batch notes
 
 ### Brew day
