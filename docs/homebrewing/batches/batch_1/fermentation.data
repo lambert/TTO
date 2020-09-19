@@ -1,5 +1,6 @@
-# Date  Temperature (in degrees C)
+# Date Time | Temperature (degrees C) | Pressure (mm H2O) | Specific Gravity |
 21-05-2020  17:00  22.0  0  1.064
+22-05-2020  10:00  22.0  50
 22-05-2020  23:30  21.0  10
 23-05-2020  08:26  21.0  3
 23-05-2020  09:55  20.5  3
