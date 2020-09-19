@@ -106,125 +106,127 @@ Archived
 
 #### Day 1 in fermentation
 
-22-05-2020 10:00 lots of bubbles and fermenting activity.
+22-05-2020 10:00 @ 22 C, dp = 50 mm H2O, lots of bubbles and fermenting activity.
 
-22-05-2020 23:30 no bubbles, +10 mm delta height (pressure) in water lock, a little bit of condensate in leg leading from fermenter. Tamb = 21 C.
+22-05-2020 23:30 @ 21 C, dp = 10 mm H2O, no bubbles, a little bit of condensate in leg leading from fermenter.
 
 #### Day 2 in fermentation
 
-23-05-2020 08:26 No bubbles @ 21 c, dp = 3 mm H2O.
+23-05-2020 08:26 @ 21 c, dp = 3 mm H2O, no bubbles.
 
-23-05-2020 09:55 No bubbles @ 20.5 C, dp = 3 mm H2O.
+23-05-2020 09:55 @ 20.5 C, dp = 3 mm H2O, no bubbles.
 
-23-05-2020 10:26 No bubbles @ 20.6 C, dp = 3 mm H2O.
+23-05-2020 10:26 @ 20.6 C, dp = 3 mm H2O, no bubbles.
 
-23-05-2020 13:03 No bubbles @ 20.4 C, dp = 3 mm H2O.
+23-05-2020 13:03 @ 20.4 C, dp = 3 mm H2O, no bubbles.
 
-23-05-2020 14:00 No bubbles @ 20.4 C, dp = 3 mm H2O.
+23-05-2020 14:00 @ 20.4 C, dp = 3 mm H2O, no bubbles.
 
-23-05-2020 16:04 No bubbles @ 20.6 C, dp = 3 mm H2O.
+23-05-2020 16:04 @ 20.6 C, dp = 3 mm H2O, no bubbles.
 
-23-05-2020 17:28 No bubbles @ 20.6 C, dp = 3 mm H2O.
+23-05-2020 17:28 @ 20.6 C, dp = 3 mm H2O, no bubbles.
 
-23-05-2020 19:55 No bubbles @ 20.7 C, dp = 0 mm H2O.
+23-05-2020 19:55 @ 20.7 C, dp = 0 mm H2O, no bubbles.
 
-23-05-2020 22:52 No bubbles @ 21.5 C, dp = 10 mm H2O.
+23-05-2020 22:52 @ 21.5 C, dp = 10 mm H2O, no bubbles.
 
 #### Day 3 in fermentation
 
-24-05-2020 08:09 No bubbles @ 21.2 C, dp = 3 mm H2O.
+24-05-2020 08:09 @ 21.2 C, dp = 3 mm H2O, no bubbles.
 
-24-05-2020 10:17 No bubbles @ 20.1 C, dp = 2 mm H2O.
+24-05-2020 10:17 @ 20.1 C, dp = 2 mm H2O, no bubbles.
 
-24-05-2020 14:03 No bubbles @ 20.0 C, dp = 2 mm H2O.
+24-05-2020 14:03 @ 20.0 C, dp = 2 mm H2O, no bubbles.
 
-24-05-2020 15:26 No bubbles @ 20.0 C, dp = 2 mm H2O.
+24-05-2020 15:26 @ 20.0 C, dp = 2 mm H2O, no bubbles.
 
-24-05-2020 16:57 No bubbles @ 20.1 C, dp = 3 mm H2O.
+24-05-2020 16:57 @ 20.1 C, dp = 3 mm H2O, no bubbles.
 
-24-05-2020 21:31 No bubbles @ 20.1 C, dp = 2 mm H2O.
+24-05-2020 21:31 @ 20.1 C, dp = 2 mm H2O, no bubbles.
 
 #### Day 4 in fermentation
 
-25-05-2020 07:54 No bubbles @ 20.8 C, dp = 3 mm H2O.
+25-05-2020 07:54 @ 20.8 C, dp = 3 mm H2O, no bubbles.
 
-25-05-2020 12:02 No bubbles @ 19.9 C, dp = 2 mm H2O.
+25-05-2020 12:02 @ 19.9 C, dp = 2 mm H2O, no bubbles.
 
-25-05-2020 15:05 No bubbles @ 19.9 C, dp= 2 mm H2O.
+25-05-2020 15:05 @ 19.9 C, dp= 2 mm H2O, no bubbles.
 
-25-05-2020 22:55 No bubbles @ 20.1 C, dp = 2 mm H2O.
+25-05-2020 22:55 @ 20.1 C, dp = 2 mm H2O, no bubbles.
 
 #### Day 5 in fermentation
 
-26-05-2020 06:54 No bubbles @ 20.8 C, dp = 2 mm H2O.
+26-05-2020 06:54 @ 20.8 C, dp = 2 mm H2O, no bubbles.
 
-26-05-2020 11:01 No bubbles @ 20.0 C, dp = 3 mm H2O.
+26-05-2020 11:01 @ 20.0 C, dp = 3 mm H2O, no bubbles.
 
-26-05-2020 16:08 No bubbles @ 20.1 C, dp = 2 mm H2O.
+26-05-2020 16:08 @ 20.1 C, dp = 2 mm H2O, no bubbles.
 
-26-05-2020 20:12 No bubbles @ 20.2 C, dp = 3 mm H2O.
+26-05-2020 20:12 @ 20.2 C, dp = 3 mm H2O, no bubbles.
 
-26-05-2020 22:45 No bubbles @ 20.2 C, dp = 2 mm H2O.
+26-05-2020 22:45 @ 20.2 C, dp = 2 mm H2O, no bubbles.
 
 #### Day 6 in fermentation
 
-27-05-2020 09:30 No bubbles @ 21.6 C, dp = 0 mm H2O.
+27-05-2020 09:30 @ 21.6 C, dp = 0 mm H2O, no bubbles.
 
-27-05-2020 14:53 No bubbles @ 20.3 C, dp = 0 mm H2O.
+27-05-2020 14:53 @ 20.3 C, dp = 0 mm H2O, no bubbles.
 
-27-05-2020 19:34 No bubbles. Cloudy, Witbier taste, a bit sour, no bubbles @ 20.3 C, dp = 0 mm H2O, Specific Gravity = 1.024.
+27-05-2020 19:34 @ 20.3 C, dp = 0 mm H2O, Specific Gravity = 1.024, no bubbles.
 
-27-05-2020 22:09 No bubbles @ 20.3 C, dp = 10 mm.
+27-05-2020 19:34 Cloudy, Witbier taste, a bit sour, no foam.
+
+27-05-2020 22:09 @ 20.3 C, dp = 10 mm, no bubbles.
 
 #### Day 7 in fermentation
 
-28-05-2020 08:33 No bubbles @ 20.1 C, dp = 0 mm H2O.
+28-05-2020 08:33 @ 20.1 C, dp = 0 mm H2O, no bubbles.
 
-28-05-2020 14:36 No bubbles @ 20.1 C, dp = 1 mm H2O.
+28-05-2020 14:36 @ 20.1 C, dp = 1 mm H2O, no bubbles.
 
-28-05-2020 19:01 No bubbles @ 20.2 C, dp = 1 mm H2O.
+28-05-2020 19:01 @ 20.2 C, dp = 1 mm H2O, no bubbles.
 
-28-05-2020 22:58 No bubbles @ 20.3 C, dp = 1 mm H2O.
+28-05-2020 22:58 @ 20.3 C, dp = 1 mm H2O, no bubbles.
 
 #### Day 8 in fermentation
 
-29-05-2020 07:19 No bubbles @ 20.2 C, dp = 1 mm H2O.
+29-05-2020 07:19 @ 20.2 C, dp = 1 mm H2O, no bubbles.
 
-29-05-2020 12:24 No bubbles @ 20.2 C, dp = 1 mm H2O.
+29-05-2020 12:24 @ 20.2 C, dp = 1 mm H2O, no bubbles.
 
-29-05-2020 19:56 No bubbles @ 20.3 C, dp = 1 mm H2O.
+29-05-2020 19:56 @ 20.3 C, dp = 1 mm H2O, no bubbles.
 
-29-05-2020 23:28 No bubbles @ 20.3 C, dp = 1 mm H2O.
+29-05-2020 23:28 @ 20.3 C, dp = 1 mm H2O, no bubbles.
 
 #### Day 9 in fermentation
 
-30-05-2020 12:06 No bubbles @ 20.8 C, dp = 1 mm H2O.
+30-05-2020 12:06 @ 20.8 C, dp = 1 mm H2O, no bubbles.
 
-30-05-2020 15:08 No bubbles @ 20.1 C, dp = 2 mm H2O.
+30-05-2020 15:08 @ 20.1 C, dp = 2 mm H2O, no bubbles.
 
-30-05-2020 18:19 No bubbles @ 20.1 C, dp = 1 mm H2O.
+30-05-2020 18:19 @ 20.1 C, dp = 1 mm H2O, no bubbles.
 
 #### Day 10 in fermentation
 
-31-05-2020 00:14 No bubbles @ 20.3 C, dp = 1 mm H2O.
+31-05-2020 00:14 @ 20.3 C, dp = 1 mm H2O, no bubbles.
 
-31-05-2020 09:49 No bubbles @ 21.2 C, dp = 1 mm H2O.
+31-05-2020 09:49 @ 21.2 C, dp = 1 mm H2O, no bubbles.
 
-31-05-2020 12:33 No bubbles @ 20.3 C, dp = 1 mm H2O.
+31-05-2020 12:33 @ 20.3 C, dp = 1 mm H2O, no bubbles.
 
-31-05-2020 12:43: Moved from box to shelve @ 21.6 C, dp = 0 mm H2O.
+31-05-2020 12:43 @ 21.6 C, dp = 0 mm H2O, no bubbles, moved from box to shelve.
 
-31-05-2020 14:15 No bubbles @ 21.9 C, dp = 0 mm H2O.
+31-05-2020 14:15 @ 21.9 C, dp = 0 mm H2O, no bubbles.
 
-31-05-2020 17:06 No bubbles @ 22.6 C, dp = 0 mm H2O.
+31-05-2020 17:06 @ 22.6 C, dp = 0 mm H2O, no bubbles.
 
-31-05-2020 21:05 No bubbles @ 22.5 C, dp = 1 mm H2O.
+31-05-2020 21:05 @ 22.5 C, dp = 1 mm H2O, no bubbles.
 
-31-05-2020 23:36 No bubbles @ 22.7 C, dp = 1 mm H2O.
+31-05-2020 23:36 @ 22.7 C, dp = 1 mm H2O, no bubbles.
 
 ### Bottling day
 
-01-06-2030 09:26 No bubbles @ 22.1 C, dp = 1 mm H2O.
+01-06-2030 09:26 @ 22.1 C, dp = 1 mm H2O, no bubbles.
 
 01-06-2020 11:31 @ 22.6 C, Specific Gravity = 1.024 after fermenting.
 
@@ -234,11 +236,11 @@ Archived
 
 01-06-2020 12:30 finished bottling, filled 12 Steinie bottles (33 cl),  stored in cardboard box in the cellar.
 
+### Conditioning
+
 01-06-2020 17:53 @ 20.8 C.
 
 01-06-2020 19:47 @ 20.5 C.
-
-### Conditioning
 
 #### Day 1 in conditioning
 
