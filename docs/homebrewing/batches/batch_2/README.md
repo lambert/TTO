@@ -88,9 +88,9 @@
 
 #### Day 1 in fermentation
 
-05-07-2020 07:38 @ 21.8 C, lots of bubbles, very active fermentation.
+05-07-2020 07:38 @ 21.8 C, dp = 50 mm H2O, lots of bubbles, very active fermentation.
 
-05-07-2020 10:49 @ 21.0 C, lots of bubbles, very active fermentation.
+05-07-2020 10:49 @ 21.0 C, dp = 50 mm H2O, lots of bubbles, very active fermentation.
 
 05-07-2020 15:24 @ 20.9 C, dp = 10 mm H2O, no bubbles.
 
