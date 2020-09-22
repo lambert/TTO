@@ -22,18 +22,18 @@
             <COLOR_MAX>4</COLOR_MAX>
         </STYLE>
         <BREWER>Brouwpunt</BREWER>
-        <BATCH_SIZE>5</BATCH_SIZE>
-        <BOIL_SIZE>7.55</BOIL_SIZE>
+        <BATCH_SIZE>5.6</BATCH_SIZE>
+        <BOIL_SIZE>7.76</BOIL_SIZE>
         <BOIL_TIME>60</BOIL_TIME>
-        <EFFICIENCY>70</EFFICIENCY>
-        <OG>1.059</OG>
-        <FG>1.017</FG>
-        <ABV>5.51 %</ABV>
-        <EST_ABV>5.51 %</EST_ABV>
-        <IBU>18.3</IBU>
-        <EST_OG>1.059 SG</EST_OG>
-        <EST_FG>1.017 SG</EST_FG>
-        <EST_COLOR>3.7 SRM</EST_COLOR>
+        <EFFICIENCY>71.8</EFFICIENCY>
+        <OG>1.054</OG>
+        <FG>1.016</FG>
+        <ABV>4.99 %</ABV>
+        <EST_ABV>4.99 %</EST_ABV>
+        <IBU>20.4</IBU>
+        <EST_OG>1.054 SG</EST_OG>
+        <EST_FG>1.016 SG</EST_FG>
+        <EST_COLOR>3.8 SRM</EST_COLOR>
         <CARBONATION>2.4</CARBONATION>
         <HOPS>
             <HOP>
@@ -100,14 +100,25 @@
                 <AMOUNT_IS_WEIGHT>true</AMOUNT_IS_WEIGHT>
             </MISC>
             <MISC>
+                <BF_ID>fRRzD78PwIvONO2uB1kWwLiu6j5g5y</BF_ID>
+                <NAME>&#51;&#51;&#32;cl&#32;Steinie&#32;bottle&#32;&#40;&#50;&#54;&#32;mm&#32;cap&#41;</NAME>
+                <VERSION>1</VERSION>
+                <TYPE>Other</TYPE>
+                <USE>Bottling</USE>
+                <TIME>0</TIME>
+                <AMOUNT>5</AMOUNT>
+                <DISPLAY_AMOUNT>5 items</DISPLAY_AMOUNT>
+                <AMOUNT_IS_WEIGHT>false</AMOUNT_IS_WEIGHT>
+            </MISC>
+            <MISC>
                 <BF_ID>PPrvXTYJNeXNRwSwkecHJuUsWwFODg</BF_ID>
                 <NAME>Steinie&#32;bottle&#32;&#51;&#51;&#32;cl&#32;&#40;swing&#45;top&#41;</NAME>
                 <VERSION>1</VERSION>
                 <TYPE>Other</TYPE>
                 <USE>Bottling</USE>
                 <TIME>0</TIME>
-                <AMOUNT>15</AMOUNT>
-                <DISPLAY_AMOUNT>15 items</DISPLAY_AMOUNT>
+                <AMOUNT>7</AMOUNT>
+                <DISPLAY_AMOUNT>7 items</DISPLAY_AMOUNT>
                 <AMOUNT_IS_WEIGHT>false</AMOUNT_IS_WEIGHT>
             </MISC>
         </MISCS>
@@ -137,20 +148,20 @@
                     <TYPE>Temperature</TYPE>
                     <STEP_TEMP>67</STEP_TEMP>
                     <STEP_TIME>60</STEP_TIME>
-                    <INFUSE_AMOUNT>4.28</INFUSE_AMOUNT>
+                    <INFUSE_AMOUNT>3.78</INFUSE_AMOUNT>
                 </MASH_STEP>
             </MASH_STEPS>
         </MASH>
         <EQUIPMENT>
-            <NAME>&#48;&#49;&#32;Brouwpunt&#32;&#53;L</NAME>
+            <NAME>&#48;&#49;&#32;Brouwpunt&#32;&#53;L&#32;&#40;&#54;&#48;min&#41;&#32;&#40;rev&#32;&#51;&#41;</NAME>
             <VERSION>1</VERSION>
-            <BOIL_SIZE>7.55</BOIL_SIZE>
-            <BATCH_SIZE>5</BATCH_SIZE>
-            <TRUB_CHILLER_LOSS>1</TRUB_CHILLER_LOSS>
-            <LAUTER_DEADSPACE>0.5</LAUTER_DEADSPACE>
+            <BOIL_SIZE>7.76</BOIL_SIZE>
+            <BATCH_SIZE>5.6</BATCH_SIZE>
+            <TRUB_CHILLER_LOSS>0.12</TRUB_CHILLER_LOSS>
+            <LAUTER_DEADSPACE>0</LAUTER_DEADSPACE>
             <BOIL_TIME>60</BOIL_TIME>
             <HOP_UTILIZATION>100</HOP_UTILIZATION>
-            <EVAP_RATE>17.218543046357617</EVAP_RATE>
+            <EVAP_RATE>23.195876288659793</EVAP_RATE>
             <CALC_BOIL_VOLUME>true</CALC_BOIL_VOLUME>
         </EQUIPMENT>
         <BF_FERMENTATION_PROFILE_ID>default</BF_FERMENTATION_PROFILE_ID>
