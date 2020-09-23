@@ -29,6 +29,6 @@
 | ![25](25_Harveys_Sussex_Best_Bitter_clone/25_Harveys_Sussex_Best_Bitter_clone_48x48.jpeg) | [25 Harvey's - Sussex Best Bitter (clone)](25_Harveys_Sussex_Best_Bitter_clone/README.md) | Best Bitter (AG) | 4.1 % | 35 |
 | ![26](26_Greene_King_Morland_Old_Speckled_Hen_clone/26_Greene_King_Morland_Old_Speckled_Hen_clone_48x48.jpeg) | [26 Greene King - Morland Old Speckled Hen (clone)](26_Greene_King_Morland_Old_Speckled_Hen_clone/README.md) | Strong Bitter (AG) | 5.1 % | 40 |
 | ![27](27_Timothy_Taylors_Landlord_clone/27_Timothy_Taylors_Landlord_clone_48x48.jpeg) | [27 Timothy Taylor's - Landlord (clone)](27_Timothy_Taylors_Landlord_clone/README.md) | Classic English-style Pale Ale (AG) | 4.1/4.3 % | 36 |
-| ![28](28_Williams_Brothers_Brewing_Co._Good_Times_clone/28_Williams_Brothers_Brewing_Co._Good_Times_clone+48x48.jpeg) | [28 Williams Brothers Brewing Co. - Good Times (clone)](28_Williams_Brothers_Brewing_Co._Good_Times_clone/README.md) | British Golden Ale (AG) | 5 % | 18 |
+| ![28](28_Williams_Brothers_Brewing_Co._Good_Times_clone/28_Williams_Brothers_Brewing_Co._Good_Times_clone_48x48.jpeg) | [28 Williams Brothers Brewing Co. - Good Times (clone)](28_Williams_Brothers_Brewing_Co._Good_Times_clone/README.md) | British Golden Ale (AG) | 5 % | 18 |
 | ![29](29_St_Austell_Proper_Job_clone/29_St_Austell_Proper_Job_clone_48x48.jpeg) | [29 St Austell - Proper Job (clone)](29_St_Austell_Proper_Job_clone/README.md) | English IPA | 5.8 % | 10 |
 
