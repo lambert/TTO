@@ -333,7 +333,7 @@ Fermenter volume = 5.3 L.
 
 25-09-2020 23:32 @ 20.2 C.
 
-## Day 10 in conditioning
+#### Day 10 in conditioning
 
 26-09-2020 07:57 @ 19.6 C.
 
