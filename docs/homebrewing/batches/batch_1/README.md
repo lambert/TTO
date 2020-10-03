@@ -70,7 +70,9 @@ Archived
 
 03-09-2020 18:51 cooled and served @ 7 C, light carbonation, light foam which dissolved quickly, sour taste.
 
-18-09-2020 19:39 cooled and served @ 7 C, better carbonation, quick dissolving foam, sour taste.
+18-09-2020 19:44 cooled and served @ 7 C, better carbonation, quick dissolving foam, sour taste.
+
+03-10-2020 17:47 cooled and served @ 7 C, light foam which dissolves quickly, very light carbonation, little hint of orange, sour taste.
 
 ## Batch notes
 
