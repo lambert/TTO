@@ -58,6 +58,8 @@
 
 ### Tasting notes
 
+02-10-2020 18:10 cooled and served @ 7 C. Opening the swing-top gave a puff. Poured clear with a little yeast from conditioning. No foam, light carbonation. A light sour taste, boozy, some light esters and dry mouthfeel.
+
 ## Batch notes
 
 05-09-2020
