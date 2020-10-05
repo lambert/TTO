@@ -30,7 +30,7 @@
         <FG>1.015</FG>
         <ABV>4.99 %</ABV>
         <EST_ABV>4.99 %</EST_ABV>
-        <IBU>19.1</IBU>
+        <IBU>10.9</IBU>
         <EST_OG>1.053 SG</EST_OG>
         <EST_FG>1.015 SG</EST_FG>
         <EST_COLOR>3.3 SRM</EST_COLOR>
@@ -41,7 +41,7 @@
                 <NAME>Saaz</NAME>
                 <VERSION>1</VERSION>
                 <ALPHA>4.4</ALPHA>
-                <AMOUNT>0.0116</AMOUNT>
+                <AMOUNT>0.0066</AMOUNT>
                 <USE>Boil</USE>
                 <TIME>30</TIME>
                 <FORM>Pellet</FORM>
