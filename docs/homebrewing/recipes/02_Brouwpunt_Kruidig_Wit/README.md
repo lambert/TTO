@@ -8,19 +8,10 @@ Ingredients kit from Brouwpunt [link](https://brouwpunt.nl/product/kruidig-wit/)
 
 Vitals:
 
-Style: Witbier.
-
-ABV: 4.9 %
-
-IBU: 11
-
-EBC: 8
-
-[pdf](./02_Brouwpunt_Kruidig_Wit.pdf)
-
-[BeerXML](./02_Brouwpunt_Kruidig_Wit.xml)
-
-[json](./02_Brouwpunt_Kruidig_Wit.json)
+|    | Style   | ABV   | IBU | EBC | pdf                                     | BeerXML                                      | JSON                                       |
+|----|---------|-------|-----|-----|-----------------------------------------|----------------------------------------------|--------------------------------------------|
+|    | Witbier | 4.9 % | 19  | 7.5 |[pdf](./02_Brouwpunt_Kruidig_Wit.pdf)    | [BeerXML](./02_Brouwpunt_Kruidig_Wit.xml)    | [json](./02_Brouwpunt_Kruidig_Wit.json)    |
+| v2 | Witbier | 5.0 % | 19  | 6.5 |[pdf](./02_Brouwpunt_Kruidig_Wit_v2.pdf) | [BeerXML](./02_Brouwpunt_Kruidig_Wit_v2.xml) | [json](./02_Brouwpunt_Kruidig_Wit_v2.json) |
 
 ## Batches
 
