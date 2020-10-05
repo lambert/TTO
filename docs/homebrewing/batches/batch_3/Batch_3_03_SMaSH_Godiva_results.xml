@@ -21,7 +21,7 @@
             <COLOR_MIN>2</COLOR_MIN>
             <COLOR_MAX>6</COLOR_MAX>
         </STYLE>
-        <BREWER>My&#32;Plonk&#32;Beer</BREWER>
+        <BREWER>The&#32;Thirsty&#32;Otter</BREWER>
         <BATCH_SIZE>5.6</BATCH_SIZE>
         <BOIL_SIZE>7.76</BOIL_SIZE>
         <BOIL_TIME>60</BOIL_TIME>
@@ -134,6 +134,17 @@
                 <AMOUNT_IS_WEIGHT>false</AMOUNT_IS_WEIGHT>
             </MISC>
             <MISC>
+                <BF_ID>WDItC6EBT6VCsBDUmCWUiyNk1WQPWs</BF_ID>
+                <NAME>pH&#32;paper&#32;strips&#32;&#53;&#46;&#50;&#32;&#45;&#32;&#54;&#46;&#56;</NAME>
+                <VERSION>1</VERSION>
+                <TYPE>Other</TYPE>
+                <USE>Mash</USE>
+                <TIME>0</TIME>
+                <AMOUNT>4</AMOUNT>
+                <DISPLAY_AMOUNT>4 items</DISPLAY_AMOUNT>
+                <AMOUNT_IS_WEIGHT>false</AMOUNT_IS_WEIGHT>
+            </MISC>
+            <MISC>
                 <BF_ID>oYnlpgCXfleOJsh6lgnGaajdDcWylQ</BF_ID>
                 <NAME>Lipohop&#32;K</NAME>
                 <VERSION>1</VERSION>
@@ -151,8 +162,8 @@
                 <TYPE>Fining</TYPE>
                 <USE>Boil</USE>
                 <TIME>10</TIME>
-                <AMOUNT>0.001</AMOUNT>
-                <DISPLAY_AMOUNT>1 g</DISPLAY_AMOUNT>
+                <AMOUNT>0.0011</AMOUNT>
+                <DISPLAY_AMOUNT>1.1 g</DISPLAY_AMOUNT>
                 <AMOUNT_IS_WEIGHT>true</AMOUNT_IS_WEIGHT>
             </MISC>
             <MISC>
@@ -184,8 +195,8 @@
                 <TYPE>Other</TYPE>
                 <USE>Bottling</USE>
                 <TIME>0</TIME>
-                <AMOUNT>15</AMOUNT>
-                <DISPLAY_AMOUNT>15 items</DISPLAY_AMOUNT>
+                <AMOUNT>13</AMOUNT>
+                <DISPLAY_AMOUNT>13 items</DISPLAY_AMOUNT>
                 <AMOUNT_IS_WEIGHT>false</AMOUNT_IS_WEIGHT>
             </MISC>
         </MISCS>
