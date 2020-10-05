@@ -23,21 +23,21 @@
         </STYLE>
         <BREWER>Brouwpunt</BREWER>
         <BATCH_SIZE>5.6</BATCH_SIZE>
-        <BOIL_SIZE>8.94</BOIL_SIZE>
+        <BOIL_SIZE>7.76</BOIL_SIZE>
         <BOIL_TIME>60</BOIL_TIME>
-        <EFFICIENCY>72</EFFICIENCY>
+        <EFFICIENCY>71.8</EFFICIENCY>
         <OG>1.054</OG>
         <FG>1.016</FG>
         <ABV>4.99 %</ABV>
         <EST_ABV>4.99 %</EST_ABV>
-        <IBU>20.1</IBU>
+        <IBU>19</IBU>
         <EST_OG>1.054 SG</EST_OG>
         <EST_FG>1.016 SG</EST_FG>
         <EST_COLOR>3.8 SRM</EST_COLOR>
         <CARBONATION>2.4</CARBONATION>
         <HOPS>
             <HOP>
-                <BF_ID>default-9414e938</BF_ID>
+                <BF_ID>zJvHbKZYaXFTOuVTLECSB32u4ZKXvq</BF_ID>
                 <NAME>Saaz</NAME>
                 <VERSION>1</VERSION>
                 <ALPHA>5.5</ALPHA>
@@ -64,7 +64,7 @@
             </FERMENTABLE>
             <FERMENTABLE>
                 <BF_ID>default-bfaf755</BF_ID>
-                <NAME>Wheat&#32;Flaked</NAME>
+                <NAME>Wheat&#32;Malt</NAME>
                 <SUPPLIER>Brouwpunt&#32;&#40;NL&#41;</SUPPLIER>
                 <ORIGIN>Germany</ORIGIN>
                 <VERSION>1</VERSION>
@@ -117,8 +117,8 @@
                 <TYPE>Other</TYPE>
                 <USE>Bottling</USE>
                 <TIME>0</TIME>
-                <AMOUNT>15</AMOUNT>
-                <DISPLAY_AMOUNT>15 items</DISPLAY_AMOUNT>
+                <AMOUNT>14</AMOUNT>
+                <DISPLAY_AMOUNT>14 items</DISPLAY_AMOUNT>
                 <AMOUNT_IS_WEIGHT>false</AMOUNT_IS_WEIGHT>
             </MISC>
         </MISCS>
@@ -153,15 +153,15 @@
             </MASH_STEPS>
         </MASH>
         <EQUIPMENT>
-            <NAME>&#48;&#49;&#32;Brouwpunt&#32;&#53;L&#32;&#40;&#54;&#48;min&#41;&#32;&#40;rev&#32;&#49;&#41;</NAME>
+            <NAME>&#48;&#49;&#32;Brouwpunt&#32;&#53;L&#32;&#40;&#54;&#48;min&#41;&#32;&#40;rev&#32;&#51;&#41;</NAME>
             <VERSION>1</VERSION>
-            <BOIL_SIZE>8.94</BOIL_SIZE>
+            <BOIL_SIZE>7.76</BOIL_SIZE>
             <BATCH_SIZE>5.6</BATCH_SIZE>
-            <TRUB_CHILLER_LOSS>0.1</TRUB_CHILLER_LOSS>
+            <TRUB_CHILLER_LOSS>0.12</TRUB_CHILLER_LOSS>
             <LAUTER_DEADSPACE>0</LAUTER_DEADSPACE>
             <BOIL_TIME>60</BOIL_TIME>
             <HOP_UTILIZATION>100</HOP_UTILIZATION>
-            <EVAP_RATE>33.557046979865774</EVAP_RATE>
+            <EVAP_RATE>23.195876288659793</EVAP_RATE>
             <CALC_BOIL_VOLUME>true</CALC_BOIL_VOLUME>
         </EQUIPMENT>
         <BF_FERMENTATION_PROFILE_ID>default</BF_FERMENTATION_PROFILE_ID>
