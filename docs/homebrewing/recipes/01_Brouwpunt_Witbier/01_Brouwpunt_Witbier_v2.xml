@@ -30,7 +30,7 @@
         <FG>1.015</FG>
         <ABV>4.99 %</ABV>
         <EST_ABV>4.99 %</EST_ABV>
-        <IBU>20.6</IBU>
+        <IBU>10.9</IBU>
         <EST_OG>1.053 SG</EST_OG>
         <EST_FG>1.015 SG</EST_FG>
         <EST_COLOR>3.3 SRM</EST_COLOR>
@@ -41,7 +41,7 @@
                 <NAME>Saaz</NAME>
                 <VERSION>1</VERSION>
                 <ALPHA>4.4</ALPHA>
-                <AMOUNT>0.0125</AMOUNT>
+                <AMOUNT>0.0066</AMOUNT>
                 <USE>Boil</USE>
                 <TIME>30</TIME>
                 <FORM>Pellet</FORM>
@@ -89,25 +89,14 @@
         </FERMENTABLES>
         <MISCS>
             <MISC>
-                <BF_ID>WDItC6EBT6VCsBDUmCWUiyNk1WQPWs</BF_ID>
-                <NAME>pH&#32;paper&#32;strips&#32;&#53;&#46;&#50;&#32;&#45;&#32;&#54;&#46;&#56;</NAME>
-                <VERSION>1</VERSION>
-                <TYPE>Other</TYPE>
-                <USE>Mash</USE>
-                <TIME>0</TIME>
-                <AMOUNT>3</AMOUNT>
-                <DISPLAY_AMOUNT>3 items</DISPLAY_AMOUNT>
-                <AMOUNT_IS_WEIGHT>false</AMOUNT_IS_WEIGHT>
-            </MISC>
-            <MISC>
                 <BF_ID>default-3b1827</BF_ID>
                 <NAME>Calcium&#32;Chloride&#32;&#40;CaCl&#50;&#41;&#32;&#51;&#51;&#32;&#37;</NAME>
                 <VERSION>1</VERSION>
                 <TYPE>Water&#32;Agent</TYPE>
                 <USE>Mash</USE>
                 <TIME>0</TIME>
-                <AMOUNT>0.00079</AMOUNT>
-                <DISPLAY_AMOUNT>0.79 ml</DISPLAY_AMOUNT>
+                <AMOUNT>0.00069</AMOUNT>
+                <DISPLAY_AMOUNT>0.69 ml</DISPLAY_AMOUNT>
                 <AMOUNT_IS_WEIGHT>false</AMOUNT_IS_WEIGHT>
             </MISC>
             <MISC>
@@ -119,6 +108,17 @@
                 <TIME>0</TIME>
                 <AMOUNT>0.0021</AMOUNT>
                 <DISPLAY_AMOUNT>2.1 ml</DISPLAY_AMOUNT>
+                <AMOUNT_IS_WEIGHT>false</AMOUNT_IS_WEIGHT>
+            </MISC>
+            <MISC>
+                <BF_ID>WDItC6EBT6VCsBDUmCWUiyNk1WQPWs</BF_ID>
+                <NAME>pH&#32;paper&#32;strips&#32;&#53;&#46;&#50;&#32;&#45;&#32;&#54;&#46;&#56;</NAME>
+                <VERSION>1</VERSION>
+                <TYPE>Other</TYPE>
+                <USE>Mash</USE>
+                <TIME>0</TIME>
+                <AMOUNT>3</AMOUNT>
+                <DISPLAY_AMOUNT>3 items</DISPLAY_AMOUNT>
                 <AMOUNT_IS_WEIGHT>false</AMOUNT_IS_WEIGHT>
             </MISC>
             <MISC>
