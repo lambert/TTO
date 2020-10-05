@@ -6,8 +6,6 @@ Ingredients kit from Brouwpunt [link](https://brouwpunt.nl/product/kruidig-wit/)
 
 ## Recipe for a 5 L batch size.
 
-Vitals:
-
 |    | Style   | ABV   | IBU | EBC | pdf                                     | BeerXML                                      | JSON                                       |
 |----|---------|-------|-----|-----|-----------------------------------------|----------------------------------------------|--------------------------------------------|
 |    | Witbier | 4.9 % | 19  | 7.5 |[pdf](./02_Brouwpunt_Kruidig_Wit.pdf)    | [BeerXML](./02_Brouwpunt_Kruidig_Wit.xml)    | [json](./02_Brouwpunt_Kruidig_Wit.json)    |
