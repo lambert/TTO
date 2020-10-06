@@ -21,16 +21,16 @@
             <COLOR_MIN>5</COLOR_MIN>
             <COLOR_MAX>10</COLOR_MAX>
         </STYLE>
-        <BREWER>My&#32;Plonk&#32;Beer</BREWER>
+        <BREWER>The&#32;Thirsty&#32;Otter</BREWER>
         <BATCH_SIZE>5.6</BATCH_SIZE>
-        <BOIL_SIZE>9.16</BOIL_SIZE>
+        <BOIL_SIZE>7.76</BOIL_SIZE>
         <BOIL_TIME>60</BOIL_TIME>
         <EFFICIENCY>71.8</EFFICIENCY>
         <OG>1.056</OG>
         <FG>1.01</FG>
         <ABV>6.04 %</ABV>
         <EST_ABV>6.04 %</EST_ABV>
-        <IBU>41.3</IBU>
+        <IBU>39.1</IBU>
         <EST_OG>1.056 SG</EST_OG>
         <EST_FG>1.01 SG</EST_FG>
         <EST_COLOR>5 SRM</EST_COLOR>
@@ -113,6 +113,17 @@
         </FERMENTABLES>
         <MISCS>
             <MISC>
+                <BF_ID>WDItC6EBT6VCsBDUmCWUiyNk1WQPWs</BF_ID>
+                <NAME>pH&#32;paper&#32;strips&#32;&#53;&#46;&#50;&#32;&#45;&#32;&#54;&#46;&#56;</NAME>
+                <VERSION>1</VERSION>
+                <TYPE>Other</TYPE>
+                <USE>Mash</USE>
+                <TIME>0</TIME>
+                <AMOUNT>3</AMOUNT>
+                <DISPLAY_AMOUNT>3 items</DISPLAY_AMOUNT>
+                <AMOUNT_IS_WEIGHT>false</AMOUNT_IS_WEIGHT>
+            </MISC>
+            <MISC>
                 <BF_ID>default-3b1827</BF_ID>
                 <NAME>Calcium&#32;Chloride&#32;&#40;CaCl&#50;&#41;&#32;&#51;&#51;&#32;&#37;</NAME>
                 <VERSION>1</VERSION>
@@ -191,7 +202,7 @@
             </MISC>
             <MISC>
                 <BF_ID>PPrvXTYJNeXNRwSwkecHJuUsWwFODg</BF_ID>
-                <NAME>Steinie&#32;bottle&#32;&#51;&#51;&#32;cl&#32;&#40;swing&#45;top&#41;</NAME>
+                <NAME>&#51;&#51;&#32;cl&#32;Steinie&#32;bottle&#32;&#40;swing&#45;top&#41;</NAME>
                 <VERSION>1</VERSION>
                 <TYPE>Other</TYPE>
                 <USE>Bottling</USE>
@@ -232,21 +243,21 @@
             </MASH_STEPS>
         </MASH>
         <EQUIPMENT>
-            <NAME>&#48;&#49;&#32;Brouwpunt&#32;&#53;L&#32;&#40;&#54;&#48;min&#41;&#32;&#40;rev&#32;&#50;&#41;</NAME>
+            <NAME>&#48;&#49;&#32;Brouwpunt&#32;&#53;L&#32;&#40;&#54;&#48;min&#41;&#32;&#40;rev&#32;&#51;&#41;</NAME>
             <VERSION>1</VERSION>
-            <BOIL_SIZE>9.16</BOIL_SIZE>
+            <BOIL_SIZE>7.76</BOIL_SIZE>
             <BATCH_SIZE>5.6</BATCH_SIZE>
             <TRUB_CHILLER_LOSS>0.12</TRUB_CHILLER_LOSS>
             <LAUTER_DEADSPACE>0</LAUTER_DEADSPACE>
             <BOIL_TIME>60</BOIL_TIME>
             <HOP_UTILIZATION>100</HOP_UTILIZATION>
-            <EVAP_RATE>34.93449781659389</EVAP_RATE>
+            <EVAP_RATE>23.195876288659793</EVAP_RATE>
             <CALC_BOIL_VOLUME>true</CALC_BOIL_VOLUME>
         </EQUIPMENT>
         <BF_FERMENTATION_PROFILE_ID>default</BF_FERMENTATION_PROFILE_ID>
         <BF_FERMENTATION_PROFILE_NAME>Ale</BF_FERMENTATION_PROFILE_NAME>
         <FERMENTATION_STAGES>2</FERMENTATION_STAGES>
-        <PRIMARY_AGE>14</PRIMARY_AGE>
+        <PRIMARY_AGE>10</PRIMARY_AGE>
         <PRIMARY_TEMP>20</PRIMARY_TEMP>
         <SECONDARY_AGE>45</SECONDARY_AGE>
         <SECONDARY_TEMP>20</SECONDARY_TEMP>
