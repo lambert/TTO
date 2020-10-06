@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <RECIPES>
     <RECIPE>
-        <NAME>&#49;&#49;&#32;Ich&#32;Weiss&#32;Es&#32;Nicht</NAME>
+        <NAME>&#49;&#49;&#32;Ich&#32;Weiss&#32;Es&#32;Nicht&#32;v&#50;</NAME>
         <VERSION>1</VERSION>
         <TYPE>All&#32;Grain</TYPE>
         <STYLE>
@@ -37,26 +37,26 @@
         <CARBONATION>2.9</CARBONATION>
         <HOPS>
             <HOP>
-                <BF_ID>HgUvPfymZVhhVOwvLnm7xd5NE5x0Cg</BF_ID>
-                <NAME>Hallertau&#32;Perle</NAME>
+                <BF_ID>default-b73163ee</BF_ID>
+                <NAME>Hallertauer&#32;Mittelfrueh&#32;&#40;T&#57;&#48;&#41;</NAME>
                 <VERSION>1</VERSION>
-                <ALPHA>7</ALPHA>
-                <AMOUNT>0.0043</AMOUNT>
+                <ALPHA>4.1</ALPHA>
+                <AMOUNT>0.0068</AMOUNT>
                 <USE>Boil</USE>
                 <TIME>10</TIME>
-                <FORM>Whole</FORM>
+                <FORM>Pellet</FORM>
                 <TEMPERATURE/>
                 <HOP_TEMP/>
             </HOP>
             <HOP>
-                <BF_ID>HgUvPfymZVhhVOwvLnm7xd5NE5x0Cg</BF_ID>
-                <NAME>Hallertau&#32;Perle</NAME>
+                <BF_ID>default-b73163ee</BF_ID>
+                <NAME>Hallertauer&#32;Mittelfrueh&#32;&#40;T&#57;&#48;&#41;</NAME>
                 <VERSION>1</VERSION>
-                <ALPHA>7</ALPHA>
-                <AMOUNT>0.0126</AMOUNT>
+                <ALPHA>4.1</ALPHA>
+                <AMOUNT>0.02</AMOUNT>
                 <USE>Aroma</USE>
                 <TIME>20</TIME>
-                <FORM>Whole</FORM>
+                <FORM>Pellet</FORM>
                 <TEMPERATURE/>
                 <HOP_TEMP/>
             </HOP>
