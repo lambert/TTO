@@ -95,8 +95,8 @@
                 <TYPE>Water&#32;Agent</TYPE>
                 <USE>Mash</USE>
                 <TIME>0</TIME>
-                <AMOUNT>0.00069</AMOUNT>
-                <DISPLAY_AMOUNT>0.69 ml</DISPLAY_AMOUNT>
+                <AMOUNT>0.00216</AMOUNT>
+                <DISPLAY_AMOUNT>2.16 ml</DISPLAY_AMOUNT>
                 <AMOUNT_IS_WEIGHT>false</AMOUNT_IS_WEIGHT>
             </MISC>
             <MISC>
@@ -106,8 +106,8 @@
                 <TYPE>Water&#32;Agent</TYPE>
                 <USE>Mash</USE>
                 <TIME>0</TIME>
-                <AMOUNT>0.0021</AMOUNT>
-                <DISPLAY_AMOUNT>2.1 ml</DISPLAY_AMOUNT>
+                <AMOUNT>0.0019</AMOUNT>
+                <DISPLAY_AMOUNT>1.9 ml</DISPLAY_AMOUNT>
                 <AMOUNT_IS_WEIGHT>false</AMOUNT_IS_WEIGHT>
             </MISC>
             <MISC>
@@ -130,6 +130,17 @@
                 <TIME>60</TIME>
                 <AMOUNT>0.00015</AMOUNT>
                 <DISPLAY_AMOUNT>0.15 g</DISPLAY_AMOUNT>
+                <AMOUNT_IS_WEIGHT>true</AMOUNT_IS_WEIGHT>
+            </MISC>
+            <MISC>
+                <BF_ID>default-9mb13</BF_ID>
+                <NAME>Lallemand&#32;Servomyces</NAME>
+                <VERSION>1</VERSION>
+                <TYPE>Other</TYPE>
+                <USE>Boil</USE>
+                <TIME>10</TIME>
+                <AMOUNT>0.00006</AMOUNT>
+                <DISPLAY_AMOUNT>0.06 g</DISPLAY_AMOUNT>
                 <AMOUNT_IS_WEIGHT>true</AMOUNT_IS_WEIGHT>
             </MISC>
             <MISC>
