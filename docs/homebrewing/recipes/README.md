@@ -1,9 +1,16 @@
 # Recipes
 
-|                     |             | Style | ABV | IBU |
+## Getting started recipes
+
+|                     | Recipe name | Style | ABV | IBU |
 |---------------------|-------------|-------|-----|-----|
 | ![01](01_Brouwpunt_Witbier/01_Brouwpunt_Witbier_48x48.jpeg) | [01 Brouwpunt - Witbier](01_Brouwpunt_Witbier/README.md) | Witbier (AG) | 4.9 % | 11 | 
 | ![02](02_Brouwpunt_Kruidig_Wit/02_Brouwpunt_Kruidig_Wit_48x48.jpeg) | [02 Brouwpunt - Kruidig Wit](02_Brouwpunt_Kruidig_Wit/README.md) | Witbier (AG) | 4.9 % | 11 |
+
+## Thirsty Otter recipes
+
+|                     | Recipe name | Style | ABV | IBU |
+|---------------------|-------------|-------|-----|-----|
 | ![03](03_SMaSH_Godiva/03_SMaSH_Godiva_48x48.jpeg) | [03 SMaSH Godiva](03_SMaSH_Godiva/README.md) | British Golden Ale (AG) | 4.7 % | 37 |
 | ![04](04_SMaSH_Fuggle/04_SMaSH_Fuggle_48x48.jpeg) | [04 SMaSH Fuggle](04_SMaSH_Fuggle/README.md) | British Golden Ale (AG) | 4.2 % | 33 |
 | ![05](05_SMaSH_Centennial/05_SMaSH_Centennial_48x48.jpeg) | [05 SMaSH Centennial](05_SMaSH_Centennial/README.md) | American Pale Ale (AG) | 5.3 % | 39 |
@@ -20,15 +27,20 @@
 | ![16](16_SMaSH_Magnum/16_SMaSH_Magnum_48x48.jpeg) | [16 SMaSH Magnum](16_SMaSH_Magnum/README.md) | Blonde Ale (AG) | 4.6 % | 23 |
 | ![17](17_SMaSH_Sabro/17_SMaSH_Sabro_48x48.jpeg) | [17 SMaSH Sabro](17_SMaSH_Sabro/README.md) | Specialty IPA (AG) | 6.4 % | 80 |
 | ![18](18_SMaSH_East_Kent_Golding/18_SMaSH_EKG_48x48.jpeg) | [18 SMaSH East Kent Golding](18_SMaSH_East_Kent_Golding/README.md) | British Golden Ale (AG) | 4.5 % | 29 |
-| ![19](19_Five_Points_Brewing_Best_Fuggles_clone/19_Five_Points_Brewing_Best_Fuggles_clone_48x48.jpeg) | [19 Five Points Brewing - Best Fuggles (clone)](19_Five_Points_Brewing_Best_Fuggles_clone/README.md) | Best Bitter (AG) | 4.3 % | 33 |
-| ![20](20_Five_Points_Brewing_Best_Goldings_clone/20_Five_Points_Brewing_Best_Goldings_clone_48x48.jpeg) | [20 Five Points Brewing - Best Goldings (clone)](20_Five_Points_Brewing_Best_Goldings_clone/README.md) | Best Bitter (AG) | 4.2 % | 36 |
-| ![21](21_St_Austell_Tribute_clone/21_St_Austell_Tribute_clone_48x48.jpeg) | [21 St Austell - Tribute (clone)](21_St_Austell_Tribute_clone/README.md) | British Golden Ale (AG) | 4.5 % | 30 |
-| ![22](22_Fullers_Brewery_London_Pride_clone/22_Fullers_Brewery_London_Pride_clone_48x48.jpeg) | [22 Fuller's Brewery - London Pride (clone)](22_Fullers_Brewery_London_Pride_clone/README.md) | Best Bitter (AG) | 4.3 % | 31 |
-| ![23](23_Shepherd_Neame_Spitfire_Amber_Kentish_Ale_clone/23_Shepherd_Neame_Spitfire_Amber_Kentish_Ale_clone_48x48.jpeg) | [23 Shepherd Neame - Spitfire Amber Kentish Ale (clone)](23_Shepherd_Neame_Spitfire_Amber_Kentish_Ale_clone/README.md) | Best Bitter (AG) | 4.6 % | 36 |
-| ![24](24_Shepherd_Neame_Master_Brew_clone/24_Shepherd_Neame_Master_Brew_clone_48x48.jpeg) | [24 Shepherd Neame - Master Brew (clone)](24_Shepherd_Neame_Master_Brew_clone/README.md) | Best Bitter (AG) | 4.2 % | 26 |
-| ![25](25_Harveys_Sussex_Best_Bitter_clone/25_Harveys_Sussex_Best_Bitter_clone_48x48.jpeg) | [25 Harvey's - Sussex Best Bitter (clone)](25_Harveys_Sussex_Best_Bitter_clone/README.md) | Best Bitter (AG) | 4.1 % | 35 |
-| ![26](26_Greene_King_Morland_Old_Speckled_Hen_clone/26_Greene_King_Morland_Old_Speckled_Hen_clone_48x48.jpeg) | [26 Greene King - Morland Old Speckled Hen (clone)](26_Greene_King_Morland_Old_Speckled_Hen_clone/README.md) | Strong Bitter (AG) | 5.1 % | 40 |
-| ![27](27_Timothy_Taylors_Landlord_clone/27_Timothy_Taylors_Landlord_clone_48x48.jpeg) | [27 Timothy Taylor's - Landlord (clone)](27_Timothy_Taylors_Landlord_clone/README.md) | Classic English-style Pale Ale (AG) | 4.1/4.3 % | 36 |
-| ![28](28_Williams_Brothers_Brewing_Co._Good_Times_clone/28_Williams_Brothers_Brewing_Co._Good_Times_clone_48x48.jpeg) | [28 Williams Brothers Brewing Co. - Good Times (clone)](28_Williams_Brothers_Brewing_Co._Good_Times_clone/README.md) | British Golden Ale (AG) | 5 % | 18 |
-| ![29](29_St_Austell_Proper_Job_clone/29_St_Austell_Proper_Job_clone_48x48.jpeg) | [29 St Austell - Proper Job (clone)](29_St_Austell_Proper_Job_clone/README.md) | English IPA | 5.8 % | 10 |
+
+## Clone recipes
+
+|                     | Recipe name | Style | ABV | IBU |
+|---------------------|-------------|-------|-----|-----|
+| ![C01](C01_Five_Points_Brewing_Best_Fuggles_clone/C01_Five_Points_Brewing_Best_Fuggles_clone_48x48.jpeg) | [C01 Five Points Brewing - Best Fuggles (clone)](C01_Five_Points_Brewing_Best_Fuggles_clone/README.md) | Best Bitter (AG) | 4.3 % | 33 |
+| ![C02](C02_Five_Points_Brewing_Best_Goldings_clone/C02_Five_Points_Brewing_Best_Goldings_clone_48x48.jpeg) | [C02 Five Points Brewing - Best Goldings (clone)](C02_Five_Points_Brewing_Best_Goldings_clone/README.md) | Best Bitter (AG) | 4.2 % | 36 |
+| ![C03](C03_St_Austell_Tribute_clone/21_St_Austell_Tribute_clone_48x48.jpeg) | [C03 St Austell - Tribute (clone)](C03_St_Austell_Tribute_clone/README.md) | British Golden Ale (AG) | 4.5 % | 30 |
+| ![C04](C04_Shepherd_Neame_Spitfire_Amber_Kentish_Ale_clone/C04_Shepherd_Neame_Spitfire_Amber_Kentish_Ale_clone_48x48.jpeg) | [C04 Shepherd Neame - Spitfire Amber Kentish Ale (clone)](C04_Shepherd_Neame_Spitfire_Amber_Kentish_Ale_clone/README.md) | Best Bitter (AG) | 4.6 % | 36 |
+| ![C05](C05_Shepherd_Neame_Master_Brew_clone/C05_Shepherd_Neame_Master_Brew_clone_48x48.jpeg) | [C05 Shepherd Neame - Master Brew (clone)](C05_Shepherd_Neame_Master_Brew_clone/README.md) | Best Bitter (AG) | 4.2 % | 26 |
+| ![C06](C06_Harveys_Sussex_Best_Bitter_clone/C06_Harveys_Sussex_Best_Bitter_clone_48x48.jpeg) | [C06 Harvey's - Sussex Best Bitter (clone)](C06_Harveys_Sussex_Best_Bitter_clone/README.md) | Best Bitter (AG) | 4.1 % | 35 |
+| ![C07](C07_Greene_King_Morland_Old_Speckled_Hen_clone/C07_Greene_King_Morland_Old_Speckled_Hen_clone_48x48.jpeg) | [C07 Greene King - Morland Old Speckled Hen (clone)](C07_Greene_King_Morland_Old_Speckled_Hen_clone/README.md) | Strong Bitter (AG) | 5.1 % | 40 |
+| ![C08](C08_Timothy_Taylors_Landlord_clone/C08_Timothy_Taylors_Landlord_clone_48x48.jpeg) | [C08 Timothy Taylor's - Landlord (clone)](C08_Timothy_Taylors_Landlord_clone/README.md) | Classic English-style Pale Ale (AG) | 4.1/4.3 % | 36 |
+| ![C09](C09_Fullers_Brewery_London_Pride_clone/C09_Fullers_Brewery_London_Pride_clone_48x48.jpeg) | [C09 Fuller's Brewery - London Pride (clone)](C09_Fullers_Brewery_London_Pride_clone/README.md) | Best Bitter (AG) | 4.3 % | 31 |
+| ![C10](C10_St_Austell_Proper_Job_clone/C10_St_Austell_Proper_Job_clone_48x48.jpeg) | [C10 St Austell - Proper Job (clone)](C10_St_Austell_Proper_Job_clone/README.md) | English IPA | 5.8 % | 10 |
+| ![C55](C55_Williams_Brothers_Brewing_Co._Good_Times_clone/C55_Williams_Brothers_Brewing_Co._Good_Times_clone_48x48.jpeg) | [C55 Williams Brothers Brewing Co. - Good Times (clone)](C55_Williams_Brothers_Brewing_Co._Good_Times_clone/README.md) | British Golden Ale (AG) | 5 % | 18 |
 
