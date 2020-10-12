@@ -1,16 +1,11 @@
 # Recipes
 
-## Getting started recipes
-
-|                     | Recipe name | Style | ABV | IBU |
-|---------------------|-------------|-------|-----|-----|
-| ![01](01_Brouwpunt_Witbier/01_Brouwpunt_Witbier_48x48.jpeg) | [01 Brouwpunt - Witbier](01_Brouwpunt_Witbier/README.md) | Witbier (AG) | 4.9 % | 11 | 
-| ![02](02_Brouwpunt_Kruidig_Wit/02_Brouwpunt_Kruidig_Wit_48x48.jpeg) | [02 Brouwpunt - Kruidig Wit](02_Brouwpunt_Kruidig_Wit/README.md) | Witbier (AG) | 4.9 % | 11 |
-
 ## Thirsty Otter recipes
 
 |                     | Recipe name | Style | ABV | IBU |
 |---------------------|-------------|-------|-----|-----|
+| ![01](01_AnOtter_Witbier/01_AnOtter_Witbier_48x48.jpeg) | [01 AnOtter Witbier](01_AnOtter_Witbier/README.md) | Witbier (AG) | 5.0 % | 11 | 
+| ![02](02_AnOtter_Spicy_Witbier/02_AnOtter_Spicy_Witbier_48x48.jpeg) | [02 AnOtter Spicy Witbier](02_AnOtter_Spicy_Witbier/README.md) | Witbier (AG) | 5.0 % | 11 |
 | ![03](03_SMaSH_Godiva/03_SMaSH_Godiva_48x48.jpeg) | [03 SMaSH Godiva](03_SMaSH_Godiva/README.md) | British Golden Ale (AG) | 4.7 % | 37 |
 | ![04](04_SMaSH_Fuggle/04_SMaSH_Fuggle_48x48.jpeg) | [04 SMaSH Fuggle](04_SMaSH_Fuggle/README.md) | British Golden Ale (AG) | 4.2 % | 33 |
 | ![05](05_SMaSH_Centennial/05_SMaSH_Centennial_48x48.jpeg) | [05 SMaSH Centennial](05_SMaSH_Centennial/README.md) | American Pale Ale (AG) | 5.3 % | 39 |
@@ -27,6 +22,13 @@
 | ![16](16_SMaSH_Magnum/16_SMaSH_Magnum_48x48.jpeg) | [16 SMaSH Magnum](16_SMaSH_Magnum/README.md) | Blonde Ale (AG) | 4.6 % | 23 |
 | ![17](17_SMaSH_Sabro/17_SMaSH_Sabro_48x48.jpeg) | [17 SMaSH Sabro](17_SMaSH_Sabro/README.md) | Specialty IPA (AG) | 6.4 % | 80 |
 | ![18](18_SMaSH_East_Kent_Golding/18_SMaSH_EKG_48x48.jpeg) | [18 SMaSH East Kent Golding](18_SMaSH_East_Kent_Golding/README.md) | British Golden Ale (AG) | 4.5 % | 29 |
+
+## Beer kit recipes
+
+|                     | Recipe name | Style | ABV | IBU |
+|---------------------|-------------|-------|-----|-----|
+| ![B01](B01_Brouwpunt_Witbier/B01_Brouwpunt_Witbier_48x48.jpeg) | [B01 Brouwpunt - Witbier](B01_Brouwpunt_Witbier/README.md) | Witbier (AG) | 4.9 % | 11 | 
+| ![B02](B02_Brouwpunt_Kruidig_Wit/B02_Brouwpunt_Kruidig_Wit_48x48.jpeg) | [B02 Brouwpunt - Kruidig Wit](B02_Brouwpunt_Kruidig_Wit/README.md) | Witbier (AG) | 4.9 % | 11 |
 
 ## Clone recipes
 
