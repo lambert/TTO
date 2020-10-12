@@ -36,7 +36,7 @@
 |---------------------|-------------|-------|-----|-----|
 | ![C01](C01_Five_Points_Brewing_Best_Fuggles_clone/C01_Five_Points_Brewing_Best_Fuggles_clone_48x48.jpeg) | [C01 Five Points Brewing - Best Fuggles (clone)](C01_Five_Points_Brewing_Best_Fuggles_clone/README.md) | Best Bitter (AG) | 4.3 % | 33 |
 | ![C02](C02_Five_Points_Brewing_Best_Goldings_clone/C02_Five_Points_Brewing_Best_Goldings_clone_48x48.jpeg) | [C02 Five Points Brewing - Best Goldings (clone)](C02_Five_Points_Brewing_Best_Goldings_clone/README.md) | Best Bitter (AG) | 4.2 % | 36 |
-| ![C03](C03_St_Austell_Tribute_clone/21_St_Austell_Tribute_clone_48x48.jpeg) | [C03 St Austell - Tribute (clone)](C03_St_Austell_Tribute_clone/README.md) | British Golden Ale (AG) | 4.5 % | 30 |
+| ![C03](C03_St_Austell_Tribute_clone/C03_St_Austell_Tribute_clone_48x48.jpeg) | [C03 St Austell - Tribute (clone)](C03_St_Austell_Tribute_clone/README.md) | British Golden Ale (AG) | 4.5 % | 30 |
 | ![C04](C04_Shepherd_Neame_Spitfire_Amber_Kentish_Ale_clone/C04_Shepherd_Neame_Spitfire_Amber_Kentish_Ale_clone_48x48.jpeg) | [C04 Shepherd Neame - Spitfire Amber Kentish Ale (clone)](C04_Shepherd_Neame_Spitfire_Amber_Kentish_Ale_clone/README.md) | Best Bitter (AG) | 4.6 % | 36 |
 | ![C05](C05_Shepherd_Neame_Master_Brew_clone/C05_Shepherd_Neame_Master_Brew_clone_48x48.jpeg) | [C05 Shepherd Neame - Master Brew (clone)](C05_Shepherd_Neame_Master_Brew_clone/README.md) | Best Bitter (AG) | 4.2 % | 26 |
 | ![C06](C06_Harveys_Sussex_Best_Bitter_clone/C06_Harveys_Sussex_Best_Bitter_clone_48x48.jpeg) | [C06 Harvey's - Sussex Best Bitter (clone)](C06_Harveys_Sussex_Best_Bitter_clone/README.md) | Best Bitter (AG) | 4.1 % | 35 |
