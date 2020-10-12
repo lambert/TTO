@@ -1,4 +1,4 @@
-# Batch #1 - 01 Brouwpunt - Witbier
+# Batch #1 - B01 Brouwpunt - Witbier
 
 ## Milestones
 
@@ -14,9 +14,9 @@ Archived
 
 ## Preparation
 
-[Brew day sheet](./Batch_1_01_Brouwpunt_Witbier_brew_day_sheet.pdf)
+[Brew day sheet](./Batch_1_B01_Brouwpunt_Witbier_brew_day_sheet.pdf)
 
-[Checklist](./Batch_1_01_Brouwpunt_Witbier_checklist.pdf)
+[Checklist](./Batch_1_B01_Brouwpunt_Witbier_checklist.pdf)
 
 ## Process
 
@@ -30,7 +30,7 @@ Archived
 
 ![conditioning](conditioning.png)
 
-[Results](./Batch_1_01_Brouwpunt_Witbier_results.pdf)
+[Results](./Batch_1_B01_Brouwpunt_Witbier_results.pdf)
 
 ### Evaluation
 

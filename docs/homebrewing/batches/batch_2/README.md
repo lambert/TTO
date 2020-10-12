@@ -1,4 +1,4 @@
-# Batch #2 - 02 Brouwpunt - Kruidig Wit
+# Batch #2 - B02 Brouwpunt - Kruidig Wit
 
 ## Milestones
 
@@ -14,9 +14,9 @@
 
 ## Preparation
 
-[Brew day sheet](./Batch_2_02_Brouwpunt_Kruidig_Wit_brew_day_sheet.pdf)
+[Brew day sheet](./Batch_2_B02_Brouwpunt_Kruidig_Wit_brew_day_sheet.pdf)
 
-[Checklist](./Batch_2_02_Brouwpunt_Kruidig_Wit_checklist.pdf)
+[Checklist](./Batch_2_B02_Brouwpunt_Kruidig_Wit_checklist.pdf)
 
 ## Process
 
@@ -30,7 +30,7 @@
 
 ![conditioning](conditioning.png)
 
-[Results](./Batch_2_02_Brouwpunt_Kruidig_Wit_results.pdf)
+[Results](./Batch_2_B02_Brouwpunt_Kruidig_Wit_results.pdf)
 
 ### Evaluation
 
