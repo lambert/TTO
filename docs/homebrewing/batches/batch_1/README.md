@@ -26,7 +26,7 @@ Archived
 
 [Results](./Batch_1_Brouwpunt_Witbier_results.pdf)
 
-### Evaluation
+## Evaluation
 
 |                         | Recipe | Batch  | Diff   | Unit |
 |-------------------------|--------|--------|--------|------|
