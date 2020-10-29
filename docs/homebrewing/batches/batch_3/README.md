@@ -1,4 +1,4 @@
-# Batch #3 - SMaSH Godiva
+# Batch #3 - 03 SMaSH Godiva
 
 ## Milestones
 
