@@ -1,4 +1,4 @@
-# Batch #1 - B01 Brouwpunt - Witbier
+# Batch #1 - Brouwpunt - Witbier
 
 ## Milestones
 
@@ -12,7 +12,7 @@
 
 Archived
 
-## Process
+## Process data
 
 ![temperature](temperature.png)
 
