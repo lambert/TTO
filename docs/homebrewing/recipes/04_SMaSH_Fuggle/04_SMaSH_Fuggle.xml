@@ -30,7 +30,7 @@
         <FG>1.01</FG>
         <ABV>4.33 %</ABV>
         <EST_ABV>4.33 %</EST_ABV>
-        <IBU>31.8</IBU>
+        <IBU>26.8</IBU>
         <EST_OG>1.043 SG</EST_OG>
         <EST_FG>1.01 SG</EST_FG>
         <EST_COLOR>2.7 SRM</EST_COLOR>
@@ -41,19 +41,7 @@
                 <NAME>Fuggle</NAME>
                 <VERSION>1</VERSION>
                 <ALPHA>5</ALPHA>
-                <AMOUNT>0.008</AMOUNT>
-                <USE>Boil</USE>
-                <TIME>60</TIME>
-                <FORM>Whole</FORM>
-                <TEMPERATURE/>
-                <HOP_TEMP/>
-            </HOP>
-            <HOP>
-                <BF_ID>HjlT19xbSFbunGAYkzcNp8cLpf3pHJ</BF_ID>
-                <NAME>Fuggle</NAME>
-                <VERSION>1</VERSION>
-                <ALPHA>5</ALPHA>
-                <AMOUNT>0.004</AMOUNT>
+                <AMOUNT>0.007</AMOUNT>
                 <USE>Boil</USE>
                 <TIME>30</TIME>
                 <FORM>Whole</FORM>
@@ -65,8 +53,20 @@
                 <NAME>Fuggle</NAME>
                 <VERSION>1</VERSION>
                 <ALPHA>5</ALPHA>
-                <AMOUNT>0.004</AMOUNT>
+                <AMOUNT>0.008</AMOUNT>
                 <USE>Boil</USE>
+                <TIME>15</TIME>
+                <FORM>Whole</FORM>
+                <TEMPERATURE/>
+                <HOP_TEMP/>
+            </HOP>
+            <HOP>
+                <BF_ID>HjlT19xbSFbunGAYkzcNp8cLpf3pHJ</BF_ID>
+                <NAME>Fuggle</NAME>
+                <VERSION>1</VERSION>
+                <ALPHA>5</ALPHA>
+                <AMOUNT>0.008</AMOUNT>
+                <USE>Aroma</USE>
                 <TIME>15</TIME>
                 <FORM>Whole</FORM>
                 <TEMPERATURE/>
@@ -101,14 +101,25 @@
         </FERMENTABLES>
         <MISCS>
             <MISC>
+                <BF_ID>default-3b1827</BF_ID>
+                <NAME>Calcium&#32;Chloride&#32;&#40;CaCl&#50;&#41;&#32;&#51;&#51;&#32;&#37;</NAME>
+                <VERSION>1</VERSION>
+                <TYPE>Water&#32;Agent</TYPE>
+                <USE>Mash</USE>
+                <TIME>0</TIME>
+                <AMOUNT>0.00017</AMOUNT>
+                <DISPLAY_AMOUNT>0.17 ml</DISPLAY_AMOUNT>
+                <AMOUNT_IS_WEIGHT>false</AMOUNT_IS_WEIGHT>
+            </MISC>
+            <MISC>
                 <BF_ID>default-4e9d62</BF_ID>
                 <NAME>Epsom&#32;Salt&#32;&#40;MgSO&#52;&#41;</NAME>
                 <VERSION>1</VERSION>
                 <TYPE>Water&#32;Agent</TYPE>
                 <USE>Mash</USE>
                 <TIME>0</TIME>
-                <AMOUNT>0.00009</AMOUNT>
-                <DISPLAY_AMOUNT>0.09 g</DISPLAY_AMOUNT>
+                <AMOUNT>0.00054</AMOUNT>
+                <DISPLAY_AMOUNT>0.54 g</DISPLAY_AMOUNT>
                 <AMOUNT_IS_WEIGHT>true</AMOUNT_IS_WEIGHT>
             </MISC>
             <MISC>
@@ -220,7 +231,7 @@
             </MASH_STEPS>
         </MASH>
         <EQUIPMENT>
-            <NAME>&#48;&#49;&#32;Brouwpunt&#32;&#53;L&#32;&#40;&#54;&#48;min&#41;&#32;&#40;rev&#32;&#51;&#41;</NAME>
+            <NAME>&#48;&#49;&#32;Brouwpunt&#32;&#53;L&#32;&#40;&#54;&#48;min&#41;&#32;&#40;rev&#32;&#52;&#41;</NAME>
             <VERSION>1</VERSION>
             <BOIL_SIZE>7.76</BOIL_SIZE>
             <BATCH_SIZE>5.6</BATCH_SIZE>
