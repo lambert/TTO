@@ -195,8 +195,8 @@
                 <TYPE>Other</TYPE>
                 <USE>Bottling</USE>
                 <TIME>0</TIME>
-                <AMOUNT>15</AMOUNT>
-                <DISPLAY_AMOUNT>15 items</DISPLAY_AMOUNT>
+                <AMOUNT>12</AMOUNT>
+                <DISPLAY_AMOUNT>12 items</DISPLAY_AMOUNT>
                 <AMOUNT_IS_WEIGHT>false</AMOUNT_IS_WEIGHT>
             </MISC>
         </MISCS>
@@ -245,9 +245,9 @@
         <BF_FERMENTATION_PROFILE_ID>default</BF_FERMENTATION_PROFILE_ID>
         <BF_FERMENTATION_PROFILE_NAME>Ale</BF_FERMENTATION_PROFILE_NAME>
         <FERMENTATION_STAGES>2</FERMENTATION_STAGES>
-        <PRIMARY_AGE>10</PRIMARY_AGE>
+        <PRIMARY_AGE>11</PRIMARY_AGE>
         <PRIMARY_TEMP>20</PRIMARY_TEMP>
-        <SECONDARY_AGE>45</SECONDARY_AGE>
+        <SECONDARY_AGE>44</SECONDARY_AGE>
         <SECONDARY_TEMP>20</SECONDARY_TEMP>
     </RECIPE>
 </RECIPES>
