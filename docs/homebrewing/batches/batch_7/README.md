@@ -1,4 +1,4 @@
-# Batch #6 - 06 SMaSH Citra
+# Batch #7 - 06 SMaSH Citra
 
 ## Milestones
 
@@ -24,7 +24,7 @@ Archived.
 
 ![conditioning](conditioning.png)
 
-[Results](./Batch_6_06_SMaSH_Citra_results.pdf)
+[Results](./Batch_7_06_SMaSH_Citra_results.pdf)
 
 ### Evaluation
 
