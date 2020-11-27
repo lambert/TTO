@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <RECIPES>
     <RECIPE>
-        <NAME>&#48;&#49;&#32;Brouwpunt&#32;&#45;&#32;Witbier&#32;v&#50;</NAME>
+        <NAME>&#48;&#49;&#32;AnOtter&#32;Witbier</NAME>
         <VERSION>1</VERSION>
         <TYPE>All&#32;Grain</TYPE>
         <STYLE>
@@ -21,19 +21,19 @@
             <COLOR_MIN>2</COLOR_MIN>
             <COLOR_MAX>4</COLOR_MAX>
         </STYLE>
-        <BREWER>Brouwpunt</BREWER>
+        <BREWER>The&#32;Thirsty&#32;Otter</BREWER>
         <BATCH_SIZE>5.6</BATCH_SIZE>
         <BOIL_SIZE>7.76</BOIL_SIZE>
         <BOIL_TIME>60</BOIL_TIME>
         <EFFICIENCY>71.8</EFFICIENCY>
-        <OG>1.053</OG>
-        <FG>1.015</FG>
-        <ABV>4.99 %</ABV>
-        <EST_ABV>4.99 %</EST_ABV>
-        <IBU>10.9</IBU>
-        <EST_OG>1.053 SG</EST_OG>
-        <EST_FG>1.015 SG</EST_FG>
-        <EST_COLOR>3.3 SRM</EST_COLOR>
+        <OG>1.047</OG>
+        <FG>1.011</FG>
+        <ABV>4.73 %</ABV>
+        <EST_ABV>4.73 %</EST_ABV>
+        <IBU>11.3</IBU>
+        <EST_OG>1.047 SG</EST_OG>
+        <EST_FG>1.011 SG</EST_FG>
+        <EST_COLOR>3 SRM</EST_COLOR>
         <CARBONATION>2.7</CARBONATION>
         <HOPS>
             <HOP>
@@ -57,7 +57,7 @@
                 <ORIGIN>Belgium</ORIGIN>
                 <VERSION>1</VERSION>
                 <TYPE>Grain</TYPE>
-                <AMOUNT>0.63</AMOUNT>
+                <AMOUNT>0.5</AMOUNT>
                 <YIELD>83</YIELD>
                 <COLOR>2.030457</COLOR>
                 <ADD_AFTER_BOIL>false</ADD_AFTER_BOIL>
@@ -69,9 +69,21 @@
                 <ORIGIN>Belgium</ORIGIN>
                 <VERSION>1</VERSION>
                 <TYPE>Grain</TYPE>
-                <AMOUNT>0.63</AMOUNT>
+                <AMOUNT>0.5</AMOUNT>
                 <YIELD>81</YIELD>
                 <COLOR>1.370558</COLOR>
+                <ADD_AFTER_BOIL>false</ADD_AFTER_BOIL>
+            </FERMENTABLE>
+            <FERMENTABLE>
+                <BF_ID>2DvIMCDM3ybbmVQHkvqtSzVCTgoOg4</BF_ID>
+                <NAME>TMM&#32;Rolled&#32;Wheat&#32;Flakes</NAME>
+                <SUPPLIER>The&#32;Malt&#32;Miller</SUPPLIER>
+                <ORIGIN>UK</ORIGIN>
+                <VERSION>1</VERSION>
+                <TYPE>Grain</TYPE>
+                <AMOUNT>0.125</AMOUNT>
+                <YIELD>77</YIELD>
+                <COLOR>1.522843</COLOR>
                 <ADD_AFTER_BOIL>false</ADD_AFTER_BOIL>
             </FERMENTABLE>
             <FERMENTABLE>
@@ -179,16 +191,16 @@
         </MISCS>
         <YEASTS>
             <YEAST>
-                <BF_ID>default-32f790</BF_ID>
-                <NAME>SafBrew&#32;Ale</NAME>
+                <BF_ID>default-60e77b</BF_ID>
+                <NAME>Belgian&#32;Wit</NAME>
                 <VERSION>1</VERSION>
                 <TYPE>Wheat</TYPE>
                 <FORM>Dry</FORM>
                 <AMOUNT>0.5</AMOUNT>
-                <LABORATORY>Fermentis</LABORATORY>
-                <PRODUCT_ID>S&#45;&#51;&#51;</PRODUCT_ID>
+                <LABORATORY>Mangrove&#32;Jack&#39;s</LABORATORY>
+                <PRODUCT_ID>M&#50;&#49;</PRODUCT_ID>
                 <DISPLAY_AMOUNT>0.5 pkg</DISPLAY_AMOUNT>
-                <ATTENUATION>70</ATTENUATION>
+                <ATTENUATION>76.5</ATTENUATION>
             </YEAST>
         </YEASTS>
         <MASH>
@@ -203,12 +215,12 @@
                     <TYPE>Temperature</TYPE>
                     <STEP_TEMP>67</STEP_TEMP>
                     <STEP_TIME>60</STEP_TIME>
-                    <INFUSE_AMOUNT>3.78</INFUSE_AMOUNT>
+                    <INFUSE_AMOUNT>3.38</INFUSE_AMOUNT>
                 </MASH_STEP>
             </MASH_STEPS>
         </MASH>
         <EQUIPMENT>
-            <NAME>&#48;&#49;&#32;Brouwpunt&#32;&#53;L&#32;&#40;&#54;&#48;min&#41;&#32;&#40;rev&#32;&#51;&#41;</NAME>
+            <NAME>&#48;&#49;&#32;Brouwpunt&#32;&#53;L&#32;&#40;&#54;&#48;min&#41;&#32;&#40;rev&#32;&#52;&#41;</NAME>
             <VERSION>1</VERSION>
             <BOIL_SIZE>7.76</BOIL_SIZE>
             <BATCH_SIZE>5.6</BATCH_SIZE>
