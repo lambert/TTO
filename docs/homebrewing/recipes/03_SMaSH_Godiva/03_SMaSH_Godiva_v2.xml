@@ -123,14 +123,25 @@
                 <AMOUNT_IS_WEIGHT>true</AMOUNT_IS_WEIGHT>
             </MISC>
             <MISC>
+                <BF_ID>default-1f88df</BF_ID>
+                <NAME>Gypsum&#32;&#40;CaSO&#52;&#41;</NAME>
+                <VERSION>1</VERSION>
+                <TYPE>Water&#32;Agent</TYPE>
+                <USE>Mash</USE>
+                <TIME>0</TIME>
+                <AMOUNT>0.00122</AMOUNT>
+                <DISPLAY_AMOUNT>1.22 g</DISPLAY_AMOUNT>
+                <AMOUNT_IS_WEIGHT>true</AMOUNT_IS_WEIGHT>
+            </MISC>
+            <MISC>
                 <BF_ID>default-07adb1</BF_ID>
                 <NAME>Lactic&#32;Acid&#32;&#56;&#48;&#37;</NAME>
                 <VERSION>1</VERSION>
                 <TYPE>Water&#32;Agent</TYPE>
                 <USE>Mash</USE>
                 <TIME>0</TIME>
-                <AMOUNT>0.0011</AMOUNT>
-                <DISPLAY_AMOUNT>1.1 ml</DISPLAY_AMOUNT>
+                <AMOUNT>0.0009</AMOUNT>
+                <DISPLAY_AMOUNT>0.9 ml</DISPLAY_AMOUNT>
                 <AMOUNT_IS_WEIGHT>false</AMOUNT_IS_WEIGHT>
             </MISC>
             <MISC>
@@ -242,7 +253,7 @@
             </MASH_STEPS>
         </MASH>
         <EQUIPMENT>
-            <NAME>&#48;&#49;&#32;Brouwpunt&#32;&#53;L&#32;&#40;&#54;&#48;min&#41;&#32;&#40;rev&#32;&#51;&#41;</NAME>
+            <NAME>&#48;&#49;&#32;Brouwpunt&#32;&#53;L&#32;&#40;&#54;&#48;min&#41;&#32;&#40;rev&#32;&#52;&#41;</NAME>
             <VERSION>1</VERSION>
             <BOIL_SIZE>7.76</BOIL_SIZE>
             <BATCH_SIZE>5.6</BATCH_SIZE>
