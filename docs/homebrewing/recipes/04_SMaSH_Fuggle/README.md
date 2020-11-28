@@ -2,9 +2,7 @@
 
 # 04 SMaSH Fuggle
 
-Single Mash and Single Hop exBEERiment for a 5 L batch size.
-
-## Recipe
+## Recipe for a 5 L batch size.
 
 |    | Style | ABV | IBU | EBC | pdf | BeerXML | JSON | Batches |
 |----|-------|-----|-----|-----|-----|---------|------|---------|
