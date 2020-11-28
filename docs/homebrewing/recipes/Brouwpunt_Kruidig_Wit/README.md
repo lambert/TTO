@@ -2,7 +2,7 @@
 
 # B02 Brouwpunt Kruidig Wit
 
-Ingredients kit from Brouwpunt ([link](https://brouwpunt.nl/product/kruidig-wit/) )
+Ingredients kit from Brouwpunt ([link](https://brouwpunt.nl/product/kruidig-wit/))
 
 ## Recipe for a 5 L batch size.
 
