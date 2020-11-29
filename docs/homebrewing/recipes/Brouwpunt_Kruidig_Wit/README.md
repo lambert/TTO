@@ -1,6 +1,6 @@
 ![logo](./Brouwpunt_Kruidig_Wit.jpeg)
 
-# Brouwpunt Kruidig Wit
+# Brouwpunt - Kruidig Wit
 
 Ingredients kit from Brouwpunt ([link](https://brouwpunt.nl/product/kruidig-wit/))
 
