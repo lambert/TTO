@@ -1,6 +1,6 @@
 ![logo](./Brouwpunt_Witbier.jpeg)
 
-# Brouwpunt Witbier
+# Brouwpunt - Witbier
 
 Ingredients kit from Brouwpunt [link](https://brouwpunt.nl/product/brouwpunt-wit-2/)
 
