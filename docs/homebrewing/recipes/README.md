@@ -11,13 +11,13 @@
 | ![05](05_SMaSH_Centennial/05_SMaSH_Centennial_48x48.jpeg) | [05 SMaSH Centennial](05_SMaSH_Centennial/README.md) | American Pale Ale (All Grain) | 5.4 % | 38 |
 | ![06](06_SMaSH_Citra/06_SMaSH_Citra_48x48.jpeg) | [06 SMaSH Citra](06_SMaSH_Citra/README.md) | American Pale Ale (All Grain) | 6.0 % | 40 |
 
-## Beer kit recipes
+## Brew kit recipes
 
 |   | Recipe name | Style | ABV | IBU |
 |---|-------------|-------|-----|-----|
-| ![01](Brouwpunt_Witbier/Brouwpunt_Witbier_48x48.jpeg) | [Brouwpunt - Witbier](Brouwpunt_Witbier/README.md) | Witbier (All Grain) | 4.9 % | 11 | 
-| ![02](Brouwpunt_Kruidig_Wit/Brouwpunt_Kruidig_Wit_48x48.jpeg) | [Brouwpunt - Kruidig Wit](Brouwpunt_Kruidig_Wit/README.md) | Witbier (All Grain) | 4.9 % | 11 |
-| ![03](Brouwpunt_Sinterklaas_Special/Brouwpunt_Sinterklaas_Special_48x48.jpeg) | [Brouwpunt - Sinterklaas Special](Brouwpunt_Sinterklaas_Special/README.md) | Autumn Seasonal Beer (All Grain) | 6.4 % | 21 |
+| ![B01](Brouwpunt_Witbier/Brouwpunt_Witbier_48x48.jpeg) | [Brouwpunt - Witbier](Brouwpunt_Witbier/README.md) | Witbier (All Grain) | 4.9 % | 11 | 
+| ![B02](Brouwpunt_Kruidig_Wit/Brouwpunt_Kruidig_Wit_48x48.jpeg) | [Brouwpunt - Kruidig Wit](Brouwpunt_Kruidig_Wit/README.md) | Witbier (All Grain) | 4.9 % | 11 |
+| ![B03](Brouwpunt_Sinterklaas_Special/Brouwpunt_Sinterklaas_Special_48x48.jpeg) | [Brouwpunt - Sinterklaas Special](Brouwpunt_Sinterklaas_Special/README.md) | Autumn Seasonal Beer (All Grain) | 6.4 % | 21 |
 
 ## Clone recipes
 
