@@ -27,4 +27,4 @@
 |   | Recipe name | Style | ABV | IBU |
 |---|-------------|-------|-----|-----|
 |   | Five Points Brewing - Best Fuggles (clone) | Best Bitter (All Grain) | 4.1 % | 29 |
-|   | Shambles Brewery - Summer Ale Afternoon Delight (clone) | Blonde Ale (All Grain) | 4.6 % | 24 |
+| ![C02](Shambles_Brewery_Summer_Ale_Afternoon_Delight_clone/Shambles_Brewery_Summer_Ale_Afternoon_Delight_clone_48x48.jpeg  | [Shambles Brewery - Summer Ale Afternoon Delight (clone)](Shambles_Brewery_Summer_Ale_Afternoon_Delight_clone/README.md) | Blonde Ale (All Grain) | 4.6 % | 24 |
