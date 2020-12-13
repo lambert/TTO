@@ -26,5 +26,5 @@
 
 |   | Recipe name | Style | ABV | IBU |
 |---|-------------|-------|-----|-----|
-| ![C01](Five_Points_Brewing_Best_Fuggles_clone_48x48.jpeg) | [Five Points Brewing - Best Fuggles (clone)](Five_Points_Brewing_Best_Fuggles_clone/README.md) | Best Bitter (All Grain) | 4.1 % | 29 |
+| ![C01](Five_Points_Brewing_Best_Fuggles_clone/Five_Points_Brewing_Best_Fuggles_clone_48x48.jpeg) | [Five Points Brewing - Best Fuggles (clone)](Five_Points_Brewing_Best_Fuggles_clone/README.md) | Best Bitter (All Grain) | 4.1 % | 29 |
 | ![C02](Shambles_Brewery_Summer_Ale_Afternoon_Delight_clone/Shambles_Brewery_Summer_Ale_Afternoon_Delight_clone_48x48.jpeg  | [Shambles Brewery - Summer Ale Afternoon Delight (clone)](Shambles_Brewery_Summer_Ale_Afternoon_Delight_clone/README.md) | Blonde Ale (All Grain) | 4.6 % | 24 |
