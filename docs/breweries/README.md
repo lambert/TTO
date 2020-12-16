@@ -36,6 +36,8 @@
 
 - [x] [Brouwerij De Schans](NL/NH/Uithoorn/Brouwerij_De_Schans.md)
 
+- [ ] [The Thirsty Otter](NL/NH/Uithoorn/The_Thirsty_Otter.md)
+
 ## Belgium
 
 ### Antwerpen
