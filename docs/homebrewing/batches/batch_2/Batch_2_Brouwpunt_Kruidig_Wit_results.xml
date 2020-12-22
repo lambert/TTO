@@ -61,6 +61,8 @@
                 <YIELD>82.8</YIELD>
                 <COLOR>1.77665</COLOR>
                 <ADD_AFTER_BOIL>false</ADD_AFTER_BOIL>
+                <NOT_FERMENTABLE>false</NOT_FERMENTABLE>
+                <IBU_GAL_PER_LB>0</IBU_GAL_PER_LB>
             </FERMENTABLE>
             <FERMENTABLE>
                 <BF_ID>default-bfaf755</BF_ID>
@@ -73,6 +75,8 @@
                 <YIELD>83.5</YIELD>
                 <COLOR>2.436548</COLOR>
                 <ADD_AFTER_BOIL>false</ADD_AFTER_BOIL>
+                <NOT_FERMENTABLE>false</NOT_FERMENTABLE>
+                <IBU_GAL_PER_LB>0</IBU_GAL_PER_LB>
             </FERMENTABLE>
             <FERMENTABLE>
                 <BF_ID>default-132c22b</BF_ID>
@@ -85,6 +89,8 @@
                 <YIELD>100</YIELD>
                 <COLOR>1.015228</COLOR>
                 <ADD_AFTER_BOIL>false</ADD_AFTER_BOIL>
+                <NOT_FERMENTABLE>false</NOT_FERMENTABLE>
+                <IBU_GAL_PER_LB>0</IBU_GAL_PER_LB>
             </FERMENTABLE>
         </FERMENTABLES>
         <MISCS>
