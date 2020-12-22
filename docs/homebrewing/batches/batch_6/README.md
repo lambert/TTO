@@ -6,7 +6,7 @@
 
 06-12-2020 16:31 Start fermentation.
 
-Start conditioning.
+20-12-2020 19:47 Start conditioning.
 
 Completed conditioning.
 
@@ -33,21 +33,21 @@ Archived.
 | Pre-Boil Volume:        | 7.76   | 8.25  | +0.49  | L    |
 | Post-Boil Volume (HOT): | 5.96   | 7.15  | +1.19  | L    |
 | Boil Off per Hour:      | 1.8    | 1.1   | -0.7   | L    |
-| Batch Volume:           | 5.6    |       |        | L    |
+| Batch Volume:           | 5.6    | 5.6   | 0.0    | L    |
 | Fermenter Top Up        | 0.0    | 0.0   | 0.0    | L    |
 | Fermenter Volume        | 5.6    | 5.6   | 0.0    | L    |
 | Trub/Chiller Loss:      | 0.12   | 1.26  | +1.14  | L    |
-| Bottling Volume:        | 5.0    |       |        | L    |
+| Bottling Volume:        | 5.0    | 4.62  | -0.38  | L    |
 | Pre-Boil Gravity:       | 1.034  | 1.028 | -0.006 |      |
 | Post-Boil Gravity:      | 1.057  | 1.046 | -0.011 |      |
-| Original Gravity:       | 1.060  | 1.046 | -0.014|      |
-| Final Gravity:          | 1.008  |       |        |      |
-| Alcohol By Volume:      | 6.1    |       |        | %    |
-| Apparent Attenuation:   | 79.7   |       |        | %    |
+| Original Gravity:       | 1.060  | 1.046 | -0.014 |      |
+| Final Gravity:          | 1.008  | 1.004 | 0.000  |      |
+| Alcohol By Volume:      | 6.8    | 5.5   | -1.3   | %    |
+| Apparent Attenuation:   | 86.1   | 91    | +4.1   | %    |
 | Mash Efficiency:        | 73.3   | 64    | -9     | %    |
 | Brewhouse Efficiency:   | 71.8   | 58    | -14    | %    |
-| IBU:                    | 15     | 18    | +3     |      |
-| BU/GU Ratio:            | 0.25   | 0.39  | +0.14  |      |
-| RB Ratio:               | 0.27   | 0.45  | +0.18  |      |
+| IBU:                    | 21     | 18    | -3     |      |
+| BU/GU Ratio:            | 0.34   | 0.39  | +0.05  |      |
+| RB Ratio:               | 0.37   | 0.45  | +0.08  |      |
 | Color                   | 15.2   | 13.4  | -1.8   | EBC  |
 | Mash pH:                | 5.42   | 5.9   | +0.48  |      |
