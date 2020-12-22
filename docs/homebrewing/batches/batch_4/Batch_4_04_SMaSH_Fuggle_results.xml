@@ -85,6 +85,8 @@
                 <YIELD>82.5</YIELD>
                 <COLOR>1.573604</COLOR>
                 <ADD_AFTER_BOIL>false</ADD_AFTER_BOIL>
+                <NOT_FERMENTABLE>false</NOT_FERMENTABLE>
+                <IBU_GAL_PER_LB>0</IBU_GAL_PER_LB>
             </FERMENTABLE>
             <FERMENTABLE>
                 <BF_ID>default-132c22b</BF_ID>
@@ -97,6 +99,8 @@
                 <YIELD>100</YIELD>
                 <COLOR>1.015228</COLOR>
                 <ADD_AFTER_BOIL>false</ADD_AFTER_BOIL>
+                <NOT_FERMENTABLE>false</NOT_FERMENTABLE>
+                <IBU_GAL_PER_LB>0</IBU_GAL_PER_LB>
             </FERMENTABLE>
         </FERMENTABLES>
         <MISCS>
@@ -247,7 +251,7 @@
         <FERMENTATION_STAGES>2</FERMENTATION_STAGES>
         <PRIMARY_AGE>11</PRIMARY_AGE>
         <PRIMARY_TEMP>20</PRIMARY_TEMP>
-        <SECONDARY_AGE>44</SECONDARY_AGE>
+        <SECONDARY_AGE>45</SECONDARY_AGE>
         <SECONDARY_TEMP>20</SECONDARY_TEMP>
     </RECIPE>
 </RECIPES>
