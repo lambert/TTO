@@ -2,8 +2,8 @@
 
 ## Thirsty Otter recipes
 
-|   | Recipe name | Style | ABV | IBU |
-|---|-------------|-------|-----|-----|
+|    | Recipe name | Style | ABV | IBU |
+|----|-------------|-------|-----|-----|
 | ![01](01_AnOtter_Witbier/01_AnOtter_Witbier_48x48.jpeg) | [01 AnOtter Witbier](01_AnOtter_Witbier/README.md) | Witbier (All Grain) | 5.0 % | 11 | 
 | ![02](02_AnOtter_Spicy_Witbier/02_AnOtter_Spicy_Witbier_48x48.jpeg) | [02 AnOtter Spicy Witbier](02_AnOtter_Spicy_Witbier/README.md) | Witbier (All Grain) | 4.7 % | 11 |
 | ![03](03_SMaSH_Godiva/03_SMaSH_Godiva_48x48.jpeg) | [03 SMaSH Godiva](03_SMaSH_Godiva/README.md) | British Golden Ale (All Grain) | 4.7 % | 37 |
@@ -17,15 +17,15 @@
 
 ## Brew kit recipes
 
-|   | Recipe name | Style | ABV | IBU |
-|---|-------------|-------|-----|-----|
+|    | Recipe name | Style | ABV | IBU |
+|----|-------------|-------|-----|-----|
 | ![B01](Brouwpunt_Witbier/Brouwpunt_Witbier_48x48.jpeg) | [Brouwpunt - Witbier](Brouwpunt_Witbier/README.md) | Witbier (All Grain) | 4.9 % | 11 | 
 | ![B02](Brouwpunt_Kruidig_Wit/Brouwpunt_Kruidig_Wit_48x48.jpeg) | [Brouwpunt - Kruidig Wit](Brouwpunt_Kruidig_Wit/README.md) | Witbier (All Grain) | 4.9 % | 11 |
 | ![B03](Brouwpunt_Sinterklaas_Special/Brouwpunt_Sinterklaas_Special_48x48.jpeg) | [Brouwpunt - Sinterklaas Special](Brouwpunt_Sinterklaas_Special/README.md) | Autumn Seasonal Beer (All Grain) | 6.4 % | 21 |
 
 ## Clone recipes
 
-|   | Recipe name | Style | ABV | IBU |
-|---|-------------|-------|-----|-----|
+|    | Recipe name | Style | ABV | IBU |
+|----|-------------|-------|-----|-----|
 | ![C01](Five_Points_Brewing_Best_Fuggles_clone/Five_Points_Brewing_Best_Fuggles_clone_48x48.jpeg) | [Five Points Brewing - Best Fuggles (clone)](Five_Points_Brewing_Best_Fuggles_clone/README.md) | Best Bitter (All Grain) | 4.1 % | 29 |
 | ![C02](Shambles_Brewery_Summer_Ale_Afternoon_Delight_clone/Shambles_Brewery_Summer_Ale_Afternoon_Delight_clone_48x48.jpeg) | [Shambles Brewery - Summer Ale Afternoon Delight (clone)](Shambles_Brewery_Summer_Ale_Afternoon_Delight_clone/README.md) | Blonde Ale (All Grain) | 4.6 % | 24 |
