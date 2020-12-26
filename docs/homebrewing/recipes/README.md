@@ -14,6 +14,7 @@
 | ![08](08_SMaSH_Magnum/08_SMaSH_Magnum_48x48.jpeg) | [08 SMaSH Magnum](08_SMaSH_Magnum/README.md) | Blonde Ale (All Grain) | 4.7 % | 23 |
 | ![09](09_SMaSH_Sabro/09_SMaSH_Sabro_48x48.jpeg) | [09 SMaSH Sabro](09_SMaSH_Sabro/README.md) | Specialty IPA (All Grain) | 6.6 % | 75 |
 | ![10](10_SMaSH_CF184/10_SMaSH_CF184_48x48.jpeg) | [10 SMaSH CF184](10_SMaSH_CF184/README.md) | British Golden Ale (All Grain) | 4.3 % | 33 |
+| ![11](11_SMaSH_Progress/11_SMaSH_Progress_48x48.jpeg) | [11 SMaSH Progress](11_SMaSH_Progress/README.md) | British Golden Ale (All Grain) | 4.5 % | 29 |
 
 ## Brew kit recipes
 
