@@ -1,6 +1,6 @@
 ![logo](./11_SMaSH_Progress.jpeg)
 
-# 10 SMaSH CF184
+# 11 SMaSH Progress
 
 ## Recipe for a 5 L batch size.
 
