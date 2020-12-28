@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <RECIPES>
     <RECIPE>
-        <NAME>&#48;&#57;&#32;SMaSH&#32;Sabro</NAME>
+        <NAME>&#48;&#57;&#32;SMaSH&#32;Sabro&#32;v&#50;</NAME>
         <VERSION>1</VERSION>
         <TYPE>All&#32;Grain</TYPE>
         <STYLE>
-            <NAME>Specialty&#32;IPA</NAME>
-            <CATEGORY>IPA</CATEGORY>
+            <NAME>Blonde&#32;Ale</NAME>
+            <CATEGORY>Pale&#32;American&#32;Ale</CATEGORY>
             <VERSION>1</VERSION>
-            <CATEGORY_NUMBER>21</CATEGORY_NUMBER>
-            <STYLE_LETTER>B</STYLE_LETTER>
+            <CATEGORY_NUMBER>18</CATEGORY_NUMBER>
+            <STYLE_LETTER>A</STYLE_LETTER>
             <STYLE_GUIDE>BJCP&#32;&#50;&#48;&#49;&#53;</STYLE_GUIDE>
-            <TYPE>IPA</TYPE>
-            <OG_MIN>1.05</OG_MIN>
-            <OG_MAX>1.085</OG_MAX>
+            <TYPE>Pale&#32;Ale</TYPE>
+            <OG_MIN>1.038</OG_MIN>
+            <OG_MAX>1.054</OG_MAX>
             <FG_MIN>1.008</FG_MIN>
-            <FG_MAX>1.018</FG_MAX>
-            <IBU_MIN>40</IBU_MIN>
-            <IBU_MAX>100</IBU_MAX>
-            <COLOR_MIN>5</COLOR_MIN>
-            <COLOR_MAX>40</COLOR_MAX>
+            <FG_MAX>1.013</FG_MAX>
+            <IBU_MIN>15</IBU_MIN>
+            <IBU_MAX>28</IBU_MAX>
+            <COLOR_MIN>3</COLOR_MIN>
+            <COLOR_MAX>6</COLOR_MAX>
         </STYLE>
         <BREWER>The&#32;Thirsty&#32;Otter</BREWER>
         <BATCH_SIZE>5.6</BATCH_SIZE>
         <BOIL_SIZE>7.76</BOIL_SIZE>
         <BOIL_TIME>60</BOIL_TIME>
         <EFFICIENCY>71.8</EFFICIENCY>
-        <OG>1.063</OG>
-        <FG>1.013</FG>
-        <ABV>6.56 %</ABV>
-        <EST_ABV>6.56 %</EST_ABV>
-        <IBU>69.4</IBU>
-        <EST_OG>1.063 SG</EST_OG>
-        <EST_FG>1.013 SG</EST_FG>
-        <EST_COLOR>4.9 SRM</EST_COLOR>
+        <OG>1.043</OG>
+        <FG>1.007</FG>
+        <ABV>4.73 %</ABV>
+        <EST_ABV>4.73 %</EST_ABV>
+        <IBU>19</IBU>
+        <EST_OG>1.043 SG</EST_OG>
+        <EST_FG>1.007 SG</EST_FG>
+        <EST_COLOR>4.2 SRM</EST_COLOR>
         <CARBONATION>2.6</CARBONATION>
         <HOPS>
             <HOP>
@@ -41,7 +41,7 @@
                 <NAME>Sabro&#32;&#40;T&#57;&#48;&#41;</NAME>
                 <VERSION>1</VERSION>
                 <ALPHA>14.8</ALPHA>
-                <AMOUNT>0.0064</AMOUNT>
+                <AMOUNT>0.003</AMOUNT>
                 <USE>Boil</USE>
                 <TIME>15</TIME>
                 <FORM>Pellet</FORM>
@@ -53,33 +53,9 @@
                 <NAME>Sabro&#32;&#40;T&#57;&#48;&#41;</NAME>
                 <VERSION>1</VERSION>
                 <ALPHA>14.8</ALPHA>
-                <AMOUNT>0.0064</AMOUNT>
-                <USE>Boil</USE>
-                <TIME>10</TIME>
-                <FORM>Pellet</FORM>
-                <TEMPERATURE/>
-                <HOP_TEMP/>
-            </HOP>
-            <HOP>
-                <BF_ID>default-sabro</BF_ID>
-                <NAME>Sabro&#32;&#40;T&#57;&#48;&#41;</NAME>
-                <VERSION>1</VERSION>
-                <ALPHA>14.8</ALPHA>
-                <AMOUNT>0.0064</AMOUNT>
-                <USE>Boil</USE>
-                <TIME>5</TIME>
-                <FORM>Pellet</FORM>
-                <TEMPERATURE/>
-                <HOP_TEMP/>
-            </HOP>
-            <HOP>
-                <BF_ID>default-sabro</BF_ID>
-                <NAME>Sabro&#32;&#40;T&#57;&#48;&#41;</NAME>
-                <VERSION>1</VERSION>
-                <ALPHA>14.8</ALPHA>
-                <AMOUNT>0.0126</AMOUNT>
+                <AMOUNT>0.01</AMOUNT>
                 <USE>Aroma</USE>
-                <TIME>20</TIME>
+                <TIME>10</TIME>
                 <FORM>Pellet</FORM>
                 <TEMPERATURE>80</TEMPERATURE>
                 <HOP_TEMP>80</HOP_TEMP>
@@ -89,7 +65,7 @@
                 <NAME>Sabro&#32;&#40;T&#57;&#48;&#41;</NAME>
                 <VERSION>1</VERSION>
                 <ALPHA>14.8</ALPHA>
-                <AMOUNT>0.0126</AMOUNT>
+                <AMOUNT>0.005</AMOUNT>
                 <USE>Dry&#32;Hop</USE>
                 <TIME>7</TIME>
                 <FORM>Pellet</FORM>
@@ -99,15 +75,15 @@
         </HOPS>
         <FERMENTABLES>
             <FERMENTABLE>
-                <BF_ID>default-daa2592</BF_ID>
-                <NAME>Golden&#32;Promise&#32;Pale&#32;Ale&#32;Malt</NAME>
-                <SUPPLIER>Thomas&#32;Fawcett</SUPPLIER>
-                <ORIGIN>UK</ORIGIN>
+                <BF_ID>default-592f3ac</BF_ID>
+                <NAME>Pale&#32;Ale&#32;Malt</NAME>
+                <SUPPLIER>BestMalz</SUPPLIER>
+                <ORIGIN>Germany</ORIGIN>
                 <VERSION>1</VERSION>
                 <TYPE>Grain</TYPE>
-                <AMOUNT>1.5</AMOUNT>
-                <YIELD>82</YIELD>
-                <COLOR>2.538071</COLOR>
+                <AMOUNT>1</AMOUNT>
+                <YIELD>82.8</YIELD>
+                <COLOR>3.045685</COLOR>
                 <ADD_AFTER_BOIL>false</ADD_AFTER_BOIL>
                 <NOT_FERMENTABLE>false</NOT_FERMENTABLE>
                 <IBU_GAL_PER_LB>0</IBU_GAL_PER_LB>
@@ -135,8 +111,8 @@
                 <TYPE>Water&#32;Agent</TYPE>
                 <USE>Mash</USE>
                 <TIME>0</TIME>
-                <AMOUNT>0.00047</AMOUNT>
-                <DISPLAY_AMOUNT>0.47 g</DISPLAY_AMOUNT>
+                <AMOUNT>0.00045</AMOUNT>
+                <DISPLAY_AMOUNT>0.45 g</DISPLAY_AMOUNT>
                 <AMOUNT_IS_WEIGHT>true</AMOUNT_IS_WEIGHT>
             </MISC>
             <MISC>
@@ -146,8 +122,8 @@
                 <TYPE>Water&#32;Agent</TYPE>
                 <USE>Mash</USE>
                 <TIME>0</TIME>
-                <AMOUNT>0.0024</AMOUNT>
-                <DISPLAY_AMOUNT>2.4 g</DISPLAY_AMOUNT>
+                <AMOUNT>0.00129</AMOUNT>
+                <DISPLAY_AMOUNT>1.29 g</DISPLAY_AMOUNT>
                 <AMOUNT_IS_WEIGHT>true</AMOUNT_IS_WEIGHT>
             </MISC>
             <MISC>
@@ -157,8 +133,8 @@
                 <TYPE>Water&#32;Agent</TYPE>
                 <USE>Mash</USE>
                 <TIME>0</TIME>
-                <AMOUNT>0.0011</AMOUNT>
-                <DISPLAY_AMOUNT>1.1 ml</DISPLAY_AMOUNT>
+                <AMOUNT>0.0007</AMOUNT>
+                <DISPLAY_AMOUNT>0.7 ml</DISPLAY_AMOUNT>
                 <AMOUNT_IS_WEIGHT>false</AMOUNT_IS_WEIGHT>
             </MISC>
             <MISC>
@@ -173,17 +149,6 @@
                 <AMOUNT_IS_WEIGHT>false</AMOUNT_IS_WEIGHT>
             </MISC>
             <MISC>
-                <BF_ID>default-07adb1</BF_ID>
-                <NAME>Lactic&#32;Acid&#32;&#56;&#48;&#37;</NAME>
-                <VERSION>1</VERSION>
-                <TYPE>Water&#32;Agent</TYPE>
-                <USE>Sparge</USE>
-                <TIME>0</TIME>
-                <AMOUNT>0.00087</AMOUNT>
-                <DISPLAY_AMOUNT>0.87 ml</DISPLAY_AMOUNT>
-                <AMOUNT_IS_WEIGHT>false</AMOUNT_IS_WEIGHT>
-            </MISC>
-            <MISC>
                 <BF_ID>WDItC6EBT6VCsBDUmCWUiyNk1WQPWs</BF_ID>
                 <NAME>pH&#32;paper&#32;strips&#32;&#53;&#46;&#50;&#32;&#45;&#32;&#54;&#46;&#56;</NAME>
                 <VERSION>1</VERSION>
@@ -192,6 +157,17 @@
                 <TIME>0</TIME>
                 <AMOUNT>2</AMOUNT>
                 <DISPLAY_AMOUNT>2 items</DISPLAY_AMOUNT>
+                <AMOUNT_IS_WEIGHT>false</AMOUNT_IS_WEIGHT>
+            </MISC>
+            <MISC>
+                <BF_ID>default-07adb1</BF_ID>
+                <NAME>Lactic&#32;Acid&#32;&#56;&#48;&#37;</NAME>
+                <VERSION>1</VERSION>
+                <TYPE>Water&#32;Agent</TYPE>
+                <USE>Sparge</USE>
+                <TIME>0</TIME>
+                <AMOUNT>0.00106</AMOUNT>
+                <DISPLAY_AMOUNT>1.06 ml</DISPLAY_AMOUNT>
                 <AMOUNT_IS_WEIGHT>false</AMOUNT_IS_WEIGHT>
             </MISC>
             <MISC>
@@ -252,38 +228,31 @@
         </MISCS>
         <YEASTS>
             <YEAST>
-                <BF_ID>13TSi0Un3PgVG84dxy8PFrg9qP6Cr3</BF_ID>
-                <NAME>New&#32;England</NAME>
+                <BF_ID>default-016efc</BF_ID>
+                <NAME>Safale&#32;American</NAME>
                 <VERSION>1</VERSION>
                 <TYPE>Ale</TYPE>
                 <FORM>Dry</FORM>
                 <AMOUNT>0.5</AMOUNT>
-                <LABORATORY>Lallemand&#32;&#40;LalBrew&#41;</LABORATORY>
-                <PRODUCT_ID/>
+                <LABORATORY>Fermentis</LABORATORY>
+                <PRODUCT_ID>US&#45;&#48;&#53;</PRODUCT_ID>
                 <DISPLAY_AMOUNT>0.5 pkg</DISPLAY_AMOUNT>
-                <ATTENUATION>78</ATTENUATION>
+                <ATTENUATION>81</ATTENUATION>
             </YEAST>
         </YEASTS>
         <MASH>
-            <BF_ID>HyEyZ1t9G7kW53GidccM4Gkr29YwOe</BF_ID>
-            <NAME>&#49;&#48;&#32;American&#32;DIPA&#32;&#40;&#55;&#53;&#32;min&#41;</NAME>
+            <BF_ID>6jpuQsHCfaiAn3GQJSrfqHXEFQtXW2</BF_ID>
+            <NAME>&#48;&#49;&#32;One&#32;Step&#32;Mash&#32;&#40;&#54;&#48;&#32;min&#41;</NAME>
             <VERSION>1</VERSION>
             <GRAIN_TEMP>20</GRAIN_TEMP>
             <MASH_STEPS>
                 <MASH_STEP>
-                    <NAME>Stir&#32;frequently</NAME>
+                    <NAME>Temperature</NAME>
                     <VERSION>1</VERSION>
                     <TYPE>Temperature</TYPE>
-                    <STEP_TEMP>62</STEP_TEMP>
-                    <STEP_TIME>45</STEP_TIME>
-                    <INFUSE_AMOUNT>4.5</INFUSE_AMOUNT>
-                </MASH_STEP>
-                <MASH_STEP>
-                    <NAME>Stir&#32;frequently</NAME>
-                    <VERSION>1</VERSION>
-                    <TYPE>Temperature</TYPE>
-                    <STEP_TEMP>68</STEP_TEMP>
-                    <STEP_TIME>30</STEP_TIME>
+                    <STEP_TEMP>63</STEP_TEMP>
+                    <STEP_TIME>60</STEP_TIME>
+                    <INFUSE_AMOUNT>3</INFUSE_AMOUNT>
                 </MASH_STEP>
             </MASH_STEPS>
         </MASH>
