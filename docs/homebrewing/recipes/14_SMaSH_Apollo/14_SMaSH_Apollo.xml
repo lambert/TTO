@@ -85,6 +85,8 @@
                 <YIELD>82.5</YIELD>
                 <COLOR>2.994924</COLOR>
                 <ADD_AFTER_BOIL>false</ADD_AFTER_BOIL>
+                <NOT_FERMENTABLE>false</NOT_FERMENTABLE>
+                <IBU_GAL_PER_LB>0</IBU_GAL_PER_LB>
             </FERMENTABLE>
             <FERMENTABLE>
                 <BF_ID>default-132c22b</BF_ID>
@@ -97,9 +99,22 @@
                 <YIELD>100</YIELD>
                 <COLOR>1.015228</COLOR>
                 <ADD_AFTER_BOIL>false</ADD_AFTER_BOIL>
+                <NOT_FERMENTABLE>false</NOT_FERMENTABLE>
+                <IBU_GAL_PER_LB>0</IBU_GAL_PER_LB>
             </FERMENTABLE>
         </FERMENTABLES>
         <MISCS>
+            <MISC>
+                <BF_ID>WDItC6EBT6VCsBDUmCWUiyNk1WQPWs</BF_ID>
+                <NAME>pH&#32;paper&#32;strips&#32;&#53;&#46;&#50;&#32;&#45;&#32;&#54;&#46;&#56;</NAME>
+                <VERSION>1</VERSION>
+                <TYPE>Other</TYPE>
+                <USE>Mash</USE>
+                <TIME>0</TIME>
+                <AMOUNT>2</AMOUNT>
+                <DISPLAY_AMOUNT>2 items</DISPLAY_AMOUNT>
+                <AMOUNT_IS_WEIGHT>false</AMOUNT_IS_WEIGHT>
+            </MISC>
             <MISC>
                 <BF_ID>default-4e9d62</BF_ID>
                 <NAME>Epsom&#32;Salt&#32;&#40;MgSO&#52;&#41;</NAME>
@@ -107,8 +122,19 @@
                 <TYPE>Water&#32;Agent</TYPE>
                 <USE>Mash</USE>
                 <TIME>0</TIME>
-                <AMOUNT>0.00054</AMOUNT>
-                <DISPLAY_AMOUNT>0.54 g</DISPLAY_AMOUNT>
+                <AMOUNT>0.00045</AMOUNT>
+                <DISPLAY_AMOUNT>0.45 g</DISPLAY_AMOUNT>
+                <AMOUNT_IS_WEIGHT>true</AMOUNT_IS_WEIGHT>
+            </MISC>
+            <MISC>
+                <BF_ID>default-1f88df</BF_ID>
+                <NAME>Gypsum&#32;&#40;CaSO&#52;&#41;</NAME>
+                <VERSION>1</VERSION>
+                <TYPE>Water&#32;Agent</TYPE>
+                <USE>Mash</USE>
+                <TIME>0</TIME>
+                <AMOUNT>0.0023</AMOUNT>
+                <DISPLAY_AMOUNT>2.3 g</DISPLAY_AMOUNT>
                 <AMOUNT_IS_WEIGHT>true</AMOUNT_IS_WEIGHT>
             </MISC>
             <MISC>
@@ -118,8 +144,8 @@
                 <TYPE>Water&#32;Agent</TYPE>
                 <USE>Mash</USE>
                 <TIME>0</TIME>
-                <AMOUNT>0.0013</AMOUNT>
-                <DISPLAY_AMOUNT>1.3 ml</DISPLAY_AMOUNT>
+                <AMOUNT>0.0006</AMOUNT>
+                <DISPLAY_AMOUNT>0.6 ml</DISPLAY_AMOUNT>
                 <AMOUNT_IS_WEIGHT>false</AMOUNT_IS_WEIGHT>
             </MISC>
             <MISC>
@@ -129,8 +155,19 @@
                 <TYPE>Other</TYPE>
                 <USE>Mash</USE>
                 <TIME>0</TIME>
-                <AMOUNT>3</AMOUNT>
-                <DISPLAY_AMOUNT>3 items</DISPLAY_AMOUNT>
+                <AMOUNT>2</AMOUNT>
+                <DISPLAY_AMOUNT>2 items</DISPLAY_AMOUNT>
+                <AMOUNT_IS_WEIGHT>false</AMOUNT_IS_WEIGHT>
+            </MISC>
+            <MISC>
+                <BF_ID>default-07adb1</BF_ID>
+                <NAME>Lactic&#32;Acid&#32;&#56;&#48;&#37;</NAME>
+                <VERSION>1</VERSION>
+                <TYPE>Water&#32;Agent</TYPE>
+                <USE>Sparge</USE>
+                <TIME>0</TIME>
+                <AMOUNT>0.00102</AMOUNT>
+                <DISPLAY_AMOUNT>1.02 ml</DISPLAY_AMOUNT>
                 <AMOUNT_IS_WEIGHT>false</AMOUNT_IS_WEIGHT>
             </MISC>
             <MISC>
@@ -234,7 +271,7 @@
         <BF_FERMENTATION_PROFILE_ID>default</BF_FERMENTATION_PROFILE_ID>
         <BF_FERMENTATION_PROFILE_NAME>Ale</BF_FERMENTATION_PROFILE_NAME>
         <FERMENTATION_STAGES>2</FERMENTATION_STAGES>
-        <PRIMARY_AGE>10</PRIMARY_AGE>
+        <PRIMARY_AGE>14</PRIMARY_AGE>
         <PRIMARY_TEMP>20</PRIMARY_TEMP>
         <SECONDARY_AGE>45</SECONDARY_AGE>
         <SECONDARY_TEMP>20</SECONDARY_TEMP>
