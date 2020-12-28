@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <RECIPES>
     <RECIPE>
-        <NAME>&#48;&#54;&#32;SMaSH&#32;Citra</NAME>
+        <NAME>&#48;&#54;&#32;SMaSH&#32;Citra&#32;v&#50;</NAME>
         <VERSION>1</VERSION>
         <TYPE>All&#32;Grain</TYPE>
         <STYLE>
@@ -30,7 +30,7 @@
         <FG>1.009</FG>
         <ABV>6.04 %</ABV>
         <EST_ABV>6.04 %</EST_ABV>
-        <IBU>40.4</IBU>
+        <IBU>35.7</IBU>
         <EST_OG>1.055 SG</EST_OG>
         <EST_FG>1.009 SG</EST_FG>
         <EST_COLOR>4.9 SRM</EST_COLOR>
@@ -67,10 +67,10 @@
                 <ALPHA>13.8</ALPHA>
                 <AMOUNT>0.01</AMOUNT>
                 <USE>Aroma</USE>
-                <TIME>20</TIME>
+                <TIME>40</TIME>
                 <FORM>Pellet</FORM>
-                <TEMPERATURE/>
-                <HOP_TEMP/>
+                <TEMPERATURE>70</TEMPERATURE>
+                <HOP_TEMP>70</HOP_TEMP>
             </HOP>
             <HOP>
                 <BF_ID>new-51wCf6O7CNR123kNt0aqW8Oah49aNp</BF_ID>
