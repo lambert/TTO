@@ -85,6 +85,8 @@
                 <YIELD>82.5</YIELD>
                 <COLOR>2.994924</COLOR>
                 <ADD_AFTER_BOIL>false</ADD_AFTER_BOIL>
+                <NOT_FERMENTABLE>false</NOT_FERMENTABLE>
+                <IBU_GAL_PER_LB>0</IBU_GAL_PER_LB>
             </FERMENTABLE>
             <FERMENTABLE>
                 <BF_ID>default-nym-ernthw</BF_ID>
@@ -97,6 +99,8 @@
                 <YIELD>65.9</YIELD>
                 <COLOR>266.497462</COLOR>
                 <ADD_AFTER_BOIL>false</ADD_AFTER_BOIL>
+                <NOT_FERMENTABLE>false</NOT_FERMENTABLE>
+                <IBU_GAL_PER_LB>NaN</IBU_GAL_PER_LB>
             </FERMENTABLE>
             <FERMENTABLE>
                 <BF_ID>default-6d16838</BF_ID>
@@ -109,6 +113,8 @@
                 <YIELD>71.7</YIELD>
                 <COLOR>2.030457</COLOR>
                 <ADD_AFTER_BOIL>false</ADD_AFTER_BOIL>
+                <NOT_FERMENTABLE>false</NOT_FERMENTABLE>
+                <IBU_GAL_PER_LB>0</IBU_GAL_PER_LB>
             </FERMENTABLE>
             <FERMENTABLE>
                 <BF_ID>default-0f46ffb</BF_ID>
@@ -121,6 +127,8 @@
                 <YIELD>76</YIELD>
                 <COLOR>659.898477</COLOR>
                 <ADD_AFTER_BOIL>false</ADD_AFTER_BOIL>
+                <NOT_FERMENTABLE>false</NOT_FERMENTABLE>
+                <IBU_GAL_PER_LB>0</IBU_GAL_PER_LB>
             </FERMENTABLE>
             <FERMENTABLE>
                 <BF_ID>default-132c22b</BF_ID>
@@ -133,6 +141,8 @@
                 <YIELD>100</YIELD>
                 <COLOR>1.015228</COLOR>
                 <ADD_AFTER_BOIL>false</ADD_AFTER_BOIL>
+                <NOT_FERMENTABLE>false</NOT_FERMENTABLE>
+                <IBU_GAL_PER_LB>0</IBU_GAL_PER_LB>
             </FERMENTABLE>
         </FERMENTABLES>
         <MISCS>
@@ -143,8 +153,8 @@
                 <TYPE>Water&#32;Agent</TYPE>
                 <USE>Mash</USE>
                 <TIME>0</TIME>
-                <AMOUNT>0.00127</AMOUNT>
-                <DISPLAY_AMOUNT>1.27 ml</DISPLAY_AMOUNT>
+                <AMOUNT>0.00035</AMOUNT>
+                <DISPLAY_AMOUNT>0.35 ml</DISPLAY_AMOUNT>
                 <AMOUNT_IS_WEIGHT>false</AMOUNT_IS_WEIGHT>
             </MISC>
             <MISC>
@@ -154,8 +164,19 @@
                 <TYPE>Water&#32;Agent</TYPE>
                 <USE>Mash</USE>
                 <TIME>0</TIME>
-                <AMOUNT>0.001</AMOUNT>
-                <DISPLAY_AMOUNT>1 g</DISPLAY_AMOUNT>
+                <AMOUNT>0.00047</AMOUNT>
+                <DISPLAY_AMOUNT>0.47 g</DISPLAY_AMOUNT>
+                <AMOUNT_IS_WEIGHT>true</AMOUNT_IS_WEIGHT>
+            </MISC>
+            <MISC>
+                <BF_ID>default-1f88df</BF_ID>
+                <NAME>Gypsum&#32;&#40;CaSO&#52;&#41;</NAME>
+                <VERSION>1</VERSION>
+                <TYPE>Water&#32;Agent</TYPE>
+                <USE>Mash</USE>
+                <TIME>0</TIME>
+                <AMOUNT>0.00051</AMOUNT>
+                <DISPLAY_AMOUNT>0.51 g</DISPLAY_AMOUNT>
                 <AMOUNT_IS_WEIGHT>true</AMOUNT_IS_WEIGHT>
             </MISC>
             <MISC>
@@ -176,8 +197,30 @@
                 <TYPE>Other</TYPE>
                 <USE>Mash</USE>
                 <TIME>0</TIME>
-                <AMOUNT>3</AMOUNT>
-                <DISPLAY_AMOUNT>3 items</DISPLAY_AMOUNT>
+                <AMOUNT>2</AMOUNT>
+                <DISPLAY_AMOUNT>2 items</DISPLAY_AMOUNT>
+                <AMOUNT_IS_WEIGHT>false</AMOUNT_IS_WEIGHT>
+            </MISC>
+            <MISC>
+                <BF_ID>WDItC6EBT6VCsBDUmCWUiyNk1WQPWs</BF_ID>
+                <NAME>pH&#32;paper&#32;strips&#32;&#53;&#46;&#50;&#32;&#45;&#32;&#54;&#46;&#56;</NAME>
+                <VERSION>1</VERSION>
+                <TYPE>Other</TYPE>
+                <USE>Sparge</USE>
+                <TIME>0</TIME>
+                <AMOUNT>2</AMOUNT>
+                <DISPLAY_AMOUNT>2 items</DISPLAY_AMOUNT>
+                <AMOUNT_IS_WEIGHT>false</AMOUNT_IS_WEIGHT>
+            </MISC>
+            <MISC>
+                <BF_ID>default-07adb1</BF_ID>
+                <NAME>Lactic&#32;Acid&#32;&#56;&#48;&#37;</NAME>
+                <VERSION>1</VERSION>
+                <TYPE>Water&#32;Agent</TYPE>
+                <USE>Sparge</USE>
+                <TIME>0</TIME>
+                <AMOUNT>0.00092</AMOUNT>
+                <DISPLAY_AMOUNT>0.92 ml</DISPLAY_AMOUNT>
                 <AMOUNT_IS_WEIGHT>false</AMOUNT_IS_WEIGHT>
             </MISC>
             <MISC>
@@ -267,7 +310,7 @@
             </MASH_STEPS>
         </MASH>
         <EQUIPMENT>
-            <NAME>&#48;&#49;&#32;Brouwpunt&#32;&#53;L&#32;&#40;&#54;&#48;min&#41;&#32;&#40;rev&#32;&#51;&#41;</NAME>
+            <NAME>&#48;&#49;&#32;Brouwpunt&#32;&#53;L&#32;&#40;&#54;&#48;min&#41;&#32;&#40;rev&#32;&#52;&#41;</NAME>
             <VERSION>1</VERSION>
             <BOIL_SIZE>7.76</BOIL_SIZE>
             <BATCH_SIZE>5.6</BATCH_SIZE>
