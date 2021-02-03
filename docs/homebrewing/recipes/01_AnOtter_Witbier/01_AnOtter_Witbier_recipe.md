@@ -44,7 +44,7 @@ Strike temperature @ 73.3 C
 
 ## Fermentation
 
-0.5 package Mangrove Jack's M21 Begian Wit
+0.5 package Mangrove Jack's M21 Belgian Wit
 
 Primary @ 20 C for 14 days
 
