@@ -4,7 +4,7 @@
 
 |    | Recipe name | Style | ABV | IBU |
 |----|-------------|-------|-----|-----|
-| ![01](01_AnOtter_Witbier/01_AnOtter_Witbier_48x48.jpeg) | [01 AnOtter Witbier](01_AnOtter_Witbier/README.md) | Witbier (All Grain) | 5.0 % | 11 | 
+| ![01](01_AnOtter_Witbier/01_AnOtter_Witbier_48x48.jpeg) | [01 AnOtter Witbier](01_AnOtter_Witbier/README.md) | Witbier (All Grain) | 4.9 % | 11 | 
 | ![02](02_AnOtter_Spicy_Witbier/02_AnOtter_Spicy_Witbier_48x48.jpeg) | [02 AnOtter Spicy Witbier](02_AnOtter_Spicy_Witbier/README.md) | Witbier (All Grain) | 4.7 % | 11 |
 | ![03](03_SMaSH_Godiva/03_SMaSH_Godiva_48x48.jpeg) | [03 SMaSH Godiva](03_SMaSH_Godiva/README.md) | British Golden Ale (All Grain) | 4.7 % | 37 |
 | ![04](04_SMaSH_Fuggle/04_SMaSH_Fuggle_48x48.jpeg) | [04 SMaSH Fuggle](04_SMaSH_Fuggle/README.md) | British Golden Ale (All Grain) | 4.3 % | 27 |
