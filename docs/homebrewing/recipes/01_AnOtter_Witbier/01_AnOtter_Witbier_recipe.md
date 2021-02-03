@@ -29,7 +29,9 @@ Strike temperature @ 73.3 C
 
 
 
-## Boil 60 minutes
+## Boil
+
+60 minutes
 
 0.15 grams Lipohop K @ 0 minutes
 
