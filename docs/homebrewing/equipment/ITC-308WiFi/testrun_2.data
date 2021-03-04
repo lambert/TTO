@@ -1,7 +1,9 @@
-# Date/Time       PV    SV    MV
+# Test run with a plastic bucket filled with 5 L tap water.
+# The emperature is measured between heating pad and the underside of bucket.
 # PV = Process Value [C]
 # SV = Set Value [C]
 # MV = Measured Value [C] hand held thermometer
+# Date/Time       PV    SV    MV
 03-03-2021 08:30  15.2  20.0
 03-03-2021 08:45  15.2
 03-03-2021 09:00  15.5
@@ -49,3 +51,4 @@
 03-03-2021 19:30  19.6
 03-03-2021 19:45  19.7
 03-03-2021 20:00  17.9  20.0  28.3
+# Temperature element came loose and was measuring air temperature.
