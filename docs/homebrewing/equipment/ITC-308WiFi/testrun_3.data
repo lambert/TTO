@@ -1,3 +1,7 @@
-# Date/Time  Temperature [C]
-# 03-03-2021 20:00 SV = 15 C
-# 04-03-2021 17:40 SV = 17 C
+# Test run with temperature element in 5L tap water in plastic bucket.
+# Temperature measured at the top of the liquid.
+# PV = Process Value [C]
+# SV = Set Value [C]
+# 03-03-2021 20:00 SV = 15.0 C
+# 04-03-2021 17:40 SV = 17.0 C
+# Date/Time        PV     SV
