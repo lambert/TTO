@@ -2,7 +2,7 @@
 
 ## Milestones
 
-Start brewing.
+06-03-2021 09:42 Start brewing.
 
 Start fermentation.
 
@@ -30,13 +30,13 @@ Archived.
 
 |                         | Recipe | Batch | Diff   | Unit |
 |-------------------------|--------|-------|--------|------|
-| Pre-Boil Volume:        | 7.76   |       |        | L    |
+| Pre-Boil Volume:        | 7.76   | 8.5   | +0.74  | L    |
 | Post-Boil Volume (HOT): | 5.96   |       |        | L    |
 | Boil Off per Hour:      | 1.8    |       |        | L    |
 | Batch Volume:           | 5.6    |       |        | L    |
 | Trub/Chiller Loss:      | 0.12   |       |        | L    |
 | Bottling Volume:        | 5.0    |       |        | L    |
-| Pre-Boil Gravity:       | 1.041  |       |        |      |
+| Pre-Boil Gravity:       | 1.041  | 1.038 | -0.003 |      |
 | Post-Boil Gravity:      | 1.053  |       |        |      |
 | Original Gravity:       | 1.055  |       |        |      |
 | Final Gravity:          | 1.009  |       |        |      |
@@ -48,4 +48,4 @@ Archived.
 | BU/GU Ratio:            | 0.73   |       |        |      |
 | RB Ratio:               | 0.78   |       |        |      |
 | Color                   | 9.7    |       |        | EBC  |
-| Mash pH:                | 5.40   |       |        |      |
+| Mash pH:                | 5.40   | 5.5   | +0.1   |      |
