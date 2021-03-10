@@ -12,6 +12,7 @@
 | 8 | [07 SMaSH Simcoe](batch_8/README.md) | Planned | | | | | | 18B American Pale Ale | All Grain |
 | 9 | [08 SMaSH Magnum](batch_9/README.md) | Planned | | | | | | 18A Blonde Ale | All Grain |
 | 10 | [09 SMaSH Sabro](batch_10/README.md) | Planned | | | | | | 21B Specialty IPA | All Grain |
-| 11 | [Shambles Brewery - Summer Ale Afternoon Delight (clone)](batch_11/README.md) | Planned | | | | | | 18A Blonde Ale | All Grain |
-| 12 | [Five Points Brewing - Best Fuggles (clone) v2](batch_12/README.md) | Planned | | | | | | 11B Best Bitter | All Grain |
+| 11 | [48 De Olmenhorst Apple Juice 2 English Cider](batch_11/README.md) | Planned | | | | | | C1B English Cider | Extract |
+| 12 | [Shambles Brewery - Summer Ale Afternoon Delight (clone)](batch_12/README.md) | Planned | | | | | | 18A Blonde Ale | All Grain |
+| 13 | [Five Points Brewing - Best Fuggles (clone) v2](batch_13/README.md) | Planned | | | | | | 11B Best Bitter | All Grain |
 |  | | | | | | | | | |
