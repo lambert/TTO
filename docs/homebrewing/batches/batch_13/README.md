@@ -1,4 +1,4 @@
-# Batch #12 - Shambles Brewery - Summer Ale Afternoon Delight (clone)
+# Batch #13 - Five Points Brewing - Best Fuggles (clone) v2
 
 ## Milestones
 
@@ -24,7 +24,7 @@ Archived.
 
 ![conditioning](conditioning.png)
 
-[Results](./Batch_12_Shambles_Brewery_Summer_Ale_Afternoon_Delight_clone_results.pdf)
+[Results](./Batch_13_Five_Points_Brewing_Best_Fuggles_clone_v2_results.pdf)
 
 ### Evaluation
 
@@ -49,4 +49,3 @@ Archived.
 | RB Ratio:               |        |       |        |      |
 | Color                   |        |       |        | EBC  |
 | Mash pH:                |        |       |        |      |
-
