@@ -4,7 +4,7 @@
 
 04-04-2021 10:38 Start brewing.
 
-Start fermentation.
+04-04-2021 15:45 Start fermentation.
 
 Start conditioning.
 
