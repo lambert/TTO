@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <RECIPES>
     <RECIPE>
-        <NAME>&#48;&#55;&#32;SMaSH&#32;Simcoe</NAME>
+        <NAME>&#48;&#55;&#32;SMaSH&#32;Simcoe&#32;v&#50;</NAME>
         <VERSION>1</VERSION>
         <TYPE>All&#32;Grain</TYPE>
-        <NOTES>Malt&#32;is&#32;ordered&#32;with&#32;standard&#32;crush&#32;&#64;&#32;The&#32;Malt&#32;Miller&#32;&#40;https&#58;&#47;&#47;www&#46;themaltmiller&#46;co&#46;uk&#47;&#41;&#46;&#10;No&#32;minerals&#32;added&#32;&#40;Ca&#32;&#61;&#32;&#53;&#44;&#32;Mg&#32;&#61;&#32;&#50;&#44;&#32;Na&#32;&#61;&#51;&#44;&#32;Cl&#32;&#61;&#32;&#53;&#44;&#32;SO&#52;&#32;&#61;&#32;&#52;&#44;&#32;HCO&#51;&#32;&#61;&#32;&#49;&#55;&#41;&#46;</NOTES>
+        <NOTES>Malt&#32;is&#32;ordered&#32;with&#32;standard&#32;crush&#32;&#64;&#32;The&#32;Malt&#32;Miller&#32;&#40;https&#58;&#47;&#47;www&#46;themaltmiller&#46;co&#46;uk&#47;&#41;&#46;</NOTES>
         <STYLE>
             <NAME>American&#32;Pale&#32;Ale</NAME>
             <CATEGORY>Pale&#32;American&#32;Ale</CATEGORY>
@@ -118,14 +118,69 @@
         </FERMENTABLES>
         <MISCS>
             <MISC>
+                <BF_ID>default-2302b0</BF_ID>
+                <NAME>Baking&#32;Soda&#32;&#40;NaHCO&#51;&#41;</NAME>
+                <VERSION>1</VERSION>
+                <TYPE>Water&#32;Agent</TYPE>
+                <USE>Mash</USE>
+                <TIME>0</TIME>
+                <AMOUNT>0.00081</AMOUNT>
+                <DISPLAY_AMOUNT>0.81 g</DISPLAY_AMOUNT>
+                <AMOUNT_IS_WEIGHT>true</AMOUNT_IS_WEIGHT>
+            </MISC>
+            <MISC>
+                <BF_ID>default-3b1827</BF_ID>
+                <NAME>Calcium&#32;Chloride&#32;&#40;CaCl&#50;&#41;&#32;&#51;&#51;&#32;&#37;</NAME>
+                <VERSION>1</VERSION>
+                <TYPE>Water&#32;Agent</TYPE>
+                <USE>Mash</USE>
+                <TIME>0</TIME>
+                <AMOUNT>0.00051</AMOUNT>
+                <DISPLAY_AMOUNT>0.51 g</DISPLAY_AMOUNT>
+                <AMOUNT_IS_WEIGHT>true</AMOUNT_IS_WEIGHT>
+            </MISC>
+            <MISC>
+                <BF_ID>default-bk9j78</BF_ID>
+                <NAME>Canning&#32;Salt&#32;&#40;NaCl&#41;</NAME>
+                <VERSION>1</VERSION>
+                <TYPE>Water&#32;Agent</TYPE>
+                <USE>Mash</USE>
+                <TIME>0</TIME>
+                <AMOUNT>0.0005</AMOUNT>
+                <DISPLAY_AMOUNT>0.5 g</DISPLAY_AMOUNT>
+                <AMOUNT_IS_WEIGHT>true</AMOUNT_IS_WEIGHT>
+            </MISC>
+            <MISC>
+                <BF_ID>default-4e9d62</BF_ID>
+                <NAME>Epsom&#32;Salt&#32;&#40;MgSO&#52;&#41;</NAME>
+                <VERSION>1</VERSION>
+                <TYPE>Water&#32;Agent</TYPE>
+                <USE>Mash</USE>
+                <TIME>0</TIME>
+                <AMOUNT>0.00121</AMOUNT>
+                <DISPLAY_AMOUNT>1.21 g</DISPLAY_AMOUNT>
+                <AMOUNT_IS_WEIGHT>true</AMOUNT_IS_WEIGHT>
+            </MISC>
+            <MISC>
+                <BF_ID>default-1f88df</BF_ID>
+                <NAME>Gypsum&#32;&#40;CaSO&#52;&#41;</NAME>
+                <VERSION>1</VERSION>
+                <TYPE>Water&#32;Agent</TYPE>
+                <USE>Mash</USE>
+                <TIME>0</TIME>
+                <AMOUNT>0.00319</AMOUNT>
+                <DISPLAY_AMOUNT>3.19 g</DISPLAY_AMOUNT>
+                <AMOUNT_IS_WEIGHT>true</AMOUNT_IS_WEIGHT>
+            </MISC>
+            <MISC>
                 <BF_ID>default-07adb1</BF_ID>
                 <NAME>Lactic&#32;Acid&#32;&#56;&#48;&#37;</NAME>
                 <VERSION>1</VERSION>
                 <TYPE>Water&#32;Agent</TYPE>
                 <USE>Mash</USE>
                 <TIME>0</TIME>
-                <AMOUNT>0.0011</AMOUNT>
-                <DISPLAY_AMOUNT>1.1 ml</DISPLAY_AMOUNT>
+                <AMOUNT>0.0006</AMOUNT>
+                <DISPLAY_AMOUNT>0.6 ml</DISPLAY_AMOUNT>
                 <AMOUNT_IS_WEIGHT>false</AMOUNT_IS_WEIGHT>
             </MISC>
             <MISC>
