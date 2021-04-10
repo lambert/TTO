@@ -4,6 +4,7 @@
         <NAME>&#48;&#52;&#32;SMaSH&#32;Fuggle&#32;v&#50;</NAME>
         <VERSION>1</VERSION>
         <TYPE>All&#32;Grain</TYPE>
+        <NOTES>Malt&#32;is&#32;ordered&#32;with&#32;standard&#32;crush&#32;&#64;&#32;The&#32;Malt&#32;Miller&#32;&#40;https&#58;&#47;&#47;www&#46;themaltmiller&#46;co&#46;uk&#47;&#41;&#46;&#10;v&#50;&#58;&#32;&#32;skipped&#32;the&#32;&#51;&#48;&#32;minute&#32;addition&#44;&#32;increased&#32;late&#32;hop&#32;and&#32;aroma&#32;&#32;gifts&#32;to&#32;&#49;&#50;&#32;grams&#32;and&#32;added&#32;a&#32;&#49;&#50;&#32;grams&#32;dry&#32;hopping&#32;gift&#46;</NOTES>
         <STYLE>
             <NAME>British&#32;Golden&#32;Ale</NAME>
             <CATEGORY>Pale&#32;Commonwealth&#32;Beer</CATEGORY>
@@ -67,7 +68,7 @@
                 <ALPHA>5</ALPHA>
                 <AMOUNT>0.012</AMOUNT>
                 <USE>Dry&#32;Hop</USE>
-                <TIME>3</TIME>
+                <TIME>4320</TIME>
                 <FORM>Whole</FORM>
                 <TEMPERATURE/>
                 <HOP_TEMP/>
@@ -105,14 +106,47 @@
         </FERMENTABLES>
         <MISCS>
             <MISC>
+                <BF_ID>default-2302b0</BF_ID>
+                <NAME>Baking&#32;Soda&#32;&#40;NaHCO&#51;&#41;</NAME>
+                <VERSION>1</VERSION>
+                <TYPE>Water&#32;Agent</TYPE>
+                <USE>Mash</USE>
+                <TIME>0</TIME>
+                <AMOUNT>0.00029</AMOUNT>
+                <DISPLAY_AMOUNT>0.29 g</DISPLAY_AMOUNT>
+                <AMOUNT_IS_WEIGHT>true</AMOUNT_IS_WEIGHT>
+            </MISC>
+            <MISC>
+                <BF_ID>default-3b1827</BF_ID>
+                <NAME>Calcium&#32;Chloride&#32;&#40;CaCl&#50;&#41;&#32;&#51;&#51;&#32;&#37;</NAME>
+                <VERSION>1</VERSION>
+                <TYPE>Water&#32;Agent</TYPE>
+                <USE>Mash</USE>
+                <TIME>0</TIME>
+                <AMOUNT>0.00076</AMOUNT>
+                <DISPLAY_AMOUNT>0.76 g</DISPLAY_AMOUNT>
+                <AMOUNT_IS_WEIGHT>true</AMOUNT_IS_WEIGHT>
+            </MISC>
+            <MISC>
+                <BF_ID>default-bk9j78</BF_ID>
+                <NAME>Canning&#32;Salt&#32;&#40;NaCl&#41;</NAME>
+                <VERSION>1</VERSION>
+                <TYPE>Water&#32;Agent</TYPE>
+                <USE>Mash</USE>
+                <TIME>0</TIME>
+                <AMOUNT>0.00076</AMOUNT>
+                <DISPLAY_AMOUNT>0.76 g</DISPLAY_AMOUNT>
+                <AMOUNT_IS_WEIGHT>true</AMOUNT_IS_WEIGHT>
+            </MISC>
+            <MISC>
                 <BF_ID>default-4e9d62</BF_ID>
                 <NAME>Epsom&#32;Salt&#32;&#40;MgSO&#52;&#41;</NAME>
                 <VERSION>1</VERSION>
                 <TYPE>Water&#32;Agent</TYPE>
                 <USE>Mash</USE>
                 <TIME>0</TIME>
-                <AMOUNT>0.00045</AMOUNT>
-                <DISPLAY_AMOUNT>0.45 g</DISPLAY_AMOUNT>
+                <AMOUNT>0.00117</AMOUNT>
+                <DISPLAY_AMOUNT>1.17 g</DISPLAY_AMOUNT>
                 <AMOUNT_IS_WEIGHT>true</AMOUNT_IS_WEIGHT>
             </MISC>
             <MISC>
@@ -122,8 +156,8 @@
                 <TYPE>Water&#32;Agent</TYPE>
                 <USE>Mash</USE>
                 <TIME>0</TIME>
-                <AMOUNT>0.00129</AMOUNT>
-                <DISPLAY_AMOUNT>1.29 g</DISPLAY_AMOUNT>
+                <AMOUNT>0.0015</AMOUNT>
+                <DISPLAY_AMOUNT>1.5 g</DISPLAY_AMOUNT>
                 <AMOUNT_IS_WEIGHT>true</AMOUNT_IS_WEIGHT>
             </MISC>
             <MISC>
@@ -133,8 +167,8 @@
                 <TYPE>Water&#32;Agent</TYPE>
                 <USE>Mash</USE>
                 <TIME>0</TIME>
-                <AMOUNT>0.0009</AMOUNT>
-                <DISPLAY_AMOUNT>0.9 ml</DISPLAY_AMOUNT>
+                <AMOUNT>0.0005</AMOUNT>
+                <DISPLAY_AMOUNT>0.5 ml</DISPLAY_AMOUNT>
                 <AMOUNT_IS_WEIGHT>false</AMOUNT_IS_WEIGHT>
             </MISC>
             <MISC>
@@ -146,17 +180,6 @@
                 <TIME>0</TIME>
                 <AMOUNT>2</AMOUNT>
                 <DISPLAY_AMOUNT>2 items</DISPLAY_AMOUNT>
-                <AMOUNT_IS_WEIGHT>false</AMOUNT_IS_WEIGHT>
-            </MISC>
-            <MISC>
-                <BF_ID>default-07adb1</BF_ID>
-                <NAME>Lactic&#32;Acid&#32;&#56;&#48;&#37;</NAME>
-                <VERSION>1</VERSION>
-                <TYPE>Water&#32;Agent</TYPE>
-                <USE>Sparge</USE>
-                <TIME>0</TIME>
-                <AMOUNT>0.00106</AMOUNT>
-                <DISPLAY_AMOUNT>1.06 ml</DISPLAY_AMOUNT>
                 <AMOUNT_IS_WEIGHT>false</AMOUNT_IS_WEIGHT>
             </MISC>
             <MISC>
