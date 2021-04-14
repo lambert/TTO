@@ -46,7 +46,7 @@ Archived.
 | Mash Efficiency:        | 73     | 78    | +5     | %    |
 | Brewhouse Efficiency:   | 72     | 68    | -4     | %    |
 | IBU:                    | 39     | 36    | -3     |      |
-| BU/GU Ratio:            | 0.69   | 0.67  | -0.20  |      |
-| RB Ratio:               | 0.72   | 0.70  | -0.20  |      |
+| BU/GU Ratio:            | 0.69   | 0.67  | -0.02  |      |
+| RB Ratio:               | 0.72   | 0.70  | -0.02  |      |
 | Color                   | 9.9    | 9.3   | -0.6   | EBC  |
 | Mash pH:                | 5.4    | 5.5   | +0.1   |      |
