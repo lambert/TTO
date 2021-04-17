@@ -35,7 +35,7 @@ Strike temperature @ 73.3 C
 
 0.15 grams Lipohop K @ 0 minutes
 
-6.6 grams Saaz (A.A. 4.4 %) @ 30 minutes
+6.6 grams Saaz (A.A. 4.4 %) @ 30 minutes (11 IBU)
 
 0.05 grams Lallemand Servomyces yeast nutrient @ 50 minutes
 

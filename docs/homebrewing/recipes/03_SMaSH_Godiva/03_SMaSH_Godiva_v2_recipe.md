@@ -30,9 +30,9 @@ Strike temperature @ 68.7 C
 
 0.15 grams Lipohop K @ 0 minutes
 
-6 grams Godiva (A.A. 7.5 %) @ 30 minutes
+6 grams Godiva (A.A. 7.5 %) @ 30 minutes (17 IBU)
 
-6 grams Godiva (A.A. 7.5 %) @ 45 minutes
+6 grams Godiva (A.A. 7.5 %) @ 45 minutes (12 IBU)
 
 0.05 grams Lallemand Servomyces yeast nutrient @ 50 minutes
 
@@ -41,7 +41,7 @@ Strike temperature @ 68.7 C
 
 ## Hopstand
 
-6 grams Godiva (A.A. 7.5 %) 15 minutes @ 80 C
+6 grams Godiva (A.A. 7.5 %) 15 minutes @ 80 C (2 IBU)
 
 
 ## Fermentation
