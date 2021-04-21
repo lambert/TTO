@@ -34,7 +34,7 @@ Archived.
 | Post-Boil Volume (HOT): | 5.96   | 6.5   | +0.54  | L    |
 | Boil Off per Hour:      | 1.8    | 1.75  | -0.05  | L    |
 | Batch Volume:           | 5.6    | 5.6   |  0     | L    |
-| Trub/Chiller Loss:      | 0.12   | 0.64  | -0.52  | L    |
+| Trub/Chiller Loss:      | 0.12   | 0     | -0.12  | L    |
 | Bottling Volume:        | 5      | 4.45  | -0.55  | L    |
 | Pre-Boil Gravity:       | 1.041  | 1.041 |  0.000 |      |
 | Post-Boil Gravity:      | 1.054  | 1.051 | -0.003 |      |
