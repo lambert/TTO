@@ -19,7 +19,10 @@ And the Adnams minicasks if you can find them (Broadside, Bitter and some season
 production dual strain, but not the minikegs like Ghost Ship.
 
 
-## I beg to differ. I emailed Adnam's to ask them whether Ghost Ship used a different yeast in the keg and was told that no additional yeast was added, but that the beer was filtered and "there was no yeast in it". Not so! I ran off the first 250ml from a new keg and cultured it up.
+## I beg to differ. I emailed Adnam's to ask them whether Ghost Ship used a different yeast in the keg and
+was told that no additional yeast was added, but that the beer was filtered and "there was no yeast in it".
+Not so!
+I ran off the first 250 ml from a new keg and cultured it up.
 
 Fair play, might be worth noting that on the harvesting thread if you haven't already.
 I know Fergus has said that the supermarkets don't like the minicasks as they...get a bit lively...
