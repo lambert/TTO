@@ -36,7 +36,11 @@
 
 - [x] [Brouwerij De Schans](NL/NH/Uithoorn/Brouwerij_De_Schans.md)
 
-- [ ] [The Thirsty Otter](NL/NH/Uithoorn/The_Thirsty_Otter.md)
+- [x] [The Thirsty Otter](NL/NH/Uithoorn/The_Thirsty_Otter.md)
+
+#### Weesp
+
+- [x] [Wispe Brouwerij](NL/NH/Weesp/Wispe_Brouwerij.md)
 
 ## Belgium
 
