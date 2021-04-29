@@ -1,4 +1,4 @@
-# Batch #9 - 08 SMaSH Magnum
+# Batch #10 - 08 SMaSH Magnum
 
 ## Milestones
 
@@ -24,7 +24,7 @@ Archived.
 
 ![conditioning](conditioning.png)
 
-[Results](./Batch_9_08_SMaSH_Magnum_results.pdf)
+[Results](./Batch_10_08_SMaSH_Magnum_results.pdf)
 
 ### Evaluation
 
