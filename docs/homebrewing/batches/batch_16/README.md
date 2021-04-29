@@ -1,4 +1,4 @@
-# Batch #12 - Shambles Brewery - Summer Ale Afternoon Delight (clone)
+# Batch #16 - Shambles Brewery - Summer Ale Afternoon Delight (clone)
 
 ## Milestones
 
@@ -24,7 +24,7 @@ Archived.
 
 ![conditioning](conditioning.png)
 
-[Results](./Batch_12_Shambles_Brewery_Summer_Ale_Afternoon_Delight_clone_results.pdf)
+[Results](./Batch_16_Shambles_Brewery_Summer_Ale_Afternoon_Delight_clone_results.pdf)
 
 ### Evaluation
 
