@@ -1,4 +1,4 @@
-# Batch #11 - 48 De Olmenhorst Apple Juice 2 English Cider
+# Batch #14 - 48 De Olmenhorst Apple Juice 2 English Cider
 
 ## Milestones
 
@@ -24,7 +24,7 @@ Archived.
 
 ![conditioning](conditioning.png)
 
-[Results](./Batch_11_48_De_Olmenhorst_Apple_Juice_2_English_Cider_results.pdf)
+[Results](./Batch_14_48_De_Olmenhorst_Apple_Juice_2_English_Cider_results.pdf)
 
 ### Evaluation
 
