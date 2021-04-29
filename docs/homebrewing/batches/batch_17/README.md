@@ -1,4 +1,4 @@
-# Batch #13 - Five Points Brewing - Best Fuggles (clone) v2
+# Batch #17 - Five Points Brewing - Best Fuggles (clone) v2
 
 ## Milestones
 
@@ -24,7 +24,7 @@ Archived.
 
 ![conditioning](conditioning.png)
 
-[Results](./Batch_13_Five_Points_Brewing_Best_Fuggles_clone_v2_results.pdf)
+[Results](./Batch_17_Five_Points_Brewing_Best_Fuggles_clone_v2_results.pdf)
 
 ### Evaluation
 
