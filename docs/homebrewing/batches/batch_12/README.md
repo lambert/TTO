@@ -1,4 +1,4 @@
-# Batch #10 - 09 SMaSH Sabro
+# Batch #12 - 09 SMaSH Sabro
 
 ## Milestones
 
@@ -24,7 +24,7 @@ Archived.
 
 ![conditioning](conditioning.png)
 
-[Results](./Batch_10_09_SMaSH_Sabro_results.pdf)
+[Results](./Batch_12_09_SMaSH_Sabro_results.pdf)
 
 ### Evaluation
 
