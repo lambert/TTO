@@ -10,7 +10,7 @@
 | 6 | [Brouwpunt - Sinterklaas Special](batch_6/README.md) | Completed | 5.5 | 18 | 13.4 | 1.046 | 1.004 | 30B Autumn Seasonal Beer | All Grain brew kit |
 | 7 | [06 SMaSH Citra](batch_7/README.md) | Completed | 7.5 | 44 | 10 | 1.060 | 1.006 | 18B American Pale Ale | All Grain |
 | 8 | [07 SMaSH Simcoe](batch_8/README.md) | Conditioning | 6.8 | 36 | 9.3 | 1.054 | 1.002 | 18B American Pale Ale | All Grain |
-| 9 | [07 SMaSH Simcoe v1_1](batch_9/README.md) | Conditioning | 6.7 | 56 | 12.8 | 1.054 | 1.002 | 18B American Pale Ale | All Grain |
+| 9 | [07 SMaSH Simcoe v2](batch_9/README.md) | Conditioning | 6.7 | 56 | 12.8 | 1.054 | 1.002 | 18B American Pale Ale | All Grain |
 | 10 | [61 Three Hops Blonde](batch_10/README.md) | Fermenting | | | | | | 18A Blonde Ale | All Grain |
 | 11 | [08 SMaSH Magnum](batch_11/README.md) | Fermenting | | | | | | 18A Blonde Ale | All Grain |
 | 12 | [09 SMaSH Sabro](batch_12/README.md) | Planned | | | | | | 21B Specialty IPA | All Grain |
@@ -18,5 +18,6 @@
 | 14 | [48 De Olmenhorst Apple Juice 2 English Cider](batch_14/README.md) | Planned | | | | | | C1B English Cider | Extract |
 | 15 | [60 De Olmenhorst Pear Juice 2 Perry Cider](batch_15/README.md) | Planned | | | | | | C1D New World Perry | Extract |
 | 16 | [Shambles Brewery - Summer Ale Afternoon Delight (clone)](batch_16/README.md) | Planned | | | | | | 18A Blonde Ale | All Grain |
-| 17 | [Five Points Brewing - Best Fuggles (clone) v2](batch_17/README.md) | Planned | | | | | | 11B Best Bitter | All Grain |
+| 17 | [61 Three Hops Blonde v2](batch_17/README.md) | Planned | | | | | | 18A Blonde Ale | All Grain |
+| 18 | [Five Points Brewing - Best Fuggles (clone) v2](batch_18/README.md) | Planned | | | | | | 11B Best Bitter | All Grain |
 |  | | | | | | | | | |
