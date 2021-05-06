@@ -1,4 +1,4 @@
-# Batch #10 - 08 SMaSH Magnum
+# Batch #10 - 61 Three Hops Blonde
 
 ## Milestones
 
@@ -24,7 +24,7 @@ Archived.
 
 ![conditioning](conditioning.png)
 
-[Results](./Batch_10_08_SMaSH_Magnum_results.pdf)
+[Results](./Batch_10_61_Three_Hops_Blonde_results.pdf)
 
 ### Evaluation
 
