@@ -35,11 +35,11 @@ Archived.
 | Boil Off per Hour:      | 1.8    | 1.8   |  0     | L    |
 | Batch Volume:           | 5.6    | 5.6   |  0     | L    |
 | Trub/Chiller Loss:      | 0.12   | 0.83  | +0.71  | L    |
-| Bottling Volume:        | 5      |       |        | L    |
+| Bottling Volume:        | 5.0    |       |        | L    |
 | Pre-Boil Gravity:       | 1.034  | 1.035 | +0.001 |      |
 | Post-Boil Gravity:      | 1.045  | 1.038 | -0.007 |      |
 | Original Gravity:       | 1.045  | 1.038 | -0.007 |      |
-| Total Gravity           | 1.047  |       |        |      |
+| Total Gravity           | 1.047  | 1.040 | -0.007 |      |
 | Final Gravity:          | 1.011  |       |        |      |
 | Alcohol By Volume:      | 4.7    |       |        | %    |
 | Apparent Attenuation:   | 75.9   |       |        | %    |
