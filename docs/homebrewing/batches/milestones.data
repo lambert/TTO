@@ -1,0 +1,40 @@
+# Batch_nr  Date_start  Date_end  Status
+1  21-05-2020 11:00  21-05-2020 17:01  Brewing
+1  21-05-2020 17:01  01-06-2020 12:27  Fermentation
+1  01-06-2020 12:27  16-07-2020 21:05  Conditioning
+1  16-07-2020 21:05  16-01-2021 18:42  Completed
+2  04-07-2020 10:39  04-07-2020 16:34  Brewing
+2  04-07-2020 16:34  14-07-2020 20:30  Fermentation
+2  14-07-2020 20:30  28-08-2020 23:41  Conditioning
+2  28-08-2020 23:41  04-04-2021 20:25  Completed
+3  06-09-2020 09:30  06-09-2020 13:25  Brewing
+3  06-09-2020 13:25  16-09-2020 21:17  Fermentation
+3  16-09-2020 21:17  31-10-2020 23:46  Conditioning
+#3  31-10-2020 23:46  ongoing  Completed
+4  24-10-2020 12:00  24-10-2020 18:27  Brewing
+4  24-10-2020 18:27  04-11-2020 20:15  Fermentation
+4  04-11-2020 20:15  19-12-2020 23:58  Conditioning
+#4   19-12-2020 23:58  ongoing  Completed
+5  21-11-2020 10:10  21-11-2020 20:50  Brewing
+5  21-11-2020 20:50  05-12-2020 15:01  Fermentation
+5  05-12-2020 15:01  19-01-2021 23:22  Conditioning
+#5  19-01-2021 23:22  ongoing  Completed
+6  06-12-2020 11:43  06-12-2020 16:31  Brewing
+6  06-12-2020 16:31  20-12-2020 19:47  Fermentation
+6  20-12-2020 19:47  03-02-2021 23:51  Conditioning
+#6  03-02-2021 23:35  ongoing  Completed
+7  06-03-2021 09:42  06-03-2021 14:54  Brewing
+7  06-03-2021 14:54  21-03-2021 16:10  Fermentation
+7  21-03-2021 16:10  02-05-2021 23:16  Conditioning
+# 7  02-05-2021 23:16  ongoing  Completed
+8  04-04-2021 10:38  04-04-2021 15:45  Brewing
+8  04-04-2021 15:45  18-04-2021 21:35  Fermentation
+#8  18-04-2021 21:35  ongoing  Conditioning
+#8  future  future  Completed
+9  04-04-2021 10:38  04-04-2021 15:45  Brewing
+9  04-04-2021 15:45  18-04-2021 21:35  Fermentation
+#9  18-04-2021 21:35  ongoing  Conditioning
+#9  future  future  Completed
+10  02-05-2021 08:47  02-05-2021 16:54  Brewing
+11  02-05-2021 08:47  02-05-2021 15:05  Brewing
+
