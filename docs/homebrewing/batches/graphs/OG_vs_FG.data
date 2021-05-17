@@ -1,0 +1,12 @@
+#Batch  OG     FG     Yeast
+1       1.060  1.022  # S-33
+2       1.064  1.012  # S-33
+3       1.041  1.002  # Lallemand Nottingham
+4       1.041  1.007  # NBS Classic English Ale
+5       1.042  1.002  # Lallemand New England
+6       1.046  1.004  # S-04
+7       1.060  1.006  # US-05
+8       1.051  1.002  # US-05
+9       1.051  1.002  # US-05 slurry from #7
+10      1.038  1.000  # S-04
+11      1.038  1.000  # US-05 slurry from #9
