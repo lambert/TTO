@@ -11,8 +11,8 @@
 | 7 | [06 SMaSH Citra](batch_7/README.md) | Completed | 7.5 | 44 | 10 | 1.060 | 1.006 | 18B American Pale Ale | All Grain |
 | 8 | [07 SMaSH Simcoe](batch_8/README.md) | Conditioning | 6.8 | 36 | 9.3 | 1.054 | 1.002 | 18B American Pale Ale | All Grain |
 | 9 | [07 SMaSH Simcoe v2](batch_9/README.md) | Conditioning | 6.7 | 56 | 12.8 | 1.054 | 1.002 | 18B American Pale Ale | All Grain |
-| 10 | [61 Three Hops Blonde](batch_10/README.md) | Fermenting | | | | | | 18A Blonde Ale | All Grain |
-| 11 | [08 SMaSH Magnum](batch_11/README.md) | Fermenting | | | | | | 18A Blonde Ale | All Grain |
+| 10 | [61 Three Hops Blonde](batch_10/README.md) | Conditioning | 5.0 | 20 | 7.9 | 1.038 | 1.000 | 18A Blonde Ale | All Grain |
+| 11 | [08 SMaSH Magnum](batch_11/README.md) | Conditioning | 5.0 | 20 | 7.9 | 1.038 | 1.000 | 18A Blonde Ale | All Grain |
 | 12 | [09 SMaSH Sabro](batch_12/README.md) | Planned | | | | | | 21B Specialty IPA | All Grain |
 | 13 | [59 Four Hops IPA](batch_13/README.md) | Planned | | | | | | 21B Specialty IPA | All Grain |
 | 14 | [48 De Olmenhorst Apple Juice 2 English Cider](batch_14/README.md) | Planned | | | | | | C1B English Cider | Extract |
