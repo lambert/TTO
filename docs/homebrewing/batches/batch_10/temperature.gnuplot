@@ -1,7 +1,7 @@
 # setup graph
 set term png
 output_file = "temperature.png"
-set key left bottom nobox
+set key top right nobox
 set output output_file
 set title "Temperature"
 set style data lines
