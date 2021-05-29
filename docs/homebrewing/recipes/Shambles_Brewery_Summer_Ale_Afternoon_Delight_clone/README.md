@@ -6,4 +6,4 @@
 
 |    | Style | ABV | IBU | EBC | pdf | BeerXML | JSON | Batches |
 |----|-------|-----|-----|-----|-----|---------|------|---------|
-|    | Blonde Ale | 4.6 % | 24  | 8.1 | [pdf](./Shambles_Brewery_Summer_Ale_Afternoon_Delight_clone.pdf) | [BeerXML](./Shambles_Brewery_Summer_Ale_Afternoon_Delight_clone.xml) | [json](./Shambles_Brewery_Summer_Ale_Afternoon_Delight_clone.json) |  |
+| v1 | Blonde Ale | 4.6 % | 24  | 8.1 | [pdf](./Shambles_Brewery_Summer_Ale_Afternoon_Delight_clone.pdf) | [BeerXML](./Shambles_Brewery_Summer_Ale_Afternoon_Delight_clone.xml) | [json](./Shambles_Brewery_Summer_Ale_Afternoon_Delight_clone.json) |  |
