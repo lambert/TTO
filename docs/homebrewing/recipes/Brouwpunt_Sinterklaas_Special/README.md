@@ -8,4 +8,4 @@ Ingredients kit from Brouwpunt ([link](https://brouwpunt.nl/product/ingredienten
 
 |    | Style | ABV | IBU | EBC | pdf | BeerXML | JSON | Batch |
 |----|-------|-----|-----|-----|-----|---------|------|-------|
-|    | Autumn Seasonal Beer | 6.4 % | 21 | 16 | [pdf](./Brouwpunt_Sinterklaas_Special.pdf) | [BeerXML](./Brouwpunt_Sinterklaas_Special.xml) | [json](./Brouwpunt_Sinterklaas_Special.json) | [#6](../../batches/batch_6/README.md) |
+| v1 | Autumn Seasonal Beer | 6.4 % | 21 | 16 | [pdf](./Brouwpunt_Sinterklaas_Special.pdf) | [BeerXML](./Brouwpunt_Sinterklaas_Special.xml) | [json](./Brouwpunt_Sinterklaas_Special.json) | [#6](../../batches/batch_6/README.md) |
