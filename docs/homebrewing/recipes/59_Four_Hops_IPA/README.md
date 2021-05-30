@@ -1,4 +1,4 @@
-![logo](./09_SMaSH_Sabro.jpeg)
+![logo](./59_Four_Hops_IPA.jpeg)
 
 # 59 Four Hops IPA
 
