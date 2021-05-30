@@ -25,7 +25,7 @@
         <BREWER>The&#32;Thirsty&#32;Otter</BREWER>
         <BATCH_SIZE>5.6</BATCH_SIZE>
         <BOIL_SIZE>0</BOIL_SIZE>
-        <BOIL_TIME>1</BOIL_TIME>
+        <BOIL_TIME>0</BOIL_TIME>
         <EFFICIENCY>100</EFFICIENCY>
         <OG>1.057</OG>
         <FG>1.009</FG>
@@ -140,7 +140,7 @@
             <BATCH_SIZE>5.6</BATCH_SIZE>
             <TRUB_CHILLER_LOSS>0</TRUB_CHILLER_LOSS>
             <LAUTER_DEADSPACE/>
-            <BOIL_TIME>1</BOIL_TIME>
+            <BOIL_TIME>0</BOIL_TIME>
             <HOP_UTILIZATION>100</HOP_UTILIZATION>
             <EVAP_RATE>Infinity</EVAP_RATE>
             <CALC_BOIL_VOLUME>false</CALC_BOIL_VOLUME>
