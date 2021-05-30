@@ -24,9 +24,9 @@
         </STYLE>
         <BREWER>The&#32;Thirsty&#32;Otter</BREWER>
         <BATCH_SIZE>5.6</BATCH_SIZE>
-        <BOIL_SIZE>28</BOIL_SIZE>
+        <BOIL_SIZE>0</BOIL_SIZE>
         <BOIL_TIME>0</BOIL_TIME>
-        <EFFICIENCY>70</EFFICIENCY>
+        <EFFICIENCY>100</EFFICIENCY>
         <OG>1.057</OG>
         <FG>1.009</FG>
         <ABV>6.3 %</ABV>
@@ -130,14 +130,13 @@
                     <TYPE>Temperature</TYPE>
                     <STEP_TEMP>20</STEP_TEMP>
                     <STEP_TIME>0</STEP_TIME>
-                    <INFUSE_AMOUNT>26.88</INFUSE_AMOUNT>
                 </MASH_STEP>
             </MASH_STEPS>
         </MASH>
         <EQUIPMENT>
             <NAME>&#48;&#48;&#32;Cider</NAME>
             <VERSION>1</VERSION>
-            <BOIL_SIZE>28</BOIL_SIZE>
+            <BOIL_SIZE>0</BOIL_SIZE>
             <BATCH_SIZE>5.6</BATCH_SIZE>
             <TRUB_CHILLER_LOSS>0</TRUB_CHILLER_LOSS>
             <LAUTER_DEADSPACE/>
