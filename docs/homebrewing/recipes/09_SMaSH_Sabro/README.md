@@ -6,4 +6,4 @@
 
 |    | Style | ABV | IBU | EBC | pdf | BeerXML | JSON | Batches |
 |----|-------|-----|-----|-----|-----|---------|------|---------|
-| v1   | Specialty IPA | 6.6 % | 75 | 10| [pdf](./09_SMaSH_Sabro.pdf) | [BeerXML](./09_SMaSH_Sabro.xml) | [json](./09_SMaSH_Sabro.json) | #12 |
+| v1 | Specialty IPA | 6.6 % | 75 | 10| [pdf](./09_SMaSH_Sabro.pdf) | [BeerXML](./09_SMaSH_Sabro.xml) | [json](./09_SMaSH_Sabro.json) | #12 |
