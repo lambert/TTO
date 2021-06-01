@@ -9,8 +9,8 @@
 | 5 | [05 SMaSH Centennial](batch_5/README.md) | Completed | 5.3 | 43 | 9.7 | 1.042 | 1.002 | 18B American Pale Ale | All Grain |
 | 6 | [Brouwpunt - Sinterklaas Special](batch_6/README.md) | Completed | 5.5 | 18 | 13.4 | 1.046 | 1.004 | 30B Autumn Seasonal Beer | All Grain brew kit |
 | 7 | [06 SMaSH Citra](batch_7/README.md) | Completed | 7.5 | 44 | 10 | 1.060 | 1.006 | 18B American Pale Ale | All Grain |
-| 8 | [07 SMaSH Simcoe](batch_8/README.md) | Conditioning | 6.8 | 36 | 9.3 | 1.054 | 1.002 | 18B American Pale Ale | All Grain |
-| 9 | [07 SMaSH Simcoe v2](batch_9/README.md) | Conditioning | 6.7 | 56 | 12.8 | 1.054 | 1.002 | 18B American Pale Ale | All Grain |
+| 8 | [07 SMaSH Simcoe](batch_8/README.md) | Completed | 6.8 | 36 | 9.3 | 1.054 | 1.002 | 18B American Pale Ale | All Grain |
+| 9 | [07 SMaSH Simcoe v2](batch_9/README.md) | Comoleted | 6.7 | 56 | 12.8 | 1.054 | 1.002 | 18B American Pale Ale | All Grain |
 | 10 | [61 Three Hops Blonde](batch_10/README.md) | Conditioning | 5.0 | 20 | 7.9 | 1.038 | 1.000 | 18A Blonde Ale | All Grain |
 | 11 | [08 SMaSH Magnum](batch_11/README.md) | Conditioning | 5.0 | 20 | 7.9 | 1.038 | 1.000 | 18A Blonde Ale | All Grain |
 | 12 | [09 SMaSH Sabro](batch_12/README.md) | Planned | | | | | | 21B Specialty IPA | All Grain |
