@@ -5,7 +5,7 @@ set output output_file
 set title "Conditioning"
 set style data lines
 set ylabel "Temperature [°C]"
-set yrange [15:25]
+set yrange [13:25]
 set grid y
 set ytics 1
 set mytics 5
