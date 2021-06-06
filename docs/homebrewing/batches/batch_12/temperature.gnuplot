@@ -6,7 +6,7 @@ set output output_file
 set title "Temperature"
 set style data lines
 set ylabel "Temperature [°C]"
-set yrange [15:25]
+set yrange [12:28]
 set grid y
 set ytics 1
 set mytics 5
