@@ -93,3 +93,9 @@ who obviously have different bread yeasts.
 One other thought - as mentioned above, a lot of traditional British yeasts are in fact a bit phenolic,
 so T-58 works fairly well, you might even consider something like Belle Saison either on its own or in
 a blend, fermented on the cool side.
+
+## Lowering bitterness
+
+This is an interesting an informative thread. It's a [rabbit hole](https://www.homebrewersassociation.org/forum/index.php?topic=36955.0;topicseen) I can do without, but there's maybe some bits and pieces I can get my head round to improve my beer. Such as ...
+
+"Using phosphoric acid to adjust beer pH after dry hopping can make a fairly big difference. The bitterness is smoother and the beer is just more enjoyable. I compete quite often and have adjusted pale ales with acid to tone down the bitterness. Many of those beers went on to win gold. The best way to try this experiment is to start with a commercially or homebrewed IPA. Taste it, add 85% phosphoric or lactic acid with a toothpick or dropper and taste again. The beer changes its bitterness and its brightness. You can add until you taste the acid, typically you would never add that much in whole batch, but it can give an idea of how much you can add and its effects." 
