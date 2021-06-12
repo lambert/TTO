@@ -94,7 +94,7 @@ One other thought - as mentioned above, a lot of traditional British yeasts are 
 so T-58 works fairly well, you might even consider something like Belle Saison either on its own or in
 a blend, fermented on the cool side.
 
-## Lowering bitterness
+## Lowering bitterness of finished beer
 
 This is an interesting an informative thread. It's a [rabbit hole](https://www.homebrewersassociation.org/forum/index.php?topic=36955.0;topicseen) I can do without, but there's maybe some bits and pieces I can get my head round to improve my beer. Such as ...
 
