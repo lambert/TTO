@@ -2,11 +2,11 @@
 
 ## Milestones
 
-Start brewing.
+04-07-2021 14:51 Start brewing.
 
-Start fermentation.
+04-07-2021 16:46 Start fermentation.
 
-Start conditioning.
+17-07-2021 16:16 Start conditioning.
 
 Completed conditioning.
 
