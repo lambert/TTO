@@ -6,7 +6,7 @@
 
 06-06-2021 15:29 Start fermentation.
 
-Start conditioning.
+27-06-2021 13:28 Start conditioning.
 
 Completed conditioning.
 
