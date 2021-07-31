@@ -80,7 +80,7 @@
                 <ALPHA>13.8</ALPHA>
                 <AMOUNT>0.005</AMOUNT>
                 <USE>Dry&#32;Hop</USE>
-                <TIME>11520</TIME>
+                <TIME>8640</TIME>
                 <FORM>Pellet</FORM>
                 <TEMPERATURE/>
                 <HOP_TEMP/>
@@ -117,17 +117,6 @@
             </FERMENTABLE>
         </FERMENTABLES>
         <MISCS>
-            <MISC>
-                <BF_ID>W7OD0f0a8UTCV5zL4xz8XmDee2F6yI</BF_ID>
-                <NAME>NL&#32;Spa&#32;Reine&#32;Flat&#32;Mineral&#32;Water</NAME>
-                <VERSION>1</VERSION>
-                <TYPE>Other</TYPE>
-                <USE>Mash</USE>
-                <TIME>0</TIME>
-                <AMOUNT>3.9</AMOUNT>
-                <DISPLAY_AMOUNT>3.9 l</DISPLAY_AMOUNT>
-                <AMOUNT_IS_WEIGHT>false</AMOUNT_IS_WEIGHT>
-            </MISC>
             <MISC>
                 <BF_ID>default-2302b0</BF_ID>
                 <NAME>Baking&#32;Soda&#32;&#40;NaHCO&#51;&#41;</NAME>
@@ -195,14 +184,14 @@
                 <AMOUNT_IS_WEIGHT>false</AMOUNT_IS_WEIGHT>
             </MISC>
             <MISC>
-                <BF_ID>WDItC6EBT6VCsBDUmCWUiyNk1WQPWs</BF_ID>
-                <NAME>pH&#32;paper&#32;strips&#32;&#53;&#46;&#50;&#32;&#45;&#32;&#54;&#46;&#56;</NAME>
+                <BF_ID>W7OD0f0a8UTCV5zL4xz8XmDee2F6yI</BF_ID>
+                <NAME>NL&#32;Spa&#32;Reine&#32;Flat&#32;Mineral&#32;Water</NAME>
                 <VERSION>1</VERSION>
                 <TYPE>Other</TYPE>
                 <USE>Mash</USE>
                 <TIME>0</TIME>
-                <AMOUNT>2</AMOUNT>
-                <DISPLAY_AMOUNT>2 items</DISPLAY_AMOUNT>
+                <AMOUNT>3.9</AMOUNT>
+                <DISPLAY_AMOUNT>3.9 l</DISPLAY_AMOUNT>
                 <AMOUNT_IS_WEIGHT>false</AMOUNT_IS_WEIGHT>
             </MISC>
             <MISC>
