@@ -34,7 +34,7 @@ Strike temperature @ 68.7 C
 
 0.05 grams Lallemand Servomyces yeast nutrient @ 50 minutes
 
-1 immersion wort chiller @ 50 minutes
+1 grams Irish Moss @ 50 minutes
 
 ## Hopstand
 

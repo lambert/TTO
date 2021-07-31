@@ -36,8 +36,6 @@ Strike temperature @ 73.3 C
 
 0.05 grams Lallemand Servomyces yeast nutrient @ 50 minutes
 
-1 immersion wort chiller @ 50 minutes
-
 5 grams Bitter Orange Peel @ 55 minutes
 
 ## Fermentation
