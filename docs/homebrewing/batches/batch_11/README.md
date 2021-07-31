@@ -8,7 +8,7 @@
 
 16-05-2021 15:55 Start conditioning.
 
-Completed conditioning.
+27-06-2021 23:07 Completed conditioning.
 
 Archived.
 
@@ -26,7 +26,7 @@ Archived.
 
 [Results](./Batch_11_08_SMaSH_Magnum_results.pdf)
 
-### Evaluation
+## Evaluation
 
 |                         | Recipe | Batch | Diff   | Unit |
 |-------------------------|--------|-------|--------|------|
@@ -50,3 +50,11 @@ Archived.
 | Color                   | 8.3    |       |        | EBC  |
 | Mash pH:                | 5.38   | 5.5   | +0.12 |      |
 
+## Tasting notes
+
+| No. | Date       | Age | Score | Notes |
+|-----|------------|-----|-------|-------|
+|     | 02-05-2021 |   0 |       | Brew day. |
+|     | 16-05-2021 |  14 |       | Bottling day. |
+|   1 | 27-06-2021 |  56 |  2.75 | Served at 11 C. |
+|   2 |            |     |       |  |
