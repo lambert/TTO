@@ -26,7 +26,7 @@ Archived.
 
 [Results](./Batch_5_05_SMaSH_Centennial_results.pdf)
 
-### Evaluation
+## Evaluation
 
 |                         | Recipe | Batch | Diff   | Unit |
 |-------------------------|--------|-------|--------|------|
@@ -51,3 +51,24 @@ Archived.
 | RB Ratio:               | 0.76   | 1.17  | +0.41  |      |
 | Color                   | 9.3    | 9.5   | +0.2   | EBC  |
 | Mash pH:                | 5.40   | 5.5   | +0.1   |      |
+
+## Tasting notes
+
+| No. | Date       | Age | Score | Notes |
+|-----|------------|-----|-------|-------|
+|     | 21-11-2020 |   0 |       | Brew day. |
+|     | 01-12-2020 |  10 |       | Bottling day. |
+|   1 | 20-12-2020 |  29 |  3.00 | Opened with a small puff. Poured clear with a nice foamy head. Pleasant mouthfeel with citrusy, fruity taste. A bit of a lingering bitter twang at the back of the palate. |
+|   2 | 05-02-2021 |  76 |  3.00 | Opened with a small puff. Poured clear with a nice foamy head. Pleasant mouthfeel with citrusy, fruity and floral taste. A bit of a lingering bitter twang at the back of the palate. |
+|   3 | 06-02-2021 |  77 |  3.00 | Opened with a small puff. Poured clear with a nice foamy head. Pleasant mouthfeel with citrusy, fruity and floral taste. A bit of a lingering bitter twang at the back of the palate. |
+|   4 | 19-02-2021 |  90 |  3.00 | Opened with a small puff. Poured clear with a small foamy head. Pleasant mouthfeel with citrusy, fruity and floral taste. A bit of a lingering bitter twang at the back of the palate. |
+|   5 | 20-02-2021 |  91 |  3.00 | Opened with a small puff. Poured clear with a small foamy head. Pleasant mouthfeel with citrusy, fruity and floral taste. A bit of a lingering bitter twang at the back of the palate. |
+|   6 | 20-02-2021 |  91 |  3.00 | Opened with a small puff. Poured clear with a nice foamy head. Pleasant mouthfeel with citrusy, fruity and floral taste. A bit of a lingering bitter twang at the back of the palate. |
+|   7 | 21-02-2021 |  92 |  3.00 | Opened with a puff. Poured a little hazy with a small foamy head. Pleasant mouthfeel with citrusy, fruity and floral taste. A bit of a lingering bitter twang at the back of the palate. |
+|   8 | 21-02-2021 |  92 |  3.00 | Opened with a small puff. Poured clear with a small foamy head. Pleasant mouthfeel with citrusy, fruity and floral taste. A bit of a lingering bitter twang at the back of the palate. |
+|   9 | 24-02-2021 |  95 |  2.50 | Opened with a puff and a gusher. Poured hazy with a normal foamy head and lots of yeast in suspension. Pleasant mouthfeel with fruity and floral taste, less citrusy. A bit of a lingering bitter twang at the back of the palate. |
+|  10 | 12-06-2021 | 203 |  2.50 | Opened with a puff. Poured hazy with a normal foamy head. Pleasant mouthfeel with fruity and floral taste, less citrusy. A bit of a lingering bitter twang at the back of the palate. |
+|  11 | 09-07-2021 | 230 |  3.00 | Opened with a small puff. Poured clear with a small foamy head. Pleasant mouthfeel with fruity and floral taste, less citrusy. A bit of a lingering bitter twang at the back of the palate. |
+|  12 | 30-07-2021 | 251 |  3.00 | Opened with a small puff. Poured clear with a nice foamy head. Thin mouthfeel and carbonated.
+|  13 |            |     |       | |
+|  14 |            |     |       | |
