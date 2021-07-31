@@ -26,7 +26,7 @@ Archived.
 
 [Results](./Batch_8_07_SMaSH_Simcoe_results.pdf)
 
-### Evaluation
+## Evaluation
 
 |                         | Recipe | Batch | Diff   | Unit |
 |-------------------------|--------|-------|--------|------|
@@ -50,3 +50,23 @@ Archived.
 | RB Ratio:               | 0.72   | 0.80  | +0.08  |      |
 | Color                   | 9.9    | 9.3   | -0.6   | EBC  |
 | Mash pH:                | 5.4    | 5.5   | +0.1   |      |
+
+## Tasting notes
+
+| No. | Date       | Age | Score | Notes |
+|-----|------------|-----|-------|-------|
+|     | 04-04-2021 |   0 |       | Brew day. |
+|     | 18-04-2021 |  14 |       | Bottling day. |
+|   1 | 02-05-2021 |  28 |  2.50 | Cooled @ 10 C. Gave a small puff. No distinct carbonation. Citrusy as in lemon or grapefruit, not bitter at all, clear and crisp … just no bubbles. |
+|   2 | 04-06-2021 |  61 |  2.75 | Cooled @ 10 C. Gave a small puff. No distinct carbonation. Thin mouthfeel. Citrusy as in lemon or grapefruit, not bitter at all, clear and crisp … just no bubbles. |
+|   3 | 31-07-2021 | 118 |  3.25 | Cooled @ 10 C. Gave a small puff. Low carbonation, small foam head. Citrusy as in lemon or grapefruit, not bitter at all, clear and crisp. |
+|   4 |            |     |       |  |
+|   5 |            |     |       |  |
+|   6 |            |     |       |  |
+|   7 |            |     |       |  |
+|   8 |            |     |       |  |
+|   9 |            |     |       |  |
+|  10 |            |     |       |  |
+|  11 |            |     |       |  |
+|  12 |            |     |       |  |
+|  13 |            |     |       |  |
