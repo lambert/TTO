@@ -26,7 +26,7 @@ Archived.
 
 [Results](./Batch_4_04_SMaSH_Fuggle_results.pdf)
 
-### Evaluation
+## Evaluation
 
 |                         | Recipe | Batch | Diff   | Unit |
 |-------------------------|--------|-------|--------|------|
@@ -49,3 +49,21 @@ Archived.
 | RB Ratio:               | 0.62   | 0.69  | +0.07  |      |
 | Color                   | 5.3    | 5.3   |  0     | EBC  |
 | Mash pH:                | 5.43   | 5.5   | +0.07  |      |
+
+## Tasting notes
+
+| No. | Date       | Age | Score | Notes |
+|-----|------------|-----|-------|-------|
+|     | 24-10-2020 |   0 |       | Brew day. |
+|     | 04-11-2020 |  11 |       | Bottling day. |
+|   1 | 20-11-2020 |  27 |  3.00 | Cooled and served @ 10 C. Opening the swing-top gave a puff. Poured clear with a little foam. Moderate carbonation. Light haze due to yeast not fully deposited. Light body, crisp and hoppy and a mild grassy taste and a dry mouthfeel. |
+|   2 | 29-11-2020 |  36 |  3.00 | Cooled and served @ 10 C. Opening the swing-top gave a small puff. Poured clear with a little foam. Moderate carbonation. Light haze due to yeast not fully deposited. Light body, crisp and hoppy and a mild grassy/vegetal taste and a dry mouthfeel. |
+|   3 | 04-12-2020 |  41 |  3.00 | Cooled and served @ 12 C. Opening the swing-top gave a small puff. Poured clear with a little foam. Moderate carbonation. Light haze due to yeast not fully deposited. Light body, crisp and hoppy and a mild grassy/vegetal taste and a dry mouthfeel. |
+|   4 | 05-12-2020 |  42 |  3.00 | Cooled and served @ 12 C. Opening the swing-top gave a very small puff. Poured clear with a little foam. Light carbonation. Very light haze due to yeast not fully deposited. Light body, crisp and hoppy and a mild grassy/vegetal taste and a dry mouthfeel. |
+|   5 | 31-01-2021 |  99 |  3.00 | Cooled and served @ 10 C. Opening the swing-top gave a very small puff. Poured clear with a nice foam head. Light carbonation. Light body, crisp and hoppy and a mild grassy/vegetal taste and a dry mouthfeel. |
+|   6 | 21-03-2021 | 148 |  3.00 | Served @ 15 C. Opening the swing-top gave a loud pop and beer pouring out. Poured hazy with a nice foam head. High carbonation. Light body, crisp and mellowed hoppy taste and a dry mouthfeel. |
+|   7 | 10-04-2021 | 168 |  3.00 | Served @ 10 C. Opening the swing-top gave a loud pop and beer pouring out. Poured hazy with a nice foam head. High carbonation. Light body, crisp and mellowed hoppy taste and a dry mouthfeel. |
+|   8 | 23-04-2021 | 181 |  2.75 | Served @ 10 C. Opening the swing-top gave a loud pop and beer pouring out. Poured hazy with a nice foam head. High carbonation. Light body, crisp and mellowed hoppy taste and a dry mouthfeel. |
+|   9 | 06-06-2021 | 225 |  3.00 | Served @ 10 C. Opening the swing-top gave a loud pop and beer pouring out. Poured hazy with a nice foam head. High carbonation. Light body, crisp and mellowed hoppy taste and a dry mouthfeel. |
+|  10 | 09-07-2021 | 258 |  2.50 | Served @ 10 C. Opening the swing-top gave a loud pop and beer pouring out. Poured hazy with a nice large head. High carbonation. Light body, crisp and a little bit sour. |
+|  11 | 17-07-2021 | 266 |  2.50 | Served @ 10 C. Opening the swing-top gave a small puff. Poured hazy with a small head. High carbonation. Light body, crisp and a little bit sour. |
