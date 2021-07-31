@@ -4,6 +4,7 @@
         <NAME>Brouwpunt&#32;&#45;&#32;Sinterklaas&#32;Special</NAME>
         <VERSION>1</VERSION>
         <TYPE>All&#32;Grain</TYPE>
+        <NOTES>target&#58;&#32;ABV&#32;&#61;&#32;&#54;&#46;&#52;&#32;&#37;&#44;&#32;IBU&#32;&#61;&#32;&#50;&#49;&#44;&#32;EBC&#32;&#61;&#32;&#49;&#54;&#10;https&#58;&#47;&#47;brouwpunt&#46;nl&#47;product&#47;brouwpunt&#45;sinterklaas&#45;special&#47;</NOTES>
         <STYLE>
             <NAME>Autumn&#32;Seasonal&#32;Beer</NAME>
             <CATEGORY>Spiced&#32;Beer</CATEGORY>
@@ -34,7 +35,7 @@
         <EST_OG>1.06 SG</EST_OG>
         <EST_FG>1.008 SG</EST_FG>
         <EST_COLOR>7.7 SRM</EST_COLOR>
-        <CARBONATION>2.4</CARBONATION>
+        <CARBONATION>2.6</CARBONATION>
         <HOPS>
             <HOP>
                 <BF_ID>YmRFWV3qNpjJIf42adpuZe3g8xEf32</BF_ID>
@@ -65,7 +66,7 @@
             <FERMENTABLE>
                 <BF_ID>YLW7mjhTBO1LvuTaJHlu2q4UghRMmn</BF_ID>
                 <NAME>Pale&#32;Ale&#32;Malt</NAME>
-                <SUPPLIER>Brouwpunt</SUPPLIER>
+                <SUPPLIER>Brouwpunt&#32;&#40;NL&#41;</SUPPLIER>
                 <ORIGIN>Germany</ORIGIN>
                 <VERSION>1</VERSION>
                 <TYPE>Grain</TYPE>
@@ -73,11 +74,13 @@
                 <YIELD>82.8</YIELD>
                 <COLOR>3.045685</COLOR>
                 <ADD_AFTER_BOIL>false</ADD_AFTER_BOIL>
+                <NOT_FERMENTABLE>false</NOT_FERMENTABLE>
+                <IBU_GAL_PER_LB>0</IBU_GAL_PER_LB>
             </FERMENTABLE>
             <FERMENTABLE>
                 <BF_ID>MUNxqHs4dGAd2zv7nOeiXc0yhptja8</BF_ID>
                 <NAME>Pilsner</NAME>
-                <SUPPLIER>Brouwpunt</SUPPLIER>
+                <SUPPLIER>Brouwpunt&#32;&#40;NL&#41;</SUPPLIER>
                 <ORIGIN>Germany</ORIGIN>
                 <VERSION>1</VERSION>
                 <TYPE>Grain</TYPE>
@@ -85,6 +88,8 @@
                 <YIELD>82.8</YIELD>
                 <COLOR>1.77665</COLOR>
                 <ADD_AFTER_BOIL>false</ADD_AFTER_BOIL>
+                <NOT_FERMENTABLE>false</NOT_FERMENTABLE>
+                <IBU_GAL_PER_LB>0</IBU_GAL_PER_LB>
             </FERMENTABLE>
             <FERMENTABLE>
                 <BF_ID>default-132c22b</BF_ID>
@@ -97,11 +102,13 @@
                 <YIELD>100</YIELD>
                 <COLOR>1.015228</COLOR>
                 <ADD_AFTER_BOIL>false</ADD_AFTER_BOIL>
+                <NOT_FERMENTABLE>false</NOT_FERMENTABLE>
+                <IBU_GAL_PER_LB>0</IBU_GAL_PER_LB>
             </FERMENTABLE>
             <FERMENTABLE>
                 <BF_ID>yvpuxGHVDd0BYD0MTXKDWxbdnhbmbe</BF_ID>
                 <NAME>Cara&#32;&#49;&#50;&#48;</NAME>
-                <SUPPLIER>Brouwpunt</SUPPLIER>
+                <SUPPLIER>Brouwpunt&#32;&#40;NL&#41;</SUPPLIER>
                 <ORIGIN>Germany</ORIGIN>
                 <VERSION>1</VERSION>
                 <TYPE>Grain</TYPE>
@@ -109,6 +116,8 @@
                 <YIELD>75.74</YIELD>
                 <COLOR>60.913706</COLOR>
                 <ADD_AFTER_BOIL>false</ADD_AFTER_BOIL>
+                <NOT_FERMENTABLE>false</NOT_FERMENTABLE>
+                <IBU_GAL_PER_LB>0</IBU_GAL_PER_LB>
             </FERMENTABLE>
             <FERMENTABLE>
                 <BF_ID>default-132c22b</BF_ID>
@@ -121,6 +130,8 @@
                 <YIELD>100</YIELD>
                 <COLOR>1.015228</COLOR>
                 <ADD_AFTER_BOIL>false</ADD_AFTER_BOIL>
+                <NOT_FERMENTABLE>false</NOT_FERMENTABLE>
+                <IBU_GAL_PER_LB>0</IBU_GAL_PER_LB>
             </FERMENTABLE>
         </FERMENTABLES>
         <MISCS>
@@ -155,17 +166,6 @@
                 <TIME>0</TIME>
                 <AMOUNT>0.001</AMOUNT>
                 <DISPLAY_AMOUNT>1 ml</DISPLAY_AMOUNT>
-                <AMOUNT_IS_WEIGHT>false</AMOUNT_IS_WEIGHT>
-            </MISC>
-            <MISC>
-                <BF_ID>WDItC6EBT6VCsBDUmCWUiyNk1WQPWs</BF_ID>
-                <NAME>pH&#32;paper&#32;strips&#32;&#53;&#46;&#50;&#32;&#45;&#32;&#54;&#46;&#56;</NAME>
-                <VERSION>1</VERSION>
-                <TYPE>Other</TYPE>
-                <USE>Mash</USE>
-                <TIME>0</TIME>
-                <AMOUNT>2</AMOUNT>
-                <DISPLAY_AMOUNT>2 items</DISPLAY_AMOUNT>
                 <AMOUNT_IS_WEIGHT>false</AMOUNT_IS_WEIGHT>
             </MISC>
             <MISC>
