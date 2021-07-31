@@ -49,3 +49,24 @@
 | RB Ratio:               | 0.35   | 0.4    | +0.05  |      |
 | Color                   | 7.5    | 9.1    | +1.6   | EBC  |
 | Mash pH:                | 6.02   |        |        |      |
+
+## Tasting notes
+
+| No. | Date       | Age | Score | Notes |
+|-----|------------|-----|-------|-------|
+|     | 21-05-2020 |   0 |       | Brew day. |
+|     | 27-05-2020 |   6 |  2.75 | Taster sample. |
+|     | 01-06-2020 |  11 |       | Bottling day. |
+|   0 | 14-06-2020 |  24 |  2.50 | Opened a half filled bottle, gave a small puff, poured hazy with some small bubbles and no foamy head, no lacing, slightly darker color than expected, tasted sour and boozy, very light carbonation. |
+|   1 | 05-07-2020 |  45 |  3.00 | Light foam which dissolves quickly, very light carbonation, little hint of orange, sour. |
+|   2 | 18-07_2020 |  58 |  2.75 | Cooled and served @ 11 C, light carbonation, no foam, sour taste. |
+|   3 | 07-08-2020 |  78 |  2.75 | Cooled and served @ 11 C, light carbonation, no foam, sour taste. |
+|   4 | 03-09-2020 | 105 |  2.75 | Cooled and served @ 11 C, light carbonation, no foam, sour taste. |
+|   5 | 18-09-2020 | 120 |  3.00 | Cooled and served @ 11 C, better carbonation, quick dissolving foam, sour taste. |
+|   6 | 03-10-2020 | 135 |  3.00 | Cooled and served @ 11 C, light foam which dissolves quickly, very light carbonation, little hint of orange, sour taste. |
+|   7 | 22-10-2020 | 154 |  2.75 | Cooled and served @ 11 C, light foam which dissolves quickly, very light carbonation, first taste is sour and aftertaste is a bit duh, probably past it's best before date. |
+|   8 | 30-10-2020 | 162 |  2.50 | Cooled and served @ 11 C, light foam which dissolves quickly, very light carbonation, first taste is sour and aftertaste is past it's best before date. |
+|   9 | 13-11-2020 | 176 |  3.00 | Cooled and served @ 11 C, light foam which dissolves quickly, very high carbonation, first taste is sour and aftertaste is past it's best before date. |
+|  10 | 21-11-2020 | 184 |  3.00 | Cooled and served @ 11 C, light foam which dissolves, very high carbonation, fresh dry mouthfeel and sweet/sour taste. |
+|  11 | 25-12-2020 | 218 |  3.00 | Cooled and served @ 11 C, light foam which dissolves, very high carbonation, fresh dry mouthfeel and sweet/sour taste. |
+|  12 | 16-01-2021 | 240 |  3.00 | Cooled and served @ 11 C, light foam which dissolves quickly, very high carbonation, fresh dry mouthfeel and sweet/sour taste. |
