@@ -4,7 +4,7 @@
         <NAME>&#48;&#55;&#32;SMaSH&#32;Simcoe&#32;v&#51;</NAME>
         <VERSION>1</VERSION>
         <TYPE>All&#32;Grain</TYPE>
-        <NOTES>Malt&#32;is&#32;ordered&#32;with&#32;standard&#32;crush&#32;&#64;&#32;The&#32;Malt&#32;Miller&#32;&#40;https&#58;&#47;&#47;www&#46;themaltmiller&#46;co&#46;uk&#47;&#41;&#46;</NOTES>
+        <NOTES/>
         <STYLE>
             <NAME>American&#32;Pale&#32;Ale</NAME>
             <CATEGORY>Pale&#32;American&#32;Ale</CATEGORY>
@@ -31,17 +31,17 @@
         <FG>1.01</FG>
         <ABV>6.04 %</ABV>
         <EST_ABV>6.04 %</EST_ABV>
-        <IBU>39.1</IBU>
+        <IBU>35.9</IBU>
         <EST_OG>1.056 SG</EST_OG>
         <EST_FG>1.01 SG</EST_FG>
         <EST_COLOR>5 SRM</EST_COLOR>
         <CARBONATION>2.4</CARBONATION>
         <HOPS>
             <HOP>
-                <BF_ID>cOsp0vXP8fypr4iOQRFeITq7vLefap</BF_ID>
-                <NAME>Simcoe&#32;&#40;T&#57;&#48;&#41;</NAME>
+                <BF_ID>fjTgC2pOxfOHQqJaW6M8sY1tVDwf5n</BF_ID>
+                <NAME>Simcoe</NAME>
                 <VERSION>1</VERSION>
-                <ALPHA>13.3</ALPHA>
+                <ALPHA>12.2</ALPHA>
                 <AMOUNT>0.005</AMOUNT>
                 <USE>Boil</USE>
                 <TIME>30</TIME>
@@ -50,10 +50,10 @@
                 <HOP_TEMP/>
             </HOP>
             <HOP>
-                <BF_ID>cOsp0vXP8fypr4iOQRFeITq7vLefap</BF_ID>
-                <NAME>Simcoe&#32;&#40;T&#57;&#48;&#41;</NAME>
+                <BF_ID>fjTgC2pOxfOHQqJaW6M8sY1tVDwf5n</BF_ID>
+                <NAME>Simcoe</NAME>
                 <VERSION>1</VERSION>
-                <ALPHA>13.3</ALPHA>
+                <ALPHA>12.2</ALPHA>
                 <AMOUNT>0.005</AMOUNT>
                 <USE>Boil</USE>
                 <TIME>5</TIME>
@@ -62,10 +62,10 @@
                 <HOP_TEMP/>
             </HOP>
             <HOP>
-                <BF_ID>cOsp0vXP8fypr4iOQRFeITq7vLefap</BF_ID>
-                <NAME>Simcoe&#32;&#40;T&#57;&#48;&#41;</NAME>
+                <BF_ID>fjTgC2pOxfOHQqJaW6M8sY1tVDwf5n</BF_ID>
+                <NAME>Simcoe</NAME>
                 <VERSION>1</VERSION>
-                <ALPHA>13.3</ALPHA>
+                <ALPHA>12.2</ALPHA>
                 <AMOUNT>0.01</AMOUNT>
                 <USE>Aroma</USE>
                 <TIME>10</TIME>
@@ -74,10 +74,10 @@
                 <HOP_TEMP/>
             </HOP>
             <HOP>
-                <BF_ID>cOsp0vXP8fypr4iOQRFeITq7vLefap</BF_ID>
-                <NAME>Simcoe&#32;&#40;T&#57;&#48;&#41;</NAME>
+                <BF_ID>fjTgC2pOxfOHQqJaW6M8sY1tVDwf5n</BF_ID>
+                <NAME>Simcoe</NAME>
                 <VERSION>1</VERSION>
-                <ALPHA>13.3</ALPHA>
+                <ALPHA>12.2</ALPHA>
                 <AMOUNT>0.01</AMOUNT>
                 <USE>Dry&#32;Hop</USE>
                 <TIME>10080</TIME>
@@ -173,6 +173,17 @@
                 <AMOUNT_IS_WEIGHT>true</AMOUNT_IS_WEIGHT>
             </MISC>
             <MISC>
+                <BF_ID>default-07adb1</BF_ID>
+                <NAME>Lactic&#32;Acid&#32;&#56;&#48;&#37;</NAME>
+                <VERSION>1</VERSION>
+                <TYPE>Water&#32;Agent</TYPE>
+                <USE>Mash</USE>
+                <TIME>0</TIME>
+                <AMOUNT>0.0006</AMOUNT>
+                <DISPLAY_AMOUNT>0.6 ml</DISPLAY_AMOUNT>
+                <AMOUNT_IS_WEIGHT>false</AMOUNT_IS_WEIGHT>
+            </MISC>
+            <MISC>
                 <BF_ID>W7OD0f0a8UTCV5zL4xz8XmDee2F6yI</BF_ID>
                 <NAME>NL&#32;Spa&#32;Reine&#32;Flat&#32;Mineral&#32;Water</NAME>
                 <VERSION>1</VERSION>
@@ -181,17 +192,6 @@
                 <TIME>0</TIME>
                 <AMOUNT>3.97</AMOUNT>
                 <DISPLAY_AMOUNT>3.97 l</DISPLAY_AMOUNT>
-                <AMOUNT_IS_WEIGHT>false</AMOUNT_IS_WEIGHT>
-            </MISC>
-            <MISC>
-                <BF_ID>WDItC6EBT6VCsBDUmCWUiyNk1WQPWs</BF_ID>
-                <NAME>pH&#32;paper&#32;strips&#32;&#53;&#46;&#50;&#32;&#45;&#32;&#54;&#46;&#56;</NAME>
-                <VERSION>1</VERSION>
-                <TYPE>Other</TYPE>
-                <USE>Mash</USE>
-                <TIME>0</TIME>
-                <AMOUNT>2</AMOUNT>
-                <DISPLAY_AMOUNT>2 items</DISPLAY_AMOUNT>
                 <AMOUNT_IS_WEIGHT>false</AMOUNT_IS_WEIGHT>
             </MISC>
             <MISC>
@@ -225,17 +225,6 @@
                 <TIME>10</TIME>
                 <AMOUNT>0.001</AMOUNT>
                 <DISPLAY_AMOUNT>1 g</DISPLAY_AMOUNT>
-                <AMOUNT_IS_WEIGHT>true</AMOUNT_IS_WEIGHT>
-            </MISC>
-            <MISC>
-                <BF_ID>default-9mb13</BF_ID>
-                <NAME>Servomyces</NAME>
-                <VERSION>1</VERSION>
-                <TYPE>Other</TYPE>
-                <USE>Boil</USE>
-                <TIME>10</TIME>
-                <AMOUNT>0.00005</AMOUNT>
-                <DISPLAY_AMOUNT>0.05 g</DISPLAY_AMOUNT>
                 <AMOUNT_IS_WEIGHT>true</AMOUNT_IS_WEIGHT>
             </MISC>
             <MISC>
