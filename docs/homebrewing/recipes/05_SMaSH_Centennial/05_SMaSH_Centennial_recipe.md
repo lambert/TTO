@@ -48,8 +48,10 @@ Strike temperature @ 68.7 C
 
 Primary @ 20 C for 10 days
 
-Conditioning @ 20 C for 45 days
-
 ## Bottling
 
 32 gram Table Sugar for 2.5 % carbonation
+
+## Conditioning
+
+Conditioning @ 20 C for 45 days

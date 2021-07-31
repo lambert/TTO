@@ -46,8 +46,10 @@ Primary @ 20 C for 10 days
 
 12 grams Fuggle (A.A. 5.0 % whole) dry hop for 3 days
 
-Conditioning @ 20 C for 45 days
-
 ## Bottling
 
 30 gram Table Sugar for 2.4 % carbonation
+
+## Conditioning
+
+Conditioning @ 20 C for 45 days

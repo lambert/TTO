@@ -48,8 +48,10 @@ Primary @ 20 C for 14 days
 
 5 grams Citra (A.A. 13.8 %) for 6 days
 
-Conditioning @ 20 C for 45 days
-
 ## Bottling
 
 32 gram Table Sugar for 2.5 % carbonation
+
+## Conditioning
+
+Conditioning @ 20 C for 45 days

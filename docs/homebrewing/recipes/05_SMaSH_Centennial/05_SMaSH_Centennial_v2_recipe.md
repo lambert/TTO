@@ -50,8 +50,10 @@ Primary @ 20 C for 10 days
 
 5 grams Centennial (A.A. 9.0 %) for 4 days
 
-Conditioning @ 20 C for 45 days
-
 ## Bottling
 
 32 gram Table Sugar for 2.5 % carbonation
+
+## Conditioning
+
+Conditioning @ 20 C for 45 days
