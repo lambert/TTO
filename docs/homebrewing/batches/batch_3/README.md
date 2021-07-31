@@ -49,3 +49,23 @@
 | RB Ratio:               | 0.76   | 1.08  | +0.32  |      |
 | Color                   | 8.7    | 8.7   |  0.0   | EBC  |
 | Mash pH:                | 5.42   | 5.5   | +0.08  |      |
+
+## Tasting notes
+
+| No. | Date       | Age | Score | Notes |
+|-----|------------|-----|-------|-------|
+|     | 06-09-2020 |   0 |       | Brew day. |
+|     | 16-09-2020 |  10 |       | Bottling day. |
+|   1 | 02-10-2020 |  26 |  2.75 | Cooled and served @ 11 C. Opening the swing-top gave a puff. Poured clear with a little yeast from conditioning. No foam, light carbonation. A light sour taste, boozy, some light esters and dry mouthfeel. |
+|   2 | 13-10-2020 |  37 |  2.75 | Cooled and served @ 11 C. Opening the swing-top gave a puff. Poured clear with a little yeast from conditioning. No foam, light carbonation. A light sour taste, boozy, some light esters and dry mouthfeel. |
+|   3 | 24-10-2020 |  48 |  2.75 | Cooled and served @ 11 C. Opening the swing-top gave a puff. Poured clear with a little yeast from conditioning. No foam, light carbonation. A light sour taste, boozy and dry mouthfeel. |
+|   4 | 31-10-2020 |  55 |  2.75 | Cooled and served @ 12 C. Opening the swing-top gave a small puff. Poured clear with a little foam. Light carbonation. A light sour grassy taste, boozy and a dry mouthfeel. |
+|   5 | 08-11-2020 |  63 |  2.75 | Cooled and served @ 12 C. Opening the swing-top gave a small puff. Poured clear with a little foam. Light carbonation. A light sour grassy taste, boozy and a dry mouthfeel. |
+|   6 | 15-11-2020 |  70 |  2.75 | Cooled and served @ 12 C. Opening the swing-top gave a small puff. Poured clear with a little foam. Light carbonation. A light sour grassy taste, less boozy and a dry mouthfeel. |
+|   7 | 04-12-2020 |  89 |  2.75 | Cooled and served @ 12 C. Opening the swing-top gave a pop. Poured clear with foam. Moderate carbonation. A light sour grassy taste, less boozy and a dry mouthfeel. |
+|   8 | 06-12-2020 |  91 |  2.75 | Cooled and served @ 12 C. Opening the swing-top gave a small puff. Poured clear with foam. Moderate carbonation. A light sour grassy taste, less boozy and a dry mouthfeel. |
+|   9 | 08-01-2021 | 124 |  2.75 | Cooled and served @ 12 C. Opening the swing-top gave a small puff. Poured clear with a little foam. Moderate carbonation. A light sour grassy taste, less boozy and a dry mouthfeel. |
+|  10 | 04-04-2021 | 210 |  2.75 | Cooled and served @ 12 C. Opening the swing-top gave a small puff. Poured clear with a little foam. Moderate carbonation. A light grassy taste, less boozy and a dry mouthfeel. |
+|  11 | 17-04-2021 | 223 |  2.75 | Cooled and served @ 12 C. Opening the swing-top gave a small puff. Poured clear with decent foam head. Moderate carbonation. A light grassy taste, less boozy and a dry mouthfeel. |
+|  12 | 08-05-2021 | 244 |  2.75 | |
+|  13 | 06-06-2021 | 273 |  2.50 | Cooled and served @ 12 C. Opening the swing-top gave a puff. Poured clear with small foam head. Moderate carbonation. A grassy taste, boozy and a dry mouthfeel. |
