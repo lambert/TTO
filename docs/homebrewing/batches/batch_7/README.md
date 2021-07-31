@@ -26,7 +26,7 @@ Archived.
 
 [Results](./Batch_7_06_SMaSH_Citra_results.pdf)
 
-### Evaluation
+## Evaluation
 
 |                         | Recipe | Batch | Diff   | Unit |
 |-------------------------|--------|-------|--------|------|
@@ -50,3 +50,22 @@ Archived.
 | RB Ratio:               | 0.78   | 0.73  | -0.05  |      |
 | Color                   | 9.7    | 10    | +0.3   | EBC  |
 | Mash pH:                | 5.40   | 5.5   | +0.1   |      |
+
+## Tasting notes
+
+| No. | Date       | Age | Score | Notes |
+|-----|------------|-----|-------|-------|
+|     | 06-03-2021 |   0 |       | Brew day. |
+|     | 21-03-2021 |  15 |       | Bottling day. |
+|   1 | 03-04-2021 |  28 |  3.50 | Citra all over the place. Still hazy just 2 weeks after bottling. Nice head with good retention. Good lacing. My best home brew sofar. |
+|   2 | 24-04-2021 |  49 |  3.50 | Cooled @ 10 C. Opening the swing top gave a puff. Poured a nice foamy head with good retention and lacing. Strong citra taste and a little bit dank. Strong body. |
+|   3 | 27-04-2021 |  52 |  3.50 | Cooled @ 10 C. Opening the swing top gave a puff. Poured a head with low retention. Strong citra taste and a little bit dank. Strong body. |
+|   4 | 02-05-2021 |  57 |  3.50 | Cooled @ 10 C. Opening the swing top gave a puff. Poured a head with good retention and lacing. Strong citra taste and a little bit dank. Strong body. |
+|   5 |            |     |       |  |
+|   6 |            |     |       |  |
+|   7 |            |     |       |  |
+|   8 |            |     |       |  |
+|   9 |            |     |       |  |
+|  10 |            |     |       |  |
+|  11 |            |     |       |  |
+|  12 |            |     |       |  |
