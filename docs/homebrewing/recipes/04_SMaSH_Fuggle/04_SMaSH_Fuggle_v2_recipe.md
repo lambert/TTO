@@ -14,15 +14,13 @@ Final Gravity 1.010
 
 Batch size: 5 L
 
-
 ## Mash
 
-Strike temperature @ 73.3 C
+Strike temperature @ 68.7 C
 
-60 minutes @ 67 C
+60 minutes @ 63 C
 
 1000 grams Thomas Fawcett Maris Otter Pale Ale malt
-
 
 ## Boil
 
@@ -38,12 +36,9 @@ Strike temperature @ 73.3 C
 
 1 grams Irish Moss @ 50 minutes
 
-
 ## Hopstand
 
 12 grams Fuggle (A.A. 5.0 % whole) 15 minutes hopstand @ 80 C (3.3 IBU)
-
-
 
 ## Fermentation
 
@@ -54,7 +49,6 @@ Primary @ 20 C for 10 days
 12 grams Fuggle (A.A. 5.0 % whole) dry hop for 3 days
 
 Conditioning @ 20 C for 45 days
-
 
 ## Bottling
 

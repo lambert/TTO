@@ -14,7 +14,6 @@ Final Gravity 1.011
 
 Batch size: 5 L
 
-
 ## Mash
 
 Strike temperature @ 68.7 C
@@ -22,7 +21,6 @@ Strike temperature @ 68.7 C
 60 minutes @ 63 C
 
 1100 grams Thomas Fawcett Maris Otter Pale Ale Malt
-
 
 ## Boil
 
@@ -38,11 +36,9 @@ Strike temperature @ 68.7 C
 
 1 immersion wort chiller @ 50 minutes
 
-
 ## Hopstand
 
 6 grams Godiva (A.A. 7.5 %) 15 minutes @ 80 C (2 IBU)
-
 
 ## Fermentation
 
@@ -51,7 +47,6 @@ Strike temperature @ 68.7 C
 Primary @ 20 C for 14 days
 
 Conditioning @ 20 C for 45 days
-
 
 ## Bottling
 

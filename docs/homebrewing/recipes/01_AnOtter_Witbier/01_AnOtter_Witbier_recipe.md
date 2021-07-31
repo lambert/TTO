@@ -14,7 +14,6 @@ Final Gravity 1.011
 
 Batch size: 5 L
 
-
 ## Mash
 
 Strike temperature @ 73.3 C
@@ -26,8 +25,6 @@ Strike temperature @ 73.3 C
 500 grams Dingemans Pilsen Malt
 
 125 grams TMM Rolled Wheat Flakes
-
-
 
 ## Boil
 
@@ -43,7 +40,6 @@ Strike temperature @ 73.3 C
 
 5 grams Bitter Orange Peel @ 55 minutes
 
-
 ## Fermentation
 
 0.5 package Mangrove Jack's M21 Belgian Wit
@@ -51,7 +47,6 @@ Strike temperature @ 73.3 C
 Primary @ 20 C for 14 days
 
 Conditioning @ 20 C for 45 days
-
 
 ## Bottling
 
