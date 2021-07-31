@@ -49,3 +49,24 @@
 | RB Ratio:               | 0.32   | 0.35  | +0.03  |      |
 | Color                   | 7.5    | 7.9   | +0.4   | EBC  |
 | Mash pH:                | 6.01   |       |        |      |
+
+## Tasting notes
+
+| No. | Date       | Age | Score | Notes |
+|-----|------------|-----|-------|-------|
+|     | 04-07-2020 |   0 |       | Brew day. |
+|     | 14-07-2020 |  10 |       | Bottling day |
+|   1 | 12-08-2020 |  39 |  3.00 | more carbonation and foam, slightly harsh and slightly spicy taste. I give myself a 3 out of 5 score. |
+|   2 | 21-08-2020 |  38 |  3.00 | hazy and more hints of coriander flavor, still boozy. |
+|   3 | 25-09-2020 |  73 |  3.00 | cooled and serverd @ 11 C, pours with foam which remains for several minutes, hazy and hints of coriander flavor, still boozy. |
+|   4 | 09-10-2020 |  87 |  3.25 | cooled and served @ 11 C, pours with foam which remains for several minutes, less sour, hazy and hints of coriander flavor, still boozy. |
+|   5 | 30-10-2020 | 108 |  3.00 | cooled and served @ 11 C, pours with foam which remains for a bit, sour, hazy and boozy. |
+|   6 | 14-11-2020 | 123 |  3.00 | cooled and served @ 11 C, pours with foam which remains for a bit, sour, hazy and boozy. |
+|   7 | 19-12-2020 | 158 |  3.00 | cooled and served @ 11 C, pours with foam which remains for a bit, sour, hazy and boozy. |
+|   8 | 07-03-2021 | 236 |  2.50 | cooled and served @ 11 C, pours with no foam, sour, clear and boozy. |
+|   9 | 04-04-2021 | 264 |       | gusher. |
+|  10 | 04-04-2021 | 264 |       | gusher. |
+|  11 | 04-04-2021 | 264 |       | gusher. |
+|  12 | 04-04-2021 | 264 |       | gusher. |
+|  13 | 04-04-2021 | 264 |       | gusher. |
+|  14 | 04-04-2021 | 264 |       | gusher. |
