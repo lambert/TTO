@@ -11,7 +11,7 @@ set ytics 10
 set mytics 5
 set xlabel "Date"
 set grid x
-set xtic rotate by 90 scale 0 offset 0.5,0
+set xtic offset 0,1.0 rotate by 90
 set autoscale x
 set xdata time
 set timefmt "%d-%m-%Y  %H:%M"
