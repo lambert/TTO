@@ -1,12 +1,15 @@
-#Batch  OG     FG     Yeast
-1       1.060  1.022  # Fermerntis S-33.
-2       1.064  1.012  # Fermerntis S-33
-3       1.041  1.002  # Lallemand Nottingham.
-4       1.041  1.007  # Neale's Brewing Supplies Classic English Ale.
-5       1.042  1.002  # Lallemand New England.
-6       1.046  1.004  # Fermerntis S-04.
-7       1.060  1.006  # Fermerntis US-05.
-8       1.051  1.002  # Fermerntis US-05.
-9       1.051  1.002  # Fermerntis US-05 slurry from batch #7.
-10      1.038  1.000  # Fermerntis S-04.
-11      1.038  1.000  # Fermerntis US-05 slurry from batch #9.
+#Batch  OG     FG     Color  Yeast       comment
+1       1.060  1.022  1      "Fermentis S-33"
+2       1.064  1.012  1      "Fermentis S-33"
+3       1.041  1.002  2      "Lallemand Nottingham"
+4       1.041  1.007  3      "NBS Classic English Ale"
+5       1.042  1.002  4      "Lallemand New England"
+6       1.046  1.004  5      "Fermentis S-04"
+7       1.060  1.006  6      "Fermentis US-05"
+8       1.051  1.002  6      "Fermentis US-05"
+9       1.051  1.002  6      "Fermentis US-05" # slurry from batch #7.
+10      1.038  1.000  5      "Fermentis S-04"
+11      1.038  1.000  6      "Fermentis US-05" # slurry from batch #9.
+12      1.040  0.994  7      "MJ M02 Cider"
+13      1.044  1.002  7      "MJ M02 Cider"
+
