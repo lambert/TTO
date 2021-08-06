@@ -20,13 +20,15 @@ Archived.
 
 ![specific gravity](gravity.png)
 
+![pH](ph.png)
+
 ![pressure](pressure.png)
 
 ![conditioning](conditioning.png)
 
 [Results](./Batch_13_49_AnOtter_Perry_Cider_results.pdf)
 
-### Evaluation
+## Evaluation
 
 |                         | Recipe | Batch | Diff   | Unit |
 |-------------------------|--------|-------|--------|------|
@@ -51,3 +53,26 @@ Archived.
 | RB Ratio:               | 0.00   | 0.00  |  0     |      |
 | Color                   | 7.9    | 7.3   | -0.6   | EBC  |
 | Mash pH:                | 5.40   | 3.97  | -1.43  |      |
+
+## Tasting notes
+
+| No. | Date       | Age | Score | Notes |
+|-----|------------|-----|-------|-------|
+|     | 04-07-2021 |   0 |       | Brew day. |
+|     | 17-07-2021 |  21 |       | Bottling day. |
+|   1 |            |     |       |  |
+|   2 |            |     |       |  |
+|   3 |            |     |       |  |
+|   4 |            |     |       |  |
+|   5 |            |     |       |  |
+|   6 |            |     |       |  |
+|   7 |            |     |       |  |
+|   8 |            |     |       |  |
+|   9 |            |     |       |  |
+|  10 |            |     |       |  |
+|  11 |            |     |       |  |
+|  12 |            |     |       |  |
+|  13 |            |     |       |  |
+|  14 |            |     |       |  |
+|  15 |            |     |       |  |
+|  16 |            |     |       |  |
