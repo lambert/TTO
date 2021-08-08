@@ -1,4 +1,4 @@
-# Batch #15 - 59 Four Hops IPA
+# Batch #15
 
 ## Milestones
 
@@ -24,9 +24,9 @@ Archived.
 
 ![conditioning](conditioning.png)
 
-[Results](./Batch_15_59_Four_Hops_IPA_results.pdf)
+[Results](./Batch_15_results.pdf)
 
-### Evaluation
+## Evaluation
 
 |                         | Recipe | Batch | Diff   | Unit |
 |-------------------------|--------|-------|--------|------|
@@ -36,18 +36,41 @@ Archived.
 | Batch Volume:           |        |       |        | L    |
 | Trub/Chiller Loss:      |        |       |        | L    |
 | Bottling Volume:        |        |       |        | L    |
-| Pre-Boil Gravity:       | 1.047  |       |        |      |
-| Post-Boil Gravity:      | 1.061  |       |        |      |
-| Original Gravity:       | 1.061  |       |        |      |
-| Total Gravity:          | 1.063  |       |        |      |
-| Final Gravity:          | 1.013  |       |        |      |
-| Alcohol By Volume:      | 6.6    |       |        | %    |
-| Apparent Attenuation:   | 78.5   |       |        | %    |
-| Mash Efficiency:        | 73.3   |       |        | %    |
-| Brewhouse Efficiency:   | 71.8   |       |        | %    |
-| IBU:                    | 69     |       |        |      |
-| BU/GU Ratio:            | 1.10   |       |        |      |
-| RB Ratio:               | 1.12   |       |        |      |
-| Color                   | 9.7    |       |        | EBC  |
-| Mash pH:                | 5.39   |       |        |      |
+| Pre-Boil Gravity:       |        |       |        |      |
+| Post-Boil Gravity:      |        |       |        |      |
+| Original Gravity:       |        |       |        |      |
+| Total Gravity:          |        |       |        |      |
+| Final Gravity:          |        |       |        |      |
+| Alcohol By Volume:      |        |       |        | %    |
+| Apparent Attenuation:   |        |       |        | %    |
+| Mash Efficiency:        |        |       |        | %    |
+| Brewhouse Efficiency:   |        |       |        | %    |
+| IBU:                    |        |       |        |      |
+| BU/GU Ratio:            |        |       |        |      |
+| RB Ratio:               |        |       |        |      |
+| Color                   |        |       |        | EBC  |
+| Mash pH:                |        |       |        |      |
+
+## Tasting notes
+
+| No. | Date       | Age | Score | Notes |
+|-----|------------|-----|-------|-------|
+|     |            |   0 |       | Brew day. |
+|     |            |     |       | Bottling day. |
+|   1 |            |     |       |  |
+|   2 |            |     |       |  |
+|   3 |            |     |       |  |
+|   4 |            |     |       |  |
+|   5 |            |     |       |  |
+|   6 |            |     |       |  |
+|   7 |            |     |       |  |
+|   8 |            |     |       |  |
+|   9 |            |     |       |  |
+|  10 |            |     |       |  |
+|  11 |            |     |       |  |
+|  12 |            |     |       |  |
+|  13 |            |     |       |  |
+|  14 |            |     |       |  |
+|  15 |            |     |       |  |
+|  16 |            |     |       |  |
 

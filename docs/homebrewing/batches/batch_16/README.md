@@ -1,4 +1,4 @@
-# Batch #16 - Shambles Brewery - Summer Ale Afternoon Delight (clone)
+# Batch #16
 
 ## Milestones
 
@@ -24,9 +24,9 @@ Archived.
 
 ![conditioning](conditioning.png)
 
-[Results](./Batch_16_Shambles_Brewery_Summer_Ale_Afternoon_Delight_clone_results.pdf)
+[Results](./Batch_16_results.pdf)
 
-### Evaluation
+## Evaluation
 
 |                         | Recipe | Batch | Diff   | Unit |
 |-------------------------|--------|-------|--------|------|
@@ -39,6 +39,7 @@ Archived.
 | Pre-Boil Gravity:       |        |       |        |      |
 | Post-Boil Gravity:      |        |       |        |      |
 | Original Gravity:       |        |       |        |      |
+| Total Gravity:          |        |       |        |      |
 | Final Gravity:          |        |       |        |      |
 | Alcohol By Volume:      |        |       |        | %    |
 | Apparent Attenuation:   |        |       |        | %    |
@@ -49,4 +50,27 @@ Archived.
 | RB Ratio:               |        |       |        |      |
 | Color                   |        |       |        | EBC  |
 | Mash pH:                |        |       |        |      |
+
+## Tasting notes
+
+| No. | Date       | Age | Score | Notes |
+|-----|------------|-----|-------|-------|
+|     |            |   0 |       | Brew day. |
+|     |            |     |       | Bottling day. |
+|   1 |            |     |       |  |
+|   2 |            |     |       |  |
+|   3 |            |     |       |  |
+|   4 |            |     |       |  |
+|   5 |            |     |       |  |
+|   6 |            |     |       |  |
+|   7 |            |     |       |  |
+|   8 |            |     |       |  |
+|   9 |            |     |       |  |
+|  10 |            |     |       |  |
+|  11 |            |     |       |  |
+|  12 |            |     |       |  |
+|  13 |            |     |       |  |
+|  14 |            |     |       |  |
+|  15 |            |     |       |  |
+|  16 |            |     |       |  |
 
