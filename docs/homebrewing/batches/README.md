@@ -15,7 +15,7 @@
 | 11 | [08 SMaSH Magnum](batch_11/README.md) | Completed | 5.0 | 20 | 7.9 | 1.038 | 1.000 | 18A Blonde Ale | All Grain |
 | 12 | [48 AnOtter Apple Cider](batch_12/README.md) | Conditioning | 6.0 | 0 | 8.3 | 1.040 | 0.994 | C1B English Cider | Extract |
 | 13 | [49 AnOtter Perry Cider](batch_13/README.md) | Conditioning | 5.9 | 0 | 7.3 | 1.044 | 1.002 | C1D New World Perry | Extract |
-| 14 | [09 SMaSH Sabro](batch_14/README.md) | Brewed | | 66 | 9.1 | 1.060 | | 21B Specialty IPA | All Grain |
+| 14 | [09 SMaSH Sabro](batch_14/README.md) | Fermenting | | 66 | 9.1 | 1.060 | | 21B Specialty IPA | All Grain |
 | 15 | [Shambles Brewery - Summer Ale Afternoon Delight (clone)](batch_16/README.md) | Planned | | | | | | 18A Blonde Ale | All Grain |
 | 16 | [61 Three Hops Blonde v2](batch_17/README.md) | Planned | | | | | | 18A Blonde Ale | All Grain |
 | 17 | [Five Points Brewing - Best Fuggles (clone) v2](batch_18/README.md) | Planned | | | | | | 11B Best Bitter | All Grain |
