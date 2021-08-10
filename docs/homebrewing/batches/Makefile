@@ -10,7 +10,8 @@ DIRS = batch_1 \
 	batch_10 \
 	batch_11 \
 	batch_12 \
-	batch_13
+	batch_13 \
+	batch_14
 
 .DEFAULT_GOAL := all
 
