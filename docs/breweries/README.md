@@ -42,6 +42,12 @@
 
 - [x] [Wispe Brouwerij](NL/NH/Weesp/Wispe_Brouwerij.md)
 
+### Zeeland
+
+#### Goes
+
+- [x] [Brouwerij Emelisse](NL/ZL/Goes/Brouwerij_Emelisse.md)
+
 ## Belgium
 
 ### Antwerpen
