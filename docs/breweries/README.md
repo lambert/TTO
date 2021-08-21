@@ -2,6 +2,14 @@
 
 ## Netherlands
 
+### Flevoland
+
+#### Almere
+
+- [ ] Brouwerij Stijl
+
+- [ ] Duin Brouwerij
+
 ### North Holland
 
 #### Amstelveen
@@ -32,6 +40,24 @@
 
 - [x] [Brouwerij De School](NL/NH/Badhoevedorp/Brouwerij_De_School.md)
 
+#### Haarlem
+
+- [ ] Jopen
+
+- [ ] Uiltje Brewing Company
+
+#### Hilversum
+
+- [ ] Gooische Bierbrouwerij
+
+#### Huizen
+
+- [ ] Brouwerij 3vrouwen
+
+#### Naarden
+
+- [ ] Vesting Brouwerij Comenius
+
 #### Uithoorn
 
 - [x] [Brouwerij De Schans](NL/NH/Uithoorn/Brouwerij_De_Schans.md)
@@ -41,6 +67,16 @@
 #### Weesp
 
 - [x] [Wispe Brouwerij](NL/NH/Weesp/Wispe_Brouwerij.md)
+
+### Utrecht
+
+#### Loenen aan de Vecht
+
+- [ ] Brouwerij de Vecht
+
+#### Mijdrecht
+
+- [ ] SpierBier
 
 ### Zeeland
 
