@@ -67,3 +67,4 @@ Archived.
 |   9 | 06-06-2021 | 225 |  3.00 | Served @ 10 C. Opening the swing-top gave a loud pop and beer pouring out. Poured hazy with a nice foam head. High carbonation. Light body, crisp and mellowed hoppy taste and a dry mouthfeel. |
 |  10 | 09-07-2021 | 258 |  2.50 | Served @ 10 C. Opening the swing-top gave a loud pop and beer pouring out. Poured hazy with a nice large head. High carbonation. Light body, crisp and a little bit sour. |
 |  11 | 17-07-2021 | 266 |  2.50 | Served @ 10 C. Opening the swing-top gave a small puff. Poured hazy with a small head. High carbonation. Light body, crisp and a little bit sour. |
+|  12 | 21-08-2021 | 301 |  2.50 | Served @ 10 C. Opening the swing-top gave a puff. Poured hazy with a decent head. High carbonation. Light body, crisp and a little bit sour. |
