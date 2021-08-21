@@ -58,6 +58,10 @@
 
 - [ ] Vesting Brouwerij Comenius
 
+#### Purmerend
+
+- [ ] Berging Brouwerij
+
 #### Uithoorn
 
 - [x] [Brouwerij De Schans](NL/NH/Uithoorn/Brouwerij_De_Schans.md)
@@ -67,6 +71,10 @@
 #### Weesp
 
 - [x] [Wispe Brouwerij](NL/NH/Weesp/Wispe_Brouwerij.md)
+
+#### Zaandijk
+
+- [ ] Brouwerij Hoop
 
 ### Utrecht
 
