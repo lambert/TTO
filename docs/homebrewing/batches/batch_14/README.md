@@ -6,7 +6,7 @@
 
 08-08-2021 20:30 Start fermentation.
 
-Start conditioning.
+22-08-2021 14:15 Start conditioning.
 
 Completed conditioning.
 
@@ -37,14 +37,14 @@ Archived.
 | Boil Off per Hour:      | 1.8    | 1.49  | -0.31  | L    |
 | Batch Volume:           | 5.6    | 5.5   | -0.1   | L    |
 | Trub/Chiller Loss:      | 0.12   | 0.75  | +0.63  | L    |
-| Bottling Volume:        | 5      |       |        | L    |
+| Bottling Volume:        | 5      | 4.33  | -0.67  | L    |
 | Pre-Boil Gravity:       | 1.047  | 1.043 | -0.004 |      |
 | Post-Boil Gravity:      | 1.061  | 1.060 | -0.001 |      |
 | Original Gravity:       | 1.061  | 1.060 | -0.001 |      |
-| Total Gravity:          | 1.063  |       |        |      |
-| Final Gravity:          | 1.013  |       |        |      |
-| Alcohol By Volume:      | 6.6    |       |        | %    |
-| Apparent Attenuation:   | 78.5   |       |        | %    |
+| Total Gravity:          | 1.063  | 1.063 |  0     |      |
+| Final Gravity:          | 1.013  | 1.005 | -0.008 |      |
+| Alcohol By Volume:      | 6.6    | 7.6   | +1.0   | %    |
+| Apparent Attenuation:   | 78.5   | 91.7  | +13.2  | %    |
 | Mash Efficiency:        | 73     | 69    | -4     | %    |
 | Brewhouse Efficiency:   | 72     | 70    | -2     | %    |
 | IBU:                    | 69     | 66    | -3     |      |
@@ -72,7 +72,4 @@ Archived.
 |  11 |            |     |       |  |
 |  12 |            |     |       |  |
 |  13 |            |     |       |  |
-|  14 |            |     |       |  |
-|  15 |            |     |       |  |
-|  16 |            |     |       |  |
 
