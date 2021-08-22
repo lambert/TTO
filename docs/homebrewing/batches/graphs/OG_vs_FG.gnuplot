@@ -22,13 +22,13 @@ set xtics 0.01
 set mxtics 10
 plot "OG_vs_FG.data" using 2:3:4 with points lc variable notitle, \
          ''          using 2:3:1 with labels center offset 0,1 notitle, \
-         keyentry with point lc 1 lt 1 title "Fermentis S-33", \
-         keyentry with point lc 2 lt 1 title "Lallemand Nottingham", \
-         keyentry with point lc 3 lt 1 title "NBS Classic English Ale", \
-         keyentry with point lc 4 lt 1 title "Lallemand New England", \
          keyentry with point lc 5 lt 1 title "Fermentis S-04", \
+         keyentry with point lc 1 lt 1 title "Fermentis S-33", \
          keyentry with point lc 6 lt 1 title "Fermentis US-05", \
-         keyentry with point lc 7 lt 1 title "MJ M02 Cider"
+         keyentry with point lc 4 lt 1 title "Lallemand New England", \
+         keyentry with point lc 2 lt 1 title "Lallemand Nottingham", \
+         keyentry with point lc 7 lt 1 title "MJ M02 Cider", \
+         keyentry with point lc 3 lt 1 title "NBS Classic English Ale"
 # set output back to default
 set output
 # reset terminal type
