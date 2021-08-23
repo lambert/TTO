@@ -22,6 +22,8 @@ Archived.
 
 ![specific gravity](gravity.png)
 
+![pH](ph.png)
+
 ![pressure](pressure.png)
 
 ![conditioning](conditioning.png)
