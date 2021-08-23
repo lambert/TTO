@@ -3,7 +3,7 @@ set term png
 output_file = "gravity.png"
 set output output_file
 set title "Fermentation"
-set style data lines
+set style data points
 set ylabel "Specific Gravity"
 set yrange [0.95:1.1]
 set grid y
