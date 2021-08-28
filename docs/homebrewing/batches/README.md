@@ -29,3 +29,7 @@
 ## Original Gravity to Final Gravity
 
 ![fig_2](graphs/OG_to_FG.png)
+
+## Milestones
+
+![fig_2](graphs/milestones.png)
