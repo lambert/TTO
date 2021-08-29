@@ -51,7 +51,7 @@ Archived.
 | Color                   | 9.7    | 10    | +0.3   | EBC  |
 | Mash pH:                | 5.40   | 5.5   | +0.1   |      |
 
-## Tasting notes
+## [Tasting notes](./Batch_7_06_SMaSH_Citra_BJCP_Scoresheet.pdf)
 
 | No. | Date       | Age | Score | Notes |
 |-----|------------|-----|-------|-------|
