@@ -50,7 +50,7 @@
 | Color                   | 5.3    | 5.3   |  0     | EBC  |
 | Mash pH:                | 5.43   | 5.5   | +0.07  |      |
 
-## Tasting notes
+## [Tasting notes](./Batch_4_04_SMaSH_Fuggle_BJCP_Scoresheet.pdf)
 
 | No. | Date       | Age | Score | Notes |
 |-----|------------|-----|-------|-------|
