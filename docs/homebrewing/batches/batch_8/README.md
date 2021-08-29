@@ -51,7 +51,7 @@ Archived.
 | Color                   | 9.9    | 9.3   | -0.6   | EBC  |
 | Mash pH:                | 5.4    | 5.5   | +0.1   |      |
 
-## Tasting notes
+## [Tasting notes](./Batch_8_07_SMaSH_Simcoe_BJCP_Scoresheet.pdf)
 
 | No. | Date       | Age | Score | Notes |
 |-----|------------|-----|-------|-------|
