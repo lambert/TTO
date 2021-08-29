@@ -6,4 +6,4 @@
 
 |    | Style | ABV | IBU | EBC | pdf | BeerXML | JSON | Batches |
 |----|-------|-----|-----|-----|-----|---------|------|---------|
-| v1 | British Golden Ale | 4.5 % | 29 | 8 | [pdf](./12_SMaSH_Boadicea.pdf) | [BeerXML](./12_SMaSH_Boadicea.xml) | [json](./12_SMaSH_Boadicea.json) | |
+| [v1](./12_SMaSH_Boadicea_recipe.md) | British Golden Ale | 4.5 % | 29 | 8 | [pdf](./12_SMaSH_Boadicea.pdf) | [BeerXML](./12_SMaSH_Boadicea.xml) | [json](./12_SMaSH_Boadicea.json) | |
