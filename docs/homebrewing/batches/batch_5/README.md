@@ -52,7 +52,7 @@ Archived.
 | Color                   | 9.3    | 9.5   | +0.2   | EBC  |
 | Mash pH:                | 5.40   | 5.5   | +0.1   |      |
 
-## Tasting notes
+## [Tasting notes](./Batch_5_05_SMaSH_Centennial_BJCP_Scoresheet.pdf)
 
 | No. | Date       | Age | Score | Notes |
 |-----|------------|-----|-------|-------|
