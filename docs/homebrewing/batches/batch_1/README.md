@@ -50,7 +50,7 @@
 | Color                   | 7.5    | 9.1    | +1.6   | EBC  |
 | Mash pH:                | 6.02   |        |        |      |
 
-## Tasting notes
+## [Tasting notes](./Batch_1_Brouwpunt_Witbier_BJCP_Scoresheet.pdf)
 
 | No. | Date       | Age | Score | Notes |
 |-----|------------|-----|-------|-------|
