@@ -61,7 +61,7 @@ Archived.
 |   2 | 04-06-2021 |  61 |  2.75 | Cooled @ 10 C. Gave a small puff. No distinct carbonation. Thin mouthfeel. Citrusy as in lemon or grapefruit, not bitter at all, clear and crisp … just no bubbles. |
 |   3 | 31-07-2021 | 118 |  3.25 | Cooled @ 10 C. Gave a small puff. Low carbonation, small foam head. Citrusy as in lemon or grapefruit, not bitter at all, clear and crisp. |
 |   4 | 14-08-2021 | 132 |  3.25 | Cooled @ 10 C. Gave a small puff. Low carbonation, small foam head. Citrusy as in lemon or grapefruit, not bitter at all, clear and crisp. |
-|   5 |            |     |       |  |
+|   5 | 28-08-2021 | 146 |  3.25 | Cooled @ 10 C. Gave a small puff. Low carbonation, small foam head. Citrusy as in lemon or grapefruit, not bitter at all, clear and crisp. |
 |   6 |            |     |       |  |
 |   7 |            |     |       |  |
 |   8 |            |     |       |  |
