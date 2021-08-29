@@ -6,4 +6,4 @@
 
 |    | Style | ABV | IBU | EBC | pdf | BeerXML | JSON | Batches |
 |----|-------|-----|-----|-----|-----|---------|------|---------|
-| v1 | American Pale Ale | 5.1 % | 31 | 9 | [pdf](./14_SMaSH_Apollo.pdf) | [BeerXML](./14_SMaSH_Apollo.xml) | [json](./14_SMaSH_Apollo.json) | |
+| [v1](./14_SMaSH_Apollo_recipe.md) | American Pale Ale | 5.1 % | 31 | 9 | [pdf](./14_SMaSH_Apollo.pdf) | [BeerXML](./14_SMaSH_Apollo.xml) | [json](./14_SMaSH_Apollo.json) | |
