@@ -4,6 +4,7 @@
         <NAME>&#49;&#48;&#32;SMaSH&#32;CF&#49;&#56;&#52;</NAME>
         <VERSION>1</VERSION>
         <TYPE>All&#32;Grain</TYPE>
+        <NOTES>Malt&#32;is&#32;ordered&#32;with&#32;standard&#32;crush&#32;&#64;&#32;The&#32;Malt&#32;Miller&#32;&#40;https&#58;&#47;&#47;www&#46;themaltmiller&#46;co&#46;uk&#47;&#41;&#46;</NOTES>
         <STYLE>
             <NAME>British&#32;Golden&#32;Ale</NAME>
             <CATEGORY>Pale&#32;Commonwealth&#32;Beer</CATEGORY>
@@ -30,11 +31,11 @@
         <FG>1.01</FG>
         <ABV>4.33 %</ABV>
         <EST_ABV>4.33 %</EST_ABV>
-        <IBU>33.3</IBU>
+        <IBU>30.7</IBU>
         <EST_OG>1.043 SG</EST_OG>
         <EST_FG>1.01 SG</EST_FG>
         <EST_COLOR>4.1 SRM</EST_COLOR>
-        <CARBONATION>2.3</CARBONATION>
+        <CARBONATION>2.2</CARBONATION>
         <HOPS>
             <HOP>
                 <BF_ID>zflamJhpkSgQi7QnX2Sn7zSJ99HAxR</BF_ID>
@@ -79,10 +80,22 @@
                 <ALPHA>8.4</ALPHA>
                 <AMOUNT>0.005</AMOUNT>
                 <USE>Aroma</USE>
-                <TIME>30</TIME>
+                <TIME>15</TIME>
                 <FORM>Pellet</FORM>
                 <TEMPERATURE>75</TEMPERATURE>
                 <HOP_TEMP>75</HOP_TEMP>
+            </HOP>
+            <HOP>
+                <BF_ID>zflamJhpkSgQi7QnX2Sn7zSJ99HAxR</BF_ID>
+                <NAME>CF&#49;&#56;&#52;&#32;&#40;T&#57;&#48;&#41;</NAME>
+                <VERSION>1</VERSION>
+                <ALPHA>8.4</ALPHA>
+                <AMOUNT>0.004</AMOUNT>
+                <USE>Dry&#32;Hop</USE>
+                <TIME>10080</TIME>
+                <FORM>Pellet</FORM>
+                <TEMPERATURE/>
+                <HOP_TEMP/>
             </HOP>
         </HOPS>
         <FERMENTABLES>
@@ -107,7 +120,7 @@
                 <ORIGIN/>
                 <VERSION>1</VERSION>
                 <TYPE>Sugar</TYPE>
-                <AMOUNT>0.03</AMOUNT>
+                <AMOUNT>0.023</AMOUNT>
                 <YIELD>100</YIELD>
                 <COLOR>1.015228</COLOR>
                 <ADD_AFTER_BOIL>false</ADD_AFTER_BOIL>
@@ -117,14 +130,47 @@
         </FERMENTABLES>
         <MISCS>
             <MISC>
+                <BF_ID>default-2302b0</BF_ID>
+                <NAME>Baking&#32;Soda&#32;&#40;NaHCO&#51;&#41;</NAME>
+                <VERSION>1</VERSION>
+                <TYPE>Water&#32;Agent</TYPE>
+                <USE>Mash</USE>
+                <TIME>0</TIME>
+                <AMOUNT>0.00029</AMOUNT>
+                <DISPLAY_AMOUNT>0.29 g</DISPLAY_AMOUNT>
+                <AMOUNT_IS_WEIGHT>true</AMOUNT_IS_WEIGHT>
+            </MISC>
+            <MISC>
+                <BF_ID>default-3b1827</BF_ID>
+                <NAME>Calcium&#32;Chloride&#32;&#40;CaCl&#50;&#41;&#32;&#51;&#51;&#32;&#37;</NAME>
+                <VERSION>1</VERSION>
+                <TYPE>Water&#32;Agent</TYPE>
+                <USE>Mash</USE>
+                <TIME>0</TIME>
+                <AMOUNT>0.00076</AMOUNT>
+                <DISPLAY_AMOUNT>0.76 g</DISPLAY_AMOUNT>
+                <AMOUNT_IS_WEIGHT>true</AMOUNT_IS_WEIGHT>
+            </MISC>
+            <MISC>
+                <BF_ID>default-bk9j78</BF_ID>
+                <NAME>Canning&#32;Salt&#32;&#40;NaCl&#41;</NAME>
+                <VERSION>1</VERSION>
+                <TYPE>Water&#32;Agent</TYPE>
+                <USE>Mash</USE>
+                <TIME>0</TIME>
+                <AMOUNT>0.00076</AMOUNT>
+                <DISPLAY_AMOUNT>0.76 g</DISPLAY_AMOUNT>
+                <AMOUNT_IS_WEIGHT>true</AMOUNT_IS_WEIGHT>
+            </MISC>
+            <MISC>
                 <BF_ID>default-4e9d62</BF_ID>
                 <NAME>Epsom&#32;Salt&#32;&#40;MgSO&#52;&#41;</NAME>
                 <VERSION>1</VERSION>
                 <TYPE>Water&#32;Agent</TYPE>
                 <USE>Mash</USE>
                 <TIME>0</TIME>
-                <AMOUNT>0.00025</AMOUNT>
-                <DISPLAY_AMOUNT>0.25 g</DISPLAY_AMOUNT>
+                <AMOUNT>0.00117</AMOUNT>
+                <DISPLAY_AMOUNT>1.17 g</DISPLAY_AMOUNT>
                 <AMOUNT_IS_WEIGHT>true</AMOUNT_IS_WEIGHT>
             </MISC>
             <MISC>
@@ -134,8 +180,8 @@
                 <TYPE>Water&#32;Agent</TYPE>
                 <USE>Mash</USE>
                 <TIME>0</TIME>
-                <AMOUNT>0.00024</AMOUNT>
-                <DISPLAY_AMOUNT>0.24 g</DISPLAY_AMOUNT>
+                <AMOUNT>0.0015</AMOUNT>
+                <DISPLAY_AMOUNT>1.5 g</DISPLAY_AMOUNT>
                 <AMOUNT_IS_WEIGHT>true</AMOUNT_IS_WEIGHT>
             </MISC>
             <MISC>
@@ -145,41 +191,30 @@
                 <TYPE>Water&#32;Agent</TYPE>
                 <USE>Mash</USE>
                 <TIME>0</TIME>
-                <AMOUNT>0.0011</AMOUNT>
-                <DISPLAY_AMOUNT>1.1 ml</DISPLAY_AMOUNT>
+                <AMOUNT>0.0004</AMOUNT>
+                <DISPLAY_AMOUNT>0.4 ml</DISPLAY_AMOUNT>
                 <AMOUNT_IS_WEIGHT>false</AMOUNT_IS_WEIGHT>
             </MISC>
             <MISC>
-                <BF_ID>WDItC6EBT6VCsBDUmCWUiyNk1WQPWs</BF_ID>
-                <NAME>pH&#32;paper&#32;strips&#32;&#53;&#46;&#50;&#32;&#45;&#32;&#54;&#46;&#56;</NAME>
+                <BF_ID>W7OD0f0a8UTCV5zL4xz8XmDee2F6yI</BF_ID>
+                <NAME>NL&#32;Spa&#32;Reine&#32;Flat&#32;Mineral&#32;Water</NAME>
                 <VERSION>1</VERSION>
                 <TYPE>Other</TYPE>
                 <USE>Mash</USE>
                 <TIME>0</TIME>
-                <AMOUNT>2</AMOUNT>
-                <DISPLAY_AMOUNT>2 items</DISPLAY_AMOUNT>
+                <AMOUNT>3</AMOUNT>
+                <DISPLAY_AMOUNT>3 l</DISPLAY_AMOUNT>
                 <AMOUNT_IS_WEIGHT>false</AMOUNT_IS_WEIGHT>
             </MISC>
             <MISC>
-                <BF_ID>WDItC6EBT6VCsBDUmCWUiyNk1WQPWs</BF_ID>
-                <NAME>pH&#32;paper&#32;strips&#32;&#53;&#46;&#50;&#32;&#45;&#32;&#54;&#46;&#56;</NAME>
+                <BF_ID>W7OD0f0a8UTCV5zL4xz8XmDee2F6yI</BF_ID>
+                <NAME>NL&#32;Spa&#32;Reine&#32;Flat&#32;Mineral&#32;Water</NAME>
                 <VERSION>1</VERSION>
                 <TYPE>Other</TYPE>
                 <USE>Sparge</USE>
                 <TIME>0</TIME>
-                <AMOUNT>2</AMOUNT>
-                <DISPLAY_AMOUNT>2 items</DISPLAY_AMOUNT>
-                <AMOUNT_IS_WEIGHT>false</AMOUNT_IS_WEIGHT>
-            </MISC>
-            <MISC>
-                <BF_ID>default-07adb1</BF_ID>
-                <NAME>Lactic&#32;Acid&#32;&#56;&#48;&#37;</NAME>
-                <VERSION>1</VERSION>
-                <TYPE>Water&#32;Agent</TYPE>
-                <USE>Sparge</USE>
-                <TIME>0</TIME>
-                <AMOUNT>0.00106</AMOUNT>
-                <DISPLAY_AMOUNT>1.06 ml</DISPLAY_AMOUNT>
+                <AMOUNT>5.84</AMOUNT>
+                <DISPLAY_AMOUNT>5.84 l</DISPLAY_AMOUNT>
                 <AMOUNT_IS_WEIGHT>false</AMOUNT_IS_WEIGHT>
             </MISC>
             <MISC>
@@ -280,12 +315,16 @@
             <EVAP_RATE>23.195876288659793</EVAP_RATE>
             <CALC_BOIL_VOLUME>true</CALC_BOIL_VOLUME>
         </EQUIPMENT>
-        <BF_FERMENTATION_PROFILE_ID>default</BF_FERMENTATION_PROFILE_ID>
-        <BF_FERMENTATION_PROFILE_NAME>Ale</BF_FERMENTATION_PROFILE_NAME>
-        <FERMENTATION_STAGES>2</FERMENTATION_STAGES>
+        <BF_FERMENTATION_PROFILE_ID>xJD&#52;OQsGafcf&#54;DSEiSIyRxsbR&#52;e&#55;&#54;A</BF_FERMENTATION_PROFILE_ID>
+        <BF_FERMENTATION_PROFILE_NAME>&#48;&#49;&#32;Ale&#32;&#43;&#32;DR&#32;&#43;&#32;Conditioning</BF_FERMENTATION_PROFILE_NAME>
+        <FERMENTATION_STAGES>4</FERMENTATION_STAGES>
         <PRIMARY_AGE>10</PRIMARY_AGE>
-        <PRIMARY_TEMP>20</PRIMARY_TEMP>
-        <SECONDARY_AGE>45</SECONDARY_AGE>
-        <SECONDARY_TEMP>20</SECONDARY_TEMP>
+        <PRIMARY_TEMP>18</PRIMARY_TEMP>
+        <SECONDARY_AGE>4</SECONDARY_AGE>
+        <SECONDARY_TEMP>21</SECONDARY_TEMP>
+        <TERTIARY_AGE>14</TERTIARY_AGE>
+        <TERTIARY_TEMP>18</TERTIARY_TEMP>
+        <AGE>28</AGE>
+        <AGE_TEMP>18</AGE_TEMP>
     </RECIPE>
 </RECIPES>
