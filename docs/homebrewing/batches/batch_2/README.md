@@ -50,7 +50,7 @@
 | Color                   | 7.5    | 7.9   | +0.4   | EBC  |
 | Mash pH:                | 6.01   |       |        |      |
 
-## Tasting notes
+## [Tasting notes](./Batch_2_Brouwpunt_Kruidig_Wit_BJCP_Scoresheet.pdf)
 
 | No. | Date       | Age | Score | Notes |
 |-----|------------|-----|-------|-------|
