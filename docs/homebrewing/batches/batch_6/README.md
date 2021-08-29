@@ -52,7 +52,7 @@ Archived.
 | Color                   | 15.2   | 13.4  | -1.8   | EBC  |
 | Mash pH:                | 5.42   | 5.9   | +0.48  |      |
 
-## Tasting notes
+## [Tasting notes](./Batch_6_Brouwpunt_Sinterklaas_Special_BJCP_Scoresheet.pdf)
 
 | No. | Date       | Age | Score | Notes |
 |-----|------------|-----|-------|-------|
