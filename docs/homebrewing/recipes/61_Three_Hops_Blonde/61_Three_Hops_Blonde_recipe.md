@@ -56,6 +56,10 @@ Diacetyl rest @ 19 C for 4 days
 
 30 gram Table Sugar for 2.4 % carbonation
 
+## Carbonation
+
+Carbontation @ 17 C for 14 days
+
 ## Conditioning
 
-Conditioning @ 17 C for 42 days
+Conditioning @ 17 C for 28 days

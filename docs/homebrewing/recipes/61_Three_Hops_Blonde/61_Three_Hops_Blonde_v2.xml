@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <RECIPES>
     <RECIPE>
-        <NAME>&#54;&#49;&#32;Three&#32;Hops&#32;Blonde</NAME>
+        <NAME>&#54;&#49;&#32;Three&#32;Hops&#32;Blonde&#32;v&#50;</NAME>
         <VERSION>1</VERSION>
         <TYPE>All&#32;Grain</TYPE>
-        <NOTES>Malt&#32;is&#32;ordered&#32;with&#32;standard&#32;crush&#32;&#64;&#32;The&#32;Malt&#32;Miller&#32;&#40;https&#58;&#47;&#47;www&#46;themaltmiller&#46;co&#46;uk&#47;&#41;&#46;</NOTES>
+        <NOTES>Target&#58;&#32;ABV&#32;&#61;&#32;&#52;&#46;&#52;&#32;&#37;&#44;&#32;IBU&#32;&#61;&#32;&#50;&#52;&#46;&#10;Malt&#32;is&#32;ordered&#32;with&#32;standard&#32;crush&#32;&#64;&#32;The&#32;Malt&#32;Miller&#32;&#40;https&#58;&#47;&#47;www&#46;themaltmiller&#46;co&#46;uk&#47;&#41;&#46;&#10;Pitch&#32;&#51;&#32;grams&#32;of&#32;yeast&#46;</NOTES>
         <STYLE>
             <NAME>Blonde&#32;Ale</NAME>
             <CATEGORY>Pale&#32;American&#32;Ale</CATEGORY>
@@ -27,60 +27,48 @@
         <BOIL_SIZE>7.76</BOIL_SIZE>
         <BOIL_TIME>60</BOIL_TIME>
         <EFFICIENCY>71.8</EFFICIENCY>
-        <OG>1.047</OG>
-        <FG>1.011</FG>
-        <ABV>4.73 %</ABV>
-        <EST_ABV>4.73 %</EST_ABV>
-        <IBU>22.9</IBU>
-        <EST_OG>1.047 SG</EST_OG>
-        <EST_FG>1.011 SG</EST_FG>
-        <EST_COLOR>4.4 SRM</EST_COLOR>
+        <OG>1.042</OG>
+        <FG>1.008</FG>
+        <ABV>4.46 %</ABV>
+        <EST_ABV>4.46 %</EST_ABV>
+        <IBU>23.5</IBU>
+        <EST_OG>1.042 SG</EST_OG>
+        <EST_FG>1.008 SG</EST_FG>
+        <EST_COLOR>4.1 SRM</EST_COLOR>
         <CARBONATION>2.4</CARBONATION>
         <HOPS>
             <HOP>
-                <BF_ID>9YnHNlE4mxQk76zpYZpso5fbwjfBEl</BF_ID>
-                <NAME>Magnum</NAME>
+                <BF_ID>default-bc4774ae</BF_ID>
+                <NAME>Centennial</NAME>
                 <VERSION>1</VERSION>
-                <ALPHA>10.7</ALPHA>
-                <AMOUNT>0.003</AMOUNT>
-                <USE>Boil</USE>
+                <ALPHA>9</ALPHA>
+                <AMOUNT>0.008199999999999999</AMOUNT>
+                <USE>Aroma</USE>
                 <TIME>30</TIME>
                 <FORM>Pellet</FORM>
-                <TEMPERATURE/>
-                <HOP_TEMP/>
+                <TEMPERATURE>85</TEMPERATURE>
+                <HOP_TEMP>85</HOP_TEMP>
             </HOP>
             <HOP>
-                <BF_ID>9YnHNlE4mxQk76zpYZpso5fbwjfBEl</BF_ID>
-                <NAME>Magnum</NAME>
+                <BF_ID>DZf3pjHA8mYhCLRzYriprkiItRZrED</BF_ID>
+                <NAME>Citra</NAME>
                 <VERSION>1</VERSION>
-                <ALPHA>10.7</ALPHA>
-                <AMOUNT>0.003</AMOUNT>
-                <USE>Boil</USE>
-                <TIME>10</TIME>
-                <FORM>Pellet</FORM>
-                <TEMPERATURE/>
-                <HOP_TEMP/>
-            </HOP>
-            <HOP>
-                <BF_ID>9YnHNlE4mxQk76zpYZpso5fbwjfBEl</BF_ID>
-                <NAME>Magnum</NAME>
-                <VERSION>1</VERSION>
-                <ALPHA>10.7</ALPHA>
-                <AMOUNT>0.004</AMOUNT>
+                <ALPHA>13.8</ALPHA>
+                <AMOUNT>0.0070999999999999995</AMOUNT>
                 <USE>Aroma</USE>
-                <TIME>15</TIME>
+                <TIME>30</TIME>
                 <FORM>Pellet</FORM>
-                <TEMPERATURE/>
-                <HOP_TEMP/>
+                <TEMPERATURE>85</TEMPERATURE>
+                <HOP_TEMP>85</HOP_TEMP>
             </HOP>
             <HOP>
                 <BF_ID>default-bc4774ae</BF_ID>
                 <NAME>Centennial</NAME>
                 <VERSION>1</VERSION>
                 <ALPHA>9</ALPHA>
-                <AMOUNT>0.014</AMOUNT>
+                <AMOUNT>0.0112</AMOUNT>
                 <USE>Dry&#32;Hop</USE>
-                <TIME>10080</TIME>
+                <TIME>5760</TIME>
                 <FORM>Pellet</FORM>
                 <TEMPERATURE/>
                 <HOP_TEMP/>
@@ -90,9 +78,21 @@
                 <NAME>Citra</NAME>
                 <VERSION>1</VERSION>
                 <ALPHA>13.8</ALPHA>
-                <AMOUNT>0.014</AMOUNT>
+                <AMOUNT>0.0112</AMOUNT>
                 <USE>Dry&#32;Hop</USE>
-                <TIME>10080</TIME>
+                <TIME>5760</TIME>
+                <FORM>Pellet</FORM>
+                <TEMPERATURE/>
+                <HOP_TEMP/>
+            </HOP>
+            <HOP>
+                <BF_ID>EBmuTkefEVcaghDLN1ZqstZJyb9GIz</BF_ID>
+                <NAME>HBC&#32;&#52;&#51;&#49;</NAME>
+                <VERSION>1</VERSION>
+                <ALPHA>15.3</ALPHA>
+                <AMOUNT>0.0112</AMOUNT>
+                <USE>Dry&#32;Hop</USE>
+                <TIME>5760</TIME>
                 <FORM>Pellet</FORM>
                 <TEMPERATURE/>
                 <HOP_TEMP/>
@@ -100,21 +100,35 @@
         </HOPS>
         <FERMENTABLES>
             <FERMENTABLE>
-                <BF_ID>KqrZwYfPXULO6LqaTQLAzwBlWI8M8e</BF_ID>
-                <NAME>Maris&#32;Otter&#32;Pale&#32;Ale&#32;Malt</NAME>
-                <SUPPLIER>Thomas&#32;Fawcett</SUPPLIER>
-                <ORIGIN>UK</ORIGIN>
+                <BF_ID>vDVrUjXpqhksYfQO3XK4EgfdmJuunn</BF_ID>
+                <NAME>Pale&#32;Ale&#32;Malt</NAME>
+                <SUPPLIER>BestMalz</SUPPLIER>
+                <ORIGIN>Germany</ORIGIN>
                 <VERSION>1</VERSION>
                 <TYPE>Grain</TYPE>
-                <AMOUNT>1.1</AMOUNT>
-                <YIELD>82.5</YIELD>
-                <COLOR>2.994924</COLOR>
+                <AMOUNT>0.95</AMOUNT>
+                <YIELD>82.8</YIELD>
+                <COLOR>3.045685</COLOR>
                 <ADD_AFTER_BOIL>false</ADD_AFTER_BOIL>
                 <NOT_FERMENTABLE>false</NOT_FERMENTABLE>
                 <IBU_GAL_PER_LB>0</IBU_GAL_PER_LB>
             </FERMENTABLE>
             <FERMENTABLE>
-                <BF_ID>default-132c22b</BF_ID>
+                <BF_ID>pMSMrsJvEdVps8eIg8C5zE60Zp6cbl</BF_ID>
+                <NAME>Carapils</NAME>
+                <SUPPLIER>Weyermann</SUPPLIER>
+                <ORIGIN>Germany</ORIGIN>
+                <VERSION>1</VERSION>
+                <TYPE>Grain</TYPE>
+                <AMOUNT>0.02</AMOUNT>
+                <YIELD>80.07</YIELD>
+                <COLOR>2.030457</COLOR>
+                <ADD_AFTER_BOIL>false</ADD_AFTER_BOIL>
+                <NOT_FERMENTABLE>false</NOT_FERMENTABLE>
+                <IBU_GAL_PER_LB>0</IBU_GAL_PER_LB>
+            </FERMENTABLE>
+            <FERMENTABLE>
+                <BF_ID>N3xrS6whFlinHqtEBDWsDBYCrSZHUp</BF_ID>
                 <NAME>Sugar&#44;&#32;Table&#32;&#40;Sucrose&#41;</NAME>
                 <SUPPLIER>Albert&#32;Heijn</SUPPLIER>
                 <ORIGIN/>
@@ -136,8 +150,8 @@
                 <TYPE>Water&#32;Agent</TYPE>
                 <USE>Mash</USE>
                 <TIME>0</TIME>
-                <AMOUNT>0.00028</AMOUNT>
-                <DISPLAY_AMOUNT>0.28 g</DISPLAY_AMOUNT>
+                <AMOUNT>0.00029</AMOUNT>
+                <DISPLAY_AMOUNT>0.29 g</DISPLAY_AMOUNT>
                 <AMOUNT_IS_WEIGHT>true</AMOUNT_IS_WEIGHT>
             </MISC>
             <MISC>
@@ -147,9 +161,9 @@
                 <TYPE>Water&#32;Agent</TYPE>
                 <USE>Mash</USE>
                 <TIME>0</TIME>
-                <AMOUNT>0.00078</AMOUNT>
-                <DISPLAY_AMOUNT>0.78 ml</DISPLAY_AMOUNT>
-                <AMOUNT_IS_WEIGHT>false</AMOUNT_IS_WEIGHT>
+                <AMOUNT>0.00077</AMOUNT>
+                <DISPLAY_AMOUNT>0.77 g</DISPLAY_AMOUNT>
+                <AMOUNT_IS_WEIGHT>true</AMOUNT_IS_WEIGHT>
             </MISC>
             <MISC>
                 <BF_ID>default-bk9j78</BF_ID>
@@ -158,8 +172,8 @@
                 <TYPE>Water&#32;Agent</TYPE>
                 <USE>Mash</USE>
                 <TIME>0</TIME>
-                <AMOUNT>0.00076</AMOUNT>
-                <DISPLAY_AMOUNT>0.76 g</DISPLAY_AMOUNT>
+                <AMOUNT>0.00075</AMOUNT>
+                <DISPLAY_AMOUNT>0.75 g</DISPLAY_AMOUNT>
                 <AMOUNT_IS_WEIGHT>true</AMOUNT_IS_WEIGHT>
             </MISC>
             <MISC>
@@ -169,19 +183,19 @@
                 <TYPE>Water&#32;Agent</TYPE>
                 <USE>Mash</USE>
                 <TIME>0</TIME>
-                <AMOUNT>0.00118</AMOUNT>
-                <DISPLAY_AMOUNT>1.18 g</DISPLAY_AMOUNT>
+                <AMOUNT>0.00116</AMOUNT>
+                <DISPLAY_AMOUNT>1.16 g</DISPLAY_AMOUNT>
                 <AMOUNT_IS_WEIGHT>true</AMOUNT_IS_WEIGHT>
             </MISC>
             <MISC>
-                <BF_ID>default-1f88df</BF_ID>
+                <BF_ID>yF9a80USqmMj6B5XruCnrTRupHWBlz</BF_ID>
                 <NAME>Gypsum&#32;&#40;CaSO&#52;&#41;</NAME>
                 <VERSION>1</VERSION>
                 <TYPE>Water&#32;Agent</TYPE>
                 <USE>Mash</USE>
                 <TIME>0</TIME>
-                <AMOUNT>0.00152</AMOUNT>
-                <DISPLAY_AMOUNT>1.52 g</DISPLAY_AMOUNT>
+                <AMOUNT>0.0015</AMOUNT>
+                <DISPLAY_AMOUNT>1.5 g</DISPLAY_AMOUNT>
                 <AMOUNT_IS_WEIGHT>true</AMOUNT_IS_WEIGHT>
             </MISC>
             <MISC>
@@ -191,8 +205,8 @@
                 <TYPE>Water&#32;Agent</TYPE>
                 <USE>Mash</USE>
                 <TIME>0</TIME>
-                <AMOUNT>0.0005</AMOUNT>
-                <DISPLAY_AMOUNT>0.5 ml</DISPLAY_AMOUNT>
+                <AMOUNT>0.0004</AMOUNT>
+                <DISPLAY_AMOUNT>0.4 ml</DISPLAY_AMOUNT>
                 <AMOUNT_IS_WEIGHT>false</AMOUNT_IS_WEIGHT>
             </MISC>
             <MISC>
@@ -202,8 +216,8 @@
                 <TYPE>Other</TYPE>
                 <USE>Mash</USE>
                 <TIME>0</TIME>
-                <AMOUNT>3.3</AMOUNT>
-                <DISPLAY_AMOUNT>3.3 l</DISPLAY_AMOUNT>
+                <AMOUNT>2.91</AMOUNT>
+                <DISPLAY_AMOUNT>2.91 l</DISPLAY_AMOUNT>
                 <AMOUNT_IS_WEIGHT>false</AMOUNT_IS_WEIGHT>
             </MISC>
             <MISC>
@@ -213,12 +227,12 @@
                 <TYPE>Other</TYPE>
                 <USE>Sparge</USE>
                 <TIME>0</TIME>
-                <AMOUNT>5.64</AMOUNT>
-                <DISPLAY_AMOUNT>5.64 l</DISPLAY_AMOUNT>
+                <AMOUNT>5.9</AMOUNT>
+                <DISPLAY_AMOUNT>5.9 l</DISPLAY_AMOUNT>
                 <AMOUNT_IS_WEIGHT>false</AMOUNT_IS_WEIGHT>
             </MISC>
             <MISC>
-                <BF_ID>oYnlpgCXfleOJsh6lgnGaajdDcWylQ</BF_ID>
+                <BF_ID>I2WbQDYsuujZXMFJ9xV1nkkYgSQbN6</BF_ID>
                 <NAME>Lipohop&#32;K</NAME>
                 <VERSION>1</VERSION>
                 <TYPE>Other</TYPE>
@@ -240,15 +254,15 @@
                 <AMOUNT_IS_WEIGHT>true</AMOUNT_IS_WEIGHT>
             </MISC>
             <MISC>
-                <BF_ID>default-9mb13</BF_ID>
-                <NAME>Lallemand&#32;Servomyces</NAME>
+                <BF_ID>j5Wgp9yHbnuLdRtAX0djJN6uWQpJ0F</BF_ID>
+                <NAME>Wort&#32;Chiller</NAME>
                 <VERSION>1</VERSION>
                 <TYPE>Other</TYPE>
                 <USE>Boil</USE>
                 <TIME>10</TIME>
-                <AMOUNT>0.00005</AMOUNT>
-                <DISPLAY_AMOUNT>0.05 g</DISPLAY_AMOUNT>
-                <AMOUNT_IS_WEIGHT>true</AMOUNT_IS_WEIGHT>
+                <AMOUNT>1</AMOUNT>
+                <DISPLAY_AMOUNT>1 items</DISPLAY_AMOUNT>
+                <AMOUNT_IS_WEIGHT>false</AMOUNT_IS_WEIGHT>
             </MISC>
             <MISC>
                 <BF_ID>PPrvXTYJNeXNRwSwkecHJuUsWwFODg</BF_ID>
@@ -264,21 +278,21 @@
         </MISCS>
         <YEASTS>
             <YEAST>
-                <BF_ID>F6MOfNi2h2eudOeL3pSFJOXH5Covog</BF_ID>
-                <NAME>SafAle&#32;English&#32;Ale</NAME>
+                <BF_ID>pnybkpAyMW7roqB3ngtYKXG34M1EAF</BF_ID>
+                <NAME>New&#32;England</NAME>
                 <VERSION>1</VERSION>
                 <TYPE>Ale</TYPE>
                 <FORM>Dry</FORM>
-                <AMOUNT>0.5</AMOUNT>
-                <LABORATORY>Fermentis</LABORATORY>
-                <PRODUCT_ID>S&#45;&#48;&#52;</PRODUCT_ID>
-                <DISPLAY_AMOUNT>0.5 pkg</DISPLAY_AMOUNT>
-                <ATTENUATION>75</ATTENUATION>
+                <AMOUNT>0.3</AMOUNT>
+                <LABORATORY>Lallemand&#32;&#40;LalBrew&#41;</LABORATORY>
+                <PRODUCT_ID/>
+                <DISPLAY_AMOUNT>0.3 pkg</DISPLAY_AMOUNT>
+                <ATTENUATION>78</ATTENUATION>
             </YEAST>
         </YEASTS>
         <MASH>
-            <BF_ID>default</BF_ID>
-            <NAME>&#48;&#52;&#32;High&#32;fermentability&#32;&#40;&#54;&#48;&#32;min&#41;</NAME>
+            <BF_ID>ygCVz1DIKlrnR7qxBpq8CHN3cp7Lnt</BF_ID>
+            <NAME>&#49;&#49;&#32;High&#32;fermentability&#32;plus&#32;mash&#32;out&#32;&#40;&#55;&#48;&#32;min&#41;</NAME>
             <VERSION>1</VERSION>
             <GRAIN_TEMP>20</GRAIN_TEMP>
             <MASH_STEPS>
@@ -286,9 +300,16 @@
                     <NAME>Temperature</NAME>
                     <VERSION>1</VERSION>
                     <TYPE>Temperature</TYPE>
-                    <STEP_TEMP>63</STEP_TEMP>
+                    <STEP_TEMP>65</STEP_TEMP>
                     <STEP_TIME>60</STEP_TIME>
-                    <INFUSE_AMOUNT>3.3</INFUSE_AMOUNT>
+                    <INFUSE_AMOUNT>2.91</INFUSE_AMOUNT>
+                </MASH_STEP>
+                <MASH_STEP>
+                    <NAME>Mash&#32;out</NAME>
+                    <VERSION>1</VERSION>
+                    <TYPE>Temperature</TYPE>
+                    <STEP_TEMP>75</STEP_TEMP>
+                    <STEP_TIME>10</STEP_TIME>
                 </MASH_STEP>
             </MASH_STEPS>
         </MASH>
@@ -308,12 +329,12 @@
         <BF_FERMENTATION_PROFILE_NAME>&#48;&#49;&#32;Ale&#32;&#43;&#32;DR&#32;&#43;&#32;Conditioning</BF_FERMENTATION_PROFILE_NAME>
         <FERMENTATION_STAGES>4</FERMENTATION_STAGES>
         <PRIMARY_AGE>10</PRIMARY_AGE>
-        <PRIMARY_TEMP>17</PRIMARY_TEMP>
+        <PRIMARY_TEMP>20</PRIMARY_TEMP>
         <SECONDARY_AGE>4</SECONDARY_AGE>
-        <SECONDARY_TEMP>19</SECONDARY_TEMP>
+        <SECONDARY_TEMP>23</SECONDARY_TEMP>
         <TERTIARY_AGE>14</TERTIARY_AGE>
-        <TERTIARY_TEMP>17</TERTIARY_TEMP>
+        <TERTIARY_TEMP>20</TERTIARY_TEMP>
         <AGE>28</AGE>
-        <AGE_TEMP>17</AGE_TEMP>
+        <AGE_TEMP>20</AGE_TEMP>
     </RECIPE>
 </RECIPES>
