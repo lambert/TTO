@@ -6,4 +6,4 @@
 
 |    | Style | ABV | IBU | EBC | pdf | BeerXML | JSON | Batches |
 |----|-------|-----|-----|-----|-----|---------|------|---------|
-| v1 | Blonde Ale | 4.9 % | 21 | 8 | [pdf](./17_SMaSH_Lemondrop.pdf) | [BeerXML](./17_SMaSH_Lemondrop.xml) | [json](./17_SMaSH_Lemondrop.json) | |
+| [v1](./17_SMaSH_Lemondrop_recipe.md) | Blonde Ale | 4.9 % | 21 | 8 | [pdf](./17_SMaSH_Lemondrop.pdf) | [BeerXML](./17_SMaSH_Lemondrop.xml) | [json](./17_SMaSH_Lemondrop.json) | |
