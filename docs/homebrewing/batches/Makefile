@@ -1,4 +1,5 @@
-DIRS = batch_1 \
+DIRS = graphs \
+	batch_1 \
 	batch_2 \
 	batch_3 \
 	batch_4 \
