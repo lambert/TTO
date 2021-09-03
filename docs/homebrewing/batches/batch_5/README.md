@@ -10,7 +10,7 @@
 
 19-01-2021 23:22 Completed conditioning.
 
-Archived.
+03-09-2021 21:22 Archived.
 
 ## Process data
 
@@ -69,6 +69,6 @@ Archived.
 |   9 | 24-02-2021 |  95 |  2.50 | Opened with a puff and a gusher. Poured hazy with a normal foamy head and lots of yeast in suspension. Pleasant mouthfeel with fruity and floral taste, less citrusy. A bit of a lingering bitter twang at the back of the palate. |
 |  10 | 12-06-2021 | 203 |  2.50 | Opened with a puff. Poured hazy with a normal foamy head. Pleasant mouthfeel with fruity and floral taste, less citrusy. A bit of a lingering bitter twang at the back of the palate. |
 |  11 | 09-07-2021 | 230 |  3.00 | Opened with a small puff. Poured clear with a small foamy head. Pleasant mouthfeel with fruity and floral taste, less citrusy. A bit of a lingering bitter twang at the back of the palate. |
-|  12 | 30-07-2021 | 251 |  3.00 | Opened with a small puff. Poured clear with a nice foamy head. Thin mouthfeel and carbonated.
-|  13 | 27-08-2021 | 279 |  3.00 | Opened with a small puff. Poured clear with a nice foamy head. Thin mouthfeel and a little bit overcarbonated.
-|  14 |            |     |       | |
+|  12 | 30-07-2021 | 251 |  3.00 | Opened with a small puff. Poured clear with a nice foamy head. Thin mouthfeel and carbonated. |
+|  13 | 27-08-2021 | 279 |  3.00 | Opened with a small puff. Poured clear with a nice foamy head. Thin mouthfeel and a little bit overcarbonated. |
+|  14 | 03-09-2021 | 286 |  3.00 | Opened with a small puff. Poured clear with a nice foamy head. Thin mouthfeel and a little bit overcarbonated. |
