@@ -58,7 +58,7 @@ Archived.
 |-----|------------|-----|-------|-------|
 |     | 06-06-2021 |   0 |       | Brew day. |
 |     | 27-06-2021 |  21 |       | Bottling day. |
-|   1 |            |     |       |  |
+|   1 | 04-09-2021 |  90 |  2.50 | Served at 11 C. Cloudy. Opened with a small puff. Light carbonation. Still very green, needs more time to mellow out ... if it will. |
 |   2 |            |     |       |  |
 |   3 |            |     |       |  |
 |   4 |            |     |       |  |
