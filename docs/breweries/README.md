@@ -92,6 +92,8 @@
 
 - [x] [Brouwerij Emelisse](NL/ZL/Goes/Brouwerij_Emelisse.md)
 
+- [x] [Slot Oostende](NL/ZL/Goes/Slot_Oostende.md)
+
 ## Belgium
 
 ### Antwerpen
