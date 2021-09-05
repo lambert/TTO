@@ -64,7 +64,7 @@
 
 #### Uithoorn
 
-- [x] [Brouwerij De Schans](NL/NH/Uithoorn/Brouwerij_De_Schans.md)
+- [x] [Brouwerij De Schans](NL/NH/Uithoorn/Brouwerij_De_Schans.md) - closed.
 
 - [x] [The Thirsty Otter](NL/NH/Uithoorn/The_Thirsty_Otter.md)
 
@@ -112,6 +112,16 @@
 
 ## United Kingdom
 
+### East Yorkshire
+
+#### Hull
+
+- [x] [Atom](UK/East_Yorkshire/Hull/Atom.md)
+
+#### Winestead
+
+- [x] [Great Newsome Brewery](UK/East_Yorkshire/Winestead/Great_Newsome_Brewery.md)
+
 ### Kent
 
 #### Eastry
@@ -126,4 +136,4 @@
 
 #### Scarbourough
 
-- [x] [Scarborough Brewery]()
+- [x] [Scarborough Brewery](UK/North_Yorkshire/Scarborough/Scarborough_Brewery.md)
