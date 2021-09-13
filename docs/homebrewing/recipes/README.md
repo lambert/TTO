@@ -19,6 +19,7 @@
 | ![49](49_AnOtter_Perry_Cider/49_AnOtter_Perry_Cider_48x48.jpeg) | [49 AnOtter Perry Cider](49_AnOtter_Perry_Cider/README.md) | New World Perry (Extract) | 6.3 % | 0 |
 | ![59](59_Four_Hops_IPA/59_Four_Hops_IPA_48x48.jpeg) | [59 Four Hops IPA](59_Four_Hops_IPA/README.md) | Specialty IPA (All Grain) | 6.6 % | 69 |
 | ![61](61_Three_Hops_Blonde/61_Three_Hops_Blonde_48x48.jpeg) | [61 Three Hops Blonde](61_Three_Hops_Blonde/README.md) | Blonde Ale (All Grain) | 4.7 % | 23 |
+| ![74](74_Wet_Hops_Blonde_Ale_Chinook/74_Wet_Hops_Blonde_Ale_Chinook_48x48.jpeg) | [74 Wet Hops Blonde Ale (Chinook)](74_Wet_Hops_Blonde_Ale_Chinook/README.md) | Blonde Ale (All Grain)| 4.3 | 22 |
 
 ## Brew kit recipes
 
