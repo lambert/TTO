@@ -16,10 +16,13 @@
 | 12 | [48 AnOtter Apple Cider](batch_12/README.md) | Completed | 6.0 | 0 | 8.3 | 1.040 | 0.994 | C1B English Cider | Extract |
 | 13 | [49 AnOtter Perry Cider](batch_13/README.md) | Conditioning | 5.9 | 0 | 7.3 | 1.044 | 1.002 | C1D New World Perry | Extract |
 | 14 | [09 SMaSH Sabro](batch_14/README.md) | Conditioning | 7.6 | 66 | 9.1 | 1.060 | 1.005 | 21B Specialty IPA | All Grain |
-| 15 | [Shambles Brewery - Summer Ale Afternoon Delight (clone)](batch_16/README.md) | Planned | | | | | | 18A Blonde Ale | All Grain |
-| 16 | [61 Three Hops Blonde v2](batch_17/README.md) | Planned | | | | | | 18A Blonde Ale | All Grain |
-| 17 | [Five Points Brewing - Best Fuggles (clone) v2](batch_18/README.md) | Planned | | | | | | 11B Best Bitter | All Grain |
-|  | | | | | | | | | |
+| 15 | [74 Wet Hops Blonde Ale (Chinook)](batch_15/README.md) | Fermenting |  | 22 | 6.7 | 1.036 |  | 18A Blonde Ale | All Grain |
+| 16 | [Shambles Brewery - Summer Ale Afternoon Delight (clone)](batch_16/README.md) | Planned | | | | | | 18A Blonde Ale | All Grain |
+| 17 | [61 Three Hops Blonde v2](batch_17/README.md) | Planned | | | | | | 18A Blonde Ale | All Grain |
+| 18 | [61 Three Hops Blonde v3](batch_18/README.md) | Planned | | | | | | 18A Blonde Ale | All Grain |
+| 19 | [Five Points Brewing - Best Fuggles (clone) v2](batch_19/README.md) | Planned | | | | | | 11B Best Bitter | All Grain |
+| 20 | [68 Two Pints and a Packet of Hops (Fuggle and East Kent Goldings)](batch_20/README.md)| Planned | | | | | | 11B Best Bitter | All Grain |
+| 21 | []()| | | | | | | | |
 
 
 ## Original Gravity vs Final Gravity
