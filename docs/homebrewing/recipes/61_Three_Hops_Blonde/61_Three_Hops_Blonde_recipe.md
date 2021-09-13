@@ -58,7 +58,7 @@ Diacetyl rest @ 19 C for 4 days
 
 ## Carbonation
 
-Carbontation @ 17 C for 14 days
+Carbonation @ 17 C for 14 days
 
 ## Conditioning
 
