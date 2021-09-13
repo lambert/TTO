@@ -9,7 +9,7 @@ set style data lines
 set timefmt "%d-%m-%Y"
 
 set ylabel "Batch #"
-set yrange [0:21]
+set yrange [0:22]
 set grid y
 set ytics 1
 
