@@ -5,6 +5,7 @@ set output output_file
 set title "Fermentation"
 set style data points
 set ylabel "Specific Gravity"
+set format y "%.3f"
 set yrange [0.95:1.1]
 set grid y
 set ytics 0.02

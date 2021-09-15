@@ -14,11 +14,15 @@ Archived.
 
 ## Process
 
+![mash pH](mash_ph.png)
+
 ![temperature](temperature.png)
 
 ![fermentation](fermentation.png)
 
 ![specific gravity](gravity.png)
+
+![pH](ph.png)
 
 ![pressure](pressure.png)
 

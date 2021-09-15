@@ -5,6 +5,7 @@ set output output_file
 set title "Fermentation"
 set style data points
 set ylabel "pH value"
+set format y "%.2f"
 set yrange [0:7]
 set grid y
 set ytics 1
