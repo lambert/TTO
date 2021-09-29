@@ -8,7 +8,7 @@ The other part of the wort gave 14 bottles of a single malt Blonde Ale
 with Magnum as kettle and late hops and was dry hopped with Citra and
 Centennial, fermented with Fermentis S-04 yeast from a package.
 
-| Measurements            | Recipe | Batch | Diff   | Unit |
+| Measurement             | Recipe | Batch | Diff   | Unit |
 |-------------------------|--------|-------|--------|------|
 | Pre-Boil Volume:        | 7.76   | 8.5   | +0.74  | L    |
 | Post-Boil Volume (HOT): | 5.96   | 6.7   | +0.74  | L    |
