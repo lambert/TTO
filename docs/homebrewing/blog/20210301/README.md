@@ -1,4 +1,4 @@
-# New equipement
+# New equipement @ March 1st, 2021.
 
 I brought a brew fridge for better temperature control.
 

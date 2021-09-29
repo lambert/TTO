@@ -1,4 +1,4 @@
-# Tasting
+# Tasting @ April 3rd, 2021.
 
 I just had a first taste of my SMaSH Citra.
 
