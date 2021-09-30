@@ -14,6 +14,8 @@
 
 #### [Fermentation problems @ July 8th, 2021](20210708/README.md)
 
+#### [Tasting @ July 2nd, 2021](20210702/README.md)
+
 ### June
 
 #### [Bottling day @ June, 27th 2021](20210627/README.md)
