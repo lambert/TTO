@@ -22,6 +22,8 @@
 
 #### [New equipment @ June 26th, 2021](20210626/README.md)
 
+#### [Hops @ June 14th, 2021](20210614/README.md)
+
 ### May
 
 #### [Bottling day @ May 16th, 2021](20210516/README.md)
