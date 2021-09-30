@@ -8,6 +8,12 @@
 
 #### [Brew day @ September 12th, 2021](20210912/README.md)
 
+### July
+
+#### [Fermentation problems (resolved) @ July 10th, 2021](20210710/README.md)
+
+#### [Fermentation problems @ July 8th, 2021](20210708/README.md)
+
 ### June
 
 #### [Bottling day @ June, 27th 2021](20210627/README.md)
