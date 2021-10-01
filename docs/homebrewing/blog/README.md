@@ -69,3 +69,7 @@
 ### September
 
 #### [Brew day @ September 6th, 2020](20200906/README.md)
+
+### July
+
+#### [New equipment @ July 30th, 2020](20200730/README.md)
