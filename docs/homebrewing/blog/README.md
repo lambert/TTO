@@ -34,6 +34,8 @@
 
 #### [Bottling day @ April 18th, 2021](20210418/README.md)
 
+#### [New equipment @ April 7th, 2021](20210407/README.md)
+
 #### [Brew day @ April 4th, 2021](20210404/README.md)
 
 #### [Tasting @ April 3rd, 2021](20210403/README.md)
