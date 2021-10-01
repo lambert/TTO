@@ -48,6 +48,10 @@
 
 #### [New equipement @ March 1st, 2021](20210301/README.md)
 
+### February
+
+#### [Tasting @ February 19th, 2021](20210219/README.md)
+
 ## 2020
 
 ### December
