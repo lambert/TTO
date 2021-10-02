@@ -60,7 +60,7 @@ Archived.
 |   1 | 02-07-2021 |  61 |  3.00 | Served at 11 C. Pale yelow. Low carbonation. Hoppy, sweet, citrus. |
 |   2 | 11-08-2021 | 101 |  3.00 | Served at 11 C. Pale yellow. Small foam head which dissolves quickly. Low carbonation. Mild on hops, sweet, citrus. Clean, crisp. |
 |   3 | 04-09-2021 | 125 |  3.00 | Served at 11 C. Pale yellow. Small foam head which dissolves quickly. Low carbonation. Mild on hops, sweet, citrus. Clean, crisp. |
-|   4 |            |     |       |  |
+|   4 | 02-10-2021 | 153 |  3.00 | Served at 11 C. Pale yellow. Small foam head which dissolves quickly. Low carbonation. Hoppy, sweet, citrus. Clean, crisp. |
 |   5 |            |     |       |  |
 |   6 |            |     |       |  |
 |   7 |            |     |       |  |
