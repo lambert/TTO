@@ -62,7 +62,7 @@ Archived.
 |     | 08-08-2021 |   0 |       | Brew day. |
 |     | 22-08-2021 |  14 |       | Bottling day. |
 |   1 | 16-09-2021 |  39 |  3.25 | Served at 11 C. Good head of white foam, good lacing. Sweet, hoppy, grapefruity, vegetal, grassy. |
-|   2 |            |     |       |  |
+|   2 | 25-09-2021 |  48 |  3.25 | Served at 11 C. Good head of white foam, good lacing. Sweet, hoppy, grapefruity, vegetal, grassy. |
 |   3 |            |     |       |  |
 |   4 |            |     |       |  |
 |   5 |            |     |       |  |
