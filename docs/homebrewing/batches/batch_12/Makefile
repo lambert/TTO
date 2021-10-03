@@ -8,5 +8,4 @@ png_TARGETS := $(patsubst %.gnuplot,%.png,$(gnuplot_SOURCES))
 	gnuplot $<
 
 all: \
-	$(png_TARGETS) \
-
+	$(png_TARGETS)
