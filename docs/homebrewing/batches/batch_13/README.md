@@ -8,7 +8,7 @@
 
 17-07-2021 16:16 Start conditioning.
 
-Completed conditioning.
+11-09-2021 23:27 Completed conditioning.
 
 Archived.
 
@@ -60,7 +60,7 @@ Archived.
 |-----|------------|-----|-------|-------|
 |     | 04-07-2021 |   0 |       | Brew day. |
 |     | 17-07-2021 |  21 |       | Bottling day. |
-|   1 |            |     |       |  |
+|   1 | 23-09-2021 |  81 | 2.5   | Served at 11 C. Very sour, needs a sweetener or two. |
 |   2 |            |     |       |  |
 |   3 |            |     |       |  |
 |   4 |            |     |       |  |
