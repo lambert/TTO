@@ -12,7 +12,7 @@
 | ![07](../recipes/07_SMaSH_Simcoe/07_SMaSH_Simcoe.jpeg) |  8 | [07 SMaSH Simcoe](batch_8/README.md) | Completed | 6.8 | 36 | 9.3 | 1.054 | 1.002 | 18B American Pale Ale | All Grain |
 | ![07](../recipes/07_SMaSH_Simcoe/07_SMaSH_Simcoe.jpeg) |  9 | [07 SMaSH Simcoe v2](batch_9/README.md) | Archived | 6.7 | 36 | 12.8 | 1.054 | 1.002 | 18B American Pale Ale | All Grain |
 | ![61](../recipes/61_Three_Hops_Blonde/61_Three_Hops_Blonde.jpeg) | 10 | [61 Three Hops Blonde](batch_10/README.md) | Completed | 5.0 | 20 | 7.9 | 1.038 | 1.000 | 18A Blonde Ale | All Grain |
-| ![08](../recipes/08_SMaSH_Magnum/08_SMaSH_Magnum.jpeg) | 11 | [08 SMaSH Magnum](batch_11/README.md) | Completed | 5.0 | 20 | 7.9 | 1.038 | 1.000 | 18A Blonde Ale | All Grain |
+| ![08](../recipes/08_SMaSH_Magnum/08_SMaSH_Magnum.jpeg) | 11 | [08 SMaSH Magnum](batch_11/README.md) | Archived | 5.0 | 20 | 7.9 | 1.038 | 1.000 | 18A Blonde Ale | All Grain |
 | ![48](../recipes/48_AnOtter_Apple_Cider/48_AnOtter_Apple_Cider.jpeg) | 12 | [48 AnOtter Apple Cider](batch_12/README.md) | Completed | 6.0 | 0 | 8.3 | 1.040 | 0.994 | C1B English Cider | Extract |
 | ![49](../recipes/49_AnOtter_Perry_Cider/49_AnOtter_Perry_Cider.jpeg) | 13 | [49 AnOtter Perry Cider](batch_13/README.md) | Completed | 5.9 | 0 | 7.3 | 1.044 | 1.002 | C1D New World Perry | Extract |
 | ![09](../recipes/09_SMaSH_Sabro/09_SMaSH_Sabro.jpeg) | 14 | [09 SMaSH Sabro](batch_14/README.md) | Completed | 7.6 | 66 | 9.1 | 1.060 | 1.005 | 21B Specialty IPA | All Grain |
