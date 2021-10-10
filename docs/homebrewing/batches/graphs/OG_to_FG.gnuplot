@@ -14,7 +14,7 @@ set grid y
 #set ytics 0.01
 set mytics 10
 # format X-axis
-set xlabel "Batch"
+set xlabel "Batch #"
 set xrange [0:16]
 set grid x
 set xtics 1
