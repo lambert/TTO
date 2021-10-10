@@ -23,6 +23,7 @@
 | ![68](68_Two_Pints_and_a_Packet_of_Hops_Fuggle_and_East_Kent_Goldings/68_Two_Pints_and_a_Packet_of_Hops_Fuggle_and_East_Kent_Goldings_48x48.jpeg) | [68 Two Pints and a Packet of Hops (Fuggle and East Kent Goldings)](68_Two_Pints_and_a_Packet_of_Hops_Fuggle_and_East_Kent_Goldings/README.md) | Best Bitter (All Grain) | 4.5 % | 29 |
 | ![69](69_Two_Pints_and_a_Packet_of_Hops_Godiva_and_Progress/69_Two_Pints_and_a_Packet_of_Hops_Godiva_and_Progress_48x48.jpeg) | [69 Two Pints and a Packet of Hops (Godiva and Progress)](69_Two_Pints_and_a_Packet_of_Hops_Godiva_and_Progress/README.md) | British Golden Ale (All Grain) | 4.3 % | 32 |
 | ![74](74_Wet_Hops_Blonde_Ale_Chinook/74_Wet_Hops_Blonde_Ale_Chinook_48x48.jpeg) | [74 Wet Hops Blonde Ale (Chinook)](74_Wet_Hops_Blonde_Ale_Chinook/README.md) | Blonde Ale (All Grain)| 4.3 | 22 |
+| ![75](75_Shameless_Magpied_Summer_Ale/75_Shameless_Magpied_Summer_Ale_48x48.jpeg) | [75 Shameless Magpied Summer Ale](75_Shameless_Magpied_Summer_Ale/README.md) | Blonde Ale (All Grain)| 4.6 | 24 |
 
 ## Brew kit recipes
 
