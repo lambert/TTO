@@ -1,6 +1,6 @@
 # Batches
 
-|   | Batch # | Recipe | Status | ABV | IBU | EBC | OG | FG | BJCP Style | Type |
+|  | Batch # | Recipe | Status | ABV | IBU | EBC | OG | FG | BJCP Style | Type |
 |---|---------|--------|--------|-----|-----|-----|----|----|------------|------|
 | ![B01](../recipes/Brouwpunt_Witbier/Brouwpunt_Witbier.jpeg) |  1 | [Brouwpunt - Witbier](batch_1/README.md) | Archived | 5.0 | 15 | 9.1 | 1.060 | 1.022 | 24A Witbier | All Grain brew kit |
 | ![B02](../recipes/Brouwpunt_Kruidig_Wit/Brouwpunt_Kruidig_Wit.jpeg) |  2 | [Brouwpunt - Kruidig Wit](batch_2/README.md) | Archived | 6.8 | 12 | 7.9 | 1.064 | 1.012 | 24A Witbier | All Grain brew kit |
@@ -22,8 +22,25 @@
 | ![61v3](../recipes/61_Three_Hops_Blonde/61_Three_Hops_Blonde.jpeg) | 18 | [61 Three Hops Blonde v3](batch_18/README.md) | Planned | | | | | | 18A Blonde Ale | All Grain |
 |  | 19 | [77 Five Pints of Best Fuggles](batch_19/README.md) | Planned | | | | | | 11B Best Bitter | All Grain |
 |  | 20 | [68 Two Pints and a Packet of Hops (Fuggle and East Kent Goldings)](batch_20/README.md)| Planned | | | | | | 11B Best Bitter | All Grain |
-|  | 21 | []()| | | | | | | | |
-
+|  | 21 | [73 Two Pints and a Packet of Hops (Fuggle and Progress)]()| Planned | | | | | | 11B Best Bitter | All Grain |
+|  | 22 | [32 Never Give Up!]()| Planned | | | | | | 25C Belgian Golden Strong Ale | All Grain |
+|  | 23 | [32 Never Give Up! v2]()| Planned | | | | | | 25C Belgian Golden Strong Ale | All Grain |
+|  | 24 | [03 SMaSH Godiva v2]()| Planned | | | | | | 12A British Golden Ale | All Grain |
+|  | 25 | [69 Two Pints and a Packet of Hops (Godiva and Progress)]()| Planned | | | | | | 12A British Golden Ale | All Grain |
+|  | 26 | [65 Juniper Ascending]()| Planned | | | | | | Kornøl | All Grain |
+|  | 27 | [66 Kornøl]()| Planned | | | | | | Kornøl | All Grain |
+|  | 28 | [04 SMaSH Fuggle v2]()| Planned | | | | | | 12A British Golden Ale | All Grain |
+|  | 29 | [73 Two Pints and a Packet of Hops (Fuggle and Progress) v2]()| Planned | | | | | | 12A British Golden Ale | All Grain |
+|  | 30 | [11 SMaSH Progress]()| Planned | | | | | | 12A British Golden Ale | All Grain |
+|  | 31 | [11 SMaSH Progress v2]()| Planned | | | | | | 12A British Golden Ale | All Grain |
+|  | 32 | [22 SMaSH Palisade]()| Planned | | | | | | 18A Blonde Ale | All Grain |
+|  | 33 | [22 SMaSH Palisade v2]()| Planned | | | | | | 18A Blonde Ale | All Grain |
+|  | 34 | [19 SMaSH Mosaic]()| Planned | | | | | | 01D American Wheat Beer | All Grain |
+|  | 35 | [19 SMaSH Mosaic v2]()| Planned | | | | | | 01D American Wheat Beer | All Grain |
+|  | 36 | [33 Marvin - HHG2 the Galaxy]()| Planned | | | | | | 01D American Wheat Beer | All Grain |
+|  | 37 | [33 Marvin - HHG2 the Galaxy and beyond]()| Planned | | | | | | 01D American Wheat Beer | All Grain |
+|  | 38 | [35 American Wheat Beer]()| Planned | | | | | | 01D American Wheat Beer | All Grain |
+|  | 39 | [35 American Wheat Beer v2]()| Planned | | | | | | 01D American Wheat Beer | All Grain |
 
 ## Original Gravity vs Final Gravity
 
