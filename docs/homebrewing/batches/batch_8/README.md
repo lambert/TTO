@@ -57,13 +57,13 @@ Archived.
 |-----|------------|-----|-------|-------|
 |     | 04-04-2021 |   0 |       | Brew day. |
 |     | 18-04-2021 |  14 |       | Bottling day. |
-|   1 | 02-05-2021 |  28 |  2.50 | Cooled @ 10 C. Gave a small puff. No distinct carbonation. Citrusy as in lemon or grapefruit, not bitter at all, clear and crisp … just no bubbles. |
-|   2 | 04-06-2021 |  61 |  2.75 | Cooled @ 10 C. Gave a small puff. No distinct carbonation. Thin mouthfeel. Citrusy as in lemon or grapefruit, not bitter at all, clear and crisp … just no bubbles. |
-|   3 | 31-07-2021 | 118 |  3.25 | Cooled @ 10 C. Gave a small puff. Low carbonation, small foam head. Citrusy as in lemon or grapefruit, not bitter at all, clear and crisp. |
-|   4 | 14-08-2021 | 132 |  3.25 | Cooled @ 10 C. Gave a small puff. Low carbonation, small foam head. Citrusy as in lemon or grapefruit, not bitter at all, clear and crisp. |
-|   5 | 28-08-2021 | 146 |  3.25 | Cooled @ 10 C. Gave a small puff. Low carbonation, small foam head. Citrusy as in lemon or grapefruit, not bitter at all, clear and crisp. |
-|   6 |            |     |       |  |
-|   7 |            |     |       |  |
+|   1 | 02-05-2021 |  28 |  2.50 | Served @ 10 C. Gave a small puff. No distinct carbonation. Citrusy as in lemon or grapefruit, not bitter at all, clear and crisp … just no bubbles. |
+|   2 | 04-06-2021 |  61 |  2.75 | Served @ 10 C. Gave a small puff. No distinct carbonation. Thin mouthfeel. Citrusy as in lemon or grapefruit, not bitter at all, clear and crisp … just no bubbles. |
+|   3 | 31-07-2021 | 118 |  3.25 | Served @ 10 C. Gave a small puff. Low carbonation, small foam head. Citrusy as in lemon or grapefruit, not bitter at all, clear and crisp. |
+|   4 | 14-08-2021 | 132 |  3.25 | Served @ 10 C. Gave a small puff. Low carbonation, small foam head. Citrusy as in lemon or grapefruit, not bitter at all, clear and crisp. |
+|   5 | 28-08-2021 | 146 |  3.25 | Served @ 10 C. Gave a small puff. Low carbonation, small foam head. Citrusy as in lemon or grapefruit, not bitter at all, clear and crisp. |
+|   6 | 05-09-2021 | 154 |  3.00 |  |
+|   7 | 16-10-2021 | 195 |  3.00 |  |
 |   8 |            |     |       |  |
 |   9 |            |     |       |  |
 |  10 |            |     |       |  |
