@@ -56,5 +56,5 @@
 |-----|------------|-----|-------|-------|
 |     | 02-05-2021 |   0 |       | Brew day. |
 |     | 16-05-2021 |  14 |       | Bottling day. |
-|   1 | 27-06-2021 |  56 |  2.75 | Served at 11 C. |
-|   2 |            |     |       |  |
+|   1 | 27-06-2021 |  56 |  2.75 | Served at 11 C. Floral/grassy and a bit over carbonated. |
+|   2 | 09-10-2021 | 160 |  2.75 | Served at 11 C. Sweet, dry, thin, carbonated. |
