@@ -40,7 +40,7 @@ Strike temperature @ 71 C
 
 ## Fermentation
 
-0.3 package Lallemand New England yeast
+3 grams Lallemand New England yeast
 
 Primary @ 20 C for 10 days
 
