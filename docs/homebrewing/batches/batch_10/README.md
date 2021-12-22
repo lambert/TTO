@@ -63,7 +63,7 @@ Archived.
 |   4 | 02-10-2021 | 153 |  3.00 | Served at 11 C. Pale yellow. Small foam head which dissolves quickly. Low carbonation. Hoppy, sweet, citrus. Clean, crisp. |
 |   5 | 16-10-2021 | 167 |  3.00 |  |
 |   6 | 14-11-2021 | 196 |  3.00 | Served at 11 C. Pale yellow. Small foam head which dissolves quickly. Low carbonation. Hoppy, sweet, citrus. Clean, crisp. |
-|   7 |            |     |       |  |
+|   7 | 05-12-2021 | 217 |  3.00 |  |
 |   8 |            |     |       |  |
 |   9 |            |     |       |  |
 |  10 |            |     |       |  |
