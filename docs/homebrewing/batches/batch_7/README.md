@@ -63,7 +63,7 @@ Archived.
 |   4 | 02-05-2021 |  57 |  3.50 | Cooled @ 10 C. Opening the swing top gave a puff. Poured a head with good retention and lacing. Strong citra taste and a little bit dank. Strong body. |
 |   5 | 05-09-2021 | 183 |       |  |
 |   6 | 13-11-2021 | 252 |  3.50 | Cooled @ 11 C. Opening the swing top gave a puff. Poured a head with good retention and lacing. Strong citra taste and a little bit dank. Strong body. |
-|   7 |            |     |       |  |
+|   7 | 03-12-2021 | 272 |  3.50 |  |
 |   8 |            |     |       |  |
 |   9 |            |     |       |  |
 |  10 |            |     |       |  |
