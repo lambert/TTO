@@ -62,8 +62,8 @@ Archived.
 |     | 12-09-2021 |   0 |       | Brew day. |
 |     | 28-09-2021 |  16 |       | Bottling day. |
 |   1 | 14-10-2021 |  32 |  2.50 | Served @ 12 C. Light, thin and malty, slight hints of hops, hardly any carbonation, two weeks after bottling, not fully cleared and a little bit hazy. |
-|   2 |            |     |       |  |
-|   3 |            |     |       |  |
+|   2 | 20-11-2021 |  69 |  2.50 | Served @ 12 C. Light, thin and malty, slight hints of hops, hardly any carbonation |
+|   3 | 05-12-2021 |  84 |  2.50 | Served @ 12 C. Light, thin and malty, slight hints of hops, hardly any carbonation |
 |   4 |            |     |       |  |
 |   5 |            |     |       |  |
 |   6 |            |     |       |  |
