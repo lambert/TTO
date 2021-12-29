@@ -1,4 +1,4 @@
-# Batch #16
+# Batch #16 - 75 Shameless Magpied Summer Ale 
 
 ## Milestones
 
@@ -13,6 +13,8 @@ Completed conditioning.
 Archived.
 
 ## Process
+
+![mash pH](mash_ph.png)
 
 ![temperature](temperature.png)
 
@@ -55,7 +57,7 @@ Archived.
 
 | No. | Date       | Age | Score | Notes |
 |-----|------------|-----|-------|-------|
-|     |            |   0 |       | Brew day. |
+|     | 28-12-2021 |   0 |       | Brew day. |
 |     |            |     |       | Bottling day. |
 |   1 |            |     |       |  |
 |   2 |            |     |       |  |
