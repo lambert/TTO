@@ -1,10 +1,10 @@
-# Batch #17
+# Batch #17 - 61 Three Hops Blonde v2
 
 ## Milestones
 
-Start brewing.
+28-12-2021 11:00 Start brewing.
 
-Start fermentation.
+28-12-2021 22:00 Start fermentation.
 
 Start conditioning.
 
@@ -33,29 +33,29 @@ Archived.
 | Pre-Boil Volume:        |        |       |        | L    |
 | Post-Boil Volume (HOT): |        |       |        | L    |
 | Boil Off per Hour:      |        |       |        | L    |
-| Batch Volume:           |        |       |        | L    |
+| Batch Volume:           | 1.2    | 1.0   | -0.2   | L    |
 | Trub/Chiller Loss:      |        |       |        | L    |
-| Bottling Volume:        |        |       |        | L    |
+| Bottling Volume:        | 1.2    |       |        | L    |
 | Pre-Boil Gravity:       |        |       |        |      |
 | Post-Boil Gravity:      |        |       |        |      |
-| Original Gravity:       |        |       |        |      |
-| Total Gravity:          |        |       |        |      |
-| Final Gravity:          |        |       |        |      |
-| Alcohol By Volume:      |        |       |        | %    |
-| Apparent Attenuation:   |        |       |        | %    |
+| Original Gravity:       | 1.040  | 1.042 | +0.002 |      |
+| Total Gravity:          | 1.042  | 1.044 | +0.002 |      |
+| Final Gravity:          | 1.008  |       |        |      |
+| Alcohol By Volume:      | 4.5    |       |        | %    |
+| Apparent Attenuation:   | 80.4   |       |        | %    |
 | Mash Efficiency:        |        |       |        | %    |
 | Brewhouse Efficiency:   |        |       |        | %    |
-| IBU:                    |        |       |        |      |
-| BU/GU Ratio:            |        |       |        |      |
-| RB Ratio:               |        |       |        |      |
-| Color                   |        |       |        | EBC  |
-| Mash pH:                |        |       |        |      |
+| IBU:                    | 24     | 22    | -2     |      |
+| BU/GU Ratio:            | 0.56   | 0.50  | -0.06  |      |
+| RB Ratio:               | 0.58   | 0.51  | -0.07  |      |
+| Color                   | 7.7    | 7.7   |  0     | EBC  |
+| Mash pH:                | 4.62   | 5.33  | +0.71  |      |
 
 ## Tasting notes
 
 | No. | Date       | Age | Score | Notes |
 |-----|------------|-----|-------|-------|
-|     |            |   0 |       | Brew day. |
+|     | 28-12-2021 |   0 |       | Brew day. |
 |     |            |     |       | Bottling day. |
 |   1 |            |     |       |  |
 |   2 |            |     |       |  |
@@ -73,4 +73,3 @@ Archived.
 |  14 |            |     |       |  |
 |  15 |            |     |       |  |
 |  16 |            |     |       |  |
-
