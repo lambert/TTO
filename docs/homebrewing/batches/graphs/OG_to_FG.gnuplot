@@ -15,7 +15,7 @@ set grid y
 set mytics 10
 # format X-axis
 set xlabel "Batch #"
-set xrange [0:16]
+set xrange [0:19]
 set grid x
 set xtics 1
 plot "OG_vs_FG.data" using 1:2:(0.0):($3-$2):4 with vectors lw 3 lc variable notitle, \
