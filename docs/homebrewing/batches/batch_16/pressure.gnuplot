@@ -5,7 +5,7 @@ set output output_file
 set title "Fermentation"
 set style data lines
 set ylabel "Pressure [mm H2O]"
-set yrange [-30:60]
+set yrange [-60:60]
 set grid y
 set ytics 10
 set mytics 5
