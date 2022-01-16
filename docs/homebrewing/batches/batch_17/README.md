@@ -6,7 +6,7 @@
 
 28-12-2021 22:00 Start fermentation.
 
-Start conditioning.
+15-01-2022 12:03 Start conditioning.
 
 Completed conditioning.
 
@@ -24,7 +24,7 @@ Archived.
 
 ![conditioning](conditioning.png)
 
-[Results](./Batch_17_results.pdf)
+[Results](./Batch_17_61_Three_Hops_Blonde_v2_results.pdf)
 
 ## Evaluation
 
@@ -35,19 +35,19 @@ Archived.
 | Boil Off per Hour:      |        |       |        | L    |
 | Batch Volume:           | 1.2    | 1.0   | -0.2   | L    |
 | Trub/Chiller Loss:      |        |       |        | L    |
-| Bottling Volume:        | 1.2    |       |        | L    |
+| Bottling Volume:        | 1.2    | 0.66  | -0.54  | L    |
 | Pre-Boil Gravity:       |        |       |        |      |
 | Post-Boil Gravity:      |        |       |        |      |
 | Original Gravity:       | 1.040  | 1.042 | +0.002 |      |
-| Total Gravity:          | 1.042  | 1.044 | +0.002 |      |
-| Final Gravity:          | 1.008  |       |        |      |
-| Alcohol By Volume:      | 4.5    |       |        | %    |
-| Apparent Attenuation:   | 80.4   |       |        | %    |
+| Total Gravity:          | 1.042  | 1.046 | +0.002 |      |
+| Final Gravity:          | 1.008  | 1.005 | -0.003 |      |
+| Alcohol By Volume:      | 4.5    | 5.4   | +0.9   | %    |
+| Apparent Attenuation:   | 80.4   | 88.7  | +8.3   | %    |
 | Mash Efficiency:        |        |       |        | %    |
 | Brewhouse Efficiency:   |        |       |        | %    |
 | IBU:                    | 24     | 22    | -2     |      |
-| BU/GU Ratio:            | 0.56   | 0.50  | -0.06  |      |
-| RB Ratio:               | 0.58   | 0.51  | -0.07  |      |
+| BU/GU Ratio:            | 0.56   | 0.49  | -0.07  |      |
+| RB Ratio:               | 0.58   | 0.53  | -0.05  |      |
 | Color                   | 7.7    | 7.7   |  0     | EBC  |
 | Mash pH:                | 4.62   | 5.33  | +0.71  |      |
 
@@ -56,20 +56,6 @@ Archived.
 | No. | Date       | Age | Score | Notes |
 |-----|------------|-----|-------|-------|
 |     | 28-12-2021 |   0 |       | Brew day. |
-|     |            |     |       | Bottling day. |
+|     | 15-01-2022 |  18 |       | Bottling day. |
 |   1 |            |     |       |  |
 |   2 |            |     |       |  |
-|   3 |            |     |       |  |
-|   4 |            |     |       |  |
-|   5 |            |     |       |  |
-|   6 |            |     |       |  |
-|   7 |            |     |       |  |
-|   8 |            |     |       |  |
-|   9 |            |     |       |  |
-|  10 |            |     |       |  |
-|  11 |            |     |       |  |
-|  12 |            |     |       |  |
-|  13 |            |     |       |  |
-|  14 |            |     |       |  |
-|  15 |            |     |       |  |
-|  16 |            |     |       |  |
