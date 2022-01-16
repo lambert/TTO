@@ -18,7 +18,9 @@ set xdata time
 set timefmt "%d-%m-%Y  %H:%M"
 set format x "%d-%m-%Y"
 plot "fermentation.data" using 1:3 title "Fermentation", \
-     "conditioning.data" using 1:3 title "Conditioning"
+     "conditioning.data" using 1:3 title "Conditioning", \
+     "temperature_profile.data" using 1:3 title "Profile", \
+     "temperature_set_value.data" using 1:3 title "Set Value"
 # set output back to default
 set output
 # reset terminal type

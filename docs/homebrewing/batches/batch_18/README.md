@@ -1,4 +1,4 @@
-# Batch # - 61 Three Hops Blonde v3
+# Batch #18 - 61 Three Hops Blonde v3
 
 ## Milestones
 
@@ -6,7 +6,7 @@
 
 28-12-2021 22:00 Start fermentation.
 
-Start conditioning.
+15-01-2022 12:20 Start conditioning.
 
 Completed conditioning.
 
@@ -24,7 +24,7 @@ Archived.
 
 ![conditioning](conditioning.png)
 
-[Results](./Batch__results.pdf)
+[Results](./Batch_18_61_Three_Hops_Blonde_v3_results.pdf)
 
 ### Evaluation
 
@@ -56,20 +56,6 @@ Archived.
 | No. | Date       | Age | Score | Notes |
 |-----|------------|-----|-------|-------|
 |     | 28-12-2021 |   0 |       | Brew day. |
-|     |            |     |       | Bottling day. |
+|     | 15-01-2022 |  18 |       | Bottling day. |
 |   1 |            |     |       |  |
 |   2 |            |     |       |  |
-|   3 |            |     |       |  |
-|   4 |            |     |       |  |
-|   5 |            |     |       |  |
-|   6 |            |     |       |  |
-|   7 |            |     |       |  |
-|   8 |            |     |       |  |
-|   9 |            |     |       |  |
-|  10 |            |     |       |  |
-|  11 |            |     |       |  |
-|  12 |            |     |       |  |
-|  13 |            |     |       |  |
-|  14 |            |     |       |  |
-|  15 |            |     |       |  |
-|  16 |            |     |       |  |
