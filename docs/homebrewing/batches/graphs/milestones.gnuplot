@@ -9,7 +9,7 @@ set style data lines
 set timefmt "%d-%m-%Y"
 
 set ylabel "Batch #"
-set yrange [0:22]
+set yrange [0:25]
 set grid y
 set ytics 1
 
@@ -21,12 +21,12 @@ set xdata time
 set format x "%m-%Y"
 
 plot "milestones.data" using 2:1:2:(0.0):4 with vectors lw 7 lc variable notitle, \
-         keyentry with point lc 1 lt 5 title "Brewing", \
-         keyentry with point lc 2 lt 5 title "Start Fermentation", \
-         keyentry with point lc 3 lt 5 title "Start Carbonation", \
-         keyentry with point lc 4 lt 5 title "Start Conditioning", \
-         keyentry with point lc 5 lt 5 title "Completed Conditioning", \
-         keyentry with point lc 7 lt 5 title "Archived"
+    keyentry with point lc 1 lt 5 title "Brewing", \
+    keyentry with point lc 2 lt 5 title "Start Fermentation", \
+    keyentry with point lc 3 lt 5 title "Start Carbonation", \
+    keyentry with point lc 4 lt 5 title "Start Conditioning", \
+    keyentry with point lc 5 lt 5 title "Completed Conditioning", \
+    keyentry with point lc 7 lt 5 title "Archived"
 
 # set output back to default
 set output
