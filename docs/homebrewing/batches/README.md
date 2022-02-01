@@ -52,4 +52,8 @@
 
 ## Milestones
 
-![fig_2](graphs/milestones.png)
+![fig_3](graphs/milestones.png)
+
+## Milling Gap Size vs Efficiency
+
+![fig_4](graphs/gap_size_vs_efficiency.png)
