@@ -1,4 +1,4 @@
-# Fermentation problems (resolved) @ July 10th, 2021.
+# Fermentation problems resolved @ July 10th, 2021.
 
 I did a reading of the perry cider this morning of 1.002 ... almost
 there.

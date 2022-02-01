@@ -1,5 +1,11 @@
 # Blog
 
+## 2022
+
+### January
+
+#### [Bottling day @ January 15th, 2022](20220115/README.md)
+
 ## 2021
 
 ### December
@@ -14,7 +20,7 @@
 
 ### July
 
-#### [Fermentation problems (resolved) @ July 10th, 2021](20210710/README.md)
+#### [Fermentation problems resolved @ July 10th, 2021](20210710/README.md)
 
 #### [Fermentation problems @ July 8th, 2021](20210708/README.md)
 
