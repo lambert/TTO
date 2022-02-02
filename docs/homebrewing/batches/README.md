@@ -1,5 +1,7 @@
 # Batches
 
+[Some graphs](graphs/README.md)
+
 |  | Batch # | Recipe | Status | ABV | IBU | EBC | OG | FG | BJCP Style | Type |
 |---|---------|--------|--------|-----|-----|-----|----|----|------------|------|
 | ![B01](../recipes/Brouwpunt_Witbier/Brouwpunt_Witbier.jpeg) |  1 | [Brouwpunt - Witbier](batch_1/README.md) | Archived | 5.0 | 15 | 9.1 | 1.060 | 1.022 | 24A Witbier | All Grain brew kit |
@@ -41,19 +43,3 @@
 |  | 37 | [33 Marvin - HHG2 the Galaxy and beyond]()| Planned | | | | | | 01D American Wheat Beer | All Grain |
 |  | 38 | [35 American Wheat Beer]()| Planned | | | | | | 01D American Wheat Beer | All Grain |
 |  | 39 | [35 American Wheat Beer v2]()| Planned | | | | | | 01D American Wheat Beer | All Grain |
-
-## Original Gravity vs Final Gravity
-
-![fig_1](graphs/OG_vs_FG.png)
-
-## Original Gravity to Final Gravity
-
-![fig_2](graphs/OG_to_FG.png)
-
-## Milestones
-
-![fig_3](graphs/milestones.png)
-
-## Milling Gap Size vs Efficiency
-
-![fig_4](graphs/gap_size_vs_efficiency.png)
