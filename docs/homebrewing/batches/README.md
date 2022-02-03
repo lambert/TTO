@@ -2,7 +2,7 @@
 
 [Some graphs](graphs/README.md)
 
-|  | Batch # | Recipe | Status | ABV | IBU | EBC | OG | FG | BJCP Style | Type |
+|   | Batch # | Recipe | Status | ABV | IBU | EBC | OG | FG | BJCP Style | Type |
 |---|---------|--------|--------|-----|-----|-----|----|----|------------|------|
 | ![B01](../recipes/Brouwpunt_Witbier/Brouwpunt_Witbier.jpeg) |  1 | [Brouwpunt - Witbier](batch_1/README.md) | Archived | 5.0 | 15 | 9.1 | 1.060 | 1.022 | 24A Witbier | All Grain brew kit |
 | ![B02](../recipes/Brouwpunt_Kruidig_Wit/Brouwpunt_Kruidig_Wit.jpeg) |  2 | [Brouwpunt - Kruidig Wit](batch_2/README.md) | Archived | 6.8 | 12 | 7.9 | 1.064 | 1.012 | 24A Witbier | All Grain brew kit |
@@ -35,11 +35,14 @@
 |  | 29 | [73 Two Pints and a Packet of Hops (Fuggle and Progress) v2]()| Planned | | | | | | 12A British Golden Ale | All Grain |
 |  | 30 | [11 SMaSH Progress]()| Planned | | | | | | 12A British Golden Ale | All Grain |
 |  | 31 | [11 SMaSH Progress v2]()| Planned | | | | | | 12A British Golden Ale | All Grain |
-|  | 32 | [22 SMaSH Palisade]()| Planned | | | | | | 18A Blonde Ale | All Grain |
-|  | 33 | [22 SMaSH Palisade v2]()| Planned | | | | | | 18A Blonde Ale | All Grain |
-|  | 34 | [19 SMaSH Mosaic]()| Planned | | | | | | 01D American Wheat Beer | All Grain |
-|  | 35 | [19 SMaSH Mosaic v2]()| Planned | | | | | | 01D American Wheat Beer | All Grain |
-|  | 36 | [33 Marvin - HHG2 the Galaxy]()| Planned | | | | | | 01D American Wheat Beer | All Grain |
-|  | 37 | [33 Marvin - HHG2 the Galaxy and beyond]()| Planned | | | | | | 01D American Wheat Beer | All Grain |
-|  | 38 | [35 American Wheat Beer]()| Planned | | | | | | 01D American Wheat Beer | All Grain |
-|  | 39 | [35 American Wheat Beer v2]()| Planned | | | | | | 01D American Wheat Beer | All Grain |
+|  | 32 | [11 SMaSH Progress v3]()| Planned | | | | | | 12A British Golden Ale | All Grain |
+|  | 33 | [22 SMaSH Palisade]()| Planned | | | | | | 18A Blonde Ale | All Grain |
+|  | 34 | [22 SMaSH Palisade v2]()| Planned | | | | | | 18A Blonde Ale | All Grain |
+|  | 35 | [22 SMaSH Palisade v3]()| Planned | | | | | | 18A Blonde Ale | All Grain |
+|  | 36 | [19 SMaSH Mosaic]()| Planned | | | | | | 01D American Wheat Beer | All Grain |
+|  | 37 | [19 SMaSH Mosaic v2]()| Planned | | | | | | 01D American Wheat Beer | All Grain |
+|  | 38 | [19 SMaSH Mosaic v3]()| Planned | | | | | | 01D American Wheat Beer | All Grain |
+|  | 39 | [33 Marvin - HHG2 the Galaxy]()| Planned | | | | | | 01D American Wheat Beer | All Grain |
+|  | 40 | [33 Marvin - HHG2 the Galaxy and beyond]()| Planned | | | | | | 01D American Wheat Beer | All Grain |
+|  | 41 | [35 American Wheat Beer]()| Planned | | | | | | 01D American Wheat Beer | All Grain |
+|  | 42 | [35 American Wheat Beer v2]()| Planned | | | | | | 01D American Wheat Beer | All Grain |
