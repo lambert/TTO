@@ -27,22 +27,27 @@
 |  | 21 | [73 Two Pints and a Packet of Hops (Fuggle and Progress)]()| Planned | | | | | | 11B Best Bitter | All Grain |
 |  | 22 | [32 Never Give Up!]()| Planned | | | | | | 25C Belgian Golden Strong Ale | All Grain |
 |  | 23 | [32 Never Give Up! v2]()| Planned | | | | | | 25C Belgian Golden Strong Ale | All Grain |
-|  | 24 | [03 SMaSH Godiva v2]()| Planned | | | | | | 12A British Golden Ale | All Grain |
-|  | 25 | [69 Two Pints and a Packet of Hops (Godiva and Progress)]()| Planned | | | | | | 12A British Golden Ale | All Grain |
-|  | 26 | [65 Juniper Ascending]()| Planned | | | | | | Kornøl | All Grain |
-|  | 27 | [66 Kornøl]()| Planned | | | | | | Kornøl | All Grain |
-|  | 28 | [04 SMaSH Fuggle v2]()| Planned | | | | | | 12A British Golden Ale | All Grain |
-|  | 29 | [73 Two Pints and a Packet of Hops (Fuggle and Progress) v2]()| Planned | | | | | | 12A British Golden Ale | All Grain |
-|  | 30 | [11 SMaSH Progress]()| Planned | | | | | | 12A British Golden Ale | All Grain |
-|  | 31 | [11 SMaSH Progress v2]()| Planned | | | | | | 12A British Golden Ale | All Grain |
-|  | 32 | [11 SMaSH Progress v3]()| Planned | | | | | | 12A British Golden Ale | All Grain |
-|  | 33 | [22 SMaSH Palisade]()| Planned | | | | | | 18A Blonde Ale | All Grain |
-|  | 34 | [22 SMaSH Palisade v2]()| Planned | | | | | | 18A Blonde Ale | All Grain |
-|  | 35 | [22 SMaSH Palisade v3]()| Planned | | | | | | 18A Blonde Ale | All Grain |
-|  | 36 | [19 SMaSH Mosaic]()| Planned | | | | | | 01D American Wheat Beer | All Grain |
-|  | 37 | [19 SMaSH Mosaic v2]()| Planned | | | | | | 01D American Wheat Beer | All Grain |
-|  | 38 | [19 SMaSH Mosaic v3]()| Planned | | | | | | 01D American Wheat Beer | All Grain |
-|  | 39 | [33 Marvin - HHG2 the Galaxy]()| Planned | | | | | | 01D American Wheat Beer | All Grain |
-|  | 40 | [33 Marvin - HHG2 the Galaxy and beyond]()| Planned | | | | | | 01D American Wheat Beer | All Grain |
-|  | 41 | [35 American Wheat Beer]()| Planned | | | | | | 01D American Wheat Beer | All Grain |
-|  | 42 | [35 American Wheat Beer v2]()| Planned | | | | | | 01D American Wheat Beer | All Grain |
+|  | 24 | [32 Never Give Up! v3]()| Planned | | | | | | 25C Belgian Golden Strong Ale | All Grain |
+|  | 25 | [03 SMaSH Godiva v2]()| Planned | | | | | | 12A British Golden Ale | All Grain |
+|  | 26 | [69 Two Pints and a Packet of Hops (Godiva and Progress)]()| Planned | | | | | | 12A British Golden Ale | All Grain |
+|  | 27 | [69 Two Pints and a Packet of Hops (Godiva and East Kent Goldings)]()| Planned | | | | | | 12A British Golden Ale | All Grain |
+|  | 28 | [65 Juniper Ascending]()| Planned | | | | | | Kornøl | All Grain |
+|  | 29 | [66 Kornøl]()| Planned | | | | | | Kornøl | All Grain |
+|  | 30 | [04 SMaSH Fuggle v2]()| Planned | | | | | | 12A British Golden Ale | All Grain |
+|  | 31 | [73 Two Pints and a Packet of Hops (Fuggle and Progress) v2]()| Planned | | | | | | 12A British Golden Ale | All Grain |
+|  | 32 | [73 Two Pints and a Packet of Hops (Fuggle and East Kent Goldings) v2]()| Planned | | | | | | 12A British Golden Ale | All Grain |
+|  | 33 | [11 SMaSH Progress]()| Planned | | | | | | 12A British Golden Ale | All Grain |
+|  | 34 | [11 SMaSH Progress v2]()| Planned | | | | | | 12A British Golden Ale | All Grain |
+|  | 35 | [11 SMaSH Progress v3]()| Planned | | | | | | 12A British Golden Ale | All Grain |
+|  | 36 | [22 SMaSH Palisade]()| Planned | | | | | | 18A Blonde Ale | All Grain |
+|  | 37 | [22 SMaSH Palisade v2]()| Planned | | | | | | 18A Blonde Ale | All Grain |
+|  | 38 | [22 SMaSH Palisade v3]()| Planned | | | | | | 18A Blonde Ale | All Grain |
+|  | 39 | [19 SMaSH Mosaic]()| Planned | | | | | | 01D American Wheat Beer | All Grain |
+|  | 40 | [19 SMaSH Mosaic v2]()| Planned | | | | | | 01D American Wheat Beer | All Grain |
+|  | 41 | [19 SMaSH Mosaic v3]()| Planned | | | | | | 01D American Wheat Beer | All Grain |
+|  | 42 | [33 Marvin - HHG2 the Galaxy]()| Planned | | | | | | 01D American Wheat Beer | All Grain |
+|  | 43 | [33 Marvin - HHG2 the Galaxy and beyond]()| Planned | | | | | | 01D American Wheat Beer | All Grain |
+|  | 44 | [33 Marvin - HHG2 the Galaxy and beyond v2]()| Planned | | | | | | 01D American Wheat Beer | All Grain |
+|  | 45 | [35 American Wheat Beer]()| Planned | | | | | | 01D American Wheat Beer | All Grain |
+|  | 46 | [35 American Wheat Beer v2]()| Planned | | | | | | 01D American Wheat Beer | All Grain |
+|  | 47 | [35 American Wheat Beer v3]()| Planned | | | | | | 01D American Wheat Beer | All Grain |
