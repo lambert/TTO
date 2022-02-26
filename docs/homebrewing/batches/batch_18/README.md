@@ -8,7 +8,7 @@
 
 15-01-2022 12:20 Start conditioning.
 
-Completed conditioning.
+26-02-2022 19:07 Completed conditioning.
 
 Archived.
 
@@ -19,8 +19,6 @@ Archived.
 ![fermentation](fermentation.png)
 
 ![specific gravity](gravity.png)
-
-![pressure](pressure.png)
 
 ![conditioning](conditioning.png)
 
