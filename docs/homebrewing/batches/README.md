@@ -19,9 +19,9 @@
 | ![49](../recipes/49_AnOtter_Perry_Cider/49_AnOtter_Perry_Cider.jpeg) | 13 | [49 AnOtter Perry Cider](batch_13/README.md) | Completed | 5.9 | 0 | 7.3 | 1.044 | 1.002 | C1D New World Perry | Extract |
 | ![09](../recipes/09_SMaSH_Sabro/09_SMaSH_Sabro.jpeg) | 14 | [09 SMaSH Sabro](batch_14/README.md) | Completed | 7.6 | 66 | 9.1 | 1.060 | 1.005 | 21B Specialty IPA | All Grain |
 | ![74](../recipes/74_Wet_Hops_Blonde_Ale_Chinook/74_Wet_Hops_Blonde_Ale_Chinook.jpeg) | 15 | [74 Wet Hops Blonde Ale (Chinook)](batch_15/README.md) | Completed | 5.1 | 22 | 6.7 | 1.036 | 1.000 | 18A Blonde Ale | All Grain |
-| ![75](../recipes/75_Shameless_Magpied_Summer_Ale/75_Shameless_Magpied_Summer_Ale.jpeg) | 16 | [75 Shameless Magpied Summer Ale](batch_16/README.md) | Conditioning | 5.1 | 24 | 7.9 | 1.042 | 1.006 | 18A Blonde Ale | All Grain |
-| ![61v2](../recipes/61_Three_Hops_Blonde/61_Three_Hops_Blonde.jpeg) | 17 | [61 Three Hops Blonde v2](batch_17/README.md) | Conditioning | 5.4 | 22 | 7.7 | 1.042 | 1.005 | 18A Blonde Ale | All Grain |
-| ![61v3](../recipes/61_Three_Hops_Blonde/61_Three_Hops_Blonde.jpeg) | 18 | [61 Three Hops Blonde v3](batch_18/README.md) | Conditioning | 5.0 | 22 | 7.7 | 1.042 | 1.008 | 18A Blonde Ale | All Grain |
+| ![75](../recipes/75_Shameless_Magpied_Summer_Ale/75_Shameless_Magpied_Summer_Ale.jpeg) | 16 | [75 Shameless Magpied Summer Ale](batch_16/README.md) | Completed | 5.1 | 24 | 7.9 | 1.042 | 1.006 | 18A Blonde Ale | All Grain |
+| ![61v2](../recipes/61_Three_Hops_Blonde/61_Three_Hops_Blonde.jpeg) | 17 | [61 Three Hops Blonde v2](batch_17/README.md) | Completed | 5.4 | 22 | 7.7 | 1.042 | 1.005 | 18A Blonde Ale | All Grain |
+| ![61v3](../recipes/61_Three_Hops_Blonde/61_Three_Hops_Blonde.jpeg) | 18 | [61 Three Hops Blonde v3](batch_18/README.md) | Completed | 5.0 | 22 | 7.7 | 1.042 | 1.008 | 18A Blonde Ale | All Grain |
 |  | 19 | [77 Five Pints of Best Fuggles](batch_19/README.md) | Planned | | | | | | 11B Best Bitter | All Grain |
 |  | 20 | [68 Two Pints and a Packet of Hops (Fuggle and East Kent Goldings)](batch_20/README.md)| Planned | | | | | | 11B Best Bitter | All Grain |
 |  | 21 | [73 Two Pints and a Packet of Hops (Fuggle and Progress)]()| Planned | | | | | | 11B Best Bitter | All Grain |
