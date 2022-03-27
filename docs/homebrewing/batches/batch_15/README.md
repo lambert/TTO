@@ -66,7 +66,7 @@ Archived.
 |   3 | 05-12-2021 |  84 |  2.50 | Served @ 12 C. Light, thin and malty, slight hints of hops, hardly any carbonation |
 |   4 | 22-12-2021 | 101 |  2.50 | Served @ 12 C. Light, thin and malty, slight hints of hops, hardly any carbonation |
 |   5 | 22-12-2021 | 101 |  2.50 | Served @ 12 C. Light, thin and malty, slight hints of hops, hardly any carbonation |
-|   6 |            |     |       |  |
+|   6 | 26-03-2022 | 195 |  2.50 | Served @ 12 C. Light, thin and malty, slight hints of hops, light carbonation. Clean and crisp.  |
 |   7 |            |     |       |  |
 |   8 |            |     |       |  |
 |   9 |            |     |       |  |
