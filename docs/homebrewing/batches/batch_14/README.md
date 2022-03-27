@@ -65,7 +65,7 @@ Archived.
 |   2 | 25-09-2021 |  48 |  3.25 | Served at 11 C. Good head of white foam, good lacing. Sweet, hoppy, grapefruity, vegetal, grassy. |
 |   3 | 22-01-2022 | 167 |  3.00 | Served at 11 C. Good head of white foam, good lacing. Sweet, hoppy, grapefruity, vegetal, grassy. |
 |   4 | 11-02-2022 | 187 |  3.00 | Served at 11 C. Good head of white foam, good lacing. Sweet, hoppy, vegetal, grassy. |
-|   5 |            |     |       |  |
+|   5 | 26-03-2022 | 230 |  3.00 | Served at 11 C. Good head of white foam, good lacing. Sweet, hoppy, grapefruity, vegetal, grassy. |
 |   6 |            |     |       |  |
 |   7 |            |     |       |  |
 |   8 |            |     |       |  |
