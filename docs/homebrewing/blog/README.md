@@ -2,6 +2,10 @@
 
 ## 2022
 
+### April
+
+#### [Hop growing experiment @ April 3rd, 2021](20220403/README.md)
+
 ### January
 
 #### [Bottling day @ January 15th, 2022](20220115/README.md)
