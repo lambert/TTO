@@ -67,6 +67,6 @@ Archived.
 |   8 | 14-11-2021 | 224 |  3.00 | Served @ 11 C. Gave a small puff. Low carbonation, small foam head. Citrusy as in lemon or grapefruit, not bitter at all, clear and crisp. |
 |   9 | 04-12-2021 | 244 |  3.00 |  |
 |  10 | 22-01-2022 | 293 |  2.75 | Served @ 11 C. Gave a small puff. Low carbonation, small foam head. Getting a little bit bitter. Clear and crisp. |
-|  11 |            |     |       |  |
+|  11 | 01-05-2022 | 392 |  2.75 | Served @ 11 C. Gave a small puff. Low carbonation, small foam head. Getting a little bit bitter. Clear and crisp. |
 |  12 |            |     |       |  |
 |  13 |            |     |       |  |
