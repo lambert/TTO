@@ -1,4 +1,4 @@
-# Hop growing experimet @ April 3rd, 2022.
+# Hop growing experiment @ April 3rd, 2022.
 
 Started a hop growing experiment in some large tubs.
 

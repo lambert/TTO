@@ -1,4 +1,4 @@
-# Hop growing experimet @ May 26th, 2022.
+# Hop growing experiment @ May 26th, 2022.
 
 The hops are doing well, both the Willamette
 

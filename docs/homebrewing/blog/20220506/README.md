@@ -1,4 +1,4 @@
-# Hop growing experimet @ May 6th, 2022.
+# Hop growing experiment @ May 6th, 2022.
 
 The first signs of the home grown hops.
 The Bramling Cross is doing just fine. 
