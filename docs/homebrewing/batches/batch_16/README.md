@@ -60,8 +60,8 @@ Archived.
 |     | 28-12-2021 |   0 |       | Brew day. |
 |     | 15-01-2022 |  18 |       | Bottling day. |
 |   1 | 25-03-2022 |  87 |  0.00 | Gusher. |
-|   2 |            |     |       |  |
-|   3 |            |     |       |  |
+|   2 | 02-06-2022 | 156 |  2.25 | Served @ 12 C. Lots of carbonation, thin mouthfeel, dry, malty, no hop flavours or aroma. |
+|   3 | 03-06-2022 | 157 |  0-00 | Gusher. Used for specific gravity and pH measurements. |
 |   4 |            |     |       |  |
 |   5 |            |     |       |  |
 |   6 |            |     |       |  |
