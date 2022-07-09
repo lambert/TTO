@@ -2,9 +2,19 @@
 
 ## 2022
 
+### July
+
+#### [Brew day @ July 3rd, 2022](20220703/README.md)
+
+### May
+
+#### [Hop growing experiment @ May 26th, 2022](20220526/README.md)
+
+#### [Hop growing experiment @ May 6th, 2022](20220506/README.md)
+
 ### April
 
-#### [Hop growing experiment @ April 3rd, 2021](20220403/README.md)
+#### [Hop growing experiment @ April 3rd, 2022](20220403/README.md)
 
 ### January
 
