@@ -24,6 +24,7 @@ plot "OG_vs_FG.data" using 2:3:4 with points lc variable notitle, \
          keyentry with point lc 5 lt 1 title "Fermentis S-04", \
          keyentry with point lc 1 lt 1 title "Fermentis S-33", \
          keyentry with point lc 6 lt 1 title "Fermentis US-05", \
+         keyentry with point lc 8 lt 1 title "Lallemand Abbaye", \
          keyentry with point lc 4 lt 1 title "Lallemand New England", \
          keyentry with point lc 2 lt 1 title "Lallemand Nottingham", \
          keyentry with point lc 7 lt 1 title "Mangrove Jack's M02 Cider", \
