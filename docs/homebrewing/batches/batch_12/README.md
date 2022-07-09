@@ -59,7 +59,7 @@ Archived.
 |     | 06-06-2021 |   0 |       | Brew day. |
 |     | 27-06-2021 |  21 |       | Bottling day. |
 |   1 | 04-09-2021 |  90 |  2.50 | Served at 11 C. Cloudy. Opened with a small puff. Light carbonation. Still very green, needs more time to mellow out ... if it will. |
-|   2 |            |     |       |  |
+|   2 | 04-06-2022 | 363 |  2.75 | Served at 12 C. Cloudy. Opened with a small puff. Light carbonation. Dry, tart, apple flavour. Hazy. |
 |   3 |            |     |       |  |
 |   4 |            |     |       |  |
 |   5 |            |     |       |  |
