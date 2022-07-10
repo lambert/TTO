@@ -6,4 +6,4 @@
 
 |    | Style | ABV | IBU | EBC | pdf | BeerXML | JSON | Batches |
 |----|-------|-----|-----|-----|-----|---------|------|---------|
-| [v1](./68_Two_Pints_and_a_Packet_of_Hops_Fuggle_and_East_Kent_Goldings_recipe.md) | Best Bitter | 4.5 % | 29 | 15| [pdf](./68_Two_Pints_and_a_Packet_of_Hops_Fuggle_and_East_Kent_Goldings.pdf) | [BeerXML](./68_Two_Pints_and_a_Packet_of_Hops_Fuggle_and_East_Kent_Goldings.xml) | [json](./68_Two_Pints_and_a_Packet_of_Hops_Fuggle_and_East_Kent_Goldings.json) | [#20](../../batches/batch_20/README.md) |
+| [v1](./68_Two_Pints_and_a_Packet_of_Hops_Fuggle_and_East_Kent_Goldings_recipe.md) | Best Bitter | 4.5 % | 29 | 15| [pdf](./68_Two_Pints_and_a_Packet_of_Hops_Fuggle_and_East_Kent_Goldings.pdf) | [BeerXML](./68_Two_Pints_and_a_Packet_of_Hops_Fuggle_and_East_Kent_Goldings.xml) | [json](./68_Two_Pints_and_a_Packet_of_Hops_Fuggle_and_East_Kent_Goldings.json) | [#23](../../batches/batch_23/README.md) |
