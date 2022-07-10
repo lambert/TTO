@@ -6,5 +6,6 @@
 
 |    | Style | ABV | IBU | EBC | pdf | BeerXML | JSON | Batches |
 |----|-------|-----|-----|-----|-----|---------|------|---------|
-| v1 | American Wheat Beer | 4.6 % | 22 | 6.3 | [pdf](./19_SMaSH_Mosaic.pdf) | [BeerXML](./19_SMaSH_Mosaic.xml) | [json](./19_SMaSH_Mosaic.json) | |
-| v2 | American Wheat Beer | 4.6 % | 22 | 10 | [pdf](./19_SMaSH_Mosaic_v2.pdf) | [BeerXML](./19_SMaSH_Mosaic_v2.xml) | [json](./19_SMaSH_Mosaic_v2.json) | |
+| v1 | American Wheat Beer | 4.6 % | 21 | 7.7 | [pdf](./19_SMaSH_Mosaic.pdf) | [BeerXML](./19_SMaSH_Mosaic.xml) | [json](./19_SMaSH_Mosaic.json) | |
+| v2 | American Wheat Beer | 4.6 % | 21 | 7.7 | [pdf](./19_SMaSH_Mosaic_v2.pdf) | [BeerXML](./19_SMaSH_Mosaic_v2.xml) | [json](./19_SMaSH_Mosaic_v2.json) | |
+| v3 | American Wheat Beer | 4.6 % | 22 | 10 | [pdf](./19_SMaSH_Mosaic_v3.pdf) | [BeerXML](./19_SMaSH_Mosaic_v3.xml) | [json](./19_SMaSH_Mosaic_v3.json) | |
