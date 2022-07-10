@@ -1,4 +1,4 @@
-# 48 AnOtter Aple Cider
+# 48 AnOtter Apple Cider
 
 Style: C1B English Cider
 

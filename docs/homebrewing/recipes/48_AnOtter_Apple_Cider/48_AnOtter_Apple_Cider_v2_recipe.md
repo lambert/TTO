@@ -1,4 +1,4 @@
-# 48 AnOtter Aple Cider v2
+# 48 AnOtter Apple Cider v2
 
 Style: C1C French Cider
 
