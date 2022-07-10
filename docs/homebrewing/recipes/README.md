@@ -21,6 +21,7 @@
 | ![15](15_SMaSH_Nelson_Sauvin/15_SMaSH_Nelson_Sauvin_48x48.jpeg) | [15 SMaSH Nelson Sauvin](15_SMaSH_Nelson_Sauvin/README.md) | American Pale Ale (All Grain) | 4.9 % | 31 | |
 | ![16](16_SMaSH_Lotus/16_SMaSH_Lotus_48x48.jpeg) | [16 SMaSH Lotus](16_SMaSH_Lotus/README.md) | American Pale Ale (All Grain) | 5.6 % | 41 | |
 | ![17](17_SMaSH_Lemondrop/17_SMaSH_Lemondrop_48x48.jpeg) | [17 SMaSH Lemondrop](17_SMaSH_Lemondrop/README.md) | Blonde Ale (All Grain) | 4.9 % | 21 | |
+| ![18](18_SMaSH_Talus/18_SMaSH_Talus_48x48.jpeg) | [18 SMaSH Talus](18_SMaSH_Talus/README.md) | Blonde Ale (All Grain) | 4.7 % | 18 | |
 | ![48](48_AnOtter_Apple_Cider/48_AnOtter_Apple_Cider_48x48.jpeg) | [48 AnOtter Apple Cider](48_AnOtter_Apple_Cider/README.md) | English Cider (Extract) | 6.3 % | 0 | Yes |
 | ![49](49_AnOtter_Perry_Cider/49_AnOtter_Perry_Cider_48x48.jpeg) | [49 AnOtter Perry Cider](49_AnOtter_Perry_Cider/README.md) | New World Perry (Extract) | 6.3 % | 0 | Yes |
 | ![59](59_Four_Hops_IPA/59_Four_Hops_IPA_48x48.jpeg) | [59 Four Hops IPA](59_Four_Hops_IPA/README.md) | Specialty IPA (All Grain) | 6.6 % | 69 | |
