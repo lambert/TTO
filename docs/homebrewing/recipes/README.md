@@ -14,8 +14,8 @@
 | ![08](08_SMaSH_Magnum/08_SMaSH_Magnum_48x48.jpeg) | [08 SMaSH Magnum](08_SMaSH_Magnum/README.md) | Blonde Ale (All Grain) | 4.7 % | 23 | Yes |
 | ![09](09_SMaSH_Sabro/09_SMaSH_Sabro_48x48.jpeg) | [09 SMaSH Sabro](09_SMaSH_Sabro/README.md) | Specialty IPA (All Grain) | 6.6 % | 75 | Yes |
 | ![10](10_SMaSH_CF184/10_SMaSH_CF184_48x48.jpeg) | [10 SMaSH CF184](10_SMaSH_CF184/README.md) | British Golden Ale (All Grain) | 4.3 % | 33 | |
-| ![11](11_SMaSH_Progress/11_SMaSH_Progress_48x48.jpeg) | [11 SMaSH Progress](11_SMaSH_Progress/README.md) | British Golden Ale (All Grain) | 4.5 % | 29 | |
-| ![12](12_SMaSH_Boadicea/12_SMaSH_Boadicea_48x48.jpeg) | [12 SMaSH Boadicea](12_SMaSH_Boadicea/README.md) | British Golden Ale (All Grain) |4.5 % | 29 | |
+| ![11](11_SMaSH_Progress/11_SMaSH_Progress_48x48.jpeg) | [11 SMaSH Progress](11_SMaSH_Progress/README.md) | British Golden Ale (All Grain) | 4.3 % | 38 | |
+| ![12](12_SMaSH_Boadicea/12_SMaSH_Boadicea_48x48.jpeg) | [12 SMaSH Boadicea](12_SMaSH_Boadicea/README.md) | British Golden Ale (All Grain) | 4.5 % | 29 | |
 | ![13](13_SMaSH_East_Kent_Golding/13_SMaSH_East_Kent_Golding_48x48.jpeg) | [13 SMaSH East Kent Golding](13_SMaSH_East_Kent_Golding/README.md) | British Golden Ale (All Grain) | 4.5 % | 26 | |
 | ![14](14_SMaSH_Apollo/14_SMaSH_Apollo_48x48.jpeg) | [14 SMaSH Apollo](14_SMaSH_Apollo/README.md) | American Pale Ale (All Grain) | 5.1 % | 31| |
 | ![15](15_SMaSH_Nelson_Sauvin/15_SMaSH_Nelson_Sauvin_48x48.jpeg) | [15 SMaSH Nelson Sauvin](15_SMaSH_Nelson_Sauvin/README.md) | American Pale Ale (All Grain) | 4.9 % | 31 | |
