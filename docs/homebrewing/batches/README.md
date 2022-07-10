@@ -22,32 +22,32 @@
 | ![75](../recipes/75_Shameless_Magpied_Summer_Ale/75_Shameless_Magpied_Summer_Ale.jpeg) | 16 | [75 Shameless Magpied Summer Ale](batch_16/README.md) | Completed | 5.1 | 24 | 7.9 | 1.042 | 1.006 | 18A Blonde Ale | All Grain |
 | ![61v2](../recipes/61_Three_Hops_Blonde/61_Three_Hops_Blonde.jpeg) | 17 | [61 Three Hops Blonde v2](batch_17/README.md) | Completed | 5.4 | 22 | 7.7 | 1.042 | 1.005 | 18A Blonde Ale | All Grain |
 | ![61v3](../recipes/61_Three_Hops_Blonde/61_Three_Hops_Blonde.jpeg) | 18 | [61 Three Hops Blonde v3](batch_18/README.md) | Completed | 5.0 | 22 | 7.7 | 1.042 | 1.008 | 18A Blonde Ale | All Grain |
-|  | 19 | [32 Never Give Up!]()| Fermenting | | 29 | 7.3 | 1.060 | | 25C Belgian Golden Strong Ale | All Grain |
-|  | 20 | [32 Never Give Up! v2]()| Fermenting | | 29 | 7.3 | 1.060 | | 25C Belgian Golden Strong Ale | All Grain |
-|  | 21 | [32 Never Give Up! v3]()| Fermenting | | 29 | 7.3 | 1.060 | | 25C Belgian Golden Strong Ale | All Grain |
+| ![32](../recipes/32_Never_Give_Up/32_Never_Give_Up.jpeg) | 19 | [32 Never Give Up!](batch_19/README.md)| Fermenting | | 29 | 7.3 | 1.060 | | 25C Belgian Golden Strong Ale | All Grain |
+| ![32v2](../recipes/32_Never_Give_Up/32_Never_Give_Up.jpeg) | 20 | [32 Never Give Up! v2](batch_20/README.md)| Fermenting | | 29 | 7.3 | 1.060 | | 25C Belgian Golden Strong Ale | All Grain |
+| ![32v3](../recipes/32_Never_Give_Up/32_Never_Give_Up.jpeg) | 21 | [32 Never Give Up! v3](batch_21/README.md)| Fermenting | | 29 | 7.3 | 1.060 | | 25C Belgian Golden Strong Ale | All Grain |
 |  | 22 | [77 Five Pints of Best Fuggles](batch_19/README.md) | Planned | | | | | | 11B Best Bitter | All Grain |
 |  | 23 | [68 Two Pints and a Packet of Hops (Fuggle and East Kent Goldings)](batch_20/README.md)| Planned | | | | | | 11B Best Bitter | All Grain |
 |  | 24 | [73 Two Pints and a Packet of Hops (Fuggle and Progress)]()| Planned | | | | | | 11B Best Bitter | All Grain |
 |  | 25 | [03 SMaSH Godiva v2]()| Planned | | | | | | 12A British Golden Ale | All Grain |
 |  | 26 | [69 Two Pints and a Packet of Hops (Godiva and Progress)]()| Planned | | | | | | 12A British Golden Ale | All Grain |
 |  | 27 | [69 Two Pints and a Packet of Hops (Godiva and East Kent Goldings)]()| Planned | | | | | | 12A British Golden Ale | All Grain |
-|  | 28 | [65 Juniper Ascending]()| Planned | | | | | | Kornøl | All Grain |
-|  | 29 | [66 Kornøl]()| Planned | | | | | | Kornøl | All Grain |
-|  | 30 | [04 SMaSH Fuggle v2]()| Planned | | | | | | 12A British Golden Ale | All Grain |
-|  | 31 | [73 Two Pints and a Packet of Hops (Fuggle and Progress) v2]()| Planned | | | | | | 12A British Golden Ale | All Grain |
-|  | 32 | [73 Two Pints and a Packet of Hops (Fuggle and East Kent Goldings) v2]()| Planned | | | | | | 12A British Golden Ale | All Grain |
-|  | 33 | [11 SMaSH Progress]()| Planned | | | | | | 12A British Golden Ale | All Grain |
-|  | 34 | [11 SMaSH Progress v2]()| Planned | | | | | | 12A British Golden Ale | All Grain |
-|  | 35 | [11 SMaSH Progress v3]()| Planned | | | | | | 12A British Golden Ale | All Grain |
-|  | 36 | [22 SMaSH Palisade]()| Planned | | | | | | 18A Blonde Ale | All Grain |
-|  | 37 | [22 SMaSH Palisade v2]()| Planned | | | | | | 18A Blonde Ale | All Grain |
-|  | 38 | [22 SMaSH Palisade v3]()| Planned | | | | | | 18A Blonde Ale | All Grain |
-|  | 39 | [19 SMaSH Mosaic]()| Planned | | | | | | 01D American Wheat Beer | All Grain |
-|  | 40 | [19 SMaSH Mosaic v2]()| Planned | | | | | | 01D American Wheat Beer | All Grain |
-|  | 41 | [19 SMaSH Mosaic v3]()| Planned | | | | | | 01D American Wheat Beer | All Grain |
-|  | 42 | [33 Marvin - HHG2 the Galaxy]()| Planned | | | | | | 01D American Wheat Beer | All Grain |
-|  | 43 | [33 Marvin - HHG2 the Galaxy and beyond]()| Planned | | | | | | 01D American Wheat Beer | All Grain |
-|  | 44 | [33 Marvin - HHG2 the Galaxy and beyond v2]()| Planned | | | | | | 01D American Wheat Beer | All Grain |
-|  | 45 | [35 American Wheat Beer]()| Planned | | | | | | 01D American Wheat Beer | All Grain |
-|  | 46 | [35 American Wheat Beer v2]()| Planned | | | | | | 01D American Wheat Beer | All Grain |
-|  | 47 | [35 American Wheat Beer v3]()| Planned | | | | | | 01D American Wheat Beer | All Grain |
+|  | 28 | [04 SMaSH Fuggle v2]()| Planned | | | | | | 12A British Golden Ale | All Grain |
+|  | 29 | [73 Two Pints and a Packet of Hops (Fuggle and Progress) v2]()| Planned | | | | | | 12A British Golden Ale | All Grain |
+|  | 30 | [73 Two Pints and a Packet of Hops (Fuggle and East Kent Goldings) v2]()| Planned | | | | | | 12A British Golden Ale | All Grain |
+|  | 31 | [11 SMaSH Progress]()| Planned | | | | | | 12A British Golden Ale | All Grain |
+|  | 32 | [11 SMaSH Progress v2]()| Planned | | | | | | 12A British Golden Ale | All Grain |
+|  | 33 | [11 SMaSH Progress v3]()| Planned | | | | | | 12A British Golden Ale | All Grain |
+|  | 34 | [22 SMaSH Palisade]()| Planned | | | | | | 18A Blonde Ale | All Grain |
+|  | 35 | [22 SMaSH Palisade v2]()| Planned | | | | | | 18A Blonde Ale | All Grain |
+|  | 36 | [22 SMaSH Palisade v3]()| Planned | | | | | | 18A Blonde Ale | All Grain |
+|  | 37 | [19 SMaSH Mosaic]()| Planned | | | | | | 01D American Wheat Beer | All Grain |
+|  | 38 | [19 SMaSH Mosaic v2]()| Planned | | | | | | 01D American Wheat Beer | All Grain |
+|  | 39 | [19 SMaSH Mosaic v3]()| Planned | | | | | | 01D American Wheat Beer | All Grain |
+|  | 40 | [33 Marvin - HHG2 the Galaxy]()| Planned | | | | | | 01D American Wheat Beer | All Grain |
+|  | 41 | [33 Marvin - HHG2 the Galaxy and beyond]()| Planned | | | | | | 01D American Wheat Beer | All Grain |
+|  | 42 | [33 Marvin - HHG2 the Galaxy and beyond v2]()| Planned | | | | | | 01D American Wheat Beer | All Grain |
+|  | 43 | [35 American Wheat Beer]()| Planned | | | | | | 01D American Wheat Beer | All Grain |
+|  | 44 | [35 American Wheat Beer v2]()| Planned | | | | | | 01D American Wheat Beer | All Grain |
+|  | 45 | [35 American Wheat Beer v3]()| Planned | | | | | | 01D American Wheat Beer | All Grain |
+|  | 46 | [65 Juniper Ascending]()| Planned | | | | | | Kornøl | All Grain |
+|  | 47 | [66 Kornøl]()| Planned | | | | | | Kornøl | All Grain |
