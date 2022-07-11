@@ -25,6 +25,7 @@
 | ![19](19_SMaSH_Mosaic/19_SMaSH_Mosaic_48x48.jpeg) | [19 SMaSH Mosaic](19_SMaSH_Mosaic/README.md) | American Wheat Beer (All Grain) | 4.6 % | 21 | |
 | ![20](20_SMaSH_Galaxy/20_SMaSH_Galaxy_48x48.jpeg) | [20 SMaSH Galaxy](20_SMaSH_Galaxy/README.md) | American Pale Ale (All Grain) | 6.2 % | 44 | |
 | ![21](21_SMaSH_First_Gold/21_SMaSH_First_Gold_48x48.jpeg) | [21 SMaSH First Gold](21_SMaSH_First_Gold/README.md) | British Golden Ale (All Grain) | 4.3 % | 35 | |
+| ![22](22_SMaSH_Palisade/22_SMaSH_Palisade_48x48.jpeg) | [22 SMaSH Palisade](22_SMaSH_Palisade/README.md) | Blonde Ale (All Grain) | 4.6 % | 23 | |
 | ![48](48_AnOtter_Apple_Cider/48_AnOtter_Apple_Cider_48x48.jpeg) | [48 AnOtter Apple Cider](48_AnOtter_Apple_Cider/README.md) | English Cider (Extract) | 6.3 % | 0 | Yes |
 | ![49](49_AnOtter_Perry_Cider/49_AnOtter_Perry_Cider_48x48.jpeg) | [49 AnOtter Perry Cider](49_AnOtter_Perry_Cider/README.md) | New World Perry (Extract) | 6.3 % | 0 | Yes |
 | ![59](59_Four_Hops_IPA/59_Four_Hops_IPA_48x48.jpeg) | [59 Four Hops IPA](59_Four_Hops_IPA/README.md) | Specialty IPA (All Grain) | 6.6 % | 69 | |
