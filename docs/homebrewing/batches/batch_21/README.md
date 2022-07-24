@@ -6,7 +6,7 @@
 
 03-07-2022 21:30 Start fermentation.
 
-Start conditioning.
+22-07-2022 20:15 Start conditioning.
 
 Completed conditioning.
 
@@ -30,25 +30,19 @@ Archived.
 
 |                         | Recipe | Batch | Diff   | Unit |
 |-------------------------|--------|-------|--------|------|
-| Pre-Boil Volume:        |        |       |        | L    |
-| Post-Boil Volume (HOT): |        |       |        | L    |
-| Boil Off per Hour:      |        |       |        | L    |
-| Batch Volume:           |        |       |        | L    |
-| Trub/Chiller Loss:      |        |       |        | L    |
-| Bottling Volume:        |        |       |        | L    |
-| Pre-Boil Gravity:       |        |       |        |      |
-| Post-Boil Gravity:      |        |       |        |      |
-| Original Gravity:       |        |       |        |      |
-| Final Gravity:          |        |       |        |      |
-| Alcohol By Volume:      |        |       |        | %    |
-| Apparent Attenuation:   |        |       |        | %    |
-| Mash Efficiency:        |        |       |        | %    |
-| Brewhouse Efficiency:   |        |       |        | %    |
-| IBU:                    |        |       |        |      |
-| BU/GU Ratio:            |        |       |        |      |
-| RB Ratio:               |        |       |        |      |
-| Color                   |        |       |        | EBC  |
-| Mash pH:                |        |       |        |      |
+| Batch Volume:           | 0.75   | 0.75  | 0      | L    |
+| Bottling Volume:        | 0.75   | 0.66  | -0.09  | L    |
+| Post-Boil Gravity:      | 1.070  | 1.061 | -0.009 |      |
+| Original Gravity:       | 1.070  | 1.060 | -0.010 |      |
+| Total Gravity:          | 1.073  | 1.063 | -0.010 |      |
+| Final Gravity:          | 1.007  | 1.002 | -0.005 |      |
+| Alcohol By Volume:      | 8.7    | 8.0   | -0.7   | %    |
+| Apparent Attenuation:   | 89.9   | 96.6  | +6.7   | %    |
+| Brewhouse Efficiency:   | 95     | 81    | -14    | %    |
+| IBU:                    | 28     | 28    | 0      |      |
+| BU/GU Ratio:            | 0.39   | 0.45  | +0.06  |      |
+| RB Ratio:               | 0.44   | 0.54  | +0.10  |      |
+| Color                   | 6.7    | 6.7   | 0      | EBC  |
 
 ## Tasting notes
 
@@ -58,17 +52,3 @@ Archived.
 |     |            |     |       | Bottling day. |
 |   1 |            |     |       |  |
 |   2 |            |     |       |  |
-|   3 |            |     |       |  |
-|   4 |            |     |       |  |
-|   5 |            |     |       |  |
-|   6 |            |     |       |  |
-|   7 |            |     |       |  |
-|   8 |            |     |       |  |
-|   9 |            |     |       |  |
-|  10 |            |     |       |  |
-|  11 |            |     |       |  |
-|  12 |            |     |       |  |
-|  13 |            |     |       |  |
-|  14 |            |     |       |  |
-|  15 |            |     |       |  |
-|  16 |            |     |       |  |
