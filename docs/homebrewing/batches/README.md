@@ -22,9 +22,9 @@
 | ![75](../recipes/75_Shameless_Magpied_Summer_Ale/75_Shameless_Magpied_Summer_Ale.jpeg) | 16 | [75 Shameless Magpied Summer Ale](batch_16/README.md) | Completed | 5.1 | 24 | 7.9 | 1.042 | 1.006 | 18A Blonde Ale | All Grain |
 | ![61v2](../recipes/61_Three_Hops_Blonde/61_Three_Hops_Blonde.jpeg) | 17 | [61 Three Hops Blonde v2](batch_17/README.md) | Completed | 5.4 | 22 | 7.7 | 1.042 | 1.005 | 18A Blonde Ale | All Grain |
 | ![61v3](../recipes/61_Three_Hops_Blonde/61_Three_Hops_Blonde.jpeg) | 18 | [61 Three Hops Blonde v3](batch_18/README.md) | Completed | 5.0 | 22 | 7.7 | 1.042 | 1.008 | 18A Blonde Ale | All Grain |
-| ![32](../recipes/32_Never_Give_Up/32_Never_Give_Up.jpeg) | 19 | [32 Never Give Up!](batch_19/README.md)| Fermenting | | 29 | 7.3 | 1.060 | | 25C Belgian Golden Strong Ale | All Grain |
-| ![32v2](../recipes/32_Never_Give_Up/32_Never_Give_Up.jpeg) | 20 | [32 Never Give Up! v2](batch_20/README.md)| Fermenting | | 29 | 7.3 | 1.060 | | 25C Belgian Golden Strong Ale | All Grain |
-| ![32v3](../recipes/32_Never_Give_Up/32_Never_Give_Up.jpeg) | 21 | [32 Never Give Up! v3](batch_21/README.md)| Fermenting | | 29 | 7.3 | 1.060 | | 25C Belgian Golden Strong Ale | All Grain |
+| ![32](../recipes/32_Never_Give_Up/32_Never_Give_Up.jpeg) | 19 | [32 Never Give Up!](batch_19/README.md)| Conditioning | | 29 | 7.3 | 1.060 | 1.004 | 25C Belgian Golden Strong Ale | All Grain |
+| ![32v2](../recipes/32_Never_Give_Up/32_Never_Give_Up.jpeg) | 20 | [32 Never Give Up! v2](batch_20/README.md)| Conditioning | | 29 | 7.3 | 1.060 | 1.002 | 25C Belgian Golden Strong Ale | All Grain |
+| ![32v3](../recipes/32_Never_Give_Up/32_Never_Give_Up.jpeg) | 21 | [32 Never Give Up! v3](batch_21/README.md)| Conditioning | | 29 | 7.3 | 1.060 | 1.002 | 25C Belgian Golden Strong Ale | All Grain |
 |  | 22 | [77 Five Pints of Best Fuggles](batch_19/README.md) | Planned | | | | | | 11B Best Bitter | All Grain |
 |  | 23 | [68 Two Pints and a Packet of Hops (Fuggle and East Kent Goldings)](batch_20/README.md)| Planned | | | | | | 11B Best Bitter | All Grain |
 |  | 24 | [73 Two Pints and a Packet of Hops (Fuggle and Progress)]()| Planned | | | | | | 11B Best Bitter | All Grain |
