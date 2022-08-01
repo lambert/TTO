@@ -49,6 +49,6 @@ Archived.
 | No. | Date       | Age | Score | Notes |
 |-----|------------|-----|-------|-------|
 |     | 03-07-2022 |   0 |       | Brew day. |
-|     |            |     |       | Bottling day. |
+|     | 22-07-2022 |  19 |       | Bottling day. |
 |   1 |            |     |       |  |
 |   2 |            |     |       |  |
