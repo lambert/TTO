@@ -1,0 +1,26 @@
+#Age  pH    Batch  Remarks  (Age in days, 0 = bottling day, negative is during fermentation)
+183   4.50  7
+
+-21   3.59  12     # Apple cider
+
+-13   3.94  13     # Perry cider
+  0   4.00  13
+
+-14   5.31  14
+  0   4.46  14
+
+-16   5.49  15
+  0   4.23  15
+
+  0   4.24  16
+157   3.94  16
+
+226   4.37  17
+
+  0   4.30  18
+
+  0   4.15  19
+
+  0   4.27  20
+
+  0   4.28  21

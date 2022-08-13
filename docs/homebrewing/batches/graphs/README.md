@@ -15,3 +15,7 @@
 ## Milling Gap Size vs Efficiency
 
 ![fig_4](gap_size_vs_efficiency.png)
+
+## pH data of batches over time
+
+![fig_5](ph.png)

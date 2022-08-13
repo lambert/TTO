@@ -1,5 +1,5 @@
 # setup graph
-set term png size 1200,450
+set term png size 1280,480
 output_file = "OG_vs_FG.png"
 set output output_file
 set title "Original Gravity vs Final Gravity"
