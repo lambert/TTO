@@ -10,7 +10,7 @@
 
 26-02-2022 19:07 Completed conditioning.
 
-Archived.
+11-08-2022 21:58 Archived.
 
 ## Process
 
@@ -56,4 +56,4 @@ Archived.
 |     | 28-12-2021 |   0 |       | Brew day. |
 |     | 15-01-2022 |  18 |       | Bottling day. |
 |   1 | 25-03-2022 |  87 |  0.00 | Gusher. |
-|   2 |            |     |       |  |
+|   2 | 11-08-2022 | 226 |  2.50 | A clear Blonde ale with a small foam layer which dissolves at a nmedium rate. Normal carbonation. Mild on hops, sweet. Clear crisp mouthfeel |
