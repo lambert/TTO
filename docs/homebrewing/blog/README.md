@@ -4,6 +4,8 @@
 
 ### August
 
+#### [Hop growing experiment @ August 18th, 2022](20220818/README.md)
+
 #### [Hop growing experiment @ August 13th, 2022](20220813/README.md)
 
 #### [Hop growing experiment @ August 3rd, 2022](20220803/README.md)
