@@ -1,26 +1,29 @@
-#Age  pH    Batch  Remarks  (Age in days, 0 = bottling day, negative is during fermentation)
-183   4.50  7
+#Age  pH    Batch  Temp  BJCP  Remarks  (Age in days, 0 = bottling day, negative is during fermentation)
+183   4.50  7      16.0  18.2  # The Thirsty Otter - SMaSH Citra
 
--21   3.59  12     # Apple cider
+-21   3.59  12                 # The Thirsty Otter - AnOtter Apple Cider
 
--13   3.94  13     # Perry cider
+-13   3.94  13                 # The Thirsty Otter - AnOtter Perry Cider
   0   4.00  13
 
--14   5.31  14
-  0   4.46  14
+-14   5.31  14     25.1        # The Thirsty Otter - SMaSH Sabro
+  0   4.46  14     20.6  21.2  #
 
--16   5.49  15
-  0   4.23  15
+-16   5.49  15     17.8        # The Thirsty Otter - Wet Hops Blonde Ale (Chinook)
+  0   4.23  15     18.2  18.1  #
 
-  0   4.24  16
-157   3.94  16
+  0   4.24  16     18.2  18.1  # The Thirsty Otter - Shameless Magpied Summer Ale
+157   3.94  16     12.4  18.1  #
 
-226   4.37  17
+226   4.37  17     14.7  18.1  # The Thirsty Otter - Three Hops Blonde v2
 
-  0   4.30  18
+  0   4.30  18     17.0  18.1  # The Thirsty Otter - Three Hops Blonde v3
 
-  0   4.15  19
+  0   4.15  19     19.8  25.3  # The Thirsty Otter - Never Give Up!
 
-  0   4.27  20
+  0   4.27  20     19.4  25.3  # The Thirsty Otter - Never Give Up! v2
 
-  0   4.28  21
+  0   4.28  21     19.2  25.3  # The Thirsty Otter - Never Give Up! v3
+
+# Commercial beers
+  0   4.67  0      19.0  21.3  # Myrki - East Coast Dreamer
