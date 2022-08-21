@@ -57,7 +57,7 @@ Archived.
 |-----|------------|-----|-------|-------|
 |     | 03-07-2022 |   0 |       | Brew day. |
 |     | 23-07-2022 |  20 |       | Bottling day. |
-|   1 |            |     |       |  |
+|   1 | 21-08-2022 |  49 |  3.00 | A slightly hazy Belgian Golden Strong ale with a decent foam layer which remains. Strong on hops, sweet, citrusy. Crisp, dry mouthfeel. |
 |   2 |            |     |       |  |
 |   3 |            |     |       |  |
 |   4 |            |     |       |  |
