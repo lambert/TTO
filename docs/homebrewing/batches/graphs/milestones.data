@@ -142,23 +142,32 @@
 19  03-07-2022  03-07-2022  1  # Brewing
 19  03-07-2022  23-07-2022  2  # Fermenting
 19  23-07-2022  06-08-2022  3  # Carbonation
+19  06-08-2022  03-09-2022  4  # Conditioning
+19  03-09-2022  03-09-2022  5  # Completed
 
 # Never Give Up! v2
 20  03-07-2022  03-07-2022  1  # Brewing
 20  03-07-2022  22-07-2022  2  # Fermenting
 20  22-07-2022  05-08-2022  3  # Carbonation
+20  05-08-2022  02-09-2022  4  # Conditioning
+20  02-09-2022  02-09-2022  5  # Completed
 
 # Never Give Up! v3
 21  03-07-2022  03-07-2022  1  # Brewing
 21  03-07-2022  22-07-2022  2  # Fermenting
 21  22-07-2022  05-08-2022  3  # Carbonation
+21  05-08-2022  02-09-2022  4  # Conditioning
+21  02-09-2022  02-09-2022  5  # Completed
+
+# Wet Hops Blonde (Bramling-X)
+22  04-09-2022  05-09-2022  1  # Brewing
+#22  05-09-2022  19-09-2022  2  # Fermenting
 
 # Five Pints of Best Fuggles
-#22  28-08-2022  28-08-2022  1  # Brewing
 
 # Two Pints and a Packet of Hops (Fuggle and East Kent Goldings)
-#23  28-08-2022  28-08-2022  1  # Brewing
+#2x  28-08-2022  28-08-2022  1  # Brewing
 
 # Two Pints and a Packet of Hops (Fuggle and Progress)
-#24  28-08-2022  28-08-2022  1  # Brewing
+#2x  28-08-2022  28-08-2022  1  # Brewing
 

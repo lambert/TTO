@@ -20,7 +20,6 @@ set mxtics
 set autoscale x
 # plot the graph
 plot "ph.data" using 5:2:3 lc variable notitle, \
-    keyentry with point lc  0 lt 1 title "Commercial", \
     keyentry with point lc  7 lt 1 title "Batch #7", \
     keyentry with point lc 12 lt 1 title "Batch #12", \
     keyentry with point lc 13 lt 1 title "Batch #13", \
