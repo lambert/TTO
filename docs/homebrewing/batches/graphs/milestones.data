@@ -135,8 +135,8 @@
 18  28-12-2021  15-01-2022  2  # Fermenting
 18  15-01-2022  29-01-2022  3  # Carbonation
 18  29-01-2022  26-02-2022  4  # Conditioning
-18  26-02-2022  x  5  # Completed
-#18  x  x  7  # Archived
+18  26-02-2022  17-09-2022  5  # Completed
+18  17-09-2022  17-09-2022  7  # Archived
 
 # Never Give Up!
 19  03-07-2022  03-07-2022  1  # Brewing
@@ -161,7 +161,11 @@
 
 # Wet Hops Blonde (Bramling-X)
 22  04-09-2022  05-09-2022  1  # Brewing
-#22  05-09-2022  19-09-2022  2  # Fermenting
+22  05-09-2022  18-09-2022  2  # Fermenting
+22  18-09-2022  x   3 # Carbonation
+
+# Wet Hops Blonde (Willamette)
+23  18-09-2022  18-09-2022  1  # Brewing
 
 # Five Pints of Best Fuggles
 
