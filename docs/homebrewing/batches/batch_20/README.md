@@ -50,5 +50,5 @@ Archived.
 |-----|------------|-----|-------|-------|
 |     | 03-07-2022 |   0 |       | Brew day. |
 |     | 22-07-2022 |  19 |       | Bottling day. |
-|   1 |            |     |       |  |
+|   1 | 09-10-2022 |  98 | 2.50  | Served @ 11.3 C. Strong, warm, yeasty, malty, not much hop flavours. Low carbonation. |
 |   2 |            |     |       |  |
