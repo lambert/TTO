@@ -8,7 +8,7 @@
 
 22-07-2022 20:15 Start conditioning.
 
-Completed conditioning.
+02-09-2022 23:59 Completed conditioning.
 
 Archived.
 
@@ -50,5 +50,5 @@ Archived.
 |-----|------------|-----|-------|-------|
 |     | 03-07-2022 |   0 |       | Brew day. |
 |     | 22-07-2022 |  19 |       | Bottling day. |
-|   1 |            |     |       |  |
+|   1 | 13-10-2022 | 102 | 3.0   | Served at 14.8 C. Strong, full, warm, hoppy. Low carbonation. |
 |   2 |            |     |       |  |
