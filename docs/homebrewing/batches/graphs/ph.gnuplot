@@ -31,7 +31,8 @@ plot "ph.data" using 1:2:3 with linespoints lc variable notitle, \
     keyentry with point lc 19 lt 1 title "Batch #19", \
     keyentry with point lc 20 lt 1 title "Batch #20", \
     keyentry with point lc 21 lt 1 title "Batch #21", \
-    keyentry with point lc 22 lt 1 title "Batch #22"
+    keyentry with point lc 22 lt 1 title "Batch #22", \
+    keyentry with point lc 23 lt 1 title "Batch #23"
 # set output back to default
 set output
 # reset terminal type
