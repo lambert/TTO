@@ -13,41 +13,43 @@
 | ![06](../recipes/06_SMaSH_Citra/06_SMaSH_Citra.jpeg) |  7 | [06 SMaSH Citra](batch_7/README.md) | Completed | 7.5 | 44 | 10 | 1.060 | 1.006 | 18B American Pale Ale | All Grain |
 | ![07](../recipes/07_SMaSH_Simcoe/07_SMaSH_Simcoe.jpeg) |  8 | [07 SMaSH Simcoe](batch_8/README.md) | Completed | 6.8 | 36 | 9.3 | 1.054 | 1.002 | 18B American Pale Ale | All Grain |
 | ![07](../recipes/07_SMaSH_Simcoe/07_SMaSH_Simcoe.jpeg) |  9 | [07 SMaSH Simcoe v2](batch_9/README.md) | Archived | 6.7 | 36 | 12.8 | 1.054 | 1.002 | 18B American Pale Ale | All Grain |
-| ![61](../recipes/61_Three_Hops_Blonde/61_Three_Hops_Blonde.jpeg) | 10 | [61 Three Hops Blonde](batch_10/README.md) | Completed | 5.0 | 20 | 7.9 | 1.038 | 1.000 | 18A Blonde Ale | All Grain |
+| ![61](../recipes/61_Three_Hops_Blonde/61_Three_Hops_Blonde.jpeg) | 10 | [61 Three Hops Blonde](batch_10/README.md) | Completed | 5.0 | 20 | 7.9 | 1.038 | 1.000 | 12A British Golden Ale | All Grain |
 | ![08](../recipes/08_SMaSH_Magnum/08_SMaSH_Magnum.jpeg) | 11 | [08 SMaSH Magnum](batch_11/README.md) | Archived | 5.0 | 20 | 7.9 | 1.038 | 1.000 | 18A Blonde Ale | All Grain |
 | ![48](../recipes/48_AnOtter_Apple_Cider/48_AnOtter_Apple_Cider.jpeg) | 12 | [48 AnOtter Apple Cider](batch_12/README.md) | Completed | 6.0 | 0 | 8.3 | 1.040 | 0.994 | C1B English Cider | Extract |
 | ![49](../recipes/49_AnOtter_Perry_Cider/49_AnOtter_Perry_Cider.jpeg) | 13 | [49 AnOtter Perry Cider](batch_13/README.md) | Completed | 5.9 | 0 | 7.3 | 1.044 | 1.002 | C1D New World Perry | Extract |
 | ![09](../recipes/09_SMaSH_Sabro/09_SMaSH_Sabro.jpeg) | 14 | [09 SMaSH Sabro](batch_14/README.md) | Completed | 7.6 | 66 | 9.1 | 1.060 | 1.005 | 21B Specialty IPA | All Grain |
-| ![74](../recipes/74_Wet_Hops_Blonde_Ale_Chinook/74_Wet_Hops_Blonde_Ale_Chinook.jpeg) | 15 | [74 Wet Hops Blonde Ale (Chinook)](batch_15/README.md) | Completed | 5.1 | 22 | 6.7 | 1.036 | 1.000 | 18A Blonde Ale | All Grain |
+| ![74](../recipes/74_Wet_Hops_Blonde_Ale/74_Wet_Hops_Blonde_Ale_Chinook.jpeg) | 15 | [74 Wet Hops Blonde Ale (Chinook)](batch_15/README.md) | Completed | 5.1 | 22 | 6.7 | 1.036 | 1.000 | 12A British Golden Ale | All Grain |
 | ![75](../recipes/75_Shameless_Magpied_Summer_Ale/75_Shameless_Magpied_Summer_Ale.jpeg) | 16 | [75 Shameless Magpied Summer Ale](batch_16/README.md) | Completed | 5.1 | 24 | 7.9 | 1.042 | 1.006 | 18A Blonde Ale | All Grain |
 | ![61v2](../recipes/61_Three_Hops_Blonde/61_Three_Hops_Blonde.jpeg) | 17 | [61 Three Hops Blonde v2](batch_17/README.md) | Archived | 5.4 | 22 | 7.7 | 1.042 | 1.005 | 18A Blonde Ale | All Grain |
-| ![61v3](../recipes/61_Three_Hops_Blonde/61_Three_Hops_Blonde.jpeg) | 18 | [61 Three Hops Blonde v3](batch_18/README.md) | Completed | 5.0 | 22 | 7.7 | 1.042 | 1.008 | 18A Blonde Ale | All Grain |
-| ![32](../recipes/32_Never_Give_Up/32_Never_Give_Up.jpeg) | 19 | [32 Never Give Up!](batch_19/README.md)| Conditioning | 7.9 | 29 | 7.3 | 1.060 | 1.004 | 25C Belgian Golden Strong Ale | All Grain |
-| ![32v2](../recipes/32_Never_Give_Up/32_Never_Give_Up.jpeg) | 20 | [32 Never Give Up! v2](batch_20/README.md)| Conditioning | 8.0 | 29 | 7.3 | 1.060 | 1.002 | 25C Belgian Golden Strong Ale | All Grain |
-| ![32v3](../recipes/32_Never_Give_Up/32_Never_Give_Up.jpeg) | 21 | [32 Never Give Up! v3](batch_21/README.md)| Conditioning | 8.0 | 29 | 7.3 | 1.060 | 1.002 | 25C Belgian Golden Strong Ale | All Grain |
-|  | 22 | [77 Five Pints of Best Fuggles](batch_19/README.md) | Planned | | | | | | 11B Best Bitter | All Grain |
-|  | 23 | [68 Two Pints and a Packet of Hops (Fuggle and East Kent Goldings)](batch_20/README.md)| Planned | | | | | | 11B Best Bitter | All Grain |
-|  | 24 | [73 Two Pints and a Packet of Hops (Fuggle and Progress)]()| Planned | | | | | | 11B Best Bitter | All Grain |
-|  | 25 | [03 SMaSH Godiva v2]()| Planned | | | | | | 12A British Golden Ale | All Grain |
-|  | 26 | [69 Two Pints and a Packet of Hops (Godiva and Progress)]()| Planned | | | | | | 12A British Golden Ale | All Grain |
-|  | 27 | [69 Two Pints and a Packet of Hops (Godiva and East Kent Goldings)]()| Planned | | | | | | 12A British Golden Ale | All Grain |
-|  | 28 | [04 SMaSH Fuggle v2]()| Planned | | | | | | 12A British Golden Ale | All Grain |
-|  | 29 | [73 Two Pints and a Packet of Hops (Fuggle and Progress) v2]()| Planned | | | | | | 12A British Golden Ale | All Grain |
-|  | 30 | [73 Two Pints and a Packet of Hops (Fuggle and East Kent Goldings) v2]()| Planned | | | | | | 12A British Golden Ale | All Grain |
-|  | 31 | [11 SMaSH Progress]()| Planned | | | | | | 12A British Golden Ale | All Grain |
-|  | 32 | [11 SMaSH Progress v2]()| Planned | | | | | | 12A British Golden Ale | All Grain |
-|  | 33 | [11 SMaSH Progress v3]()| Planned | | | | | | 12A British Golden Ale | All Grain |
-|  | 34 | [22 SMaSH Palisade]()| Planned | | | | | | 18A Blonde Ale | All Grain |
-|  | 35 | [22 SMaSH Palisade v2]()| Planned | | | | | | 18A Blonde Ale | All Grain |
-|  | 36 | [22 SMaSH Palisade v3]()| Planned | | | | | | 18A Blonde Ale | All Grain |
-|  | 37 | [19 SMaSH Mosaic]()| Planned | | | | | | 01D American Wheat Beer | All Grain |
-|  | 38 | [19 SMaSH Mosaic v2]()| Planned | | | | | | 01D American Wheat Beer | All Grain |
-|  | 39 | [19 SMaSH Mosaic v3]()| Planned | | | | | | 01D American Wheat Beer | All Grain |
-|  | 40 | [33 Marvin - HHG2 the Galaxy]()| Planned | | | | | | 01D American Wheat Beer | All Grain |
-|  | 41 | [33 Marvin - HHG2 the Galaxy and beyond]()| Planned | | | | | | 01D American Wheat Beer | All Grain |
-|  | 42 | [33 Marvin - HHG2 the Galaxy and beyond v2]()| Planned | | | | | | 01D American Wheat Beer | All Grain |
-|  | 43 | [35 American Wheat Beer]()| Planned | | | | | | 01D American Wheat Beer | All Grain |
-|  | 44 | [35 American Wheat Beer v2]()| Planned | | | | | | 01D American Wheat Beer | All Grain |
-|  | 45 | [35 American Wheat Beer v3]()| Planned | | | | | | 01D American Wheat Beer | All Grain |
-|  | 46 | [65 Juniper Ascending]()| Planned | | | | | | Kornøl | All Grain |
-|  | 47 | [66 Kornøl]()| Planned | | | | | | Kornøl | All Grain |
+| ![61v3](../recipes/61_Three_Hops_Blonde/61_Three_Hops_Blonde.jpeg) | 18 | [61 Three Hops Blonde v3](batch_18/README.md) | Archived | 5.0 | 22 | 7.7 | 1.042 | 1.008 | 18A Blonde Ale | All Grain |
+| ![32](../recipes/32_Never_Give_Up/32_Never_Give_Up.jpeg) | 19 | [32 Never Give Up!](batch_19/README.md)| Completed | 7.9 | 29 | 7.3 | 1.060 | 1.004 | 25C Belgian Golden Strong Ale | All Grain |
+| ![32v2](../recipes/32_Never_Give_Up/32_Never_Give_Up.jpeg) | 20 | [32 Never Give Up! v2](batch_20/README.md)| Completed | 8.0 | 29 | 7.3 | 1.060 | 1.002 | 25C Belgian Golden Strong Ale | All Grain |
+| ![32v3](../recipes/32_Never_Give_Up/32_Never_Give_Up.jpeg) | 21 | [32 Never Give Up! v3](batch_21/README.md)| Completed | 8.0 | 29 | 7.3 | 1.060 | 1.002 | 25C Belgian Golden Strong Ale | All Grain |
+| ![74v2](../recipes/74_Wet_Hops_Blonde_Ale/74_Wet_Hops_Blonde_Ale_Bramling-X.jpeg) | 22 | [74 Wet Hops Blonde Ale (Bramling-X)](batch_22/README.md) | Conditioning | 4.6 | 31 | 9.5 | 1.041 | 1.008 | 12A British Golden Ale | All Grain |
+| ![74v2](../recipes/74_Wet_Hops_Blonde_Ale/74_Wet_Hops_Blonde_Ale_Willamette.jpeg) | 23 | [74 Wet Hops Blonde Ale (Willamette)](batch_23/README.md) | Conditioning | 4.6 | 20 | 8.5 | 1.032 | 1.000 | 12A British Golden Ale | All Grain |
+|  | 24 | [77 Five Pints of Best Fuggles](batch_19/README.md) | Planned | | | | | | 11B Best Bitter | All Grain |
+|  | 25 | [68 Two Pints and a Packet of Hops (Fuggle and East Kent Goldings)](batch_20/README.md)| Planned | | | | | | 11B Best Bitter | All Grain |
+|  | 26 | [73 Two Pints and a Packet of Hops (Fuggle and Progress)]()| Planned | | | | | | 11B Best Bitter | All Grain |
+|  | 27 | [03 SMaSH Godiva v2]()| Planned | | | | | | 12A British Golden Ale | All Grain |
+|  | 28 | [69 Two Pints and a Packet of Hops (Godiva and Progress)]()| Planned | | | | | | 12A British Golden Ale | All Grain |
+|  | 29 | [69 Two Pints and a Packet of Hops (Godiva and East Kent Goldings)]()| Planned | | | | | | 12A British Golden Ale | All Grain |
+|  | 30 | [04 SMaSH Fuggle v2]()| Planned | | | | | | 12A British Golden Ale | All Grain |
+|  | 31 | [73 Two Pints and a Packet of Hops (Fuggle and Progress) v2]()| Planned | | | | | | 12A British Golden Ale | All Grain |
+|  | 32 | [73 Two Pints and a Packet of Hops (Fuggle and East Kent Goldings) v2]()| Planned | | | | | | 12A British Golden Ale | All Grain |
+|  | 33 | [11 SMaSH Progress]()| Planned | | | | | | 12A British Golden Ale | All Grain |
+|  | 34 | [11 SMaSH Progress v2]()| Planned | | | | | | 12A British Golden Ale | All Grain |
+|  | 35 | [11 SMaSH Progress v3]()| Planned | | | | | | 12A British Golden Ale | All Grain |
+|  | 36 | [22 SMaSH Palisade]()| Planned | | | | | | 18A Blonde Ale | All Grain |
+|  | 37 | [22 SMaSH Palisade v2]()| Planned | | | | | | 18A Blonde Ale | All Grain |
+|  | 38 | [22 SMaSH Palisade v3]()| Planned | | | | | | 18A Blonde Ale | All Grain |
+|  | 39 | [19 SMaSH Mosaic]()| Planned | | | | | | 01D American Wheat Beer | All Grain |
+|  | 40 | [19 SMaSH Mosaic v2]()| Planned | | | | | | 01D American Wheat Beer | All Grain |
+|  | 41 | [19 SMaSH Mosaic v3]()| Planned | | | | | | 01D American Wheat Beer | All Grain |
+|  | 42 | [33 Marvin - HHG2 the Galaxy]()| Planned | | | | | | 01D American Wheat Beer | All Grain |
+|  | 43 | [33 Marvin - HHG2 the Galaxy and beyond]()| Planned | | | | | | 01D American Wheat Beer | All Grain |
+|  | 44 | [33 Marvin - HHG2 the Galaxy and beyond v2]()| Planned | | | | | | 01D American Wheat Beer | All Grain |
+|  | 45 | [35 American Wheat Beer]()| Planned | | | | | | 01D American Wheat Beer | All Grain |
+|  | 46 | [35 American Wheat Beer v2]()| Planned | | | | | | 01D American Wheat Beer | All Grain |
+|  | 47 | [35 American Wheat Beer v3]()| Planned | | | | | | 01D American Wheat Beer | All Grain |
+|  | 48 | [65 Juniper Ascending]()| Planned | | | | | | Kornøl | All Grain |
+|  | 49 | [66 Kornøl]()| Planned | | | | | | Kornøl | All Grain |
