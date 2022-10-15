@@ -1,6 +1,6 @@
 # 74 Wet Hops Blonde Ale (Chinook)
 
-Style: 18A Blonde Ale
+Style: 12A British Golden Ale
 
 ABV: 4.3 %
 
