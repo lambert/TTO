@@ -262,6 +262,8 @@
                 <PRODUCT_ID>US&#45;&#48;&#53;</PRODUCT_ID>
                 <DISPLAY_AMOUNT>0.5 pkg</DISPLAY_AMOUNT>
                 <ATTENUATION>81</ATTENUATION>
+                <MIN_TEMPERATURE>16</MIN_TEMPERATURE>
+                <MAX_TEMPERATURE>28</MAX_TEMPERATURE>
             </YEAST>
         </YEASTS>
         <MASH>
