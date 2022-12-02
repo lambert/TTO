@@ -67,5 +67,5 @@ Archived.
 |   8 | 15-01-2022 | 315 |  3.50 | Cooled @ 11 C. Opening the swing top gave a puff. Poured a head with good retention and lacing. Strong citra taste and a little bit dank. |
 |   9 | 01-05-2022 | 421 |  2.50 | Cooled @ 11 C. Opening the swing top gave a puff. Poured a head with good retention and lacing. Strong citrus and sharp taste. Strong body. Past its best. |
 |  10 | 07-05-2022 | 427 |  2.50 | Cooled @ 11 C. Opening the swing top gave a puff. Poured a head with good retention and lacing. Strong citrus and sharp taste. Strong body. Past its best. |
-|  11 |            |     |       |  |
+|  11 | 02-12-2022 | 636 |  3.5  | Served @ 17.0 C. Opening the swing top gave a puff. Poured a head with good retention and lacing. Hazy and brownish. Strong citrus taste. Strong body. |
 |  12 |            |     |       |  |

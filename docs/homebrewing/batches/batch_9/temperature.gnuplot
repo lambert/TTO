@@ -4,7 +4,7 @@ output_file = "temperature.png"
 set key left top nobox
 set output output_file
 set title "Temperature"
-set style data lines
+set style data points
 set ylabel "Temperature [°C]"
 set yrange [0:40]
 set grid y
@@ -17,8 +17,8 @@ set autoscale x
 set xdata time
 set timefmt "%d-%m-%Y  %H:%M"
 set format x "%d-%m-%Y"
-plot "fermentation.data" using 1:3 title "Fermentation", \
-     "conditioning.data" using 1:3 title "Conditioning"
+plot "fermentation.data" using 1:3 pt 0 ps 1 title "Fermentation", \
+     "conditioning.data" using 1:3 pt 0 ps 1 title "Conditioning"
 # set output back to default
 set output
 # reset terminal type

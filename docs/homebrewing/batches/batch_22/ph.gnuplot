@@ -17,7 +17,7 @@ set autoscale x
 set xdata time
 set timefmt "%d-%m-%Y  %H:%M"
 set format x "%d-%m-%Y"
-plot "fermentation.data" using 1:6 title ""
+plot "fermentation.data" using 1:6 pt 1 ps 1 title ""
 # set output back to default
 set output
 # reset terminal type
