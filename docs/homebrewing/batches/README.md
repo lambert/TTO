@@ -27,9 +27,9 @@
 | ![32v3](../recipes/32_Never_Give_Up/32_Never_Give_Up.jpeg) | 21 | [32 Never Give Up! v3](batch_21/README.md)| Completed | 8.0 | 29 | 7.3 | 1.060 | 1.002 | 25C Belgian Golden Strong Ale | All Grain |
 | ![74v2](../recipes/74_Wet_Hops_Blonde_Ale/74_Wet_Hops_Blonde_Ale_Bramling-X.jpeg) | 22 | [74 Wet Hops Blonde Ale (Bramling-X)](batch_22/README.md) | Conditioning | 4.6 | 31 | 9.5 | 1.041 | 1.008 | 12A British Golden Ale | All Grain |
 | ![74v2](../recipes/74_Wet_Hops_Blonde_Ale/74_Wet_Hops_Blonde_Ale_Willamette.jpeg) | 23 | [74 Wet Hops Blonde Ale (Willamette)](batch_23/README.md) | Conditioning | 4.6 | 20 | 8.5 | 1.032 | 1.000 | 12A British Golden Ale | All Grain |
-|  | 24 | [77 Five Pints of Best Fuggles](batch_19/README.md) | Planned | | | | | | 11B Best Bitter | All Grain |
-|  | 25 | [68 Two Pints and a Packet of Hops (Fuggle and East Kent Goldings)](batch_20/README.md)| Planned | | | | | | 11B Best Bitter | All Grain |
-|  | 26 | [73 Two Pints and a Packet of Hops (Fuggle and Progress)]()| Planned | | | | | | 11B Best Bitter | All Grain |
+| ![77](../recipes/77_Five_Pints_of_Best_Fuggles/77_Five_Pints_of_Best_Fuggles.jpeg)  | 24 | [77 Five Pints of Best Fuggles](batch_24/README.md) | Conditioning | 4.3 | 29 | 15 | 1.042 | 1.011 | 11B Best Bitter | All Grain |
+|  | 25 | [68 Two Pints and a Packet of Hops (Fuggle and East Kent Goldings)](batch_25/README.md)| Conditioning | 3.7 | 29 | 12.8 | 1.042 | 1.011 | 11B Best Bitter | All Grain |
+|  | 26 | [73 Two Pints and a Packet of Hops (Fuggle and Progress)](batch_26/README.md)| Conditioning | 3.4 | 29 | 12.8 | 1.042 | 1.013 | 11B Best Bitter | All Grain |
 |  | 27 | [03 SMaSH Godiva v2]()| Planned | | | | | | 12A British Golden Ale | All Grain |
 |  | 28 | [69 Two Pints and a Packet of Hops (Godiva and Progress)]()| Planned | | | | | | 12A British Golden Ale | All Grain |
 |  | 29 | [69 Two Pints and a Packet of Hops (Godiva and East Kent Goldings)]()| Planned | | | | | | 12A British Golden Ale | All Grain |
