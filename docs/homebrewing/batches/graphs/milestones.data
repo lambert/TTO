@@ -163,24 +163,28 @@
 22  04-09-2022  05-09-2022  1  # Brewing
 22  05-09-2022  18-09-2022  2  # Fermenting
 22  18-09-2022  03-10-2022  3  # Carbonation
-22  03-10-2022  31-10-2022  4  # Conditioning
+22  03-10-2022  30-10-2022  4  # Conditioning
+22  30-10-2022  30-10-2022  5  # Completed 
 
 # Wet Hops Blonde (Willamette)
 23  18-09-2022  18-09-2022  1  # Brewing
 23  19-09-2022  04-10-2022  2  # Fermenting
 23  04-10-2022  18-10-2022  3  # Carbonation
 23  18-10-2022  15-11-2022  4  # Conditioning
+23  15-11-2022  15-11-2022  5  # Completed
 
 # Five Pints of Best Fuggles
 24  06-11-2022  06-11-2022  1  # Brewing
-24  07-11-2022  21-11-2022  2  # Fermenting
-
+24  07-11-2022  27-11-2022  2  # Fermenting
+24  27-11-2022  27-11-2022  3  # Carbonation
 
 # Two Pints and a Packet of Hops (Fuggle and East Kent Goldings)
 25  06-11-2022  06-11-2022  1  # Brewing
-25  07-11-2022  21-11-2022  2  # Fermenting
+25  07-11-2022  23-11-2022  2  # Fermenting
+25  23-11-2022  23-11-2022  3  # Carbonation
 
 # Two Pints and a Packet of Hops (Fuggle and Progress)
 26  06-11-2022  06-11-2022  1  # Brewing
-26  07-11-2022  21-11-2022  2  # Fermenting
+26  07-11-2022  23-11-2022  2  # Fermenting
+26  23-11-2022  23-11-2022  3  # Carbonation
 
