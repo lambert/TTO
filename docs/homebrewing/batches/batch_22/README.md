@@ -8,7 +8,7 @@
 
 18-09-2022 19:50 Start conditioning.
 
-Completed conditioning.
+30-10-2022 23:59 Completed conditioning.
 
 Archived.
 
@@ -57,7 +57,7 @@ Archived.
 |-----|------------|-----|-------|-------|
 |     | 04-09-2022 |   0 |       | Brew day. |
 |     | 18-09-2022 |  13 |       | Bottling day. |
-|   1 |            |     |       |  |
+|   1 | 01-12-2022 |  88 | 3.25  | Served at 16.7 C. Malty, yeasty, fruity. Nice white head that dissoleves quickly. |
 |   2 |            |     |       |  |
 |   3 |            |     |       |  |
 |   4 |            |     |       |  |
@@ -69,7 +69,3 @@ Archived.
 |  10 |            |     |       |  |
 |  11 |            |     |       |  |
 |  12 |            |     |       |  |
-|  13 |            |     |       |  |
-|  14 |            |     |       |  |
-|  15 |            |     |       |  |
-|  16 |            |     |       |  |
