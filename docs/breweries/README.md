@@ -30,6 +30,8 @@
 
 - [ ] [Brouwerij Poesiat & Kater]()
 
+- [x] [Brouwerij Troost](NL/NH/Amsterdam/Brouwerij_Troost.md)
+
 - [ ] [Bruut Bier]()
 
 - [ ] [Oedipus Brewing](NL/NH/Amsterdam/Oedipus_Brewing.md)
@@ -42,9 +44,9 @@
 
 #### Haarlem
 
-- [ ] Jopen
+- [x] [Jopen](NL/NH/Haarlem/Jopen.md)
 
-- [ ] Uiltje Brewing Company
+- [x] [Uiltje Brewing Company](NL/NH/Haarlem/Uiltje_Brewing_Company.md)
 
 #### Hilversum
 
@@ -64,7 +66,7 @@
 
 #### Uithoorn
 
-- [x] [Brouwerij De Schans](NL/NH/Uithoorn/Brouwerij_De_Schans.md) - closed.
+- [x] [Brouwerij De Schans](NL/NH/Uithoorn/Brouwerij_De_Schans.md) - ceased trading.
 
 - [x] [The Thirsty Otter](NL/NH/Uithoorn/The_Thirsty_Otter.md)
 
@@ -109,6 +111,32 @@
 #### Brugge
 
 - [x] [Brouwerij De Halve Maan](B/WVL/Brugge/Brouwerij_De_Halve_Maan.md)
+
+## Denmark
+
+### Midtjylland
+
+#### Mørke
+
+- [x] [Myrki Bryghus](DK/042/Morke/Myrki_Bryghus.md)
+
+## France
+
+### 62 Pas de Calais
+
+#### Tardinghen
+
+- [x] [Brasserie Artisanale des 2 Caps](F/62/Tardinghen/Brasserie_Artisanale_des_2_Caps.md)
+
+## Germany
+
+### Lower Saxony (Niedersachsen)
+
+#### Großefehn
+
+- [x] [Brauerei Gut Strackholt](D/NI/Grossefehn/Brauerei_Gut_Strackholt.md)
+
+- [x] [Ostfriesen Bräu](D/NI/Grossefehn/Ostfriesen_Brau.md)
 
 ## United Kingdom
 
