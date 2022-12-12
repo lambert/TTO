@@ -28,28 +28,12 @@
 | ![74v2](../recipes/74_Wet_Hops_Blonde_Ale/74_Wet_Hops_Blonde_Ale_Bramling-X.jpeg) | 22 | [74 Wet Hops Blonde Ale (Bramling-X)](batch_22/README.md) | Conditioning | 4.6 | 31 | 9.5 | 1.041 | 1.008 | 12A British Golden Ale | All Grain |
 | ![74v2](../recipes/74_Wet_Hops_Blonde_Ale/74_Wet_Hops_Blonde_Ale_Willamette.jpeg) | 23 | [74 Wet Hops Blonde Ale (Willamette)](batch_23/README.md) | Conditioning | 4.6 | 20 | 8.5 | 1.032 | 1.000 | 12A British Golden Ale | All Grain |
 | ![77](../recipes/77_Five_Pints_of_Best_Fuggles/77_Five_Pints_of_Best_Fuggles.jpeg)  | 24 | [77 Five Pints of Best Fuggles](batch_24/README.md) | Conditioning | 4.3 | 29 | 15 | 1.042 | 1.011 | 11B Best Bitter | All Grain |
-|  | 25 | [68 Two Pints and a Packet of Hops (Fuggle and East Kent Goldings)](batch_25/README.md)| Conditioning | 3.7 | 29 | 12.8 | 1.042 | 1.011 | 11B Best Bitter | All Grain |
-|  | 26 | [73 Two Pints and a Packet of Hops (Fuggle and Progress)](batch_26/README.md)| Conditioning | 3.4 | 29 | 12.8 | 1.042 | 1.013 | 11B Best Bitter | All Grain |
+| ![68](../recipes/68_Two_Pints_and_a_Packet_of_Hops_Fuggle_and_East_Kent_Goldings/68_Two_Pints_and_a_Packet_of_Hops_Fuggle_and_East_Kent_Goldings.jpeg) | 25 | [68 Two Pints and a Packet of Hops (Fuggle and East Kent Goldings)](batch_25/README.md)| Conditioning | 3.7 | 29 | 12.8 | 1.042 | 1.011 | 11B Best Bitter | All Grain |
+| ![73](../recipes/73_Two_Pints_and_a_Packet_of_Hops_Fuggle_and_Progress/73_Two_Pints_and_a_Packet_of_Hops_Fuggle_and_Progress.jpeg) | 26 | [73 Two Pints and a Packet of Hops (Fuggle and Progress)](batch_26/README.md)| Conditioning | 3.4 | 29 | 12.8 | 1.042 | 1.013 | 11B Best Bitter | All Grain |
 |  | 27 | [03 SMaSH Godiva v2]()| Planned | | | | | | 12A British Golden Ale | All Grain |
 |  | 28 | [69 Two Pints and a Packet of Hops (Godiva and Progress)]()| Planned | | | | | | 12A British Golden Ale | All Grain |
 |  | 29 | [69 Two Pints and a Packet of Hops (Godiva and East Kent Goldings)]()| Planned | | | | | | 12A British Golden Ale | All Grain |
 |  | 30 | [04 SMaSH Fuggle v2]()| Planned | | | | | | 12A British Golden Ale | All Grain |
 |  | 31 | [73 Two Pints and a Packet of Hops (Fuggle and Progress) v2]()| Planned | | | | | | 12A British Golden Ale | All Grain |
 |  | 32 | [73 Two Pints and a Packet of Hops (Fuggle and East Kent Goldings) v2]()| Planned | | | | | | 12A British Golden Ale | All Grain |
-|  | 33 | [11 SMaSH Progress]()| Planned | | | | | | 12A British Golden Ale | All Grain |
-|  | 34 | [11 SMaSH Progress v2]()| Planned | | | | | | 12A British Golden Ale | All Grain |
-|  | 35 | [11 SMaSH Progress v3]()| Planned | | | | | | 12A British Golden Ale | All Grain |
-|  | 36 | [22 SMaSH Palisade]()| Planned | | | | | | 18A Blonde Ale | All Grain |
-|  | 37 | [22 SMaSH Palisade v2]()| Planned | | | | | | 18A Blonde Ale | All Grain |
-|  | 38 | [22 SMaSH Palisade v3]()| Planned | | | | | | 18A Blonde Ale | All Grain |
-|  | 39 | [19 SMaSH Mosaic]()| Planned | | | | | | 01D American Wheat Beer | All Grain |
-|  | 40 | [19 SMaSH Mosaic v2]()| Planned | | | | | | 01D American Wheat Beer | All Grain |
-|  | 41 | [19 SMaSH Mosaic v3]()| Planned | | | | | | 01D American Wheat Beer | All Grain |
-|  | 42 | [33 Marvin - HHG2 the Galaxy]()| Planned | | | | | | 01D American Wheat Beer | All Grain |
-|  | 43 | [33 Marvin - HHG2 the Galaxy and beyond]()| Planned | | | | | | 01D American Wheat Beer | All Grain |
-|  | 44 | [33 Marvin - HHG2 the Galaxy and beyond v2]()| Planned | | | | | | 01D American Wheat Beer | All Grain |
-|  | 45 | [35 American Wheat Beer]()| Planned | | | | | | 01D American Wheat Beer | All Grain |
-|  | 46 | [35 American Wheat Beer v2]()| Planned | | | | | | 01D American Wheat Beer | All Grain |
-|  | 47 | [35 American Wheat Beer v3]()| Planned | | | | | | 01D American Wheat Beer | All Grain |
-|  | 48 | [65 Juniper Ascending]()| Planned | | | | | | Kornøl | All Grain |
-|  | 49 | [66 Kornøl]()| Planned | | | | | | Kornøl | All Grain |
+|  | 33 | [89 Ukrainian Golden Ale]()| Planned | | | | | | Ukrainian Golden Ale | All Grain |
