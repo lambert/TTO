@@ -2,6 +2,10 @@
 
 ## 2022
 
+### September
+
+#### [Brew day @ September 4th, 2022](20220904/README.md)
+
 ### August
 
 #### [Hop growing experiment @ August 18th, 2022](20220818/README.md)
