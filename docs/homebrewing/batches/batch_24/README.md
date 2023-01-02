@@ -56,7 +56,7 @@ Archived.
 |-----|------------|-----|-------|-------|
 |     | 06-11-2022 |   0 |       | Brew day. |
 |     | 27-11-2022 |  21 |       | Bottling day. |
-|   1 |            |     |       |  |
+|   1 | 15-12-2022 |  39 | 3.25  | Served @ 16.8 C. Sweet, Maltyy, Strong. Mild on hops. Good retention. |
 |   2 |            |     |       |  |
 |   3 |            |     |       |  |
 |   4 |            |     |       |  |
