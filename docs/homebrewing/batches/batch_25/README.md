@@ -1,12 +1,12 @@
-# Batch #25 - 
+# Batch #25 - 68 Two Pints and a Packet of Hops (Fuggle and East Kent Goldings)
 
 ## Milestones
 
-Start brewing.
+06-11-2022 Start brewing.
 
-Start fermentation.
+07-11-2022 Start fermentation.
 
-Start conditioning.
+23-11-2022 Start conditioning.
 
 Completed conditioning.
 
@@ -24,7 +24,7 @@ Archived.
 
 ![conditioning](conditioning.png)
 
-[Results](./Batch_21_results.pdf)
+[Results](./Batch_25_results.pdf)
 
 ### Evaluation
 
@@ -54,21 +54,7 @@ Archived.
 
 | No. | Date       | Age | Score | Notes |
 |-----|------------|-----|-------|-------|
-|     |            |   0 |       | Brew day. |
-|     |            |     |       | Bottling day. |
-|   1 |            |     |       |  |
+|     | 06-11-2022 |   0 |       | Brew day. |
+|     | 23-11-2022 |  17 |       | Bottling day. |
+|   1 | 29-12-2022 |  53 | 3.25  | Served at 16.2 C. Has a nice body, floral, malty, yeasty, warm mouthfeel, no off flavours. |
 |   2 |            |     |       |  |
-|   3 |            |     |       |  |
-|   4 |            |     |       |  |
-|   5 |            |     |       |  |
-|   6 |            |     |       |  |
-|   7 |            |     |       |  |
-|   8 |            |     |       |  |
-|   9 |            |     |       |  |
-|  10 |            |     |       |  |
-|  11 |            |     |       |  |
-|  12 |            |     |       |  |
-|  13 |            |     |       |  |
-|  14 |            |     |       |  |
-|  15 |            |     |       |  |
-|  16 |            |     |       |  |
