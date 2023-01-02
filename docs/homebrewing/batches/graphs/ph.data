@@ -1,6 +1,11 @@
 #Age  pH    Batch  Temp  BJCP  Remarks  (Age in days, 0 = bottling day, negative is during fermentation)
+740   3.97  6      16.4  30.2  # Brouwpunt - Sinterklaas Special
+
 183   4.50  7      16.0  18.2  # The Thirsty Otter - SMaSH Citra
 636   4.48  7      16.7  18.2  #
+666   4.50  7      17.7  18.2  #
+
+634   4.20  8      17.1  18.2  # The Thirsty Otter - SMaSH Simcoe
 
 -21   3.59  12                 # The Thirsty Otter - AnOtter Apple Cider
 
@@ -40,8 +45,10 @@
  67   4.33  23     17.3  12.1  #
  
   0   4.67  24     17.9  11.2  # The Thirsty Otter - Five Pints of Best Fuggles
-  
+ 39   4.49  24     16.8  11.2  #
+
   0   4.41  25     14.8  11.2  # The Thirsty Otter - Two Pints and a Packet of Hops (Fuggle and EKG)
+ 53   4.35  25     16.2  11.2  #
   
   0   4.42  26     14.8  11.2  # The Thirsty Otter - Two Pints and a Packet of Hops (Fuggle and Progress)
   

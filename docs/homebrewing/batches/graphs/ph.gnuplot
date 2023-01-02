@@ -8,7 +8,7 @@ set key outside right center vertical Left reverse enhanced autotitle nobox
 # format Y-axis
 set ylabel "pH value"
 set format y "%.2f"
-set yrange [3:6]
+#set yrange [3.0:6.0]
 set grid y
 set ytics 1
 set mytics 5
@@ -20,7 +20,9 @@ set xtics offset 0,-1.5 rotate by 90
 set autoscale x
 # plot the graph
 plot "ph.data" using 1:2:3 with linespoints lc variable notitle, \
+    keyentry with point lc  6 lt 1 title "Batch #6", \
     keyentry with point lc  7 lt 1 title "Batch #7", \
+    keyentry with point lc  8 lt 1 title "Batch #8", \
     keyentry with point lc 12 lt 1 title "Batch #12", \
     keyentry with point lc 13 lt 1 title "Batch #13", \
     keyentry with point lc 14 lt 1 title "Batch #14", \
