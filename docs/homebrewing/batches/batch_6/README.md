@@ -60,7 +60,7 @@ Archived.
 |     | 20-12-2020 |  14 |       | Bottling day. |
 |   1 | 09-01-2021 |  34 |  3.25 | Pours with a thin foam. Slightly hazy. Light carbonation. Sweet aroma. Nutmeg and clove flavours. No dominant flavours. Thin mouthfeel. Crisp. |
 |   2 | 25-04-2021 | 140 |  3.25 | Cooled @ 10 C. Pours with a thin foam. Clear. Light carbonation. Sweet aroma. Nutmeg and clove flavour. No dominant flavours. Thin mouthfeel. Crisp. |
-|   3 |            |     |       |  |
+|   3 | 16-12-2022 | 740 |  3.25 | Served @ 16.4 C. Rich, good carbonation, good head, not boozy, Cinnamon flavour dominates. |
 |   4 |            |     |       |  |
 |   5 |            |     |       |  |
 |   6 |            |     |       |  |
