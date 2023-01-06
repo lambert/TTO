@@ -1,3 +1,3 @@
-# Bert's Beer Book
+# The Thirsty Otter
 
-Let's put all this beer stuff in a [book](docs/README.md).
+Let's put all this beer brewing stuff in a [book](docs/README.md).
