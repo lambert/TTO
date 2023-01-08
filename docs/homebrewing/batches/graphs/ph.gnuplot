@@ -8,7 +8,7 @@ set key outside right center vertical Left reverse enhanced autotitle nobox
 # format Y-axis
 set ylabel "pH value"
 set format y "%.2f"
-#set yrange [3.0:6.0]
+set autoscale y
 set grid y
 set ytics 1
 set mytics 5
