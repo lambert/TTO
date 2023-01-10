@@ -8,7 +8,7 @@
 
 23-11-2022 Start conditioning.
 
-Completed conditioning.
+04-01-2023 Completed conditioning.
 
 Archived.
 
@@ -30,9 +30,6 @@ Archived.
 
 |                         | Recipe | Batch | Diff   | Unit |
 |-------------------------|--------|-------|--------|------|
-| Pre-Boil Volume:        |        |       |        | L    |
-| Post-Boil Volume (HOT): |        |       |        | L    |
-| Boil Off per Hour:      |        |       |        | L    |
 | Batch Volume:           |        |       |        | L    |
 | Trub/Chiller Loss:      |        |       |        | L    |
 | Bottling Volume:        |        |       |        | L    |
