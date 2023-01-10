@@ -1,14 +1,14 @@
-# Batch # - 
+# Batch #26 - 73 Two Pints and a Packet of Hops (Fuggle and Progress)
 
 ## Milestones
 
-Start brewing.
+06-11-2022 Start brewing.
 
-Start fermentation.
+07-11-2022 Start fermentation.
 
-Start conditioning.
+23-11-2022 Start conditioning.
 
-Completed conditioning.
+04-01-2023 Completed conditioning.
 
 Archived.
 
@@ -24,15 +24,12 @@ Archived.
 
 ![conditioning](conditioning.png)
 
-[Results](./Batch__results.pdf)
+[Results](./Batch_26_results.pdf)
 
 ### Evaluation
 
 |                         | Recipe | Batch | Diff   | Unit |
 |-------------------------|--------|-------|--------|------|
-| Pre-Boil Volume:        |        |       |        | L    |
-| Post-Boil Volume (HOT): |        |       |        | L    |
-| Boil Off per Hour:      |        |       |        | L    |
 | Batch Volume:           |        |       |        | L    |
 | Trub/Chiller Loss:      |        |       |        | L    |
 | Bottling Volume:        |        |       |        | L    |
@@ -49,3 +46,12 @@ Archived.
 | RB Ratio:               |        |       |        |      |
 | Color                   |        |       |        | EBC  |
 | Mash pH:                |        |       |        |      |
+
+## Tasting notes
+
+| No. | Date       | Age | Score | Notes |
+|-----|------------|-----|-------|-------|
+|     | 06-11-2022 |   0 |       | Brew day. |
+|     | 23-11-2022 |  17 |       | Bottling day. |
+|   1 |            |     |       |  |
+|   2 |            |     |       |  |
