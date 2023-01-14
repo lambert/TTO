@@ -1,5 +1,11 @@
 # Blog
 
+## 2023
+
+### January
+
+#### [Tasting @ January 13th, 2023](20230113/README.md)
+
 ## 2022
 
 ### December
@@ -11,6 +17,8 @@
 ### November
 
 #### [Bottling day @ November 27th, 2022](20221127/README.md)
+
+#### [Brew day @ November 6th, 2022](20221106/README.md)
 
 ### September
 
