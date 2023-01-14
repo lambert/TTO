@@ -53,5 +53,5 @@ Archived.
 |-----|------------|-----|-------|-------|
 |     | 06-11-2022 |   0 |       | Brew day. |
 |     | 23-11-2022 |  17 |       | Bottling day. |
-|   1 |            |     |       |  |
+|   1 | 12-01-2023 |  67 | 3.25  | Served at 18.6 C. Has a nice body, malty, yeasty, warm mouthfeel, no off flavours. |
 |   2 |            |     |       |  |
