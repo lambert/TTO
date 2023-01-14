@@ -28,24 +28,22 @@ Archived.
 
 ### Evaluation
 
-|                         | Recipe | Batch | Diff   | Unit |
+| Split off Batch 24      | Recipe | Batch | Diff   | Unit |
 |-------------------------|--------|-------|--------|------|
-| Batch Volume:           |        |       |        | L    |
-| Trub/Chiller Loss:      |        |       |        | L    |
-| Bottling Volume:        |        |       |        | L    |
-| Pre-Boil Gravity:       |        |       |        |      |
-| Post-Boil Gravity:      |        |       |        |      |
-| Original Gravity:       |        |       |        |      |
-| Final Gravity:          |        |       |        |      |
-| Alcohol By Volume:      |        |       |        | %    |
-| Apparent Attenuation:   |        |       |        | %    |
-| Mash Efficiency:        |        |       |        | %    |
-| Brewhouse Efficiency:   |        |       |        | %    |
-| IBU:                    |        |       |        |      |
-| BU/GU Ratio:            |        |       |        |      |
-| RB Ratio:               |        |       |        |      |
-| Color                   |        |       |        | EBC  |
-| Mash pH:                |        |       |        |      |
+| Batch Volume:           | 0.75   | 0.75  |  0     | L    |
+| Bottling Volume:        | 0.66   | 0.66  |  0     | L    |
+| Post-Boil Gravity:      | 1.037  | 1.037 |  0     |      |
+| Original Gravity:       | 1.037  | 1.037 |  0     |      |
+| Total Gravity:          | 1.044  | 1.039 | -0.005 |      |
+| Final Gravity:          | 1.012  | 1.011 | -0.001 |      |
+| Alcohol By Volume:      | 4.2    | 3.7   | -0.5   | %    |
+| Apparent Attenuation:   | 72     | 71.1  | -0.9   | %    |
+| Brewhouse Efficiency:   | 72     | 72    |  0     | %    |
+| IBU:                    | 29     | 29    |  0     |      |
+| BU/GU Ratio:            | 0.65   | 0.74  | +0.09  |      |
+| RB Ratio:               | 0.62   | 0.70  | +0.08  |      |
+| Color                   | 12.8   | 12.8  |  0     | EBC  |
+| Mash pH:                | 5.38   | 5.27  | -0.11  |      |
 
 ## Tasting notes
 
