@@ -2,6 +2,16 @@
 
 ## 2022
 
+### December
+
+#### [Tasting @ December 16th, 2022](20221216/README.md)
+
+#### [Tasting @ December 15th, 2022](20221215/README.md)
+
+### November
+
+#### [Bottling day @ November 27th, 2022](20221127/README.md)
+
 ### September
 
 #### [Brew day @ September 4th, 2022](20220904/README.md)
