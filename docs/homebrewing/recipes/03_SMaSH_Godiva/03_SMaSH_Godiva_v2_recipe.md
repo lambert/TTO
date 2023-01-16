@@ -2,15 +2,15 @@
 
 Style: 12A British Golden Ale
 
-ABV: 4.7 %
+ABV: 4.2 %
 
-IBU: 31
+IBU: 27
 
-EBC: 8.7
+EBC: 8.3
 
-Original Gravity: 1.045
+Original Gravity: 1.039
 
-Final Gravity 1.011
+Final Gravity 1.009
 
 Batch size: 5 L
 
@@ -20,7 +20,7 @@ Strike temperature @ 68.7 C
 
 60 minutes @ 63 C
 
-1100 grams Thomas Fawcett Maris Otter Pale Ale Malt
+1000 grams Muntons Maris Otter Pale Ale Malt
 
 ## Boil
 
@@ -28,28 +28,34 @@ Strike temperature @ 68.7 C
 
 0.15 grams Lipohop K @ 0 minutes
 
-6 grams Godiva (A.A. 7.5 %) @ 30 minutes (17 IBU)
+5 grams Godiva (A.A. 7.5 %) @ 30 minutes (17 IBU)
 
-6 grams Godiva (A.A. 7.5 %) @ 45 minutes (12 IBU)
-
-0.05 grams Lallemand Servomyces yeast nutrient @ 50 minutes
+5 grams Godiva (A.A. 7.5 %) @ 45 minutes (12 IBU)
 
 1 grams Irish Moss @ 50 minutes
 
 ## Hopstand
 
-6 grams Godiva (A.A. 7.5 %) 15 minutes @ 80 C (2 IBU)
+5 grams Godiva (A.A. 7.5 %) 15 minutes @ 80 C (2 IBU)
 
 ## Fermentation
 
 0.5 package Lallemand Nottingham Yeast
 
-Primary @ 20 C for 14 days
+Primary @ 17 C for 10 days
+
+7 grams Godiva (A.A. 7.5 %) for 7 days
+
+Diacetyl rest @ 21 C for 4 days 
 
 ## Bottling
 
 30 gram Table Sugar for 2.3 % carbonation
 
+## Carbonation
+
+Carbonation @ 17 C for 14 days
+
 ## Conditioning
 
-Conditioning @ 20 C for 45 days
+Conditioning @ 17 C for 28 days
