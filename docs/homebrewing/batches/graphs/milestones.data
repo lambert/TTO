@@ -178,16 +178,27 @@
 24  07-11-2022  27-11-2022  2  # Fermenting
 24  27-11-2022  05-12-2022  3  # Carbonation
 24  11-12-2022  08-01-2023  4  # Conditioning
+24  08-01-2023  08-01-2023  5  # Completed
 
 # Two Pints and a Packet of Hops (Fuggle and East Kent Goldings)
 25  06-11-2022  06-11-2022  1  # Brewing
 25  07-11-2022  23-11-2022  2  # Fermenting
 25  23-11-2022  07-12-2022  3  # Carbonation
 25  07-12-2022  04-01-2023  4  # Conditioning
+25  04-01-2023  04-01-2023  5  # Completed
 
 # Two Pints and a Packet of Hops (Fuggle and Progress)
 26  06-11-2022  06-11-2022  1  # Brewing
 26  07-11-2022  23-11-2022  2  # Fermenting
 26  23-11-2022  07-12-2022  3  # Carbonation
 26  07-12-2022  04-01-2023  4  # Conditioning
+26  04-01-2023  04-01-2023  5  # Completed
 
+# SMaSH Godiva v2
+27  15-01-2023  15-01-2023  1  # Brewing
+
+# Two Pints and a Packet of Hops (Godiva and Progress)
+28  15-01-2023  15-01-2023  1  # Brewing
+
+# Two Pints and a Packet of Hops (Godiva and East Kent Goldings)
+29  15-01-2023  15-01-2023  1  # Brewing

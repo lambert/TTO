@@ -37,7 +37,8 @@ plot "ph.data" using 5:2:3 lc variable notitle, \
     keyentry with point lc 23 lt 1 title "Batch #23", \
     keyentry with point lc 24 lt 1 title "Batch #24", \
     keyentry with point lc 25 lt 1 title "Batch #25", \
-    keyentry with point lc 26 lt 1 title "Batch #26"
+    keyentry with point lc 26 lt 1 title "Batch #26", \
+    keyentry with point lc 27 lt 1 title "Batch #27"
  
 # set output back to default
 set output

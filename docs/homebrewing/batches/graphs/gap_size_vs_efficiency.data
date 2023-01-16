@@ -1,8 +1,8 @@
-# Gap size [mm]  Mash efficiency [%]  Batch Pils  Pale  Wheat  comment
-1.91             70                   15     75    20     5    # batch 15 Wet Hops Blonde Ale (Chinook)
-1.91             62                   19    100     0     0    # batch 19 Never Give Up!
-1.91             65                   22     20    75     5    # batch 22 Wet Hops Blonde (Bramling-X)
-1.91             61                   23     20    75     5    # batch 23 Wet Hops Blonde (Willamette)
-1.91              0                   27      0   100     0    # batch 27 SMaSH Godiva v2
+# Gap size [mm]  Mash efficiency [%]  Batch comment
+1.91             70                   15    # batch 15 Wet Hops Blonde Ale (Chinook)
+1.91             62                   19    # batch 19 Never Give Up!
+1.91             65                   22    # batch 22 Wet Hops Blonde (Bramling-X)
+1.91             61                   23    # batch 23 Wet Hops Blonde (Willamette)
+1.91             52                   27    # batch 27 SMaSH Godiva v2
 # EOF #
 
