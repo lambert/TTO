@@ -15,19 +15,20 @@ set grid y
 set mytics 10
 # format X-axis
 set xlabel "Batch #"
-set xrange [0:27]
+set xrange [0:30]
 set grid x
 set xtics 1
 plot "OG_vs_FG.data" using 1:2:(0.0):($3-$2):4 with vectors lw 3 lc variable notitle, \
-         keyentry with point lc 5 lt 5 title "Fermentis S-04", \
-         keyentry with point lc 1 lt 5 title "Fermentis S-33", \
-         keyentry with point lc 6 lt 5 title "Fermentis US-05", \
-         keyentry with point lc 8 lt 5 title "Lallemand Abbaye", \
-         keyentry with point lc 9 lt 5 title "Lallemand London", \
-         keyentry with point lc 4 lt 5 title "Lallemand New England", \
-         keyentry with point lc 2 lt 5 title "Lallemand Nottingham", \
-         keyentry with point lc 7 lt 5 title "Mangrove Jack's M02 Cider", \
-         keyentry with point lc 3 lt 5 title "NBS Classic English Ale"
+         keyentry with point lc  5 lt 5 title "Fermentis S-04", \
+         keyentry with point lc  1 lt 5 title "Fermentis S-33", \
+         keyentry with point lc  6 lt 5 title "Fermentis US-05", \
+         keyentry with point lc  8 lt 5 title "Lallemand Abbaye", \
+         keyentry with point lc  9 lt 5 title "Lallemand London", \
+         keyentry with point lc  4 lt 5 title "Lallemand New England", \
+         keyentry with point lc  2 lt 5 title "Lallemand Nottingham", \
+         keyentry with point lc 10 lt 5 title "Lallemand Windsor", \
+         keyentry with point lc  7 lt 5 title "Mangrove Jack's M02 Cider", \
+         keyentry with point lc  3 lt 5 title "NBS Classic English Ale"
 # set output back to default
 set output
 # reset terminal type
