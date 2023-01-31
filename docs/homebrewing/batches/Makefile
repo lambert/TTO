@@ -24,7 +24,10 @@ DIRS = graphs \
 	batch_23 \
 	batch_24 \
 	batch_25 \
-	batch_26
+	batch_26 \
+	batch_27 \
+	batch_28 \
+	batch_29
 
 .DEFAULT_GOAL := all
 
