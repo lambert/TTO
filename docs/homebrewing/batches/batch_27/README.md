@@ -4,7 +4,7 @@
 
 15-01-2023 10:20 Start brewing.
 
-Start fermentation.
+16-01-2023 13:25 Start fermentation.
 
 Start conditioning.
 
