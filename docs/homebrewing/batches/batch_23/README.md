@@ -57,8 +57,8 @@ Archived.
 |     | 18-09-2022 |   0 |       | Brew day. |
 |     | 04-10-2022 |  16 |       | Bottling day. |
 |   1 | 24-11-2022 |  67 | 3.0   | Served at 17.3 C. Malty, yeasty, fruity, biscuit. Nice white head that dissolves quickly. |
-|   2 |            |     |       |  |
-|   3 |            |     |       |  |
+|   2 | 13-01-2023 | 117 | 3.0   | Served at 16.8 C. Malty, yeasty. Nice white head that dissoleves quickly. |
+|   3 | 12-02-2023 | 147 | 3.0   | Served at 15.8 C. Malty, yeasty. Nice white head that dissoleves quickly. Light carbonic acid taste. |
 |   4 |            |     |       |  |
 |   5 |            |     |       |  |
 |   6 |            |     |       |  |
