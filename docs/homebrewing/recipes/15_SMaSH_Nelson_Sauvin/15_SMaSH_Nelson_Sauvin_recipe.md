@@ -1,3 +1,5 @@
+![logo](./15_SMaSH_Nelson_Sauvin.jpeg)
+
 # 15 SMaSH Nelson Sauvin
 
 Style: 18B American Pale Ale

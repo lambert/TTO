@@ -1,3 +1,5 @@
+![logo](./09_SMaSH_Sabro.jpeg)
+
 # 09 SMaSH Sabro
 
 Style: 21B Specialty IPA

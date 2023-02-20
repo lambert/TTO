@@ -1,3 +1,5 @@
+![logo](./19_SMaSH_Mosaic.jpeg)
+
 # 19 SMaSH Mosaic
 
 Style: 01D American Wheat Beer

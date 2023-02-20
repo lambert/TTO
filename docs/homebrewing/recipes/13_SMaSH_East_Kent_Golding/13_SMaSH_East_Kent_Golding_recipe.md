@@ -1,3 +1,5 @@
+![logo](./13_SMaSH_East_Kent_Golding.jpeg)
+
 # 13 SMaSH East Kent Golding
 
 Style: 12A British Golden Ale

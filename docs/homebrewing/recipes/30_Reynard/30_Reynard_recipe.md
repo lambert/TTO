@@ -1,3 +1,5 @@
+![logo](./30_Reynard.jpeg)
+
 # 30 Reynard
 
 Style: 15A Irish Red Ale

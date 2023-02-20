@@ -1,3 +1,5 @@
+![logo](./17_SMaSH_Lemondrop.jpeg)
+
 # 17 SMaSH Lemondrop
 
 Style: 18A Blonde Ale

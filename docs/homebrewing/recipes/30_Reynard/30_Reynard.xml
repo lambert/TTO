@@ -1,94 +1,80 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <RECIPES>
     <RECIPE>
-        <NAME>&#51;&#48;&#32;Reynard</NAME>
+        <NAME>&#51;&#49;&#32;Isengrim</NAME>
         <VERSION>1</VERSION>
         <TYPE>All&#32;Grain</TYPE>
-        <NOTES>Malt&#32;is&#32;ordered&#32;with&#32;standard&#32;crush&#32;&#64;&#32;The&#32;Malt&#32;Miller&#32;&#40;https&#58;&#47;&#47;www&#46;themaltmiller&#46;co&#46;uk&#47;&#41;&#46;</NOTES>
+        <NOTES>Malt&#32;is&#32;ordered&#32;with&#32;standard&#32;crush&#32;&#64;&#32;The&#32;Malt&#32;Miller&#32;&#40;https&#58;&#47;&#47;www&#46;themaltmiller&#46;co&#46;uk&#47;&#41;&#46;&#10;&#10;Steep&#32;the&#32;roasted&#32;barley&#32;and&#32;pale&#32;chocolate&#32;malt&#32;in&#32;&#48;&#46;&#55;&#53;&#48;&#32;L&#32;of&#32;wort&#46;&#10;Add&#32;the&#32;steeped&#32;roast&#32;barley&#32;and&#32;pale&#32;chocolate&#32;malt&#32;at&#32;the&#32;end&#32;of&#32;the&#32;mash&#46;</NOTES>
         <STYLE>
-            <NAME>Irish&#32;Red&#32;Ale</NAME>
-            <CATEGORY>Irish&#32;Beer</CATEGORY>
+            <NAME>Oatmeal&#32;Stout</NAME>
+            <CATEGORY>Dark&#32;British&#32;Beer</CATEGORY>
             <VERSION>1</VERSION>
-            <CATEGORY_NUMBER>15</CATEGORY_NUMBER>
-            <STYLE_LETTER>A</STYLE_LETTER>
+            <CATEGORY_NUMBER>16</CATEGORY_NUMBER>
+            <STYLE_LETTER>B</STYLE_LETTER>
             <STYLE_GUIDE>BJCP&#32;&#50;&#48;&#49;&#53;</STYLE_GUIDE>
-            <TYPE>Amber&#32;Ale</TYPE>
-            <OG_MIN>1.036</OG_MIN>
-            <OG_MAX>1.046</OG_MAX>
+            <TYPE>Stout</TYPE>
+            <OG_MIN>1.045</OG_MIN>
+            <OG_MAX>1.065</OG_MAX>
             <FG_MIN>1.01</FG_MIN>
-            <FG_MAX>1.014</FG_MAX>
-            <IBU_MIN>18</IBU_MIN>
-            <IBU_MAX>28</IBU_MAX>
-            <COLOR_MIN>9</COLOR_MIN>
-            <COLOR_MAX>14</COLOR_MAX>
+            <FG_MAX>1.018</FG_MAX>
+            <IBU_MIN>25</IBU_MIN>
+            <IBU_MAX>40</IBU_MAX>
+            <COLOR_MIN>22</COLOR_MIN>
+            <COLOR_MAX>40</COLOR_MAX>
         </STYLE>
         <BREWER>The&#32;Thirsty&#32;Otter</BREWER>
         <BATCH_SIZE>5.6</BATCH_SIZE>
         <BOIL_SIZE>7.76</BOIL_SIZE>
         <BOIL_TIME>60</BOIL_TIME>
         <EFFICIENCY>71.8</EFFICIENCY>
-        <OG>1.046</OG>
-        <FG>1.012</FG>
-        <ABV>4.46 %</ABV>
-        <EST_ABV>4.46 %</EST_ABV>
-        <IBU>24.7</IBU>
-        <EST_OG>1.046 SG</EST_OG>
-        <EST_FG>1.012 SG</EST_FG>
-        <EST_COLOR>11.3 SRM</EST_COLOR>
+        <OG>1.05</OG>
+        <FG>1.014</FG>
+        <ABV>4.73 %</ABV>
+        <EST_ABV>4.73 %</EST_ABV>
+        <IBU>31.4</IBU>
+        <EST_OG>1.05 SG</EST_OG>
+        <EST_FG>1.014 SG</EST_FG>
+        <EST_COLOR>37.9 SRM</EST_COLOR>
         <CARBONATION>2.4</CARBONATION>
         <HOPS>
             <HOP>
-                <BF_ID>default-69c1b0cb</BF_ID>
-                <NAME>Bramling&#32;Cross</NAME>
+                <BF_ID>HjlT19xbSFbunGAYkzcNp8cLpf3pHJ</BF_ID>
+                <NAME>Fuggle</NAME>
                 <VERSION>1</VERSION>
-                <ALPHA>7</ALPHA>
-                <AMOUNT>0.005</AMOUNT>
+                <ALPHA>5</ALPHA>
+                <AMOUNT>0.01</AMOUNT>
                 <USE>Boil</USE>
                 <TIME>30</TIME>
-                <FORM>Pellet</FORM>
+                <FORM>Whole</FORM>
                 <TEMPERATURE/>
                 <HOP_TEMP/>
             </HOP>
             <HOP>
-                <BF_ID>default-69c1b0cb</BF_ID>
-                <NAME>Bramling&#32;Cross</NAME>
+                <BF_ID>HjlT19xbSFbunGAYkzcNp8cLpf3pHJ</BF_ID>
+                <NAME>Fuggle</NAME>
                 <VERSION>1</VERSION>
-                <ALPHA>7</ALPHA>
-                <AMOUNT>0.005</AMOUNT>
+                <ALPHA>5</ALPHA>
+                <AMOUNT>0.007</AMOUNT>
                 <USE>Boil</USE>
-                <TIME>10</TIME>
-                <FORM>Pellet</FORM>
+                <TIME>15</TIME>
+                <FORM>Whole</FORM>
                 <TEMPERATURE/>
                 <HOP_TEMP/>
             </HOP>
             <HOP>
-                <BF_ID>default-69c1b0cb</BF_ID>
-                <NAME>Bramling&#32;Cross</NAME>
+                <BF_ID>HjlT19xbSFbunGAYkzcNp8cLpf3pHJ</BF_ID>
+                <NAME>Fuggle</NAME>
                 <VERSION>1</VERSION>
-                <ALPHA>7</ALPHA>
-                <AMOUNT>0.01</AMOUNT>
+                <ALPHA>5</ALPHA>
+                <AMOUNT>0.015</AMOUNT>
                 <USE>Aroma</USE>
-                <TIME>10</TIME>
-                <FORM>Pellet</FORM>
+                <TIME>15</TIME>
+                <FORM>Whole</FORM>
                 <TEMPERATURE/>
                 <HOP_TEMP/>
             </HOP>
         </HOPS>
         <FERMENTABLES>
-            <FERMENTABLE>
-                <BF_ID>default-2746435</BF_ID>
-                <NAME>Red&#32;X</NAME>
-                <SUPPLIER>BestMalz</SUPPLIER>
-                <ORIGIN>Germany</ORIGIN>
-                <VERSION>1</VERSION>
-                <TYPE>Grain</TYPE>
-                <AMOUNT>0.8</AMOUNT>
-                <YIELD>81</YIELD>
-                <COLOR>15.228426</COLOR>
-                <ADD_AFTER_BOIL>false</ADD_AFTER_BOIL>
-                <NOT_FERMENTABLE>false</NOT_FERMENTABLE>
-                <IBU_GAL_PER_LB>0</IBU_GAL_PER_LB>
-            </FERMENTABLE>
             <FERMENTABLE>
                 <BF_ID>default-8730bfa</BF_ID>
                 <NAME>Maris&#32;Otter&#32;Pale&#32;Ale&#32;Malt</NAME>
@@ -96,9 +82,51 @@
                 <ORIGIN>UK</ORIGIN>
                 <VERSION>1</VERSION>
                 <TYPE>Grain</TYPE>
-                <AMOUNT>0.3</AMOUNT>
+                <AMOUNT>1</AMOUNT>
                 <YIELD>82.5</YIELD>
                 <COLOR>2.994924</COLOR>
+                <ADD_AFTER_BOIL>false</ADD_AFTER_BOIL>
+                <NOT_FERMENTABLE>false</NOT_FERMENTABLE>
+                <IBU_GAL_PER_LB>0</IBU_GAL_PER_LB>
+            </FERMENTABLE>
+            <FERMENTABLE>
+                <BF_ID>default-nym-ernthw</BF_ID>
+                <NAME>Pale&#32;Chocolate&#32;Malt</NAME>
+                <SUPPLIER>Thomas&#32;Fawcett</SUPPLIER>
+                <ORIGIN>UK</ORIGIN>
+                <VERSION>1</VERSION>
+                <TYPE>Grain</TYPE>
+                <AMOUNT>0.2</AMOUNT>
+                <YIELD>65.9</YIELD>
+                <COLOR>266.497462</COLOR>
+                <ADD_AFTER_BOIL>false</ADD_AFTER_BOIL>
+                <NOT_FERMENTABLE>false</NOT_FERMENTABLE>
+                <IBU_GAL_PER_LB>NaN</IBU_GAL_PER_LB>
+            </FERMENTABLE>
+            <FERMENTABLE>
+                <BF_ID>default-6d16838</BF_ID>
+                <NAME>Oat&#32;Malt</NAME>
+                <SUPPLIER>Thomas&#32;Fawcett</SUPPLIER>
+                <ORIGIN>UK</ORIGIN>
+                <VERSION>1</VERSION>
+                <TYPE>Grain</TYPE>
+                <AMOUNT>0.15</AMOUNT>
+                <YIELD>71.7</YIELD>
+                <COLOR>2.030457</COLOR>
+                <ADD_AFTER_BOIL>false</ADD_AFTER_BOIL>
+                <NOT_FERMENTABLE>false</NOT_FERMENTABLE>
+                <IBU_GAL_PER_LB>0</IBU_GAL_PER_LB>
+            </FERMENTABLE>
+            <FERMENTABLE>
+                <BF_ID>default-0f46ffb</BF_ID>
+                <NAME>Roasted&#32;Barley</NAME>
+                <SUPPLIER>Crisp</SUPPLIER>
+                <ORIGIN>UK</ORIGIN>
+                <VERSION>1</VERSION>
+                <TYPE>Grain</TYPE>
+                <AMOUNT>0.03</AMOUNT>
+                <YIELD>76</YIELD>
+                <COLOR>659.898477</COLOR>
                 <ADD_AFTER_BOIL>false</ADD_AFTER_BOIL>
                 <NOT_FERMENTABLE>false</NOT_FERMENTABLE>
                 <IBU_GAL_PER_LB>0</IBU_GAL_PER_LB>
@@ -110,7 +138,7 @@
                 <ORIGIN/>
                 <VERSION>1</VERSION>
                 <TYPE>Sugar</TYPE>
-                <AMOUNT>0.025</AMOUNT>
+                <AMOUNT>0.03</AMOUNT>
                 <YIELD>100</YIELD>
                 <COLOR>1.015228</COLOR>
                 <ADD_AFTER_BOIL>false</ADD_AFTER_BOIL>
@@ -126,8 +154,8 @@
                 <TYPE>Water&#32;Agent</TYPE>
                 <USE>Mash</USE>
                 <TIME>0</TIME>
-                <AMOUNT>0.00063</AMOUNT>
-                <DISPLAY_AMOUNT>0.63 g</DISPLAY_AMOUNT>
+                <AMOUNT>0.00065</AMOUNT>
+                <DISPLAY_AMOUNT>0.65 g</DISPLAY_AMOUNT>
                 <AMOUNT_IS_WEIGHT>true</AMOUNT_IS_WEIGHT>
             </MISC>
             <MISC>
@@ -137,8 +165,8 @@
                 <TYPE>Water&#32;Agent</TYPE>
                 <USE>Mash</USE>
                 <TIME>0</TIME>
-                <AMOUNT>0.00116</AMOUNT>
-                <DISPLAY_AMOUNT>1.16 g</DISPLAY_AMOUNT>
+                <AMOUNT>0.00228</AMOUNT>
+                <DISPLAY_AMOUNT>2.28 g</DISPLAY_AMOUNT>
                 <AMOUNT_IS_WEIGHT>true</AMOUNT_IS_WEIGHT>
             </MISC>
             <MISC>
@@ -148,8 +176,8 @@
                 <TYPE>Water&#32;Agent</TYPE>
                 <USE>Mash</USE>
                 <TIME>0</TIME>
-                <AMOUNT>0.00063</AMOUNT>
-                <DISPLAY_AMOUNT>0.63 g</DISPLAY_AMOUNT>
+                <AMOUNT>0.00065</AMOUNT>
+                <DISPLAY_AMOUNT>0.65 g</DISPLAY_AMOUNT>
                 <AMOUNT_IS_WEIGHT>true</AMOUNT_IS_WEIGHT>
             </MISC>
             <MISC>
@@ -159,8 +187,8 @@
                 <TYPE>Water&#32;Agent</TYPE>
                 <USE>Mash</USE>
                 <TIME>0</TIME>
-                <AMOUNT>0.00118</AMOUNT>
-                <DISPLAY_AMOUNT>1.18 g</DISPLAY_AMOUNT>
+                <AMOUNT>0.00094</AMOUNT>
+                <DISPLAY_AMOUNT>0.94 g</DISPLAY_AMOUNT>
                 <AMOUNT_IS_WEIGHT>true</AMOUNT_IS_WEIGHT>
             </MISC>
             <MISC>
@@ -170,9 +198,20 @@
                 <TYPE>Water&#32;Agent</TYPE>
                 <USE>Mash</USE>
                 <TIME>0</TIME>
-                <AMOUNT>0.00232</AMOUNT>
-                <DISPLAY_AMOUNT>2.32 g</DISPLAY_AMOUNT>
+                <AMOUNT>0.00093</AMOUNT>
+                <DISPLAY_AMOUNT>0.93 g</DISPLAY_AMOUNT>
                 <AMOUNT_IS_WEIGHT>true</AMOUNT_IS_WEIGHT>
+            </MISC>
+            <MISC>
+                <BF_ID>default-07adb1</BF_ID>
+                <NAME>Lactic&#32;Acid&#32;&#56;&#48;&#37;</NAME>
+                <VERSION>1</VERSION>
+                <TYPE>Water&#32;Agent</TYPE>
+                <USE>Mash</USE>
+                <TIME>0</TIME>
+                <AMOUNT>0.0001</AMOUNT>
+                <DISPLAY_AMOUNT>0.1 ml</DISPLAY_AMOUNT>
+                <AMOUNT_IS_WEIGHT>false</AMOUNT_IS_WEIGHT>
             </MISC>
             <MISC>
                 <BF_ID>W7OD0f0a8UTCV5zL4xz8XmDee2F6yI</BF_ID>
@@ -181,8 +220,8 @@
                 <TYPE>Other</TYPE>
                 <USE>Mash</USE>
                 <TIME>0</TIME>
-                <AMOUNT>3.3</AMOUNT>
-                <DISPLAY_AMOUNT>3.3 l</DISPLAY_AMOUNT>
+                <AMOUNT>4.14</AMOUNT>
+                <DISPLAY_AMOUNT>4.14 l</DISPLAY_AMOUNT>
                 <AMOUNT_IS_WEIGHT>false</AMOUNT_IS_WEIGHT>
             </MISC>
             <MISC>
@@ -192,8 +231,8 @@
                 <TYPE>Other</TYPE>
                 <USE>Sparge</USE>
                 <TIME>0</TIME>
-                <AMOUNT>5.64</AMOUNT>
-                <DISPLAY_AMOUNT>5.64 l</DISPLAY_AMOUNT>
+                <AMOUNT>5.06</AMOUNT>
+                <DISPLAY_AMOUNT>5.06 l</DISPLAY_AMOUNT>
                 <AMOUNT_IS_WEIGHT>false</AMOUNT_IS_WEIGHT>
             </MISC>
             <MISC>
@@ -216,6 +255,17 @@
                 <TIME>10</TIME>
                 <AMOUNT>0.001</AMOUNT>
                 <DISPLAY_AMOUNT>1 g</DISPLAY_AMOUNT>
+                <AMOUNT_IS_WEIGHT>true</AMOUNT_IS_WEIGHT>
+            </MISC>
+            <MISC>
+                <BF_ID>default-9mb13</BF_ID>
+                <NAME>Lallemand&#32;Servomyces</NAME>
+                <VERSION>1</VERSION>
+                <TYPE>Other</TYPE>
+                <USE>Boil</USE>
+                <TIME>10</TIME>
+                <AMOUNT>0.00005</AMOUNT>
+                <DISPLAY_AMOUNT>0.05 g</DISPLAY_AMOUNT>
                 <AMOUNT_IS_WEIGHT>true</AMOUNT_IS_WEIGHT>
             </MISC>
             <MISC>
@@ -269,7 +319,7 @@
                     <TYPE>Temperature</TYPE>
                     <STEP_TEMP>65</STEP_TEMP>
                     <STEP_TIME>60</STEP_TIME>
-                    <INFUSE_AMOUNT>3.3</INFUSE_AMOUNT>
+                    <INFUSE_AMOUNT>3.45</INFUSE_AMOUNT>
                 </MASH_STEP>
             </MASH_STEPS>
         </MASH>
@@ -289,12 +339,12 @@
         <BF_FERMENTATION_PROFILE_NAME>&#48;&#49;&#32;Ale&#32;&#43;&#32;DR&#32;&#43;&#32;Conditioning</BF_FERMENTATION_PROFILE_NAME>
         <FERMENTATION_STAGES>4</FERMENTATION_STAGES>
         <PRIMARY_AGE>10</PRIMARY_AGE>
-        <PRIMARY_TEMP>19</PRIMARY_TEMP>
+        <PRIMARY_TEMP>18</PRIMARY_TEMP>
         <SECONDARY_AGE>4</SECONDARY_AGE>
         <SECONDARY_TEMP>21</SECONDARY_TEMP>
         <TERTIARY_AGE>14</TERTIARY_AGE>
-        <TERTIARY_TEMP>19</TERTIARY_TEMP>
+        <TERTIARY_TEMP>18</TERTIARY_TEMP>
         <AGE>28</AGE>
-        <AGE_TEMP>19</AGE_TEMP>
+        <AGE_TEMP>18</AGE_TEMP>
     </RECIPE>
 </RECIPES>

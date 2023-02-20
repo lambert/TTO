@@ -1,3 +1,5 @@
+![logo](./08_SMaSH_Magnum.jpeg)
+
 # 08 SMaSH Magnum
 
 Style: 18A Blonde Ale

@@ -1,3 +1,5 @@
+![logo](./12_SMaSH_Boadicea.jpeg)
+
 # 12 SMaSH Boadicea
 
 Style: 12A British Golden Ale

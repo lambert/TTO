@@ -1,3 +1,5 @@
+![logo](./02_AnOtter_Spicy_Witbier.jpeg)
+
 # 02 AnOtter Spicy Witbier
 
 Style: 24A Witbier

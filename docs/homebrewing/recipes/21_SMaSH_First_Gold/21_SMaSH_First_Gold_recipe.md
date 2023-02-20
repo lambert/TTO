@@ -1,3 +1,5 @@
+![logo](./21_SMaSH_First_Gold.jpeg)
+
 # 21 SMaSH First Gold
 
 Style: 12A British Golden Ale

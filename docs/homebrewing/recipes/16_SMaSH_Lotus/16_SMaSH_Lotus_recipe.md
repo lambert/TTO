@@ -1,3 +1,5 @@
+![logo](./16_SMaSH_Lotus.jpeg)
+
 # 16 SMaSH Lotus
 
 Style: 18B American Pale Ale

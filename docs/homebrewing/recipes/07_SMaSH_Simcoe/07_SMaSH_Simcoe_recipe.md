@@ -1,3 +1,5 @@
+![logo](./07_SMaSH_Simcoe.jpeg)
+
 # 07 SMaSH Simcoe
 
 Style: 18B American Pale Ale

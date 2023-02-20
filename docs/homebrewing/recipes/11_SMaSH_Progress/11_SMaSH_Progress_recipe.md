@@ -1,3 +1,5 @@
+![logo](./11_SMaSH_Progress.jpeg)
+
 # 11 SMaSH Progress
 
 Style: 12A British Golden Ale

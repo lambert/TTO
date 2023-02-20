@@ -1,3 +1,5 @@
+![logo](./01_AnOtter_Witbier.jpeg)
+
 # 01 AnOtter Witbier
 
 Style: 24A Witbier

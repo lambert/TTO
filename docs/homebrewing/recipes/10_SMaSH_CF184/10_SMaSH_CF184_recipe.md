@@ -1,3 +1,5 @@
+![logo](./10_SMaSH_CF184.jpeg)
+
 # 10 SMaSH CF184
 
 Style: 12A British Golden Ale

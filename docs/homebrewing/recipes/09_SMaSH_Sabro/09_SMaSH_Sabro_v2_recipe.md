@@ -1,3 +1,5 @@
+![logo](./09_SMaSH_Sabro.jpeg)
+
 # 09 SMaSH Sabro v2
 
 Style: 18A Blonde Ale

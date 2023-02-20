@@ -1,3 +1,5 @@
+![logo](./22_SMaSH_Palisade.jpeg)
+
 # 22 SMaSH Palisade
 
 Style: 18B American Pale Ale

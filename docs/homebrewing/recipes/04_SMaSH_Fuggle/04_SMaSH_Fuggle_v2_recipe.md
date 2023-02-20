@@ -1,3 +1,5 @@
+![logo](./04_SMaSH_Fuggle.jpeg)
+
 # 04 SMaSH Fuggle v2
 
 Style: 12A British Golden Ale

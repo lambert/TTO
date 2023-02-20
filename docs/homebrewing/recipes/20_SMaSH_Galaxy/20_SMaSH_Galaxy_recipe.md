@@ -1,3 +1,5 @@
+![logo](./20_SMaSH_Galaxy.jpeg)
+
 # 20 SMaSH Galaxy
 
 Style: 18B American Pale Ale

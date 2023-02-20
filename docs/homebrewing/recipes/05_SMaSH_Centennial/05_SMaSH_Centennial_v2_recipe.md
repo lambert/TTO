@@ -1,3 +1,5 @@
+![logo](./05_SMaSH_Centennial.jpeg)
+
 # 05 SMaSH Centennial v2
 
 Style: 18B American Pale Ale

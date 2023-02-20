@@ -1,3 +1,5 @@
+![logo](./03_SMaSH_Godiva.jpeg)
+
 # 03 SMaSH Godiva
 
 Style: 12A British Golden Ale

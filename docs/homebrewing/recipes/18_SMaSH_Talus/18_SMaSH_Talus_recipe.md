@@ -1,3 +1,5 @@
+![logo](./18_SMaSH_Talus.jpeg)
+
 # 18 SMaSH Talus
 
 Style: 18A Blonde Ale

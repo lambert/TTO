@@ -1,3 +1,5 @@
+![logo](./06_SMaSH_Citra.jpeg)
+
 # 06 SMaSH Citra v2
 
 Style: 18B American Pale Ale

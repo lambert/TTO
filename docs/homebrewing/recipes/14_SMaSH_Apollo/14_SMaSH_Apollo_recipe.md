@@ -1,3 +1,5 @@
+![logo](./14_SMaSH_Apollo.jpeg)
+
 # 14 SMaSH Apollo
 
 Style: 18B American Pale Ale
