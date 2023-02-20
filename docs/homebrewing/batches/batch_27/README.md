@@ -50,3 +50,19 @@ Archived.
 | RB Ratio:               | 0.67   | 0.78  | +0.11  |      |
 | Color                   | 8.3    | 8.7   | +0.4   | EBC  |
 | Mash pH:                | 5.38   | 5.42  | +0.04  |      |
+
+## Tasting notes
+
+| No. | Date       | Age | Score | Notes |
+|-----|------------|-----|-------|-------|
+|     | 15-01-2023 |     |       | Brew day. |
+|     | 30-01-2023 |   0 |       | Bottling day. |
+|   1 | 15-02-2023 |  16 | 3.25  | Served @ 15.9 C. Sweet, smooth, strong, hoppy. Needs more carbonation. |
+|   2 |            |     |       |  |
+|   3 |            |     |       |  |
+|   4 |            |     |       |  |
+|   5 |            |     |       |  |
+|   6 |            |     |       |  |
+|   7 |            |     |       |  |
+|   8 |            |     |       |  |
+|   9 |            |     |       |  |
