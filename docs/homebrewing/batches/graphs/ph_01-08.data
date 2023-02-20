@@ -1,0 +1,21 @@
+#Age  pH    Batch  Temp  BJCP  Remarks  (Age in days, 0 = bottling day, negative is during fermentation)
+
+# Batch #1: Brouwpunt - Witbier
+
+# Batch #2: Brouwpunt - Kruidig Wit
+
+# Batch #3: The Thirsty Otter - 03 SMaSH Godiva
+
+# Batch #4: The Thirsty Otter - 04 SMaSH Fuggle
+
+# Batch #5: The Thirsty Otter - 05 SMaSH Centennial
+
+# Batch #6: Brouwpunt - Sinterklaas Special
+740   3.97  6      16.4  30.2
+
+# Batch #7: The Thirsty Otter - 06 SMaSH Citra
+183   4.50  7      16.0  18.2
+636   4.48  7      16.7  18.2
+666   4.50  7      17.7  18.2
+
+# Batch #8: The Thirsty Otter - 07 SMaSH Simcoe

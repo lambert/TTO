@@ -1,5 +1,5 @@
 # general settings
-NUM_BATCHES = 30
+NUM_BATCHES = 33
 HEIGTH = 20 * NUM_BATCHES
 # setup graph
 set term png size 1200,HEIGTH
@@ -46,7 +46,7 @@ output_file = "2020_milestones.png"
 set output output_file
 set key outside right center vertical Left reverse enhanced autotitle nobox
 
-set title "Milestones"
+set title "Milestones 2020"
 set style data lines
 set timefmt "%d-%m-%Y"
 
@@ -86,7 +86,7 @@ output_file = "2021_milestones.png"
 set output output_file
 set key outside right center vertical Left reverse enhanced autotitle nobox
 
-set title "Milestones"
+set title "Milestones 2021"
 set style data lines
 set timefmt "%d-%m-%Y"
 
@@ -126,7 +126,7 @@ output_file = "2022_milestones.png"
 set output output_file
 set key outside right center vertical Left reverse enhanced autotitle nobox
 
-set title "Milestones"
+set title "Milestones 2022"
 set style data lines
 set timefmt "%d-%m-%Y"
 
@@ -166,7 +166,7 @@ output_file = "2023_milestones.png"
 set output output_file
 set key outside right center vertical Left reverse enhanced autotitle nobox
 
-set title "Milestones"
+set title "Milestones 2023"
 set style data lines
 set timefmt "%d-%m-%Y"
 

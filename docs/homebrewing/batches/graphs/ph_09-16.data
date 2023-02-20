@@ -1,0 +1,30 @@
+#Age  pH    Batch  Temp  BJCP  Remarks  (Age in days, 0 = bottling day)
+
+# Batch #9: The Thirsty Otter - 07 SMaSH Simcoe v2
+634   4.20  1      17.1  18.2
+
+# Batch #10: The Thirsty Otter - 61 Three Hops Blonde
+
+# Batch #11 The Thirsty Otter - 08 SMaSH Magnum
+
+# Batch #12: The Thirsty Otter - 48 AnOtter Apple Cider
+  0   3.59  2
+
+# Batch #13: The Thirsty Otter - 49 AnOtter Perry Cider
+  0   3.94  3
+ 13   4.00  3
+
+# Batch 14: The Thirsty Otter - 09 SMaSH Sabro
+  0   5.31  4     25.1  21.2
+ 14   4.46  4     20.6  21.2
+537   4.44  4     17.8  21.2
+
+# Batch #15: The Thirsty Otter - 74 Wet Hops Blonde Ale (Chinook)
+  0   5.49  5     17.8  18.1
+ 16   4.23  5     18.2  18.1
+482   4.11  5     16.3  18.1
+
+# Batch #16: The Thirsty Otter - 75 Shameless Magpied Summer Ale
+ 18   4.24  6     18.2  18.1
+157   3.94  6     12.4  18.1
+
