@@ -58,7 +58,7 @@ Archived.
 |     | 15-01-2023 |     |       | Brew day. |
 |     | 30-01-2023 |   0 |       | Bottling day. |
 |   1 | 15-02-2023 |  16 | 3.25  | Served @ 15.9 C. Sweet, smooth, strong, hoppy. Needs more carbonation. |
-|   2 |            |     |       |  |
+|   2 | 26-02-2023 |  27 | 3.25  | Served @ 16.7 C. Sweet, smooth, strong, hoppy. Needs more carbonation. |
 |   3 |            |     |       |  |
 |   4 |            |     |       |  |
 |   5 |            |     |       |  |
