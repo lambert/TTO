@@ -56,7 +56,7 @@ Archived.
 |-----|------------|-----|-------|-------|
 |     | 05-02-2023 |     |       | Brew day. |
 |     | 19-02-2023 |   0 |       | Bottling day. |
-|   1 | 11-03-2023 |  20 | 3.00  | Served @ 17.4 C. Dry, malty, hoppy, berries. Low carbonation. |
+|   1 | 11-03-2023 |  20 | 2.50  | Served @ 17.4 C. Dry, malty, hoppy, berries. Low carbonation. |
 |   2 |            |     |       |  |
 |   3 |            |     |       |  |
 |   4 |            |     |       |  |
