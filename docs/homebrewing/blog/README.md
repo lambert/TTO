@@ -2,6 +2,10 @@
 
 ## 2023
 
+### April
+
+#### [11th Home Brewing UK Competition Tasting @ April 1st, 2023](20230401/README.md)
+
 ### March
 
 #### [Tasting @ March 11th, 2023](20230311/README.md)
