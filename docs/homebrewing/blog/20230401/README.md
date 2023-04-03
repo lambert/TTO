@@ -74,4 +74,8 @@ To be honest I'd be very happy drinking the competition entries.
 I'm not fussed with trying to find the holy grail.
 Pointless anyway.
 I'll have a go at Rob and John's recipes and maybe others from the comp.
- 
+
+## The winning recipe
+
+[![fig_2](2_small.jpg)](2.jpg)
+
