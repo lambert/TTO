@@ -2,7 +2,7 @@
 NUM_BATCHES = 33
 HEIGTH = 20 * NUM_BATCHES
 # setup graph
-set term png size 1200,HEIGTH
+set term png size 1600,HEIGTH
 output_file = "milestones.png"
 set output output_file
 set key outside right center vertical Left reverse enhanced autotitle nobox
