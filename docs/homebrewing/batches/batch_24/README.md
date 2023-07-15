@@ -60,8 +60,8 @@ Archived.
 |     | 06-11-2022 |   0 |       | Brew day. |
 |     | 27-11-2022 |  21 |       | Bottling day. |
 |   1 | 15-12-2022 |  39 | 3.25  | Served @ 16.8 C. Sweet, Malty, Strong. Mild on hops. Good retention. |
-|   2 |            |     |       |  |
-|   3 |            |     |       |  |
+|   2 | 02-03-2023 | 116 |       | Tasting by Clibit pending |
+|   3 | 02-03-2023 | 116 |       | Tasting by Clibit pending |
 |   4 |            |     |       |  |
 |   5 |            |     |       |  |
 |   6 |            |     |       |  |
