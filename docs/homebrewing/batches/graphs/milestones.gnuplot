@@ -1,5 +1,5 @@
 # general settings
-NUM_BATCHES = 33
+NUM_BATCHES = 39
 HEIGTH = 20 * NUM_BATCHES
 # setup graph
 set term png size 1600,HEIGTH
