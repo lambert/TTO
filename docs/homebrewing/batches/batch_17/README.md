@@ -14,13 +14,15 @@
 
 ## Process
 
-![temperature](temperature.png)
-
 ![fermentation](fermentation.png)
 
 ![specific gravity](gravity.png)
 
 ![conditioning](conditioning.png)
+
+![temperature](temperature.png)
+
+![bottled pH](bottled_ph.png)
 
 [Results](./Batch_17_61_Three_Hops_Blonde_v2_results.pdf)
 
@@ -53,7 +55,6 @@
 
 | No. | Date       | Age | Score | Notes |
 |-----|------------|-----|-------|-------|
-|     | 28-12-2021 |   0 |       | Brew day. |
-|     | 15-01-2022 |  18 |       | Bottling day. |
-|   1 | 25-03-2022 |  87 |  0.00 | Gusher. |
-|   2 | 11-08-2022 | 226 |  2.50 | A clear Blonde ale with a small foam layer which dissolves at a nmedium rate. Normal carbonation. Mild on hops, sweet. Clear crisp mouthfeel |
+|     | 15-01-2022 |   0 |       | Bottling day. |
+|   1 | 25-03-2022 |  69 |  0.00 | Gusher. |
+|   2 | 11-08-2022 | 208 |  2.50 | A clear Blonde ale with a small foam layer which dissolves at a nmedium rate. Normal carbonation. Mild on hops, sweet. Clear crisp mouthfeel |
