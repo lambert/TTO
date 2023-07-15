@@ -1,14 +1,14 @@
-# Batch # - 
+# Batch #32 - A2 AnOtter Bodged Bitter v3
 
 ## Milestones
 
-Start brewing.
+05-02-2023 10:00 Start brewing.
 
-Start fermentation.
+06-02-2023 07:42 Start fermentation.
 
-Start conditioning.
+19-02-2023 15:41 Start conditioning.
 
-Completed conditioning.
+02-04-2023 23:59 Completed conditioning.
 
 Archived.
 
@@ -49,3 +49,12 @@ Archived.
 | RB Ratio:               |        |       |        |      |
 | Color                   |        |       |        | EBC  |
 | Mash pH:                |        |       |        |      |
+
+## Tasting notes
+
+| No. | Date       | Age | Score | Notes |
+|-----|------------|-----|-------|-------|
+|     | 05-02-2023 |     |       | Brew day. |
+|     | 19-02-2023 |   0 |       | Bottling day. |
+|   1 | 24-06-2023 | 125 | 3.0   | Served @ 12.1 C. Clear, foamy head, moderate lacing, hints of berries, malty, moderate mouthfeel. |
+|   2 |            |     |       |  |
