@@ -11,4 +11,4 @@
 | ![03v2](../recipes/03_SMaSH_Godiva/03_SMaSH_Godiva.jpeg) | 27 | [03 SMaSH Godiva v2](batch_27/README.md)| Conditioning | 5.5 | 32 | 8.7 | 1.038 | 1.000 | 12A British Golden Ale | All Grain |
 | ![69](../recipes/69_Two_Pints_and_a_Packet_of_Hops_Godiva_and_Progress/69_Two_Pints_and_a_Packet_of_Hops_Godiva_and_Progress.jpeg) | 28 | [69 Two Pints and a Packet of Hops (Godiva and Progress)](batch_28/README.md)| Conditioning | 5.3 | 32 | 6.9 | 1.038 | 1.000 | 12A British Golden Ale | All Grain |
 | ![83](../recipes/83_Two_Pints_and_a_Packet_of_Hops_Godiva_and_East_Kent_Goldings/83_Two_Pints_and_a_Packet_of_Hops_Godiva_and_East_Kent_Goldings.jpeg) | 29 | [83 Two Pints and a Packet of Hops (Godiva and East Kent Goldings)](batch_29/README.md)| Conditioning | 5.3 | 32 | 6.9 | 1.038 | 1.000 | 12A British Golden Ale | All Grain |
-|  | 30 | [A2 AnOtter Bodged Bitter]()| Completed | 5.6 | 30 | 13.8 | 1.044 | 1.004 | 11A Ordinary Bitter | All Grain |
+| ![A2](../recipes/A2_AnOtter_Bodged_Bitter/A2_AnOtter_Bodged_Bitter.jpeg) | 30 | [A2 AnOtter Bodged Bitter]()| Completed | 5.6 | 30 | 13.8 | 1.044 | 1.004 | 11A Ordinary Bitter | All Grain |
