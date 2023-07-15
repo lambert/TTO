@@ -1,4 +1,4 @@
-# Batch # - 
+# Batch #30 - A2 AnOtter Bodged Bitter
 
 ## Milestones
 
@@ -8,7 +8,7 @@
 
 19-02-2023 17:25 Start conditioning.
 
-Completed conditioning.
+02-04-2023 Completed conditioning.
 
 Archived.
 
@@ -56,9 +56,9 @@ Archived.
 |-----|------------|-----|-------|-------|
 |     | 05-02-2023 |     |       | Brew day. |
 |     | 19-02-2023 |   0 |       | Bottling day. |
-|   1 | 11-03-2023 |  20 | 2.50  | Served @ 17.4 C. Dry, malty, hoppy, berries. Low carbonation. |
-|   2 |            |     |       |  |
-|   3 |            |     |       |  |
+|   1 | 02-03-2023 |  11 |       | 11th Home Brewing UK Competition entry. |
+|   2 | 02-03-2023 |  11 |       | 11th Home Brewing UK Competition entry. |
+|   3 | 11-03-2023 |  20 | 2.50  | Served @ 17.4 C. Dry, malty, hoppy, berries. Low carbonation. |
 |   4 |            |     |       |  |
 |   5 |            |     |       |  |
 |   6 |            |     |       |  |
