@@ -15,8 +15,6 @@ Archived.
 ## Process
 
 ![mash pH](mash_ph.png)
--
-![temperature](temperature.png)
 
 ![fermentation](fermentation.png)
 
@@ -25,6 +23,10 @@ Archived.
 ![pressure](pressure.png)
 
 ![conditioning](conditioning.png)
+
+![temperature](temperature.png)
+
+![bottled pH](bottled_ph.png)
 
 [Results](./Batch_16_75_Shameless_Magpied_Summer_Ale_results.pdf)
 
@@ -57,12 +59,11 @@ Archived.
 
 | No. | Date       | Age | Score | Notes |
 |-----|------------|-----|-------|-------|
-|     | 28-12-2021 |   0 |       | Brew day. |
-|     | 15-01-2022 |  18 |       | Bottling day. |
-|   1 | 25-03-2022 |  87 |  0    | Gusher. |
-|   2 | 02-06-2022 | 156 |  2.25 | Served @ 12 C. Lots of carbonation, thin mouthfeel, dry, malty, no hop flavours or aroma. |
-|   3 | 03-06-2022 | 157 |  0    | Gusher. Used for specific gravity and pH measurements. |
-|   4 | 10-09-2022 | 256 |  0    | Gusher. |
+|     | 15-01-2022 |   0 |       | Bottling day. |
+|   1 | 25-03-2022 |  69 |  0    | Gusher. |
+|   2 | 02-06-2022 | 138 |  2.25 | Served @ 12 C. Lots of carbonation, thin mouthfeel, dry, malty, no hop flavours or aroma. |
+|   3 | 03-06-2022 | 139 |  0    | Gusher. Used for specific gravity and pH measurements. |
+|   4 | 10-09-2022 | 238 |  0    | Gusher. |
 |   5 |            |     |       |  |
 |   6 |            |     |       |  |
 |   7 |            |     |       |  |
