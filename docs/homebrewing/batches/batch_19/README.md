@@ -58,10 +58,10 @@ Archived.
 |     | 03-07-2022 |   0 |       | Brew day. |
 |     | 23-07-2022 |  20 |       | Bottling day. |
 |   1 | 21-08-2022 |  49 |  3.00 | A slightly hazy Belgian Golden Strong ale with a decent foam layer which remains. Strong on hops, sweet, citrusy. Crisp, dry mouthfeel. |
-|   2 |            |     |       |  |
-|   3 |            |     |       |  |
-|   4 |            |     |       |  |
-|   5 |            |     |       |  |
+|   2 | 14-10-2022 | 103 |  3.00 | A slightly hazy Belgian Golden Strong ale with a decent foam layer which remains. Strong on hops, sweet, citrusy. Crisp, dry mouthfeel. |
+|   3 | 03-05-2023 | 304 |       | Tasting by Clibit: Tonight's treat is a bottle of Belgian Strong Ale, hand delivered from the Low Countries by TTO. I'm not an expert with this style by any stretch, I rarely drink big beers of any kind. But tjis is a treat, I'm very much enjoying it as a nice change. It does remind me a bit of the Westmalle Tripel I had last year. I detect no faults with it. There's a big sweet pilsner malt base, the alcohol is a big influence, in a good way - there's no fusels - and the yeast is how I like it in a Belgian beer - not extreme phenolics, it makes for a very balanced beer. I really do think you made a great job of this beer Thirsty, I would be chuffed to have brewed this myself. Cheers big man. |
+|   4 | 02-03-2023 | 242 |       | Tasting by Clibit pending |
+|   5 | 05-05-2023 | 306 |  3.00 | A slightly hazy Belgian Golden Strong ale with a decent foam layer which remains. Strong on hops, sweet, citrusy. Crisp, dry mouthfeel. |
 |   6 |            |     |       |  |
 |   7 |            |     |       |  |
 |   8 |            |     |       |  |
