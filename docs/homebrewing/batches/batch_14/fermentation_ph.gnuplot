@@ -1,6 +1,6 @@
 # setup graph
 set term png
-output_file = "ph.png"
+output_file = "fermentation_ph.png"
 set output output_file
 set title "Fermentation"
 set style data points
