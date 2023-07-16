@@ -31,12 +31,24 @@
         <FG>1.009</FG>
         <ABV>4.2 %</ABV>
         <EST_ABV>4.2 %</EST_ABV>
-        <IBU>19.8</IBU>
+        <IBU>25.7</IBU>
         <EST_OG>1.041 SG</EST_OG>
         <EST_FG>1.009 SG</EST_FG>
         <EST_COLOR>4.2 SRM</EST_COLOR>
         <CARBONATION>2.4</CARBONATION>
         <HOPS>
+            <HOP>
+                <BF_ID>HjlT19xbSFbunGAYkzcNp8cLpf3pHJ</BF_ID>
+                <NAME>Fuggle</NAME>
+                <VERSION>1</VERSION>
+                <ALPHA>5</ALPHA>
+                <AMOUNT>0.003</AMOUNT>
+                <USE>Boil</USE>
+                <TIME>30</TIME>
+                <FORM>Whole</FORM>
+                <TEMPERATURE/>
+                <HOP_TEMP/>
+            </HOP>
             <HOP>
                 <BF_ID>HjlT19xbSFbunGAYkzcNp8cLpf3pHJ</BF_ID>
                 <NAME>Fuggle</NAME>
@@ -66,7 +78,7 @@
                 <NAME>Progress</NAME>
                 <VERSION>1</VERSION>
                 <ALPHA>7.6</ALPHA>
-                <AMOUNT>0.01</AMOUNT>
+                <AMOUNT>0.012</AMOUNT>
                 <USE>Dry&#32;Hop</USE>
                 <TIME>5760</TIME>
                 <FORM>Pellet</FORM>
@@ -284,10 +296,12 @@
         </EQUIPMENT>
         <BF_FERMENTATION_PROFILE_ID>default</BF_FERMENTATION_PROFILE_ID>
         <BF_FERMENTATION_PROFILE_NAME>Ale</BF_FERMENTATION_PROFILE_NAME>
-        <FERMENTATION_STAGES>2</FERMENTATION_STAGES>
+        <FERMENTATION_STAGES>3</FERMENTATION_STAGES>
         <PRIMARY_AGE>10</PRIMARY_AGE>
         <PRIMARY_TEMP>20</PRIMARY_TEMP>
-        <SECONDARY_AGE>45</SECONDARY_AGE>
+        <SECONDARY_AGE>14</SECONDARY_AGE>
         <SECONDARY_TEMP>20</SECONDARY_TEMP>
+        <TERTIARY_AGE>31</TERTIARY_AGE>
+        <TERTIARY_TEMP>20</TERTIARY_TEMP>
     </RECIPE>
 </RECIPES>

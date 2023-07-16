@@ -1,10 +1,10 @@
-# 73 Two Pints and a Packet of Hops Fuggle and Progress v2
+# 73 Two Pints and a Packet of Hops (Fuggle and Progress) v2
 
 Style: 12A British Golden Ale
 
 ABV: 4.2 %
 
-IBU: 20
+IBU: 26
 
 EBC: 8.3
 
@@ -13,6 +13,12 @@ Original Gravity: 1.041
 Final Gravity 1.009
 
 Batch size: 5 L
+
+## Water profile
+
+| Ca | Mg | Na | Cl | SO4 | HCO3 |
+|----|----|----|----|-----|------|
+| 55 | 15 | 46 | 75 | 150 |   40 |
 
 ## Mash
 
@@ -28,7 +34,9 @@ Strike temperature @ 68.7 C
 
 0.15 grams Lipohop K @ 0 minutes
 
-12 grams Fuggle (A.A. 5.0 % whole) @ 15 minutes (16.4 IBU)
+3 grams Fuggle (A.A. 5.0 % whole) @ 30 minutes (5.9 IBU)
+
+12 grams Fuggle (A.A. 5.0 % whole) @ 45 minutes (16.4 IBU)
 
 1 grams Irish Moss @ 50 minutes
 
@@ -38,11 +46,11 @@ Strike temperature @ 68.7 C
 
 ## Fermentation
 
-0.5 package Fermentis S-04 English Ale yeast
+3 grams Fermentis S-04 English Ale yeast
 
 Primary @ 20 C for 10 days
 
-10 grams Progress (A.A. 7.6 % pellet) for 4 days
+12 grams Progress (A.A. 7.6 % pellet) 4 days
 
 ## Bottling
 
