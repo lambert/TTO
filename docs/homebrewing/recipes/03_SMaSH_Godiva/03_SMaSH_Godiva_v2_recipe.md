@@ -30,15 +30,15 @@ Strike temperature @ 68.7 C
 
 0.15 grams Lipohop K @ 0 minutes
 
-5 grams Godiva (A.A. 7.5 %) @ 30 minutes (17 IBU)
+5 grams Godiva (A.A. 7.5 % whole) @ 30 minutes (17 IBU)
 
-5 grams Godiva (A.A. 7.5 %) @ 45 minutes (12 IBU)
+5 grams Godiva (A.A. 7.5 % whole) @ 45 minutes (12 IBU)
 
 1 grams Irish Moss @ 50 minutes
 
 ## Hopstand
 
-5 grams Godiva (A.A. 7.5 %) 15 minutes @ 80 C (2 IBU)
+5 grams Godiva (A.A. 7.5 % whole) 15 minutes @ 80 C (2 IBU)
 
 ## Fermentation
 
@@ -46,7 +46,7 @@ Strike temperature @ 68.7 C
 
 Primary @ 17 C for 10 days
 
-7 grams Godiva (A.A. 7.5 %) for 7 days
+7 grams Godiva (A.A. 7.5 % whole) for 7 days
 
 Diacetyl rest @ 21 C for 4 days 
 
