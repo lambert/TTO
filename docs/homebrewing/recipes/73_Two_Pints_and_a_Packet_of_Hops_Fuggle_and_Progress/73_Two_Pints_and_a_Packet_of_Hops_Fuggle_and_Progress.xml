@@ -172,17 +172,6 @@
         </FERMENTABLES>
         <MISCS>
             <MISC>
-                <BF_ID>SmzXiEm1neaMaOhPO46U9a9iUlYjRD</BF_ID>
-                <NAME>NL&#32;Spa&#32;Reine&#32;Flat&#32;Mineral&#32;Water</NAME>
-                <VERSION>1</VERSION>
-                <TYPE>Other</TYPE>
-                <USE>Mash</USE>
-                <TIME>0</TIME>
-                <AMOUNT>3.26</AMOUNT>
-                <DISPLAY_AMOUNT>3.26 l</DISPLAY_AMOUNT>
-                <AMOUNT_IS_WEIGHT>false</AMOUNT_IS_WEIGHT>
-            </MISC>
-            <MISC>
                 <BF_ID>default-2302b0</BF_ID>
                 <NAME>Baking&#32;Soda&#32;&#40;NaHCO&#51;&#41;</NAME>
                 <VERSION>1</VERSION>
@@ -253,11 +242,33 @@
                 <NAME>NL&#32;Spa&#32;Reine&#32;Flat&#32;Mineral&#32;Water</NAME>
                 <VERSION>1</VERSION>
                 <TYPE>Other</TYPE>
+                <USE>Mash</USE>
+                <TIME>0</TIME>
+                <AMOUNT>3.26</AMOUNT>
+                <DISPLAY_AMOUNT>3.26 l</DISPLAY_AMOUNT>
+                <AMOUNT_IS_WEIGHT>false</AMOUNT_IS_WEIGHT>
+            </MISC>
+            <MISC>
+                <BF_ID>SmzXiEm1neaMaOhPO46U9a9iUlYjRD</BF_ID>
+                <NAME>NL&#32;Spa&#32;Reine&#32;Flat&#32;Mineral&#32;Water</NAME>
+                <VERSION>1</VERSION>
+                <TYPE>Other</TYPE>
                 <USE>Sparge</USE>
                 <TIME>0</TIME>
                 <AMOUNT>5.66</AMOUNT>
                 <DISPLAY_AMOUNT>5.66 l</DISPLAY_AMOUNT>
                 <AMOUNT_IS_WEIGHT>false</AMOUNT_IS_WEIGHT>
+            </MISC>
+            <MISC>
+                <BF_ID>I2WbQDYsuujZXMFJ9xV1nkkYgSQbN6</BF_ID>
+                <NAME>Lipohop&#32;K</NAME>
+                <VERSION>1</VERSION>
+                <TYPE>Other</TYPE>
+                <USE>Boil</USE>
+                <TIME>60</TIME>
+                <AMOUNT>0.00015</AMOUNT>
+                <DISPLAY_AMOUNT>0.15 g</DISPLAY_AMOUNT>
+                <AMOUNT_IS_WEIGHT>true</AMOUNT_IS_WEIGHT>
             </MISC>
             <MISC>
                 <BF_ID>default-5adf6e</BF_ID>
