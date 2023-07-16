@@ -32,13 +32,14 @@
 | ![49](49_AnOtter_Perry_Cider/49_AnOtter_Perry_Cider_48x48.jpeg) | [49 AnOtter Perry Cider](49_AnOtter_Perry_Cider/README.md) | New World Perry (Extract) | 6.3 % | 0 | Yes |
 | ![59](59_Four_Hops_IPA/59_Four_Hops_IPA_48x48.jpeg) | [59 Four Hops IPA](59_Four_Hops_IPA/README.md) | Specialty IPA (All Grain) | 6.6 % | 69 | No |
 | ![61](61_Three_Hops_Blonde/61_Three_Hops_Blonde_48x48.jpeg) | [61 Three Hops Blonde](61_Three_Hops_Blonde/README.md) | Blonde Ale (All Grain) | 4.7 % | 23 | Yes |
+| ![65](65_Juniper_Ascending/65_Juniper_Ascending_48x48.jpeg) | [65 Juniper Ascending](65_Juniper_Ascending/README.md) | Kornol (All Grain) | 6.4 % | 7 | Yes |
 | ![66](66_Kornol/66_Kornol_48x48.jpeg) | [66 Kornol](66_Kornol/README.md) | Kornol (All Grain) | 6.4 % | 7 | No |
 | ![68](68_Two_Pints_and_a_Packet_of_Hops_Fuggle_and_East_Kent_Goldings/68_Two_Pints_and_a_Packet_of_Hops_Fuggle_and_East_Kent_Goldings_48x48.jpeg) | [68 Two Pints and a Packet of Hops (Fuggle and East Kent Goldings)](68_Two_Pints_and_a_Packet_of_Hops_Fuggle_and_East_Kent_Goldings/README.md) | Best Bitter (All Grain) | 4.5 % | 29 | Yes |
 | ![69](69_Two_Pints_and_a_Packet_of_Hops_Godiva_and_Progress/69_Two_Pints_and_a_Packet_of_Hops_Godiva_and_Progress_48x48.jpeg) | [69 Two Pints and a Packet of Hops (Godiva and Progress)](69_Two_Pints_and_a_Packet_of_Hops_Godiva_and_Progress/README.md) | British Golden Ale (All Grain) | 4.3 % | 32 | Yes |
 | ![74](74_Wet_Hops_Blonde_Ale/74_Wet_Hops_Blonde_Ale_Chinook_48x48.jpeg) | [74 Wet Hops Blonde Ale](74_Wet_Hops_Blonde_Ale/README.md) | Blonde Ale (All Grain)| 4.3 | 22 | Yes |
 | ![75](75_Shameless_Magpied_Summer_Ale/75_Shameless_Magpied_Summer_Ale_48x48.jpeg) | [75 Shameless Magpied Summer Ale](75_Shameless_Magpied_Summer_Ale/README.md) | Blonde Ale (All Grain)| 4.6 | 24 | Yes |
 | ![77](77_Five_Pints_of_Best_Fuggles/77_Five_Pints_of_Best_Fuggles_48x48.jpeg) | [77 Five Pints of Best Fuggles](77_Five_Pints_of_Best_Fuggles/README.md) | Best Bitter (All Grain) | 4.1 % | 29 | Yes |
-| ![A2](A2_Bodged_Bodgingtons_Bitter/A2_Bodgingtons_Bitter_48x48.jpeg)| [A2 Bodged Bodgingtons Bitter](A2_Bodgingtons_Bitter/README.md) | Ordinary Bitter (All Grain | 4.1 % | 32 | Yes |
+| ![A2](A2_AnOtter_Bodged_Bitter/A2_AnOtter_Bodged_Bitter_48x48.jpeg)| [A2 AnOtter Bodged Bitter](A2_AnOtter_Bodged_Bitter/README.md) | Ordinary Bitter (All Grain | 4.1 % | 32 | Yes |
 
 ## Brew kit recipes
 
