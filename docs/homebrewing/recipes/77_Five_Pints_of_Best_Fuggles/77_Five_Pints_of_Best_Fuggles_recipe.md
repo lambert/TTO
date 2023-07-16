@@ -14,6 +14,12 @@ Final Gravity 1.011
 
 Batch size: 5 L
 
+## Water profile
+
+| Ca | Mg | Na | Cl | SO4 | HCO3 |
+|----|----|----|----|-----|------|
+| 55 | 15 | 45 | 75 | 150 |   40 |
+
 ## Mash
 
 Strike temperature @ 73.3 C
