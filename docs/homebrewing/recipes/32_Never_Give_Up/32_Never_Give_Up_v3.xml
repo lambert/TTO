@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <RECIPES>
     <RECIPE>
-        <NAME>&#51;&#50;&#32;Never&#32;Give&#32;Up&#33;</NAME>
+        <NAME>&#51;&#50;&#32;Never&#32;Give&#32;Up&#33;&#32;v&#51;</NAME>
         <VERSION>1</VERSION>
         <TYPE>All&#32;Grain</TYPE>
         <NOTES/>
@@ -69,6 +69,18 @@
                 <AMOUNT>0.0054</AMOUNT>
                 <USE>Boil</USE>
                 <TIME>15</TIME>
+                <FORM>Pellet</FORM>
+                <TEMPERATURE/>
+                <HOP_TEMP/>
+            </HOP>
+            <HOP>
+                <BF_ID>iATbnIPibhJNbuvA9qQKbczZi1pL5v</BF_ID>
+                <NAME>Saaz</NAME>
+                <VERSION>1</VERSION>
+                <ALPHA>3.6</ALPHA>
+                <AMOUNT>0.012</AMOUNT>
+                <USE>Dry&#32;Hop</USE>
+                <TIME>10080</TIME>
                 <FORM>Pellet</FORM>
                 <TEMPERATURE/>
                 <HOP_TEMP/>
@@ -270,10 +282,10 @@
                 <VERSION>1</VERSION>
                 <TYPE>Ale</TYPE>
                 <FORM>Dry</FORM>
-                <AMOUNT>0.8</AMOUNT>
+                <AMOUNT>1</AMOUNT>
                 <LABORATORY>Lallemand&#32;&#40;LalBrew&#41;</LABORATORY>
                 <PRODUCT_ID/>
-                <DISPLAY_AMOUNT>0.8 pkg</DISPLAY_AMOUNT>
+                <DISPLAY_AMOUNT>1 pkg</DISPLAY_AMOUNT>
                 <ATTENUATION>83</ATTENUATION>
                 <MIN_TEMPERATURE>17</MIN_TEMPERATURE>
                 <MAX_TEMPERATURE>25</MAX_TEMPERATURE>
@@ -307,16 +319,14 @@
             <EVAP_RATE>23.195876288659793</EVAP_RATE>
             <CALC_BOIL_VOLUME>true</CALC_BOIL_VOLUME>
         </EQUIPMENT>
-        <BF_FERMENTATION_PROFILE_ID>YbsiDCEFCjmcDOfG&#55;eXlxhyuwug&#53;Z&#53;</BF_FERMENTATION_PROFILE_ID>
+        <BF_FERMENTATION_PROFILE_ID>xJD&#52;OQsGafcf&#54;DSEiSIyRxsbR&#52;e&#55;&#54;A</BF_FERMENTATION_PROFILE_ID>
         <BF_FERMENTATION_PROFILE_NAME>&#48;&#49;&#32;Ale&#32;&#43;&#32;DR&#32;&#43;&#32;Conditioning</BF_FERMENTATION_PROFILE_NAME>
-        <FERMENTATION_STAGES>4</FERMENTATION_STAGES>
+        <FERMENTATION_STAGES>3</FERMENTATION_STAGES>
         <PRIMARY_AGE>10</PRIMARY_AGE>
-        <PRIMARY_TEMP>19</PRIMARY_TEMP>
+        <PRIMARY_TEMP>18</PRIMARY_TEMP>
         <SECONDARY_AGE>4</SECONDARY_AGE>
         <SECONDARY_TEMP>22</SECONDARY_TEMP>
-        <TERTIARY_AGE>14</TERTIARY_AGE>
-        <TERTIARY_TEMP>19</TERTIARY_TEMP>
-        <AGE>28</AGE>
-        <AGE_TEMP>19</AGE_TEMP>
+        <TERTIARY_AGE>45</TERTIARY_AGE>
+        <TERTIARY_TEMP>18</TERTIARY_TEMP>
     </RECIPE>
 </RECIPES>
