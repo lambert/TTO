@@ -24,6 +24,8 @@ Archived.
 
 ![conditioning](conditioning.png)
 
+![bottled pH](bottled_ph.png)
+
 [Results](./Batch__results.pdf)
 
 ### Evaluation
