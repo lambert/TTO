@@ -8,7 +8,7 @@
 
 04-07-2023 22:15 Start conditioning.
 
-Completed conditioning.
+18-07-2023 23:59 Completed conditioning.
 
 Archived.
 
