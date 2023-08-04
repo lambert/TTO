@@ -28,6 +28,8 @@ Archived.
 
 ![conditioning](conditioning.png)
 
+![bottled pH](bottled_ph.png)
+
 [Results](./Batch__results.pdf)
 
 ### Evaluation
@@ -60,6 +62,6 @@ Archived.
 |-----|------------|-----|-------|-------|
 |     | 26-06-2023 |     |       | Brew day. |
 |     | 04-07-2023 |   0 |       | Bottling day. |
-|   1 |            |     |       |  |
+|   1 | 03-08-2023 |  30 | 3.00  | Served @ 18.6 C. Hazy, small head, moderate lacing, malty, tart, strong Juniper flavor. |
 |   2 |            |     |       |  |
 |   3 |            |     |       |  |
