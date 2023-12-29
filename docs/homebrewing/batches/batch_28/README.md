@@ -4,13 +4,13 @@
 
 15-01-2023 10:20 Start brewing.
 
-Start fermentation.
+16-01-2023 13:00 Start fermentation.
 
-Start conditioning.
+29-01-2023 20:15 Start conditioning.
 
-Completed conditioning.
+12-03-2023 23:00 Completed conditioning.
 
-Archived.
+29-12-2023 16:37 Archived.
 
 ## Process
 
@@ -23,6 +23,8 @@ Archived.
 ![pressure](pressure.png)
 
 ![conditioning](conditioning.png)
+
+![bottled pH](bottled_ph.png)
 
 [Results](./Batch__results.pdf)
 
@@ -49,3 +51,12 @@ Archived.
 | RB Ratio:               |        |       |        |      |
 | Color                   |        |       |        | EBC  |
 | Mash pH:                |        |       |        |      |
+
+## Tasting notes
+
+| No. | Date       | Age | Score | Notes |
+|-----|------------|-----|-------|-------|
+|     | 15-01-2023 |     |       | Brew day. |
+|     | 29-01-2023 |   0 |       | Bottling day. |
+|   1 | 23-03-2023 |  53 |  0.5  | Served @ 18.8 C. Gusher, acidic, gunks of hop. Not a good one. Plonk beer. |
+|   2 | 29-12-2023 | 334 |  0.5  | Served @ 16.7 C. Gusher, acidic, gunks of hop. Not a good one. Plonk beer. |
