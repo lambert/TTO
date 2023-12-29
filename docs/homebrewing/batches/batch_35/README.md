@@ -24,17 +24,19 @@ Archived.
 
 ![conditioning](conditioning.png)
 
+![bottled pH](bottled_ph.png)
+
 [Results](./Batch__results.pdf)
 
 ### Evaluation
 
 |                         | Recipe | Batch | Diff   | Unit |
 |-------------------------|--------|-------|--------|------|
-| Pre-Boil Volume:        |        |       |        | L    |
-| Post-Boil Volume (HOT): |        |       |        | L    |
-| Boil Off per Hour:      |        |       |        | L    |
-| Batch Volume:           |        |       |        | L    |
-| Trub/Chiller Loss:      |        |       |        | L    |
+| Pre-Boil Volume:        | 3.68   |  3.68 |  0     | L    |
+| Post-Boil Volume (HOT): | 1.87   |  0.75 | -1.12  | L    |
+| Boil Off per Hour:      | 1.8    |  2.93 | +1.13  | L    |
+| Batch Volume:           | 1.2    |  0.75 | -0.45  | L    |
+| Trub/Chiller Loss:      | 0.6    | -0.03 | -0.63  | L    |
 | Bottling Volume:        |        |       |        | L    |
 | Pre-Boil Gravity:       |        |       |        |      |
 | Post-Boil Gravity:      |        |       |        |      |
@@ -56,5 +58,5 @@ Archived.
 |-----|------------|-----|-------|-------|
 |     | 30-04-2023 |     |       | Brew day. |
 |     | 12-05-2023 |   0 |       | Bottling day. |
-|   1 |            |     |       |  |
+|   1 | 18-11-2023 | 190 |  3.0  | Served @ 17.1 C. Clear, no foamy head, no moderate lacing. Clean, fruity, hoppy. |
 |   2 |            |     |       |  |
