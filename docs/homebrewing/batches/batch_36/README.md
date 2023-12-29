@@ -64,7 +64,7 @@ Archived.
 |     | 26-06-2023 |     |       | Brew day. |
 |     | 04-07-2023 |   0 |       | Bottling day. |
 |   1 | 29-07-2023 |  25 | 3.00  | Served @ 20.1 C. Cloudy, small foamy head, good lacing, malty, tart, Juniper flavor. |
-|   2 |            |     |       |  |
+|   2 | 09-12-2023 | 158 | 3.00  | Served @ 19.6 C. Cloudy, small foamy head, good lacing, malty, tart, Juniper flavor. |
 |   3 |            |     |       |  |
 |   4 |            |     |       |  |
 |   5 |            |     |       |  |
