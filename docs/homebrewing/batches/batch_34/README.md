@@ -24,6 +24,8 @@ Archived.
 
 ![conditioning](conditioning.png)
 
+![bottled pH](bottled_ph.png)
+
 [Results](./Batch__results.pdf)
 
 ### Evaluation
@@ -56,5 +58,5 @@ Archived.
 |-----|------------|-----|-------|-------|
 |     | 30-04-2023 |     |       | Brew day. |
 |     | 12-05-2023 |   0 |       | Bottling day. |
-|   1 |            |     |       |  |
+|   1 | 15-09-2023 | 126 | 3.5   | Served @ 14.7 C. Clear, foamy head, moderate lacing. Clean, hoppy, malty, fruity, moderate mouthfeel. |
 |   2 |            |     |       |  |
