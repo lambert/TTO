@@ -25,4 +25,6 @@ Too less boil off ... or so it seemed ... hydrometer got bodged ... gave
 0.995 in pure water ... so gave up fiddling and let the wort cool down
 for the yeast pitch tomorrow morning.
 
-To be fremented with Lallemand Windsor dry yeast.
+To be fermented with Lallemand Windsor dry yeast.
+
+[![fig_1](1_small.jpg)](1.jpg)

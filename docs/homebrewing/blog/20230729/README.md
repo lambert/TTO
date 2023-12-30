@@ -1,6 +1,9 @@
-# Tasting my first raw ale brew
+# Beer tasting day @ July 27th, 2023
 
-Today I tasted one of the possible candidates for the comp, a Norwegian style raw ale (kornøl) with Juniper berries.
+My first raw ale brew.
+
+Today I tasted one of the possible candidates for the comp, a Norwegian
+style raw ale (kornøl) with Juniper berries.
 
 [![fig_1](1_small.jpg)](1.jpg)
 
@@ -13,4 +16,4 @@ Not a sweet malt flavor but tart, almost like a sour or a witbier.
 Low carbonation with good lacing and very small bubbles.
 A bit cloudy because it was the last bottle to fill and I scrooged
 again, so I had some of the cake as well.
-All in all a nice ale for a new brew method to me
+All in all a nice ale for a new brew method to me.

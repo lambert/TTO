@@ -1,4 +1,4 @@
-# New equipment @ July 30th, 2021.
+# New equipment @ July 30th, 2020.
 
 I bought a Brewferm Chil'lin 20 Stainless steel immersion cooler.
 

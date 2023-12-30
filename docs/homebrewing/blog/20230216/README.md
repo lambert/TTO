@@ -10,6 +10,6 @@ I can't discern the advocated gooseberry or tangerine that the hop
 farmers describe.
 
 This one could use a bit more carbonation, may give it some time,
-because it has been cold in the cellar these last weeks
+because it has been cold in the cellar these last weeks.
 
 [![fig_1](1_small.jpg)](1.jpg)
