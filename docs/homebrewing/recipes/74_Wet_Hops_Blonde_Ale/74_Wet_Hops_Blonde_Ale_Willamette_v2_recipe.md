@@ -20,7 +20,7 @@ Strike temperature @ 71 C
 
 60 minutes @ 65 C
 
-750 grams Brewferm Pale Ale malt
+750 grams Castle Malting Pale Ale malt
 
 250 grams Brewferm Pils malt
 
