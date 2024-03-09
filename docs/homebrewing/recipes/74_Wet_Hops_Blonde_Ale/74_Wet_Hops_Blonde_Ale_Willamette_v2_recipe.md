@@ -1,14 +1,14 @@
-# 74 Wet Hops Blonde Ale (Willamette)
+# 74 Wet Hops Blonde Ale (Willamette) v2
 
 Style: 18A Blonde Ale
 
 ABV: 4.3 %
 
-IBU: 22
+IBU: 24
 
-EBC: 8.5
+EBC: 10
 
-Original Gravity: 1.042
+Original Gravity: 1.041
 
 Final Gravity 1.010
 
@@ -22,7 +22,7 @@ Strike temperature @ 71 C
 
 750 grams Brewferm Pale Ale malt
 
-200 grams Brewferm Pils malt
+250 grams Brewferm Pils malt
 
 50 grams Brewferm Wheat malt
 
@@ -34,7 +34,7 @@ Strike temperature @ 71 C
 
 30 grams Willamette (wet hop cones, est. A.A. 1 %) @ 40 minutes (9.6 IBU)
 
-30 grams Willamette (wet hop cones, est. A.A. 1 %) @ 50 minutes (6.4 IBU)
+50 grams Willamette (wet hop cones, est. A.A. 1 %) @ 50 minutes (6.4 IBU)
 
 1 grams Irish Moss @ 50 minutes
 
