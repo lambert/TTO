@@ -6,15 +6,17 @@
 
 18-09-2023 20:18 Start fermentation.
 
-Start conditioning.
+02-10-2023 20:39 Start conditioning.
 
-Completed conditioning.
+16-10-2023 23:59 Completed conditioning.
 
 Archived.
 
 ## Process
 
 ![temperature](temperature.png)
+
+![mash_ph](mash_ph.png)
 
 ![fermentation](fermentation.png)
 
