@@ -10,4 +10,4 @@
 | ![65](../recipes/65_Juniper_Ascending/65_Juniper_Ascending.jpeg) | 36 | [65 Juniper Ascending]() | Conditioning |  4.9 % | 7 | 13 | 1.045 | 1.010 | 27 Historical Beer (Kornøl) | All Grain |
 | ![65v2](../recipes/65_Juniper_Ascending/65_Juniper_Ascending.jpeg) | 37 | [65 Juniper Ascending v2]() | Conditioning | 4.7 % | 7 | 13 | 1.045 | 1.011 | 27 Historical Beer (Kornøl) | All Grain |
 | ![65v3](../recipes/65_Juniper_Ascending/65_Juniper_Ascending.jpeg) | 38 | [65 Juniper Ascending v3]() | Conditioning | 4.9 % | 7 | 20 | 1.045 | 1.010 | 27 Historical Beer (Kornøl) | All Grain |
-| ![74v3](../recipes/74_Wet_Hops_Blonde_Ale/74_Wet_Hops_Blonde_Ale_Willamette.jpeg) | 39 | [74 Wet Hops Blonde Ale (Willamette)](batch_39/README.md) | Completed | 5.1 | 27 | 11.4 | 1.041 | 1.006 | 18A Blonde Ale | All Grain |
+| ![74v3](../recipes/74_Wet_Hops_Blonde_Ale/74_Wet_Hops_Blonde_Ale_Willamette.jpeg) | 39 | [74 Wet Hops Blonde Ale (Willamette) v2](batch_39/README.md) | Completed | 5.1 | 27 | 11.4 | 1.041 | 1.006 | 18A Blonde Ale | All Grain |
