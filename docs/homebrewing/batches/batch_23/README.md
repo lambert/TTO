@@ -16,6 +16,8 @@ Archived.
 
 ![temperature](temperature.png)
 
+![mash_ph](mash_ph.png)
+
 ![fermentation](fermentation.png)
 
 ![specific gravity](gravity.png)
