@@ -1,4 +1,4 @@
-# Batch #10 - 61 Three Hops Blonde
+# Batch #10 - Three Hops Blonde
 
 ## Milestones
 
@@ -24,7 +24,7 @@ Archived.
 
 ![conditioning](conditioning.png)
 
-[Results](./Batch_10_61_Three_Hops_Blonde_results.pdf)
+[Results](./Batch_10_Three_Hops_Blonde_results.pdf)
 
 ## Evaluation
 
@@ -51,7 +51,7 @@ Archived.
 | Color                   | 8.7    | 7.9   | -0.8   | EBC  |
 | Mash pH:                | 5.38   | 5.5   | +0.12  |      |
 
-## [Tasting notes](./Batch_10_61_Three_Hops_Blonde_BJCP_Scoresheet.pdf)
+## [Tasting notes](./20210702_Batch_10_Three_Hops_Blonde_BJCP_Scoresheet-1_14.pdf)
 
 | No. | Date       | Age | Score | Notes |
 |-----|------------|-----|-------|-------|

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <RECIPES>
     <RECIPE>
-        <NAME>&#54;&#49;&#32;Three&#32;Hops&#32;Blonde</NAME>
+        <NAME>Three&#32;Hops&#32;Blonde</NAME>
         <VERSION>1</VERSION>
         <TYPE>All&#32;Grain</TYPE>
         <NOTES>Malt&#32;is&#32;ordered&#32;with&#32;standard&#32;crush&#32;&#64;&#32;The&#32;Malt&#32;Miller&#32;&#40;https&#58;&#47;&#47;www&#46;themaltmiller&#46;co&#46;uk&#47;&#41;&#46;&#10;Pitch&#32;slurry&#32;from&#32;Batch&#32;&#35;&#56;&#32;&#64;&#32;&#50;&#48;&#32;C&#46;</NOTES>
@@ -31,7 +31,7 @@
         <FG>1.011</FG>
         <ABV>4.73 %</ABV>
         <EST_ABV>4.73 %</EST_ABV>
-        <IBU>22.9</IBU>
+        <IBU>21.4</IBU>
         <EST_OG>1.047 SG</EST_OG>
         <EST_FG>1.011 SG</EST_FG>
         <EST_COLOR>4.4 SRM</EST_COLOR>
