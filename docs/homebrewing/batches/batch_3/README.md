@@ -1,4 +1,4 @@
-# Batch #3 - 03 SMaSH Godiva
+# Batch #3 - SMaSH Godiva
 
 ## Milestones
 
@@ -24,7 +24,7 @@
 
 ![conditioning](conditioning.png)
 
-[Results](./Batch_3_03_SMaSH_Godiva_results.pdf)
+[Results](./Batch_3_SMaSH_Godiva_results.pdf)
 
 ### Evaluation
 
@@ -50,7 +50,7 @@
 | Color                   | 8.7    | 8.7   |  0.0   | EBC  |
 | Mash pH:                | 5.42   | 5.5   | +0.08  |      |
 
-## [Tasting notes](./Batch_3_03_SMaSH_Godiva_BJCP_Scoresheet.pdf)
+## [Tasting notes](./Batch_3_SMaSH_Godiva_BJCP_Scoresheet_1_13.pdf)
 
 | No. | Date       | Age | Score | Notes |
 |-----|------------|-----|-------|-------|
