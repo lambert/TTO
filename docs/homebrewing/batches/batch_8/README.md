@@ -1,4 +1,4 @@
-# Batch #8 - 07 SMaSH Simcoe
+# Batch #8 - SMaSH Simcoe
 
 ## Milestones
 
@@ -24,7 +24,7 @@ Archived.
 
 ![conditioning](conditioning.png)
 
-[Results](./Batch_8_07_SMaSH_Simcoe_results.pdf)
+[Results](./Batch_8_SMaSH_Simcoe_results.pdf)
 
 ## Evaluation
 
