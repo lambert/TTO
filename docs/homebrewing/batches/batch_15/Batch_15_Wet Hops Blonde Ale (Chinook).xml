@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <RECIPES>
     <RECIPE>
-        <NAME>&#55;&#52;&#32;Wet&#32;Hops&#32;Blonde&#32;Ale&#32;&#40;Chinook&#41;</NAME>
+        <NAME>Wet&#32;Hops&#32;Blonde&#32;Ale&#32;&#40;Chinook&#41;</NAME>
         <VERSION>1</VERSION>
         <TYPE>All&#32;Grain</TYPE>
         <NOTES>Pitch&#32;&#52;&#32;grams&#32;yeast&#32;&#64;&#32;&#49;&#56;&#32;C&#46;</NOTES>
         <STYLE>
-            <NAME>Blonde&#32;Ale</NAME>
-            <CATEGORY>Pale&#32;American&#32;Ale</CATEGORY>
+            <NAME>British&#32;Golden&#32;Ale</NAME>
+            <CATEGORY>Pale&#32;Commonwealth&#32;Beer</CATEGORY>
             <VERSION>1</VERSION>
-            <CATEGORY_NUMBER>18</CATEGORY_NUMBER>
+            <CATEGORY_NUMBER>12</CATEGORY_NUMBER>
             <STYLE_LETTER>A</STYLE_LETTER>
-            <STYLE_GUIDE>BJCP&#32;&#50;&#48;&#49;&#53;</STYLE_GUIDE>
-            <TYPE>Ale</TYPE>
+            <STYLE_GUIDE>BJCP&#32;&#50;&#48;&#50;&#49;</STYLE_GUIDE>
+            <TYPE>Pale&#32;Ale</TYPE>
             <OG_MIN>1.038</OG_MIN>
-            <OG_MAX>1.054</OG_MAX>
-            <FG_MIN>1.008</FG_MIN>
-            <FG_MAX>1.013</FG_MAX>
-            <IBU_MIN>15</IBU_MIN>
-            <IBU_MAX>28</IBU_MAX>
-            <COLOR_MIN>3</COLOR_MIN>
-            <COLOR_MAX>6</COLOR_MAX>
+            <OG_MAX>1.053</OG_MAX>
+            <FG_MIN>1.006</FG_MIN>
+            <FG_MAX>1.012</FG_MAX>
+            <IBU_MIN>20</IBU_MIN>
+            <IBU_MAX>45</IBU_MAX>
+            <COLOR_MIN>2</COLOR_MIN>
+            <COLOR_MAX>5</COLOR_MAX>
         </STYLE>
         <BREWER>The&#32;Thirsty&#32;Otter</BREWER>
         <BATCH_SIZE>5.6</BATCH_SIZE>
@@ -31,10 +31,10 @@
         <FG>1.009</FG>
         <ABV>4.33 %</ABV>
         <EST_ABV>4.33 %</EST_ABV>
-        <IBU>22.3</IBU>
+        <IBU>21.1</IBU>
         <EST_OG>1.042 SG</EST_OG>
         <EST_FG>1.009 SG</EST_FG>
-        <EST_COLOR>3.5 SRM</EST_COLOR>
+        <EST_COLOR>3.4 SRM</EST_COLOR>
         <CARBONATION>2.4</CARBONATION>
         <HOPS>
             <HOP>

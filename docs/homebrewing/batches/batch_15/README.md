@@ -1,4 +1,4 @@
-# Batch #15 - 74 Wet Hops Blonde Ale (Chinook)
+# Batch #15 - Wet Hops Blonde Ale (Chinook)
 
 ## Milestones
 
@@ -30,7 +30,7 @@ Archived.
 
 ![bottled pH](bottled_ph.png)
 
-[Results](./Batch_15_results.pdf)
+[Results](./Batch_15_Wet Hops Blonde Ale (Chinook).pdf)
 
 ## Evaluation
 
