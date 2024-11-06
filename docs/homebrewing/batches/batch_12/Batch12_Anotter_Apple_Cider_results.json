@@ -1,0 +1,1268 @@
+{
+  "_created": {
+    "seconds": 1724529242,
+    "nanoseconds": 376000000
+  },
+  "fermentationStartDateSet": false,
+  "estimatedOg": 1.04,
+  "measuredKettleSize": 5.5,
+  "carbonationForce": null,
+  "_app_metadata": {
+    "webhook": {
+      "run": false
+    }
+  },
+  "batchHopsLocal": [],
+  "fermentationStartDate": 1622930400000,
+  "measuredFermenterTopUp": 0,
+  "measuredBoilSize": 5.5,
+  "batchMiscsLocal": [],
+  "devices": {
+    "iSpindel": {
+      "enabled": true,
+      "items": []
+    },
+    "myBrewbot": {
+      "items": [],
+      "enabled": true
+    },
+    "stream": {
+      "items": [],
+      "enabled": true
+    },
+    "floatHydrometer": {
+      "enabled": true,
+      "items": []
+    },
+    "smartPid": {
+      "brewDeviceId": null,
+      "items": [],
+      "enabled": false
+    },
+    "plaatoAirlock": {
+      "items": [],
+      "enabled": true
+    },
+    "tilt": {
+      "items": [],
+      "temp": true,
+      "mode": "default",
+      "gravity": true,
+      "enabled": true
+    },
+    "gfcc": {
+      "enabled": false,
+      "items": [],
+      "brewDeviceId": null
+    },
+    "floatyHydrometer": {
+      "enabled": true,
+      "items": []
+    },
+    "brewPiLess": {
+      "items": [],
+      "enabled": true
+    },
+    "plaatoKeg": {
+      "items": [],
+      "enabled": true
+    }
+  },
+  "estimatedFg": 0.994,
+  "events": [
+    {
+      "eventText": "Brew Day",
+      "active": false,
+      "descriptionHTML": "Brew Day (AnOtter Apple Cider)",
+      "description": "Brew Day (AnOtter Apple Cider)",
+      "dayEvent": true,
+      "title": "Brew Day - Batch #12 (AnOtter Apple Cider)",
+      "eventType": "event-batch-brew-day",
+      "notifyTime": 1622959200000,
+      "time": 1622959200000
+    },
+    {
+      "descriptionHTML": "You have a planned Batch upcoming (AnOtter Apple Cider)",
+      "eventText": "Brew Day &mdash; Reminder",
+      "notifyTime": 1622872800000,
+      "active": false,
+      "dayEvent": true,
+      "time": 1622872800000,
+      "eventType": "event-batch-brew-day-reminder",
+      "title": "Brew Day - Reminder - Batch #12 (AnOtter Apple Cider)",
+      "description": "You have a planned Batch upcoming (AnOtter Apple Cider)"
+    },
+    {
+      "title": "Bottling Day - Batch #12 (AnOtter Apple Cider)",
+      "eventType": "event-batch-bottling-day",
+      "descriptionHTML": "Bottling Day (AnOtter Apple Cider)",
+      "time": 1624773600000,
+      "dayEvent": true,
+      "active": false,
+      "description": "Bottling Day (AnOtter Apple Cider)",
+      "eventText": "Bottling Day"
+    },
+    {
+      "title": "Fermentation Step - Batch #12 (AnOtter Apple Cider)",
+      "eventType": "event-batch-ferm-step",
+      "descriptionHTML": "Fermentation Profile Step:<br>Carbonation (Fermentation) @ 20 °C",
+      "description": "Fermentation Profile Step: Carbonation (Fermentation) @ 20 °C",
+      "dayEvent": false,
+      "active": false,
+      "eventText": "Carbonation (Fermentation) @ 20 °C",
+      "time": 1624773600000
+    },
+    {
+      "title": "Fermentation Step - Batch #12 (AnOtter Apple Cider)",
+      "dayEvent": false,
+      "description": "Fermentation Profile Step: Conditioning (Fermentation) @ 20 °C",
+      "eventText": "Conditioning (Fermentation) @ 20 °C",
+      "active": false,
+      "time": 1625983200000,
+      "descriptionHTML": "Fermentation Profile Step:<br>Conditioning (Fermentation) @ 20 °C",
+      "eventType": "event-batch-ferm-step"
+    },
+    {
+      "eventType": "event-batch-ferm-completed",
+      "title": "Completed - Batch #12 (AnOtter Apple Cider)",
+      "active": false,
+      "descriptionHTML": "Fermentation Profile Step:<br>Completed - Conditioning (Fermentation) @ 20 °C",
+      "eventText": "Completed - Conditioning (Fermentation) @ 20 °C",
+      "time": 1629612000000,
+      "dayEvent": false,
+      "description": "Fermentation Profile Step: Completed - Conditioning (Fermentation) @ 20 °C"
+    }
+  ],
+  "measurements": [
+    {
+      "timestamp": 1615318945190,
+      "status": "Brewing",
+      "text": "Strike Temperature"
+    },
+    {
+      "timestamp": 1615318945190,
+      "text": "Strike Water pH",
+      "status": "Brewing"
+    }
+  ],
+  "_timestamp_ms": 1730927640992,
+  "carbonationType": "Sugar",
+  "batchMiscs": [
+    {
+      "_parent": "kY5CZlAmUu92KhRxCLrXulZMxLzNPk",
+      "bestBeforeDate": null,
+      "unit": "items",
+      "notes": "",
+      "name": "Bottle Caps 26 mm (Orange)",
+      "removedAmount": 16,
+      "inventoryUnit": "items",
+      "removedFromInventory": true,
+      "_timestamp": {
+        "seconds": 1612036398,
+        "nanoseconds": 218000000
+      },
+      "substitutes": "",
+      "_version": "2.6.1",
+      "_created": {
+        "seconds": 1588435151,
+        "nanoseconds": 553000000
+      },
+      "removedUnit": "items",
+      "useFor": "",
+      "totalCost": 0.32,
+      "_id": "5c5g3xmI7j9XEBpqXFv3zYV96KZC42",
+      "displayAmount": 0,
+      "type": "Other",
+      "_timestamp_ms": 1612036398218,
+      "manufacturingDate": null,
+      "time": 1,
+      "inventory": 166,
+      "costPerAmount": 0.02,
+      "use": "Bottling",
+      "amountPerL": null,
+      "checked": true,
+      "userNotes": "The malt Miller (UK) EQU-14-007",
+      "amount": 16,
+      "hidden": false,
+      "notInRecipe": false,
+      "timeIsDays": false,
+      "lotNumber": "694-201130-111430-176081-1/1"
+    },
+    {
+      "hidden": false,
+      "amount": 16,
+      "_timestamp_ms": 1615027766519,
+      "removedUnit": "items",
+      "notInRecipe": false,
+      "_version": "2.7.2",
+      "notes": "",
+      "_parent": "12GPJqtHdSkaqiyQeXmzNFK5PNMWTo",
+      "checked": true,
+      "userNotes": "Brouwstore (NL) 017.477.1",
+      "costPerAmount": 0,
+      "removedAmount": 16,
+      "manufacturingDate": null,
+      "use": "Bottling",
+      "_timestamp": {
+        "seconds": 1615027766,
+        "nanoseconds": 519000000
+      },
+      "useFor": "",
+      "totalCost": 0,
+      "type": "Other",
+      "unit": "items",
+      "amountPerL": 3,
+      "inventory": 5,
+      "inventoryUnit": "items",
+      "name": "33 cl Vichy bottle (26 mm cap)",
+      "_id": "u5VDWu54vlil3gWiBM5UkpGTUuvLcN",
+      "_created": {
+        "seconds": 1598179158,
+        "nanoseconds": 227000000
+      },
+      "bestBeforeDate": null,
+      "displayAmount": 0,
+      "removedFromInventory": true,
+      "substitutes": ""
+    }
+  ],
+  "_init": true,
+  "measuredKettleEfficiency": 80.51,
+  "brewer": "The Thirsty Otter",
+  "measuredPostBoilGravity": 1.04,
+  "brewControllerEnabled": false,
+  "batchYeastsLocal": [],
+  "boilStepsCount": 0,
+  "brewDate": 1622930400000,
+  "_timestamp": "2024-11-06T21:14:00.992Z",
+  "_archived": false,
+  "measuredAbv": 6,
+  "measuredConversionEfficiency": null,
+  "measuredFg": 0.994,
+  "batchFermentablesLocal": [],
+  "fermentationControllerEnabled": false,
+  "measuredMashPh": 3.59,
+  "measuredOg": 1.04,
+  "estimatedColor": 6.2,
+  "mashStepsCount": 0,
+  "boilSteps": [],
+  "measuredEfficiency": 83.87,
+  "measuredMashEfficiency": 78.57,
+  "bottlingDate": 1624744800000,
+  "measuredPreBoilGravity": 1.04,
+  "batchFermentables": [
+    {
+      "notFermentable": false,
+      "userNotes": "",
+      "percentage": 99.64,
+      "maxInBatch": null,
+      "_timestamp": {
+        "seconds": 1622132288,
+        "nanoseconds": 766000000
+      },
+      "_version": "2.7.6",
+      "cgdb": null,
+      "color": 0.507614,
+      "origin": "NL",
+      "friability": null,
+      "attenuation": null,
+      "type": "Other",
+      "bestBeforeDate": 1675119600000,
+      "coarseFineDiff": null,
+      "_timestamp_ms": 1622132288766,
+      "grainCategory": null,
+      "potential": 1.005,
+      "usedIn": "",
+      "notes": "",
+      "supplier": "De Olmenhorst",
+      "substitutes": "",
+      "potentialPercentage": 11.8,
+      "inventory": 0,
+      "diastaticPower": null,
+      "fan": null,
+      "protein": null,
+      "_id": "enPxcnPpHMXOfOAG4cQxUVLNsfFsN5",
+      "hidden": false,
+      "lotNumber": "L080211:29 (purchased 20210510)",
+      "fgdb": null,
+      "manufacturingDate": null,
+      "ibuPerAmount": null,
+      "moisture": null,
+      "acid": null,
+      "displayAmount": 0,
+      "removedAmount": 5.6,
+      "removedFromInventory": true,
+      "notInRecipe": false,
+      "totalCost": 16.744,
+      "costPerAmount": 2.99,
+      "_created": {
+        "seconds": 1605809837,
+        "nanoseconds": 169000000
+      },
+      "_parent": "sWkUqKHGsSaFZwwIoP58CkcqmD6YHH",
+      "amount": 5.6,
+      "lovibond": 0.9,
+      "checked": true,
+      "name": "Apple Juice"
+    },
+    {
+      "notFermentable": false,
+      "notInRecipe": false,
+      "totalCost": 0.015,
+      "protein": null,
+      "name": "Sugar, Table (Sucrose)",
+      "costPerAmount": 0.75,
+      "notes": "",
+      "userNotes": "Albert Heijn (NL)",
+      "diastaticPower": null,
+      "color": 1.015228,
+      "coarseFineDiff": null,
+      "bestBeforeDate": null,
+      "potentialPercentage": 100,
+      "usedIn": "",
+      "ibuPerAmount": null,
+      "_created": {
+        "seconds": 1591526370,
+        "nanoseconds": 788000000
+      },
+      "origin": "",
+      "moisture": null,
+      "inventory": 0.3805,
+      "attenuation": 1.22,
+      "potential": 1.046,
+      "_timestamp": {
+        "seconds": 1621263014,
+        "nanoseconds": 146000000
+      },
+      "maxInBatch": null,
+      "manufacturingDate": null,
+      "fan": null,
+      "cgdb": null,
+      "removedFromInventory": true,
+      "substitutes": "",
+      "type": "Sugar",
+      "hidden": false,
+      "amount": 0.02,
+      "acid": null,
+      "_parent": "default-132c22b",
+      "_version": "2.7.6",
+      "checked": true,
+      "supplier": "Albert Heijn",
+      "fgdb": null,
+      "_timestamp_ms": 1621263014146,
+      "_id": "N3xrS6whFlinHqtEBDWsDBYCrSZHUp",
+      "removedAmount": 0.02,
+      "friability": null,
+      "displayAmount": 0
+    }
+  ],
+  "estimatedTotalGravity": 1.04,
+  "measuredBottlingSize": 5.28,
+  "batchNo": 12,
+  "name": "Batch",
+  "recipe": {
+    "postBoilGravity": 1.046843135,
+    "og": 1.046843135,
+    "type": "Extract",
+    "fg": 1.012,
+    "hopsTotalAmount": 0,
+    "miscs": [
+      {
+        "bestBeforeDate": null,
+        "name": "33 cl Vichy bottle (26 mm cap)",
+        "costPerAmount": 0,
+        "_parent": "12GPJqtHdSkaqiyQeXmzNFK5PNMWTo",
+        "_created": {
+          "seconds": 1598179158,
+          "nanoseconds": 227000000
+        },
+        "inventory": 16,
+        "userNotes": "Brouwstore (NL) 017.477.1",
+        "type": "Other",
+        "use": "Bottling",
+        "_id": "u5VDWu54vlil3gWiBM5UkpGTUuvLcN",
+        "manufacturingDate": null,
+        "useFor": "",
+        "hidden": false,
+        "_timestamp": {
+          "seconds": 1615027766,
+          "nanoseconds": 519000000
+        },
+        "unit": "items",
+        "notes": "",
+        "time": null,
+        "_version": "2.7.2",
+        "substitutes": "",
+        "amount": 16,
+        "amountPerL": 3,
+        "_timestamp_ms": 1615027766519
+      },
+      {
+        "timeIsDays": false,
+        "inventory": 200,
+        "hidden": false,
+        "notes": "",
+        "_created": {
+          "seconds": 1588435151,
+          "nanoseconds": 553000000
+        },
+        "name": "Bottle Caps 26 mm (Orange)",
+        "useFor": "",
+        "amountPerL": null,
+        "userNotes": "The malt Miller (UK) EQU-14-007",
+        "bestBeforeDate": null,
+        "substitutes": "",
+        "amount": 16,
+        "lotNumber": "694-201130-111430-176081-1/1",
+        "_timestamp": {
+          "seconds": 1612036398,
+          "nanoseconds": 218000000
+        },
+        "manufacturingDate": null,
+        "use": "Bottling",
+        "_version": "2.6.1",
+        "_timestamp_ms": 1612036398218,
+        "costPerAmount": 0.02,
+        "_parent": "kY5CZlAmUu92KhRxCLrXulZMxLzNPk",
+        "type": "Other",
+        "time": null,
+        "unit": "items",
+        "_id": "5c5g3xmI7j9XEBpqXFv3zYV96KZC42"
+      }
+    ],
+    "thumb": "data:image/jpeg;base64,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",
+    "preBoilGravity": 1.01,
+    "water": {
+      "sparge": {
+        "ionBalance": -1,
+        "name": "Via Marentino",
+        "soClRatio": 2.08,
+        "bicarbonateMeqL": 6.604824963943884,
+        "ionBalanceOff": true,
+        "residualAlkalinityMeqLCalc": 4.50003,
+        "magnesium": 18.07,
+        "bicarbonate": 403,
+        "anions": 7.19,
+        "residualAlkalinity": 245.90419,
+        "calcium": 103.2,
+        "alkalinity": 330.2433,
+        "_timestamp": {
+          "seconds": 1545926323,
+          "nanoseconds": 344000000
+        },
+        "sulfate": 17.02,
+        "_id": "default",
+        "cations": 6.915,
+        "sodium": 6.4,
+        "_version": "1.4.0",
+        "chloride": 8.2,
+        "type": "source",
+        "ph": "7.47",
+        "_created": {
+          "seconds": 1545923061,
+          "nanoseconds": 982000000
+        },
+        "hardness": 332
+      },
+      "mashAdjustments": {
+        "calciumSulfate": null,
+        "sodium": 0,
+        "magnesiumSulfate": null,
+        "calciumHydroxide": null,
+        "magnesiumChloride": null,
+        "sodiumChloride": null,
+        "magnesium": 0,
+        "sodiumBicarbonate": null,
+        "calciumCarbonate": 0,
+        "acids": [
+          {
+            "amount": 0,
+            "type": "lactic",
+            "concentration": 80
+          }
+        ],
+        "calciumChloride": null,
+        "sulfate": 0,
+        "volume": 26.88,
+        "ltDWB": 0,
+        "chloride": 0,
+        "bicarbonate": 0,
+        "calcium": 0,
+        "ltAMS": 0,
+        "sodiumMetabisulfite": 0,
+        "sodiumMetabisulfitePPM": 0
+      },
+      "settings": {
+        "sodiumBicarbonate": {
+          "auto": true,
+          "mash": true,
+          "sparge": true
+        },
+        "magnesiumSulfate": {
+          "sparge": true,
+          "auto": true,
+          "mash": true
+        },
+        "calciumHydroxide": {
+          "mash": true,
+          "sparge": true,
+          "auto": true
+        },
+        "calciumSulfate": {
+          "sparge": true,
+          "mash": true,
+          "auto": true
+        },
+        "calciumChloride": {
+          "sparge": true,
+          "auto": true,
+          "form": "dihydrate",
+          "mash": true
+        },
+        "adjustSparge": true,
+        "sodiumChloride": {
+          "sparge": true,
+          "mash": true,
+          "auto": true
+        },
+        "magnesiumChloride": {
+          "auto": true,
+          "sparge": true,
+          "mash": true
+        }
+      },
+      "spargeTargetDiff": null,
+      "dilutionPercentage": null,
+      "dilutionAmount": 0,
+      "mash": {
+        "ionBalance": -1,
+        "sodium": 6.4,
+        "alkalinity": 330.2433,
+        "sulfate": 17.02,
+        "residualAlkalinity": 245.90419,
+        "_timestamp": {
+          "seconds": 1545926323,
+          "nanoseconds": 344000000
+        },
+        "hardness": 332,
+        "type": "source",
+        "bicarbonateMeqL": 6.604824963943884,
+        "bicarbonate": 403,
+        "ph": "7.47",
+        "anions": 7.19,
+        "soClRatio": 2.08,
+        "name": "Via Marentino",
+        "cations": 6.915,
+        "_id": "default",
+        "magnesium": 18.07,
+        "calcium": 103.2,
+        "residualAlkalinityMeqLCalc": 4.50003,
+        "chloride": 8.2,
+        "ionBalanceOff": true,
+        "_created": {
+          "seconds": 1545923061,
+          "nanoseconds": 982000000
+        },
+        "_version": "1.4.0"
+      },
+      "mashWaterAmount": null,
+      "source": {
+        "calcium": "103.2",
+        "bicarbonateMeqL": 6.604824963943884,
+        "alkalinity": 330.2433,
+        "hardness": 332,
+        "cations": 6.915,
+        "ph": "7.47",
+        "ionBalance": -1,
+        "anions": 7.19,
+        "sodium": "6.4",
+        "ionBalanceOff": true,
+        "sulfate": "17.02",
+        "residualAlkalinityMeqLCalc": 4.50003,
+        "_created": {
+          "seconds": 1545923061,
+          "nanoseconds": 982000000
+        },
+        "name": "Via Marentino",
+        "_timestamp": {
+          "seconds": 1545926323,
+          "nanoseconds": 344000000
+        },
+        "type": "source",
+        "residualAlkalinity": 245.90419,
+        "_version": "1.4.0",
+        "chloride": "8.2",
+        "_id": "default",
+        "magnesium": "18.07",
+        "bicarbonate": "403",
+        "soClRatio": 2.08
+      },
+      "sourceTargetDiff": null,
+      "spargeWaterAmount": null,
+      "spargeAdjustments": {
+        "calciumHydroxide": 0,
+        "sodium": 0,
+        "magnesiumChloride": 0,
+        "magnesium": 0,
+        "magnesiumSulfate": 0,
+        "sulfate": 0,
+        "sodiumMetabisulfitePPM": 0,
+        "calcium": 0,
+        "chloride": 0,
+        "sodiumMetabisulfite": 0,
+        "calciumChloride": 0,
+        "ltAMS": 0,
+        "sodiumBicarbonate": 0,
+        "ltDWB": 0,
+        "calciumCarbonate": 0,
+        "bicarbonate": 0,
+        "calciumSulfate": 0,
+        "acids": [
+          {
+            "amount": 0,
+            "concentration": 80,
+            "type": "lactic"
+          }
+        ],
+        "sodiumChloride": 0,
+        "volume": 0
+      },
+      "totalAdjustments": {
+        "magnesiumChloride": 0,
+        "magnesium": 0,
+        "ltDWB": 0,
+        "calciumSulfate": 0,
+        "sodiumChloride": 0,
+        "calcium": 0,
+        "sodiumBicarbonate": 0,
+        "ltAMS": 0,
+        "chloride": 0,
+        "magnesiumSulfate": 0,
+        "sodiumMetabisulfitePPM": 0,
+        "sodium": 0,
+        "sodiumMetabisulfite": 0,
+        "volume": 26.88,
+        "sulfate": 0,
+        "calciumHydroxide": 0,
+        "bicarbonate": 0,
+        "calciumCarbonate": 0,
+        "calciumChloride": 0
+      },
+      "mashTargetDiff": null,
+      "enableSpargeAdjustments": true,
+      "totalTargetDiff": null,
+      "total": {
+        "calcium": 103.2,
+        "name": "Via Marentino",
+        "magnesium": 18.07,
+        "sulfate": 17.02,
+        "_id": "default",
+        "ph": "7.47",
+        "residualAlkalinity": 245.90419,
+        "ionBalanceOff": true,
+        "bicarbonateMeqL": 6.604824963943884,
+        "chloride": 8.2,
+        "bicarbonate": 403,
+        "type": "source",
+        "ionBalance": -1,
+        "soClRatio": 2.08,
+        "cations": 6.915,
+        "residualAlkalinityMeqLCalc": 4.50003,
+        "_created": {
+          "seconds": 1545923061,
+          "nanoseconds": 982000000
+        },
+        "_version": "1.4.0",
+        "alkalinity": 330.2433,
+        "hardness": 332,
+        "sodium": 6.4,
+        "anions": 7.19,
+        "_timestamp": {
+          "seconds": 1545926323,
+          "nanoseconds": 344000000
+        }
+      },
+      "diluted": null
+    },
+    "fgEstimated": 1.012,
+    "styleFg": true,
+    "sumDryHopPerLiter": 0,
+    "nutrition": {
+      "calories": {
+        "alcohol": 25.67012411830325,
+        "carbs": 18.120439485254593,
+        "total": 43.79056360355784,
+        "kJ": 183.21971811728602
+      },
+      "carbs": {
+        "total": 4.573807634082004
+      }
+    },
+    "batchSize": 5.6,
+    "buGuRatio": 0,
+    "styleRbr": false,
+    "hidden": false,
+    "name": "AnOtter Apple Cider",
+    "_created": {
+      "seconds": 1557574283,
+      "nanoseconds": 941000000
+    },
+    "ibuFormula": "tinseth",
+    "notes": "Pitch 2.19 grams of yeast (9 grams per 23 L).",
+    "fermentables": [
+      {
+        "userNotes": "",
+        "cgdb": null,
+        "attenuation": null,
+        "_parent": "sWkUqKHGsSaFZwwIoP58CkcqmD6YHH",
+        "protein": null,
+        "percentage": 99.64,
+        "color": 0.507614,
+        "lotNumber": "L080211:29 (purchased 20210510)",
+        "_id": "enPxcnPpHMXOfOAG4cQxUVLNsfFsN5",
+        "usedIn": "",
+        "hidden": false,
+        "acid": null,
+        "type": "Other",
+        "substitutes": "",
+        "amount": 5.6,
+        "supplier": "De Olmenhorst",
+        "ibuPerAmount": null,
+        "grainCategory": null,
+        "_timestamp_ms": 1623665244206,
+        "notFermentable": false,
+        "diastaticPower": null,
+        "_timestamp": {
+          "seconds": 1623665244,
+          "nanoseconds": 206000000
+        },
+        "lovibond": 0.9,
+        "coarseFineDiff": null,
+        "_version": "2.7.6",
+        "friability": null,
+        "name": "Apple Juice",
+        "fan": null,
+        "_created": {
+          "seconds": 1605809837,
+          "nanoseconds": 169000000
+        },
+        "maxInBatch": null,
+        "inventory": null,
+        "bestBeforeDate": 1675119600000,
+        "moisture": null,
+        "notes": "",
+        "costPerAmount": 2.99,
+        "potential": 1.005,
+        "origin": "NL",
+        "fgdb": null,
+        "potentialPercentage": 11.8,
+        "manufacturingDate": null
+      },
+      {
+        "cgdb": null,
+        "attenuation": 1.22,
+        "grainCategory": null,
+        "_parent": "default-132c22b",
+        "potential": 1.046,
+        "acid": null,
+        "friability": null,
+        "userNotes": "Albert Heijn (NL)",
+        "bestBeforeDate": null,
+        "coarseFineDiff": null,
+        "costPerAmount": 0.75,
+        "amount": 0.02,
+        "inventory": 0.5193,
+        "hidden": false,
+        "substitutes": "",
+        "_version": "2.7.6",
+        "notes": "",
+        "_timestamp": {
+          "seconds": 1621263014,
+          "nanoseconds": 146000000
+        },
+        "origin": "",
+        "protein": null,
+        "ibuPerAmount": null,
+        "notFermentable": false,
+        "usedIn": "",
+        "supplier": "Albert Heijn",
+        "_id": "N3xrS6whFlinHqtEBDWsDBYCrSZHUp",
+        "percentage": 0.36,
+        "diastaticPower": null,
+        "_timestamp_ms": 1621263014146,
+        "manufacturingDate": null,
+        "_created": {
+          "seconds": 1591526370,
+          "nanoseconds": 788000000
+        },
+        "moisture": null,
+        "name": "Sugar, Table (Sucrose)",
+        "maxInBatch": null,
+        "fgdb": null,
+        "type": "Sugar",
+        "potentialPercentage": 100,
+        "fan": null,
+        "color": 1.015228
+      }
+    ],
+    "origin": null,
+    "_type": "recipe",
+    "fermentation": {
+      "steps": [
+        {
+          "stepTemp": 20,
+          "displayPressure": null,
+          "displayStepTemp": 20,
+          "pressure": null,
+          "ramp": null,
+          "stepTime": 21,
+          "type": "Primary",
+          "actualTime": 1622930400000
+        },
+        {
+          "stepTime": 14,
+          "displayStepTemp": 20,
+          "type": "Carbonation",
+          "ramp": null,
+          "stepTemp": 20,
+          "name": "",
+          "displayPressure": null,
+          "pressure": null,
+          "actualTime": 1624744800000
+        },
+        {
+          "pressure": null,
+          "stepTemp": 20,
+          "actualTime": 1625954400000,
+          "stepTime": 42,
+          "displayStepTemp": 20,
+          "displayPressure": null,
+          "ramp": null,
+          "type": "Conditioning"
+        }
+      ],
+      "_id": "default",
+      "name": "Ale"
+    },
+    "ibu": 0,
+    "fermentableIbu": 0,
+    "_init": true,
+    "styleOg": false,
+    "yeastToleranceExceededBy": null,
+    "_ev": 2,
+    "boilSize": 28,
+    "totalGravity": 1.046843135,
+    "abv": 4.59,
+    "extraGravity": 0,
+    "efficiency": 100,
+    "img": "users/f8vzySfCNzOXgK7PVc1TpOuM5m22/images/recipes/vErYEijJIhhDINAA615jKE8pPA9vW5/vErYEijJIhhDINAA615jKE8pPA9vW5.jpeg",
+    "styleIbu": true,
+    "ogPlato": 11.6,
+    "_public": false,
+    "style": {
+      "colorMax": 50,
+      "colorMin": 2,
+      "ogMin": 1.05,
+      "name": "English Cider",
+      "carbonationStyle": null,
+      "type": null,
+      "styleLetter": "B",
+      "category": "Standard Cider and Perry",
+      "ibuMin": 0,
+      "_id": "default-bjcp-cm-c1b",
+      "styleGuide": "BJCP 2015 Cider",
+      "rbrMax": 1.84,
+      "categoryNumber": "C1",
+      "carbMax": 3,
+      "rbrMin": 0.09,
+      "carbMin": 0,
+      "ibuMax": 0,
+      "lovibondMin": 2,
+      "fgMax": 1.015,
+      "abvMin": 6,
+      "buGuMin": 0.08,
+      "ogMax": 1.075,
+      "buGuMax": 1.6,
+      "fgMin": 0.995,
+      "abvMax": 9,
+      "lovibondMax": 50
+    },
+    "defaults": {
+      "pressure": "bar",
+      "temp": "c",
+      "altitude": "m",
+      "volume": "l",
+      "color": "ebc",
+      "weight": "kg",
+      "hop": "g",
+      "gravity": "sg",
+      "attenuation": "normal",
+      "carbonation": "vol",
+      "preferred": "metric",
+      "abv": "simple",
+      "grainColor": "default",
+      "ibu": "tinseth"
+    },
+    "rbRatio": 0,
+    "boilTime": 0,
+    "_id": "vErYEijJIhhDINAA615jKE8pPA9vW5",
+    "hops": [],
+    "_origin": "eZQfjF4zRoJfBUbw6pR1hpYWx0ZGIw",
+    "color": 6,
+    "styleConformity": false,
+    "author": "The Thirsty Otter",
+    "_timestamp_ms": 1724529242373,
+    "_uid": "f8vzySfCNzOXgK7PVc1TpOuM5m22",
+    "yeasts": [
+      {
+        "manufacturingDate": null,
+        "_parent": "1gkxcjCrAEK7d3SKmzwdkhSYiQfVGj",
+        "unit": "pkg",
+        "maxAbv": null,
+        "starter": null,
+        "minAttenuation": null,
+        "starterSize": null,
+        "fermentsAll": false,
+        "lotNumber": "100402",
+        "attenuation": 74,
+        "laboratory": "Mangrove Jack's",
+        "_version": "2.7.6",
+        "_timestamp": {
+          "seconds": 1622131308,
+          "nanoseconds": 261000000
+        },
+        "type": "Champagne",
+        "amount": 0.25,
+        "maxAttenuation": null,
+        "_created": {
+          "seconds": 1613765521,
+          "nanoseconds": 397000000
+        },
+        "hidden": false,
+        "description": "",
+        "_id": "p8WS4Vwmu16yzZumu1qr8bSs8qzfIZ",
+        "name": "Cider Yeast",
+        "flocculation": "High",
+        "bestBeforeDate": 1675206000000,
+        "form": "Dry",
+        "costPerAmount": 2.05,
+        "userNotes": "Brouwmaatje (NL) BM-BL.050.275.7",
+        "inventory": 1,
+        "productId": "M02",
+        "maxTemp": 27.8,
+        "_timestamp_ms": 1622131308261,
+        "minTemp": 12.2
+      }
+    ],
+    "primaryTemp": 20,
+    "equipment": {
+      "efficiency": 100,
+      "batchSize": 5.6,
+      "calcBoilVolume": false,
+      "aromaHopUtilization": 0.18,
+      "fermenterVolumeBeforeTopUp": 5.6,
+      "_timestamp": {
+        "seconds": 1605810092,
+        "nanoseconds": 202000000
+      },
+      "fermenterVolume": 5.6,
+      "boilTime": 0,
+      "calcAromaHopUtilization": true,
+      "calcMashEfficiency": false,
+      "boilSize": 0,
+      "mashWaterFormula": "BoilVolumeColdL + (GrainAmountKg * GrainAbsorptionRate) + MashTunLossL",
+      "mashTunDeadSpace": null,
+      "_meta": {
+        "efficiencyIsCalculated": true,
+        "mashEfficiencyIsCalculated": false
+      },
+      "hopUtilization": 1,
+      "evaporationRate": null,
+      "_version": "2.4.10",
+      "name": "00 Cider",
+      "spargeWaterOverflow": "Top-Up",
+      "efficiencyType": "Fermenter",
+      "fermenterLoss": 0.6,
+      "postBoilKettleVol": 5.833333333333333,
+      "brewhouseEfficiency": 100,
+      "_created": {
+        "seconds": 1603535277,
+        "nanoseconds": 439000000
+      },
+      "bottlingVolume": 5,
+      "waterCalculation": "No Sparge",
+      "_id": "o4GjGwhKHGKkIh6ek6F7IqFytOThnr",
+      "spargeWaterFormula": "0",
+      "mashWaterVolumeLimitEnabled": true,
+      "boilOffPerHr": 0.01,
+      "hidden": false,
+      "trubChillerLoss": 0,
+      "mashTunLoss": null,
+      "mashEfficiency": 100,
+      "fermenterLossEstimate": 0,
+      "_timestamp_ms": 1605810092202,
+      "fermenterTopUp": null,
+      "hopstandTemperature": 77
+    },
+    "mash": {
+      "steps": [
+        {
+          "name": "",
+          "stepTime": 0,
+          "stepTemp": 20,
+          "displayStepTemp": 20,
+          "rampTime": null,
+          "type": "Temperature"
+        }
+      ],
+      "_id": "default-hf-mo",
+      "name": "High fermentability plus mash out"
+    },
+    "hopStandMinutes": 0,
+    "firstWortGravity": null,
+    "tags": null,
+    "_version": "2.10.9",
+    "teaser": "",
+    "mashEfficiency": 100,
+    "carbonation": 2.4,
+    "attenuation": 0.737,
+    "data": {
+      "mashFermentablesAmount": 0,
+      "allDiastaticPower": true,
+      "mashFermentables": [],
+      "otherFermentablesAmount": 5.62,
+      "otherFermentables": [
+        {
+          "userNotes": "",
+          "cgdb": null,
+          "attenuation": null,
+          "_parent": "sWkUqKHGsSaFZwwIoP58CkcqmD6YHH",
+          "protein": null,
+          "percentage": 99.64,
+          "color": 0.507614,
+          "lotNumber": "L080211:29 (purchased 20210510)",
+          "_id": "enPxcnPpHMXOfOAG4cQxUVLNsfFsN5",
+          "usedIn": "",
+          "hidden": false,
+          "acid": null,
+          "type": "Other",
+          "substitutes": "",
+          "amount": 5.6,
+          "supplier": "De Olmenhorst",
+          "ibuPerAmount": null,
+          "grainCategory": null,
+          "_timestamp_ms": 1623665244206,
+          "notFermentable": false,
+          "diastaticPower": null,
+          "_timestamp": {
+            "seconds": 1623665244,
+            "nanoseconds": 206000000
+          },
+          "lovibond": 0.9,
+          "coarseFineDiff": null,
+          "_version": "2.7.6",
+          "friability": null,
+          "name": "Apple Juice",
+          "fan": null,
+          "_created": {
+            "seconds": 1605809837,
+            "nanoseconds": 169000000
+          },
+          "maxInBatch": null,
+          "inventory": null,
+          "bestBeforeDate": 1675119600000,
+          "moisture": null,
+          "notes": "",
+          "costPerAmount": 2.99,
+          "potential": 1.005,
+          "origin": "NL",
+          "fgdb": null,
+          "potentialPercentage": 11.8,
+          "manufacturingDate": null
+        },
+        {
+          "cgdb": null,
+          "attenuation": 1.22,
+          "grainCategory": null,
+          "_parent": "default-132c22b",
+          "potential": 1.046,
+          "acid": null,
+          "friability": null,
+          "userNotes": "Albert Heijn (NL)",
+          "bestBeforeDate": null,
+          "coarseFineDiff": null,
+          "costPerAmount": 0.75,
+          "amount": 0.02,
+          "inventory": 0.5193,
+          "hidden": false,
+          "substitutes": "",
+          "_version": "2.7.6",
+          "notes": "",
+          "_timestamp": {
+            "seconds": 1621263014,
+            "nanoseconds": 146000000
+          },
+          "origin": "",
+          "protein": null,
+          "ibuPerAmount": null,
+          "notFermentable": false,
+          "usedIn": "",
+          "supplier": "Albert Heijn",
+          "_id": "N3xrS6whFlinHqtEBDWsDBYCrSZHUp",
+          "percentage": 0.36,
+          "diastaticPower": null,
+          "_timestamp_ms": 1621263014146,
+          "manufacturingDate": null,
+          "_created": {
+            "seconds": 1591526370,
+            "nanoseconds": 788000000
+          },
+          "moisture": null,
+          "name": "Sugar, Table (Sucrose)",
+          "maxInBatch": null,
+          "fgdb": null,
+          "type": "Sugar",
+          "potentialPercentage": 100,
+          "fan": null,
+          "color": 1.015228
+        }
+      ],
+      "mashWaterAmount": 26.88,
+      "spargeWaterAmount": 0,
+      "mashVolumeSurplus": 0,
+      "topUpWater": 0,
+      "batchSpargeWaterAmount1": null,
+      "batchSpargeWaterAmount2": null,
+      "batchSpargeWaterAmount3": null,
+      "batchSpargeWaterAmount4": null,
+      "hltWaterAmount": 0,
+      "totalWaterAmount": 26.88,
+      "strikeTemp": null,
+      "mashVolume": null
+    },
+    "searchTags": [
+      "Brewed",
+      "Batch #12",
+      "Extract"
+    ],
+    "sumAromaHopPerLiter": 0,
+    "manualFg": false,
+    "path": "",
+    "avgWeightedHopstandTemp": 77,
+    "fermentablesTotalAmount": 5.62,
+    "carbonationStyle": null,
+    "styleColor": true,
+    "fgFormula": "normal",
+    "styleBuGu": false,
+    "_timestamp": {
+      "seconds": 1724529242,
+      "nanoseconds": 373000000
+    },
+    "styleAbv": false
+  },
+  "hideBatchEvents": true,
+  "status": "Completed",
+  "_version": "2.11.5",
+  "_type": "batch",
+  "batchYeasts": [
+    {
+      "maxAttenuation": null,
+      "amount": 0.25,
+      "minAttenuation": null,
+      "inventoryUnit": "pkg",
+      "manufacturingDate": null,
+      "costPerAmount": 2.05,
+      "_id": "p8WS4Vwmu16yzZumu1qr8bSs8qzfIZ",
+      "inventory": 0.5,
+      "maxTemp": 27.8,
+      "notInRecipe": false,
+      "fermentsAll": false,
+      "unit": "pkg",
+      "checked": true,
+      "laboratory": "Mangrove Jack's",
+      "type": "Champagne",
+      "_version": "2.7.6",
+      "description": "",
+      "_timestamp": {
+        "seconds": 1622131308,
+        "nanoseconds": 261000000
+      },
+      "bestBeforeDate": 1675206000000,
+      "lotNumber": "100402",
+      "minTemp": 12.2,
+      "productId": "M02",
+      "_created": {
+        "seconds": 1613765521,
+        "nanoseconds": 397000000
+      },
+      "_timestamp_ms": 1622131308261,
+      "removedFromInventory": true,
+      "flocculation": "High",
+      "userNotes": "Brouwmaatje (NL) BM-BL.050.275.7",
+      "hidden": false,
+      "totalCost": 0.5125,
+      "maxAbv": null,
+      "name": "Cider Yeast",
+      "attenuation": 74,
+      "_parent": "1gkxcjCrAEK7d3SKmzwdkhSYiQfVGj",
+      "removedUnit": "pkg",
+      "displayAmount": 0,
+      "form": "Dry",
+      "removedAmount": 0.25
+    }
+  ],
+  "cost": {
+    "yeasts": 0.51,
+    "miscs": 0.32,
+    "fermentables": 16.76,
+    "fermentablesShare": 0.9528,
+    "hops": 0,
+    "total": 17.59,
+    "hopsShare": 0,
+    "miscsShare": 0.0182,
+    "yeastsShare": 0.029,
+    "perBottlingLiter": 3.33
+  },
+  "measuredBatchSize": 5.5,
+  "notes": [
+    {
+      "note": "",
+      "timestamp": 1629668666404,
+      "status": "Completed",
+      "type": "statusChanged"
+    },
+    {
+      "status": "Conditioning",
+      "type": "statusChanged",
+      "note": "Filled 16 Vichy bottles (33 cl).",
+      "timestamp": 1624793319364
+    },
+    {
+      "status": "Fermenting",
+      "timestamp": 1622986186302,
+      "type": "statusChanged",
+      "note": ""
+    },
+    {
+      "note": "SV = 20 C.",
+      "status": "Fermenting",
+      "hidden": true,
+      "timestamp": 1622982600000
+    },
+    {
+      "timestamp": 1622982447179,
+      "note": "",
+      "status": "Brewing",
+      "type": "statusChanged"
+    }
+  ],
+  "hidden": false,
+  "batchHops": [],
+  "measuredAttenuation": 115.5,
+  "tasteRating": 54,
+  "bottlingDateSet": true,
+  "_id": "YibgCircIAvpV9Q0SKgqgoAsRJOf4V",
+  "batchNotes": "06-06-2021 14:27  5.5 L Apple juice into the fermenter.\n06-06-2021 14:27  pH = 3.59 @ 18 C.\n06-06-2021 14:30  SG = 1.040 @ 18 C --> OG = 1.040 @ 20C.\n06-06-2021 14:30  SV = 20 C.\n\nDay 0 in fermentation\n06-06-2021 15:29  pitched 2.15 grams yeast @ 19.4 C.\n06-06-2021 19:36  19.8 C, dp = 0 mm H2O, no bubbles.\n06-06-2021 22:04  19.7 C, dp = 10 mm H2O, no bubbles.\n\nDay 1 in fermentation\n07-06-2021 08:39  19.3 C, dp = 49 mm H2O, no bubbles.\n07-06-2021 14:43  20.0 C, dp = 49 mm H2O, no bubbles.\n07-06-2021 22:33  20.0 C, dp = 50 mm H2O, one bubble.\n\nDay 2 in fermentation\n08-06-2021 07:34  19.8 C, dp = 50 mm H2O, one bubble.\n08-06-2021 13:56  19.7 C, dp = 50 mm H2O, one bubble.\n08-06-2021 23:44  20.5 C, dp = 50 mm H2O, many bubbles.\n\nDay 3 in fermentation\n09-06-2021 08:53  20.8 C, dp = 50 mm H2O, many bubbles.\n09-06-2021 14:44  19.8 C, dp = 50 mm H2O, many bubbles.\n09-06-2021 22:47  20.1 C, dp = 50 mm H2O, many bubbles.\n\nDay 4 in fermentation\n10-06-2021 09:17  20.1 C, dp = 50 mm H2O, many bubbles.\n10-06-2021 14:40  20.5 C, dp = 50 mm H2O, many bubbles.\n10-06-2021 23:28  20.4 C, dp = 50 mm H2O, many bubbles.\n\nDay 5 in fermentation\n11-06-2021 10:04  20.7 C, dp = 50 mm H2O, many bubbles.\n11-06-2021 19:28  20.7 C, dp = 50 mm H2O, many bubbles.\n11-06-2021 23:05  20.8 C, dp = 50 mm H2O, many bubbles.\n\nDay 6 in fermentation\n12-06-2021 10:06  20.8 C, dp = 50 mm H2O, many bubbles.\n12-06-2021 16:35  20.7 C, dp = 50 mm H2O, many bubbles.\n12-06-2021 23:52  20.5 C, dp = 50 mm H2O, many bubbles.\n\nDay 7 in fermentation\n13-06-2021 09:51  19.0 C, dp = 50 mm H2O, one bubble.\n13-06-2021 13:53  19.9 C, dp = 50 mm H2O, few bubbles.\n13-06-2021 22:58  19.9 C, dp = 50 mm H2O, one bubble.\n\nDay 8 in fermentation\n14-06-2021 07:53  19.8 C, dp = 50 mm H2O, one bubble.\n14-06-2021 15:23  19.6 C, dp = 50 mm H2O, one bubble.\n14-06-2021 23:41  20.4 C, dp = 50 mm H2O, one bubble.\n\nDay 9 in fermentation\n15-06-2021 07:55  20.5 C, dp = 50 mm H2O, one bubble.\n15-06-2021 19:29  20.4 C, dp = 49 mm H2O, no bubbles.\n15-06-2021 23:54  20.4 C, dp = 50 mm H2O, one bubble.\n\nDay 10 in fermentation\n16-06-2021 09:29  19.9 C, dp = 49 mm H2O, no bubbles.\n16-06-2021 17:02  20.0 C, dp = 49 mm H2O, no bubbles.\n16-06-2021 22:30  20.0 C, dp = 49 mm H2O, no bubbles.\n\nDay 11 in fermentation\n17-06-2021 08:34  19.8 C, dp = 49 mm H2O, no bubbles.\n17-06-2021 17:12  19.8 C, dp = 45 mm H2O, no bubbles.\n17-06-2021 22:12  19.8 C, dp = 49 mm H2O, no bubbles.\n\nDay 12 in fermentation\n18-06-2021 08:18  20.4 C, dp = 45 mm H2O, no bubbles.\n18-06-2021 14:52  20.8 C, dp = 50 mm H2O, one bubble.\n18-06-2021 22:46  20.6 C, dp = 45 mm H2O, no bubbles.\n\nDay 13 in fermentation\n19-06-2021 08:11  19.8 C, dp = 50 mm H2O, one bubble.\n19-06-2021 22:45  19.9 C, dp = 50 mm H2O, one bubble.\n\nDay 14 in fermentation\n20-06-2021 09:10  19.6 C, dp = 50 mm H2O, one bubble.\n20-06-2021 17:26  19.4 C, dp = 49 mm H2O, no bubbles.\n20-06-2021 23:41  19.4 C, dp = 45 mm H2O, no bubbles.\n\nDay 15 in fermentation\n21-06-2021 06:46  19.2 C.\n21-06-2021 21:00  19.2 C, dp = 50 mm H2O, one bubble.\n\nDay 16 in fermentation\n22-06-2021 19:59  19.9 C, dp = 45 mm H2O, no bubbles.\n\nDay 17 in fermentation\n23-06-2021 05:43  19.3 C, dp = 45 mm H2O, no bubbles.\n23-06-2021 16:56  19.4 C, dp = 45 mm H2O, no bubbles.\n23-06-2021 22:46  20.0 C, dp = 40 mm H2O, no bubbles.\n\nDay 18 in fermentation\n24-06-2021 09:03  19.3 C, dp = 45 mm H2O, no bubbles.\n24-06-2021 13:42  19.7 C, dp = 45 mm H2O, no bubbles.\n24-06-2021 21:49  19.2 C, dp = 48 mm H2O, no bubbles.\n\nDay 19 in fermentation\n25-06-2021 11:47  19.3 C, dp = 50 mm H2O, one bubble.\n25-06-2021 19:08  19.2 C, dp = 45 mm H2O, no bubbles.\n25-06-2021 22:49  19.5 C, dp = 45 mm H2O, no bubbles.\n\nDay 20 in fermentation\n26-06-2021 10:08  19.9 C, dp = 45 mm H2O, no bubbles.\n26-06-2021 17:01  19.6 C, dp = 45 mm H2O, no bubbles.\n26-06-2021 23:11  19.6 C, dp = 45 mm H2O, no bubbles.\n\nDay 21 in fermentation\n27-06-2021 11:03  19.5 C, dp = 45 mm H2O, no bubbles.\n\nBottling Day\n27-06-2021 11:15  Boiled 300 ml water and added 20 grams of table sugar.\n27-06-2021 13:25  SG = 0.994, pH = 3.86 @ 21.7 C.\n27-06-2021 13:28  Filled 16 Vichy bottles (33 cl).\n\nDay 0 in conditioning\n27-06-2021 17:13  20.2 C.\n27-06-2021 23:04  20.3 C.\n\nDay 1 in conditioning\n28-06-2021 06:15  20.3 C.\n28-06-2021 12:54  20.1 C.\n28-06-2021 17:30  20.3 C.\n\nDay 2 in conditioning\n29-06-2021 08:55  20.4 C.\n29-06-2021 12:45  20.2 C.\n29-06-2021 17:15  20.0 C.\n29-06-2021 21:45  19.5 C.\n\nDay 3 in conditioning\n30-06-2021 08:45  19.1 C.\n30-06-2021 12:45  19.1 C.\n30-06-2021 16:30  19.4 C.\n30-06-2021 20:45  19.9 C.\n\nDay 4 in conditioning\n01-07-2021 07:30  19.1 C.\n01-07-2021 12:45  19.2 C.\n01-07-2021 17:30  19.4 C.\n01-07-2021 22:00  20.0 C.\n\nDay 5 in conditioning\n02-07-2021 08:45  19.1 C.\n02-07-2021 12:45  19.4 C.\n02-07-2021 17:30  19.4 C.\n02-07-2021 23:45  19.2 C.\n\nDay 6 in conditioning\n03-07-2021 08:45  19.7 C.\n03-07-2021 12:45  19.2 C.\n03-07-2021 17:30  19.2 C.\n03-07-2021 23:45  19.5 C.\n\nDay 7 in conditioning\n04-07-2021 08:45  19.4 C.\n04-07-2021 12:45  19.3 C.\n04-07-2021 13:30  20.2 C, moved bottles from fridge to cellar.\n04-07-2021 17:07  19.0 C.\n04-07-2021 23:55  19.0 C.\n\nDay 8 in conditioning\n05-07-2021 08:13  19.1 C.\n05-07-2021 14:53  19.2 C.\n05-07-2021 23:33  19.2 C.\n\nDay 9 in conditioning\n06-07-2021 08:09  19.5 C.\n06-07-2021 10:59  19.5 C.\n06-07-2021 10:55  19.3 C.\n06-07-2021 23:53  19.2 C.\n\nDay 10 in conditioning\n07-07-2021 07:37  19.9 C.\n07-07-2021 13:22  19.7 C.\n07-07-2021 20:43  19.8 C.\n\nDay 11 in conditioning\n08-07-2021 08:23  19.2 C.\n08-07-2021 15:18  19.0 C.\n08-07-2021 22:30  19.3 C.\n\nDay 12 in conditioning\n09-07-2021 07:58  19.5 C.\n09-07-2021 14:49  19.5 C.\n09-07-2021 23:43  19.0 C.\n\nDay 13 in conditioning\n10-07-2021 12:18  19.0 C.\n10-07-2021 20:48  19.2 C.\n\nDay 14 in conditioning\n11-07-2021 10:24  19.8 C.\n11-07-2021 13:57  19.9 C.\n11-07-2021 19:04  19.0 C.\n11-07-2021 23:57  19.2 C.\n\nDay 15 in conditioning\n12-07-2021 08:24  19.3 C.\n12-07-2021 15:22  19.3 C.\n12-07-2021 23:21  19.5 C.\n\nDay 16 in conditioning\n13-07-2021 07:49  19.7 C.\n13-07-2021 13:39  19.9 C.\n13-07-2021 20:25  20.1 C.\n\nDay 17 in conditioning\n14-07-2021 09:04  20.3 C.\n14-07-2021 13:33  20.2 C.\n14-07-2021 23:58  20.2 C.\n\nDay 18 in conditioning\n15-07-2021 07:03  20.2 C.\n15-07-2021 13:44  20.0 C.\n15-07-2021 23:50  20.0 C.\n\nDay 19 in conditioning\n16-07-2021 08:45  19.8 C.\n16-07-2021 15:53  19.7 C.\n16-07-2021 22:30  20.0 C.\n\nDay 20 in conditioning\n17-07-2021 08:45  20.2 C.\n17-07-2021 14:22  20.4 C.\n17-07-2021 23:12  20.7 C.\n\nDay 21 in conditioning\n18-07-2021 09:56  20.0 C.\n18-07-2021 15:31  20.1 C.\n18-07-2021 22:58  20.6 C.\n\nDay 22 in conditioning\n19-07-2021 08:48  20.9 C.\n19-07-2021 14:21  20.9 C.\n19-07-2021 22:05  20.1 C.\n\nDay 23 in conditioning\n20-07-2021 08:32  20.7 C.\n20-07-2021 13:02  20.6 C.\n20-07-2021 17:44  20.7 C.\n20-07-2021 23:16  20.8 C.\n\nDay 24 in conditioning\n21-07-2021 09:30  20.1 C.\n21-07-2021 16:28  20.0 C.\n21-07-2021 23:49  20.3 C.\n\nDay 25 in conditioning\n22-07-2021 08:14  20.5 C.\n22-07-2021 14:53  20.5 C.\n22-07-2021 22:32  20.5 C.\n\nDay 26 in conditioning\n23-07-2021 08:08  20.5 C.\n23-07-2021 15:36  20.5 C.\n23-07-2021 22:24  20.5 C.\n\nDay 27 in conditioning\n24-07-2021 09:28  20.5 C.\n24-07-2021 16:22  20.5 C.\n24-07-2021 22:17  20.5 C.\n\nDay 28 in conditioning\n25-07-2021 08:52  20.7 C.\n25-07-2021 16:55  20.7 C.\n25-07-2021 23:16  20.0 C.\n\nDay 29 in conditioning\n26-07-2021 08:58  20.4 C.\n26-07-2021 16:58  20.5 C.\n26-07-2021 23:00  20.5 C.\n\nDay 30 in conditioning\n27-07-2021 07:56  20.5 C.\n27-07-2021 15:46  20.5 C.\n27-07-2021 22:44  20.5 C.\n\nDay 31 in conditioning\n28-07-2021 08:14  20.2 C.\n28-07-2021 16:12  20.9 C.\n28-07-2021 23:24  20.7 C.\n\nDay 32 in conditioning\n29-07-2021 08:55  20.0 C.\n29-07-2021 18:39  20.5 C.\n29-07-2021 23:43  20.7 C.\n\nDay 33 in conditioning\n30-07-2021 08:47  20.3 C.\n30-07-2021 16:24  20.2 C.\n30-07-2021 23:37  20.0 C.\n\nDay 34 in conditioning\n31-07-2021 10:23  20.9 C.\n31-07-2021 16:59  20.8 C.\n31-07-2021 23:58  20.1 C.\n\nDay 35 in conditioning\n01-08-2021 10:52  20.0 C.\n01-08-2021 15:21  20.0 C.\n01-08-2021 23:49  20.3 C.\n\nDay 36 in conditioning\n02-08-2021 10:51  20.1 C.\n\nDay 40 in conditioning\n06-08-2021 15:50  20.4 C.\n06-08-2021 22:19  20.5 C.\n\nDay 41 in conditioning\n07-08-2021 07:47  20.0 C.\n07-08-2021 16:54  20.7 C.\n07-08-2021 22:37  20.7 C.\n\nDay 42 in conditioning\n08-08-2021 11:01  20.4 C.\n08-08-2021 20:06  20.2 C.\n08-08-2021 23:55  20.0 C.\n\nDay 43 in conditioning\n09-08-2021 09:08  19.6 C.\n09-08-2021 17:25  19.4 C.\n09-08-2021 23:57  19.3 C.\n\nDay 44 in conditioning\n10-08-2021 08:07  19.2 C.\n10-08-2021 16:38  19.1 C.\n10-08-2021 23:15  19.3 C.\n\nDay 45 in conditioning\n11-08-2021 08:38  19.4 C.\n11-08-2021 16:13  19.4 C.\n11-08-2021 23:15  19.6 C.\n\nDay 46 in conditioning\n12-08-2021 09:24  19.8 C.\n12-08-2021 18:40  20.0 C.\n12-08-2021 22:42  20.0 C.\n\nDay 47 in conditioning\n13-08-2021 08:56  20.5 C.\n13-08-2021 18:45  20.8 C.\n13-08-2021 23:53  20.1 C.\n\nDay 48 in conditioning\n14-08-2021 09:27  20.2 C.\n14-08-2021 14:54  20.2 C.\n14-08-2021 21:59  20.4 C.\n\nDay 49 in conditioning\n15-08-2021 10:59  20.8 C.\n15-08-2021 17:39  20.9 C.\n15-08-2021 22:52  20.2 C.\n\nDay 50 in conditioning\n16-08-2021 09:02  20.4 C.\n16-08-2021 15:43  20.2 C.\n16-08-2021 23:56  20.0 C.\n\nDay 51 in conditioning\n17-08-2021 08:47  20.7 C.\n17-08-2021 11:48  20.5 C.\n17-08-2021 18:58  20.2 C.\n17-08-2021 23:41  20.2 C.\n\nDay 52 in conditioning\n18-08-2021 09:09  20.8 C.\n18-08-2021 17:37  20.6 C.\n18-08-2021 23:55  20.4 C.\n\nDay 53 in conditioning\n19-08-2021 08:38  20.2 C.\n19-08-2021 15:44  20.1 C.\n19-08-2021 23:49  20.0 C.\n\nDay 54 in conditioning\n20-08-2021 08:36  19.6 C.\n20-08-2021 14:35  19.5 C.\n20-08-2021 21:24  19.8 C.\n\nDay 55 in conditioning\n21-08-2021 09:58  19.7 C.\n21-08-2021 18:36  19.9 C.\n21-08-2021 23:41  20.0 C.\n\nDay 56 in conditioning\n22-08-2021 09:39  20.4 C.\n22-08-2021 16:33  20.5 C.\n22-08-2021 23:42  20.9 C.",
+  "primingSugarEquiv": 32.468018918353046,
+  "measuredBottlingTemp": 21
+}

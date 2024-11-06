@@ -1,4 +1,4 @@
-# Batch #12 - 48 AnOtter Apple Cider
+# Batch #12 - AnOtter Apple Cider
 
 ## Milestones
 
@@ -26,7 +26,9 @@ Archived.
 
 ![conditioning](conditioning.png)
 
-[Results](./Batch_12_48_AnOtter_Apple_Cider_results.pdf)
+![bottled pH](bottled_ph.png)
+
+[Results](./Batch_12_AnOtter_Apple_Cider_results.pdf)
 
 ## Evaluation
 
@@ -58,9 +60,9 @@ Archived.
 |-----|------------|-----|-------|-------|
 |     | 06-06-2021 |   0 |       | Brew day. |
 |     | 27-06-2021 |  21 |       | Bottling day. |
-|   1 | 04-09-2021 |  90 |  2.50 | Served at 11 C. Cloudy. Opened with a small puff. Light carbonation. Still very green, needs more time to mellow out ... if it will. |
+|   1 | 04-09-2021 |  90 |  2.5  | Served at 11 C. Cloudy. Opened with a small puff. Light carbonation. Still very green, needs more time to mellow out ... if it will. |
 |   2 | 04-06-2022 | 363 |  2.75 | Served at 12 C. Cloudy. Opened with a small puff. Light carbonation. Dry, tart, apple flavour. Hazy. |
-|   3 |            |     |       |  |
+|   3 | 01-06-2024 |1091 |  3.0  | Served at 10.8 C. Cloudy. Opened with a small puff. Light carbonation. Dry, tart, apple flavour. Hazy. |
 |   4 |            |     |       |  |
 |   5 |            |     |       |  |
 |   6 |            |     |       |  |
