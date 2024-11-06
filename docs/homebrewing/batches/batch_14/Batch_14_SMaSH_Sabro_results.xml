@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <RECIPES>
     <RECIPE>
-        <NAME>&#48;&#57;&#32;SMaSH&#32;Sabro</NAME>
+        <NAME>SMaSH&#32;Sabro</NAME>
         <VERSION>1</VERSION>
         <TYPE>All&#32;Grain</TYPE>
         <NOTES>Malt&#32;is&#32;ordered&#32;with&#32;standard&#32;crush&#32;&#64;&#32;The&#32;Malt&#32;Miller&#32;&#40;https&#58;&#47;&#47;www&#46;themaltmiller&#46;co&#46;uk&#47;&#41;&#46;</NOTES>
@@ -31,10 +31,10 @@
         <FG>1.013</FG>
         <ABV>6.56 %</ABV>
         <EST_ABV>6.56 %</EST_ABV>
-        <IBU>69.3</IBU>
+        <IBU>62.9</IBU>
         <EST_OG>1.063 SG</EST_OG>
         <EST_FG>1.013 SG</EST_FG>
-        <EST_COLOR>4.9 SRM</EST_COLOR>
+        <EST_COLOR>4.7 SRM</EST_COLOR>
         <CARBONATION>2.6</CARBONATION>
         <HOPS>
             <HOP>
@@ -241,6 +241,8 @@
                 <PRODUCT_ID/>
                 <DISPLAY_AMOUNT>0.7 pkg</DISPLAY_AMOUNT>
                 <ATTENUATION>78</ATTENUATION>
+                <MIN_TEMPERATURE>15</MIN_TEMPERATURE>
+                <MAX_TEMPERATURE>22</MAX_TEMPERATURE>
             </YEAST>
         </YEASTS>
         <MASH>

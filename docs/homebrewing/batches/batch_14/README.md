@@ -1,4 +1,4 @@
-# Batch #14 - 09 SMaSH Sabro
+# Batch #14 - SMaSH Sabro
 
 ## Milestones
 
@@ -30,7 +30,7 @@ Archived.
 
 ![bottled pH](bottled_ph.png)
 
-[Results](./Batch_14_09_SMaSH_Sabro_results.pdf)
+[Results](./Batch_14_SMaSH_Sabro_results.pdf)
 
 ## Evaluation
 
