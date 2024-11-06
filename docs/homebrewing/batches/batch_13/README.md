@@ -1,4 +1,4 @@
-# Batch #13 - 49 AnOtter Perry Cider
+# Batch #13 - AnOtter Perry Cider
 
 ## Milestones
 
@@ -26,7 +26,7 @@ Archived.
 
 ![conditioning](conditioning.png)
 
-[Results](./Batch_13_49_AnOtter_Perry_Cider_results.pdf)
+[Results](./Batch_13_AnOtter_Perry_Cider_results.pdf)
 
 ## Evaluation
 

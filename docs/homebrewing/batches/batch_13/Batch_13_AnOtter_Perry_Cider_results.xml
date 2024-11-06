@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <RECIPES>
     <RECIPE>
-        <NAME>&#52;&#57;&#32;AnOtter&#32;Perry&#32;Cider</NAME>
+        <NAME>AnOtter&#32;Perry&#32;Cider</NAME>
         <VERSION>1</VERSION>
         <TYPE>Extract</TYPE>
         <NOTES>Pitch&#32;&#50;&#46;&#50;&#53;&#32;grams&#32;of&#32;yeast&#46;&#10;Add&#32;&#48;&#46;&#49;&#50;&#53;&#32;g&#47;L&#32;yeast&#32;nutrient&#32;before&#32;pitching&#32;yeast&#46;&#10;Add&#32;&#48;&#46;&#49;&#50;&#53;&#32;g&#47;L&#32;yeast&#32;nutrient&#32;between&#32;&#49;&#47;&#51;&#32;and&#32;&#49;&#47;&#50;&#32;of&#32;fermentation&#46;</NOTES>
@@ -34,7 +34,7 @@
         <IBU>0</IBU>
         <EST_OG>1.048 SG</EST_OG>
         <EST_FG>1.011 SG</EST_FG>
-        <EST_COLOR>4 SRM</EST_COLOR>
+        <EST_COLOR>6 SRM</EST_COLOR>
         <CARBONATION>2.4</CARBONATION>
         <FERMENTABLES>
             <FERMENTABLE>
@@ -113,6 +113,8 @@
                 <PRODUCT_ID>M&#48;&#50;</PRODUCT_ID>
                 <DISPLAY_AMOUNT>0.25 pkg</DISPLAY_AMOUNT>
                 <ATTENUATION>74</ATTENUATION>
+                <MIN_TEMPERATURE>12.2</MIN_TEMPERATURE>
+                <MAX_TEMPERATURE>27.8</MAX_TEMPERATURE>
             </YEAST>
         </YEASTS>
         <MASH>
