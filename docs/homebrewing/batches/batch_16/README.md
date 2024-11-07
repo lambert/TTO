@@ -1,4 +1,4 @@
-# Batch #16 - 75 Shameless Magpied Summer Ale 
+# Batch #16 - Shameless Magpied Summer Ale 
 
 ## Milestones
 
@@ -28,7 +28,7 @@ Archived.
 
 ![bottled pH](bottled_ph.png)
 
-[Results](./Batch_16_75_Shameless_Magpied_Summer_Ale_results.pdf)
+[Results](./Batch_16_Shameless_Magpied_Summer_Ale_results.pdf)
 
 ## Evaluation
 
