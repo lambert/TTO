@@ -1,4 +1,4 @@
-# Batch #18 - 61 Three Hops Blonde v3
+# Batch #18 - Three Hops Blonde v3
 
 ## Milestones
 
@@ -22,7 +22,7 @@
 
 ![conditioning](conditioning.png)
 
-[Results](./Batch_18_61_Three_Hops_Blonde_v3_results.pdf)
+[Results](./Batch_18_Three_Hops_Blonde_v3_results.pdf)
 
 ### Evaluation
 
