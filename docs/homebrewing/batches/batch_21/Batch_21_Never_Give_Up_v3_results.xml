@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <RECIPES>
     <RECIPE>
-        <NAME>&#51;&#50;&#32;Never&#32;Give&#32;Up&#33;&#32;v&#51;</NAME>
+        <NAME>Never&#32;Give&#32;Up&#33;&#32;v&#51;</NAME>
         <VERSION>1</VERSION>
         <TYPE>All&#32;Grain</TYPE>
         <NOTES/>
@@ -31,10 +31,10 @@
         <FG>1.007</FG>
         <ABV>8.66 %</ABV>
         <EST_ABV>8.66 %</EST_ABV>
-        <IBU>28.1</IBU>
+        <IBU>26.1</IBU>
         <EST_OG>1.073 SG</EST_OG>
         <EST_FG>1.007 SG</EST_FG>
-        <EST_COLOR>3.4 SRM</EST_COLOR>
+        <EST_COLOR>3.5 SRM</EST_COLOR>
         <CARBONATION>2.8</CARBONATION>
         <HOPS>
             <HOP>
