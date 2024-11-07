@@ -1,4 +1,4 @@
-# Batch #17 - 61 Three Hops Blonde v2
+# Batch #17 - Three Hops Blonde v2
 
 ## Milestones
 
@@ -24,7 +24,7 @@
 
 ![bottled pH](bottled_ph.png)
 
-[Results](./Batch_17_61_Three_Hops_Blonde_v2_results.pdf)
+[Results](./Batch_17_Three_Hops_Blonde_v2_results.pdf)
 
 ## Evaluation
 
