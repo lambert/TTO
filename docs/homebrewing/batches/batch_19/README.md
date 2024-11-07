@@ -1,4 +1,4 @@
-# Batch #19 - 32 Never Give Up!
+# Batch #19 - Never Give Up!
 
 ## Milestones
 
@@ -24,7 +24,7 @@ Archived.
 
 ![conditioning](conditioning.png)
 
-[Results](./Batch_19_32_Never_Give_Up_results.pdf)
+[Results](./Batch_19_Never_Give_Up_results.pdf)
 
 ### Evaluation
 
