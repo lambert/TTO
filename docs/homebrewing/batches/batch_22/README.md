@@ -1,4 +1,4 @@
-# Batch #22 - 74 Wet Hops Blonde (Bramling-X)
+# Batch #22 - Wet Hops Blonde (Bramling-X)
 
 ## Milestones
 
@@ -24,7 +24,7 @@ Archived.
 
 ![conditioning](conditioning.png)
 
-[Results](./Batch_22_74_Wet_Hops_Blonde_Ale_Bramling-X_results.pdf)
+[Results](./Batch_22_Wet_Hops_Blonde_Ale_Bramling-X_results.pdf)
 
 ### Evaluation
 
