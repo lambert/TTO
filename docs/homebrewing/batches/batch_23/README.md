@@ -1,4 +1,4 @@
-# Batch #23 - 74 Wet Hops Blonde (Willamette)
+# Batch #23 - Wet Hops Blonde (Willamette)
 
 ## Milestones
 
@@ -26,7 +26,7 @@ Archived.
 
 ![conditioning](conditioning.png)
 
-[Results](./Batch_23_results.pdf)
+[Results](./Batch_23_Wet_Hops_Blonde_Ale_Willamette_results.pdf)
 
 ### Evaluation
 
