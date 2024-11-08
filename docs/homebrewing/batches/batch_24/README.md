@@ -1,4 +1,4 @@
-# Batch #24 - 77 Five Pints of Best Fuggles
+# Batch #24 - Five Pints of Best Fuggles
 
 ## Milestones
 
@@ -26,7 +26,7 @@ Archived.
 
 ![conditioning](conditioning.png)
 
-[Results](./Batch_24_results.pdf)
+[Results](./Batch_24_Five_Pints_of_Best_Fuggles_results.pdf)
 
 ### Evaluation
 
