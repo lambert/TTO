@@ -1,4 +1,4 @@
-# Batch #32 - A2 AnOtter Bodged Bitter v3
+# Batch #32 - AnOtter Bodged Bitter v3
 
 ## Milestones
 
@@ -24,7 +24,9 @@ Archived.
 
 ![conditioning](conditioning.png)
 
-[Results](./Batch__results.pdf)
+![bottled pH](bottled_ph.png)
+
+[Results](./Batch_32_AnOtter_Bodged_Bitter_v3_results.pdf)
 
 ### Evaluation
 

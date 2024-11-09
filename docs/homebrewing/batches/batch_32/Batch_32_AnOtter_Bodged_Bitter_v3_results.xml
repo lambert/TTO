@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <RECIPES>
     <RECIPE>
-        <NAME>A&#50;&#32;AnOtter&#32;Bodged&#32;Bitter&#32;v&#51;</NAME>
+        <NAME>AnOtter&#32;Bodged&#32;Bitter&#32;v&#51;</NAME>
         <VERSION>1</VERSION>
         <TYPE>All&#32;Grain</TYPE>
         <NOTES>Target&#58;&#32;ABV&#32;&#61;&#32;&#52;&#46;&#50;&#32;&#37;&#44;&#32;IBU&#32;&#61;&#32;&#50;&#56;&#44;&#32;EBC&#32;&#61;&#32;&#55;&#44;&#32;OG&#32;&#61;&#32;&#49;&#46;&#48;&#51;&#54;&#44;&#32;FG&#32;&#61;&#32;&#49;&#46;&#48;&#48;&#52;&#46;</NOTES>
@@ -31,10 +31,10 @@
         <FG>1.007</FG>
         <ABV>3.94 %</ABV>
         <EST_ABV>3.94 %</EST_ABV>
-        <IBU>28.8</IBU>
+        <IBU>27</IBU>
         <EST_OG>1.037 SG</EST_OG>
         <EST_FG>1.007 SG</EST_FG>
-        <EST_COLOR>6.6 SRM</EST_COLOR>
+        <EST_COLOR>6.5 SRM</EST_COLOR>
         <CARBONATION>1.8</CARBONATION>
         <HOPS>
             <HOP>
@@ -254,17 +254,6 @@
                 <AMOUNT_IS_WEIGHT>false</AMOUNT_IS_WEIGHT>
             </MISC>
             <MISC>
-                <BF_ID>WcBLlhBgubJTyK4j3OZBF98iUJDowg</BF_ID>
-                <NAME>Brewferm&#32;Carbonation&#32;Drops&#32;&#40;&#51;&#51;&#32;cl&#41;</NAME>
-                <VERSION>1</VERSION>
-                <TYPE>Other</TYPE>
-                <USE>Bottling</USE>
-                <TIME>0</TIME>
-                <AMOUNT>2</AMOUNT>
-                <DISPLAY_AMOUNT>2 items</DISPLAY_AMOUNT>
-                <AMOUNT_IS_WEIGHT>false</AMOUNT_IS_WEIGHT>
-            </MISC>
-            <MISC>
                 <BF_ID>fRRzD78PwIvONO2uB1kWwLiu6j5g5y</BF_ID>
                 <NAME>&#51;&#51;&#32;cl&#32;Steinie&#32;bottle&#32;&#40;&#50;&#54;&#32;mm&#32;cap&#41;</NAME>
                 <VERSION>1</VERSION>
@@ -278,6 +267,17 @@
             <MISC>
                 <BF_ID>5c5g3xmI7j9XEBpqXFv3zYV96KZC42</BF_ID>
                 <NAME>Bottle&#32;Caps&#32;&#50;&#54;&#32;mm&#32;&#40;Orange&#41;</NAME>
+                <VERSION>1</VERSION>
+                <TYPE>Other</TYPE>
+                <USE>Bottling</USE>
+                <TIME>0</TIME>
+                <AMOUNT>2</AMOUNT>
+                <DISPLAY_AMOUNT>2 items</DISPLAY_AMOUNT>
+                <AMOUNT_IS_WEIGHT>false</AMOUNT_IS_WEIGHT>
+            </MISC>
+            <MISC>
+                <BF_ID>WcBLlhBgubJTyK4j3OZBF98iUJDowg</BF_ID>
+                <NAME>Brewferm&#32;Carbonation&#32;Drops&#32;&#40;&#51;&#51;&#32;cl&#41;</NAME>
                 <VERSION>1</VERSION>
                 <TYPE>Other</TYPE>
                 <USE>Bottling</USE>
