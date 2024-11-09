@@ -1,4 +1,4 @@
-# Batch #30 - A2 AnOtter Bodged Bitter
+# Batch #30 - AnOtter Bodged Bitter
 
 ## Milestones
 
@@ -24,7 +24,9 @@ Archived.
 
 ![conditioning](conditioning.png)
 
-[Results](./Batch__results.pdf)
+![bottled pH](bottled_ph.png)
+
+[Results](./Batch_30_AnOtter Bodged Bitter_results.pdf)
 
 ### Evaluation
 
@@ -59,7 +61,7 @@ Archived.
 |   1 | 02-03-2023 |  11 |       | 11th Home Brewing UK Competition entry. |
 |   2 | 02-03-2023 |  11 |       | 11th Home Brewing UK Competition entry. |
 |   3 | 11-03-2023 |  20 | 2.50  | Served @ 17.4 C. Dry, malty, hoppy, berries. Low carbonation. |
-|   4 |            |     |       |  |
-|   5 |            |     |       |  |
+|   4 | 05-07-2024 | 502 | 3.00  | Served @ 17.4 C. Dry, malty, hoppy, berries. Good foamy lasting head. Low carbonation. |
+|   5 | 03-08-2024 | 531 | 0     | Gusher. |
 |   6 |            |     |       |  |
 |   7 |            |     |       |  |
