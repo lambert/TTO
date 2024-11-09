@@ -1,14 +1,14 @@
-# Batch #29 - 83 Two Pints and a Packet of Hops (Godiva and East Kent Goldings)
+# Batch #29 - Two Pints and a Packet of Hops (Godiva and East Kent Goldings)
 
 ## Milestones
 
 15-01-2023 10:20 Start brewing.
 
-Start fermentation.
+16-01-2023 Start fermentation.
 
-Start conditioning.
+29-01-2023 Start conditioning.
 
-Completed conditioning.
+12-03-2023 Completed conditioning.
 
 Archived.
 
@@ -24,7 +24,7 @@ Archived.
 
 ![conditioning](conditioning.png)
 
-[Results](./Batch__results.pdf)
+[Results](./Batch_29_Two_Pints_and_a_Packet_of_Hops_Godiva_and_East_Kent_Goldings_results.pdf)
 
 ### Evaluation
 
