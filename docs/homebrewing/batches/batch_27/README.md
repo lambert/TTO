@@ -1,4 +1,4 @@
-# Batch #27 - 03 SMaSH Godiva v2
+# Batch #27 - SMaSH Godiva v2
 
 ## Milestones
 
@@ -6,9 +6,9 @@
 
 16-01-2023 13:25 Start fermentation.
 
-Start conditioning.
+30-01-2023 Start conditioning.
 
-Completed conditioning.
+13-03-2023 Completed conditioning.
 
 Archived.
 
@@ -24,7 +24,7 @@ Archived.
 
 ![conditioning](conditioning.png)
 
-[Results](./Batch_27_results.pdf)
+[Results](./Batch_27_SMaSH_Godiva_v2_results.pdf)
 
 ### Evaluation
 
