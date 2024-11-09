@@ -1,4 +1,4 @@
-# Batch #34 - 73 Two Pints and a Packet of Hops (Fuggle and Progress) v2
+# Batch #34 - Two Pints and a Packet of Hops (Fuggle and Progress) v2
 
 ## Milestones
 
@@ -26,7 +26,7 @@ Archived.
 
 ![bottled pH](bottled_ph.png)
 
-[Results](./Batch__results.pdf)
+[Results](./Batch_34_Two_Pints_and_a_Packet_of_Hops_Fuggle_and_Progress_v2_results.pdf)
 
 ### Evaluation
 
