@@ -1,4 +1,4 @@
-# Batch #31 - A2 AnOtter Bodged Bitter v2
+# Batch #31 - AnOtter Bodged Bitter v2
 
 ## Milestones
 
@@ -24,7 +24,9 @@ Archived.
 
 ![conditioning](conditioning.png)
 
-[Results](./Batch__results.pdf)
+![bottled pH](bottled_ph.png)
+
+[Results](./Batch_31_AnOtter_Bodged_Bitter_v2_results.pdf)
 
 ### Evaluation
 
@@ -57,4 +59,4 @@ Archived.
 |     | 05-02-2023 |     |       | Brew day. |
 |     | 19-02-2023 |   0 |       | Bottling day. |
 |   1 | 08-06-2023 | 109 | 3.0   | Served @ 13.4 C. Clear, foamy head, good lacing, hints of berries, malty, moderate mouthfeel. |
-|   2 |            |     |       |  |
+|   2 | 19-07-2024 | 516 | 3.0   | Served @ 16.5 C. Clear, small foamy head, poor lacing, sweet, malty, bitter, hoppy, moderate mouthfeel. |
