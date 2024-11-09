@@ -1,4 +1,4 @@
-# Batch #33 - 04 SMaSH Fuggle v2
+# Batch #33 - SMaSH Fuggle v2
 
 ## Milestones
 
@@ -26,7 +26,7 @@ Archived.
 
 ![bottled pH](bottled_ph.png)
 
-[Results](./Batch__results.pdf)
+[Results](./Batch_33_SMaSH_Fuggle_v2_results.pdf)
 
 ### Evaluation
 
