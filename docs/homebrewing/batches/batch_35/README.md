@@ -1,4 +1,4 @@
-# Batch #35 - 68 Two Pints and a Packet of Hops (Fuggle and East Kent Goldings) v2
+# Batch #35 - Two Pints and a Packet of Hops (Fuggle and East Kent Goldings) v2
 
 ## Milestones
 
@@ -26,7 +26,7 @@ Archived.
 
 ![bottled pH](bottled_ph.png)
 
-[Results](./Batch__results.pdf)
+[Results](./Batch_35_Two_Pints_and_a_Packet_of Hops _Fuggle_and_East_Kent_Goldings_v2_results.pdf)
 
 ### Evaluation
 

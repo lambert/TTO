@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <RECIPES>
     <RECIPE>
-        <NAME>&#54;&#56;&#32;Two&#32;Pints&#32;and&#32;a&#32;Packet&#32;of&#32;Hops&#32;&#40;Fuggle&#32;and&#32;East&#32;Kent&#32;Goldings&#41;&#32;v&#50;</NAME>
+        <NAME>Two&#32;Pints&#32;and&#32;a&#32;Packet&#32;of&#32;Hops&#32;&#40;Fuggle&#32;and&#32;East&#32;Kent&#32;Goldings&#41;&#32;v&#50;</NAME>
         <VERSION>1</VERSION>
         <TYPE>All&#32;Grain</TYPE>
         <NOTES>Pitch&#32;&#51;&#32;grams&#32;of&#32;yeast&#46;&#10;v&#50;&#58;&#32;&#32;skipped&#32;the&#32;&#51;&#48;&#32;minute&#32;addition&#44;&#32;increased&#32;late&#32;hop&#32;and&#32;aroma&#32;&#32;gifts&#32;to&#32;&#49;&#50;&#32;grams&#32;and&#32;added&#32;a&#32;&#49;&#50;&#32;grams&#32;dry&#32;hopping&#32;gift&#46;</NOTES>
@@ -31,10 +31,10 @@
         <FG>1.009</FG>
         <ABV>4.2 %</ABV>
         <EST_ABV>4.2 %</EST_ABV>
-        <IBU>28.2</IBU>
+        <IBU>25.6</IBU>
         <EST_OG>1.041 SG</EST_OG>
         <EST_FG>1.009 SG</EST_FG>
-        <EST_COLOR>4 SRM</EST_COLOR>
+        <EST_COLOR>3.8 SRM</EST_COLOR>
         <CARBONATION>2.4</CARBONATION>
         <HOPS>
             <HOP>
