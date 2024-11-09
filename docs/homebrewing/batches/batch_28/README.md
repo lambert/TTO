@@ -1,4 +1,4 @@
-# Batch #28 - 69 Two Pints and a Packet of Hops (Godiva and Progress)
+# Batch #28 - Two Pints and a Packet of Hops (Godiva and Progress)
 
 ## Milestones
 
@@ -26,7 +26,7 @@
 
 ![bottled pH](bottled_ph.png)
 
-[Results](./Batch__results.pdf)
+[Results](./Batch_28_Two_Pints_and_a_Packet_of_Hops_Godiva_and_Progress_results.pdf)
 
 ### Evaluation
 
