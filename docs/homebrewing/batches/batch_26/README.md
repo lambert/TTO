@@ -1,4 +1,4 @@
-# Batch #26 - 73 Two Pints and a Packet of Hops (Fuggle and Progress)
+# Batch #26 - Two Pints and a Packet of Hops (Fuggle and Progress)
 
 ## Milestones
 
@@ -24,7 +24,7 @@ Archived.
 
 ![conditioning](conditioning.png)
 
-[Results](./Batch_26_results.pdf)
+[Results](./Batch_26_Two_Pints_and_a_Packet_of_Hops_Fuggle_and_Progress_results.pdf)
 
 ### Evaluation
 
