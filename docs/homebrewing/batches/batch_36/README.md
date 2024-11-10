@@ -1,4 +1,4 @@
-# Batch #36 - 65 Juniper Ascending
+# Batch #36 - Juniper Ascending
 
 ## Milestones
 
@@ -30,7 +30,7 @@ Archived.
 
 ![bottled pH](bottled_ph.png)
 
-[Results](./Batch__results.pdf)
+[Results](./Batch_36_Juniper_Ascending_results.pdf)
 
 ### Evaluation
 
@@ -65,8 +65,8 @@ Archived.
 |     | 04-07-2023 |   0 |       | Bottling day. |
 |   1 | 29-07-2023 |  25 | 3.00  | Served @ 20.1 C. Cloudy, small foamy head, good lacing, malty, tart, Juniper flavor. |
 |   2 | 09-12-2023 | 158 | 3.00  | Served @ 19.6 C. Cloudy, small foamy head, good lacing, malty, tart, Juniper flavor. |
-|   3 |            |     |       |  |
-|   4 |            |     |       |  |
+|   3 | 26-05-2024 | 327 | 2.50  | Served @ 16.7 C. Hazy, no foam, tart, Juniper flavor. |
+|   4 | 06-07-2024 | 368 | 1.50  | Served @ 17.4 C. Clear, no foam, acidic, Juniper flavor. |
 |   5 |            |     |       |  |
 |   6 |            |     |       |  |
 |   7 |            |     |       |  |

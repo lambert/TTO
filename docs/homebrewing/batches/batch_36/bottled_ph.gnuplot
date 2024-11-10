@@ -18,6 +18,7 @@ set grid x
 set mxtics 5
 set xtics offset 0,-1.5 rotate by 90
 set autoscale x
+set xrange [0:]
 # plot the graph
 plot "bottled_ph.data" using 1:2 with linespoints notitle
 # set output back to default

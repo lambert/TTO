@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <RECIPES>
     <RECIPE>
-        <NAME>&#54;&#53;&#32;Juniper&#32;Ascending</NAME>
+        <NAME>Juniper&#32;Ascending</NAME>
         <VERSION>1</VERSION>
         <TYPE>All&#32;Grain</TYPE>
         <NOTES>This&#32;is&#32;a&#32;raw&#32;ale&#32;&#45;&#32;no&#32;boil&#46;&#10;Wort&#32;brought&#32;to&#32;&#56;&#50;&#32;&#186;C&#32;and&#32;held&#32;for&#32;&#49;&#53;&#32;minutes&#32;to&#32;pasteurize&#32;prior&#32;to&#32;cooling&#46;&#32;&#10;Beer&#32;is&#32;traditionally&#32;served&#32;with&#32;low&#32;carbonation&#32;&#40;residual&#32;CO&#50;&#32;from&#32;fermentation&#41;&#46;&#10;Original&#32;recipe&#32;at&#32;https&#58;&#47;&#47;escarpmentlabs&#46;com&#47;blogs&#47;resources&#47;traditional&#45;norwegian&#45;kornol&#45;recipe&#10;Remove&#32;any&#32;protein&#32;and&#32;juniper&#32;oil&#32;&#40;&#34;head&#32;ache&#34;&#41;&#32;from&#32;the&#32;wort&#32;before&#32;the&#32;break&#32;&#40;what&#32;break&#32;&#63;&#41;&#46;&#10;&#10;Add&#32;Frozen&#32;Juniper&#32;berries&#32;to&#32;the&#32;fermenter&#32;after&#32;&#50;&#32;days&#47;&#52;&#56;&#32;hours&#46;</NOTES>
@@ -34,7 +34,7 @@
         <IBU>6.6</IBU>
         <EST_OG>1.063 SG</EST_OG>
         <EST_FG>1.014 SG</EST_FG>
-        <EST_COLOR>7 SRM</EST_COLOR>
+        <EST_COLOR>6.3 SRM</EST_COLOR>
         <CARBONATION>1.8</CARBONATION>
         <HOPS>
             <HOP>
@@ -233,7 +233,7 @@
                 <VERSION>1</VERSION>
                 <TYPE>Other</TYPE>
                 <USE>Bottling</USE>
-                <TIME>1</TIME>
+                <TIME>0</TIME>
                 <AMOUNT>10</AMOUNT>
                 <DISPLAY_AMOUNT>10 items</DISPLAY_AMOUNT>
                 <AMOUNT_IS_WEIGHT>false</AMOUNT_IS_WEIGHT>
