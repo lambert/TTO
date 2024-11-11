@@ -1,4 +1,4 @@
-# Batch #38 - 65 Juniper Ascending v3
+# Batch #38 - Juniper Ascending v3
 
 ## Milestones
 
@@ -8,7 +8,7 @@
 
 04-07-2023 21:40 Start conditioning.
 
-Completed conditioning.
+18-07-2023 Completed conditioning.
 
 Archived.
 
@@ -30,7 +30,7 @@ Archived.
 
 ![bottled pH](bottled_ph.png)
 
-[Results](./Batch__results.pdf)
+[Results](./Batch_38_Juniper_Ascending_v3.pdf)
 
 ### Evaluation
 
