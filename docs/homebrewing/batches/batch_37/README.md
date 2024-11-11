@@ -1,4 +1,4 @@
-# Batch #37 - 65 Juniper Ascending v2
+# Batch #37 - Juniper Ascending v2
 
 ## Milestones
 
@@ -30,7 +30,7 @@ Archived.
 
 ![bottled pH](bottled_ph.png)
 
-[Results](./Batch__results.pdf)
+[Results](./Batch_37_65_Juniper_Ascending_v2.pdf)
 
 ### Evaluation
 
